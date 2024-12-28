@@ -1,0 +1,39 @@
+{
+"language_queries": [
+    {
+        "video_start_sec": 803.9,
+        "video_end_sec": 804.0,
+        "query": "In what location did I see white dustbin?"
+    },
+    {
+        "video_start_sec": 808.0,
+        "video_end_sec": 814.0,
+        "query": "where did I put carton?"
+    },
+    {
+        "video_start_sec": 840.0,
+        "video_end_sec": 847.0,
+        "query": "Where was vacuum cleaner before I used it for the first time?"
+    },
+    {
+        "video_start_sec": 1014.0,
+        "video_end_sec": 1023.067,
+        "query": "Who did I interact with when I played with the dog for the second time in the living room?"
+    },
+    {
+        "video_start_sec": 1055.0,
+        "video_end_sec": 1061.0,
+        "query": "what did I put in the black dustbin?"
+    },
+    {
+        "video_start_sec": 1074.067,
+        "video_end_sec": 1082.267,
+        "query": "Where did I put the vacuum cleaner head?"
+    },
+    {
+        "video_start_sec": 1095.0,
+        "video_end_sec": 1102.0,
+        "query": "who did I talk to in  the house?"
+    }
+]
+}
