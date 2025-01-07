@@ -1,0 +1,739 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 1621.1869426666667,
+            "timestamp_frame": 48636,
+            "_unmapped_timestamp_sec": 1621.18426,
+            "narration_text": "#o man y hits the all with the racket",
+            "annotation_uid": "3c686c7f-2ee2-40af-8363-606d972d5725"
+        },
+        {
+            "timestamp_sec": 1622.0387626666666,
+            "timestamp_frame": 48661,
+            "_unmapped_timestamp_sec": 1622.03608,
+            "narration_text": "#c c hits the ball with the racket",
+            "annotation_uid": "3c686c7f-2ee2-40af-8363-606d972d5725"
+        },
+        {
+            "timestamp_sec": 1624.5315126666665,
+            "timestamp_frame": 48736,
+            "_unmapped_timestamp_sec": 1624.52883,
+            "narration_text": "#o man y hits the all with the racket",
+            "annotation_uid": "3c686c7f-2ee2-40af-8363-606d972d5725"
+        },
+        {
+            "timestamp_sec": 1627.4619726666665,
+            "timestamp_frame": 48824,
+            "_unmapped_timestamp_sec": 1627.45929,
+            "narration_text": "#c c bounces the ball with the racket",
+            "annotation_uid": "3c686c7f-2ee2-40af-8363-606d972d5725"
+        },
+        {
+            "timestamp_sec": 1629.6461426666665,
+            "timestamp_frame": 48889,
+            "_unmapped_timestamp_sec": 1629.64346,
+            "narration_text": "#c c walks in the badminton court",
+            "annotation_uid": "3c686c7f-2ee2-40af-8363-606d972d5725"
+        },
+        {
+            "timestamp_sec": 1633.4090826666666,
+            "timestamp_frame": 49002,
+            "_unmapped_timestamp_sec": 1633.4064,
+            "narration_text": "#o man y hits the all with the racket",
+            "annotation_uid": "3c686c7f-2ee2-40af-8363-606d972d5725"
+        },
+        {
+            "timestamp_sec": 1634.6744026666665,
+            "timestamp_frame": 49040,
+            "_unmapped_timestamp_sec": 1634.67172,
+            "narration_text": "#c c hits the ball with the racket",
+            "annotation_uid": "3c686c7f-2ee2-40af-8363-606d972d5725"
+        },
+        {
+            "timestamp_sec": 1635.7643866666667,
+            "timestamp_frame": 49073,
+            "_unmapped_timestamp_sec": 1635.75772,
+            "narration_text": "#o man y hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1643.5557366666667,
+            "timestamp_frame": 49307,
+            "_unmapped_timestamp_sec": 1643.54907,
+            "narration_text": "#c c hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1644.3481766666666,
+            "timestamp_frame": 49330,
+            "_unmapped_timestamp_sec": 1644.34151,
+            "narration_text": "#c c picks the ball from the ground",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1646.4241866666666,
+            "timestamp_frame": 49393,
+            "_unmapped_timestamp_sec": 1646.41752,
+            "narration_text": "#c c walks in the badminton court",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1648.4332066666666,
+            "timestamp_frame": 49453,
+            "_unmapped_timestamp_sec": 1648.42654,
+            "narration_text": "#o man y hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1654.4890366666666,
+            "timestamp_frame": 49635,
+            "_unmapped_timestamp_sec": 1654.48237,
+            "narration_text": "#c c hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1658.7827266666666,
+            "timestamp_frame": 49763,
+            "_unmapped_timestamp_sec": 1658.77606,
+            "narration_text": "#c c raises the hand",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1665.1042466666668,
+            "timestamp_frame": 49953,
+            "_unmapped_timestamp_sec": 1665.09758,
+            "narration_text": "#c c looks around the badminton court",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1669.4080866666666,
+            "timestamp_frame": 50082,
+            "_unmapped_timestamp_sec": 1669.40142,
+            "narration_text": "#o man y hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1671.5203266666667,
+            "timestamp_frame": 50146,
+            "_unmapped_timestamp_sec": 1671.51366,
+            "narration_text": "#c c hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1673.5515166666667,
+            "timestamp_frame": 50207,
+            "_unmapped_timestamp_sec": 1673.54485,
+            "narration_text": "#c c walks in the badminton court",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1676.3029266666667,
+            "timestamp_frame": 50289,
+            "_unmapped_timestamp_sec": 1676.29626,
+            "narration_text": "#c c hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1677.9370866666666,
+            "timestamp_frame": 50338,
+            "_unmapped_timestamp_sec": 1677.93042,
+            "narration_text": "#c c looks around the badminton court",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1680.8144766666667,
+            "timestamp_frame": 50424,
+            "_unmapped_timestamp_sec": 1680.80781,
+            "narration_text": "#c c walks in the badminton court",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1684.7517666666668,
+            "timestamp_frame": 50543,
+            "_unmapped_timestamp_sec": 1684.7451,
+            "narration_text": "#c c looks around the badminton court",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1691.4392366666666,
+            "timestamp_frame": 50743,
+            "_unmapped_timestamp_sec": 1691.43257,
+            "narration_text": "#c c swings the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1704.4389366666667,
+            "timestamp_frame": 51133,
+            "_unmapped_timestamp_sec": 1704.43227,
+            "narration_text": "#o man y hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1706.7822666666666,
+            "timestamp_frame": 51203,
+            "_unmapped_timestamp_sec": 1706.7756,
+            "narration_text": "#c c hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1708.4323766666666,
+            "timestamp_frame": 51253,
+            "_unmapped_timestamp_sec": 1708.42571,
+            "narration_text": "#o man y hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1710.6812966666666,
+            "timestamp_frame": 51320,
+            "_unmapped_timestamp_sec": 1710.67463,
+            "narration_text": "#c c hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1712.5785466666666,
+            "timestamp_frame": 51377,
+            "_unmapped_timestamp_sec": 1712.57188,
+            "narration_text": "#o man y hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1714.0016866666667,
+            "timestamp_frame": 51420,
+            "_unmapped_timestamp_sec": 1713.99502,
+            "narration_text": "#c c hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1716.5457866666666,
+            "timestamp_frame": 51496,
+            "_unmapped_timestamp_sec": 1716.53912,
+            "narration_text": "#o man y hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1717.6023766666667,
+            "timestamp_frame": 51528,
+            "_unmapped_timestamp_sec": 1717.59571,
+            "narration_text": "#c c hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1718.6209766666666,
+            "timestamp_frame": 51559,
+            "_unmapped_timestamp_sec": 1718.61431,
+            "narration_text": "#c c catches the ball",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1725.8381366666667,
+            "timestamp_frame": 51775,
+            "_unmapped_timestamp_sec": 1725.83147,
+            "narration_text": "#o man y hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1731.8285366666667,
+            "timestamp_frame": 51955,
+            "_unmapped_timestamp_sec": 1731.82187,
+            "narration_text": "#c c hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1733.4436266666667,
+            "timestamp_frame": 52003,
+            "_unmapped_timestamp_sec": 1733.43696,
+            "narration_text": "#o man y hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1735.0780566666667,
+            "timestamp_frame": 52052,
+            "_unmapped_timestamp_sec": 1735.07139,
+            "narration_text": "#c c hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1737.0951966666667,
+            "timestamp_frame": 52113,
+            "_unmapped_timestamp_sec": 1737.08853,
+            "narration_text": "#o man y hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1739.8956566666666,
+            "timestamp_frame": 52197,
+            "_unmapped_timestamp_sec": 1739.88899,
+            "narration_text": "#c c walks in the badminton court",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1741.3403666666666,
+            "timestamp_frame": 52240,
+            "_unmapped_timestamp_sec": 1741.3337,
+            "narration_text": "#c c catches the ball",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1742.6057666666666,
+            "timestamp_frame": 52278,
+            "_unmapped_timestamp_sec": 1742.5991,
+            "narration_text": "#c c looks around the badminton court",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1744.6607166666668,
+            "timestamp_frame": 52340,
+            "_unmapped_timestamp_sec": 1744.65405,
+            "narration_text": "#c c hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1750.8690366666667,
+            "timestamp_frame": 52526,
+            "_unmapped_timestamp_sec": 1750.86237,
+            "narration_text": "#c c looks around the badminton court",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1754.6940666666667,
+            "timestamp_frame": 52641,
+            "_unmapped_timestamp_sec": 1754.6874,
+            "narration_text": "#o man y hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1756.5440166666667,
+            "timestamp_frame": 52696,
+            "_unmapped_timestamp_sec": 1756.53735,
+            "narration_text": "#c c hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1760.2171766666665,
+            "timestamp_frame": 52807,
+            "_unmapped_timestamp_sec": 1760.2105099999999,
+            "narration_text": "#o man y hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1763.9451166666668,
+            "timestamp_frame": 52918,
+            "_unmapped_timestamp_sec": 1763.93845,
+            "narration_text": "#c c hits the ball with the racket",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1765.1687766666666,
+            "timestamp_frame": 52955,
+            "_unmapped_timestamp_sec": 1765.16211,
+            "narration_text": "#c c looks around the badminton court",
+            "annotation_uid": "7299a9a7-ed43-4e5a-ab9e-626fbee8dae2"
+        },
+        {
+            "timestamp_sec": 1621.69644,
+            "timestamp_frame": 48651,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C walks around the field ",
+            "annotation_uid": "4e144019-fb2f-4232-96db-feda23d64281"
+        },
+        {
+            "timestamp_sec": 1622.31271,
+            "timestamp_frame": 48669,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C hits the ball ",
+            "annotation_uid": "4e144019-fb2f-4232-96db-feda23d64281"
+        },
+        {
+            "timestamp_sec": 1623.41599,
+            "timestamp_frame": 48702,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C moves around the tennis court ",
+            "annotation_uid": "4e144019-fb2f-4232-96db-feda23d64281"
+        },
+        {
+            "timestamp_sec": 1627.47138,
+            "timestamp_frame": 48824,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C bounces the ball ",
+            "annotation_uid": "4e144019-fb2f-4232-96db-feda23d64281"
+        },
+        {
+            "timestamp_sec": 1629.3241600000001,
+            "timestamp_frame": 48880,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C holds the ball with his left hand ",
+            "annotation_uid": "4e144019-fb2f-4232-96db-feda23d64281"
+        },
+        {
+            "timestamp_sec": 1631.50973,
+            "timestamp_frame": 48945,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C walks around the tennis field ",
+            "annotation_uid": "4e144019-fb2f-4232-96db-feda23d64281"
+        },
+        {
+            "timestamp_sec": 1634.27729,
+            "timestamp_frame": 49028,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C stretches the racket with both hands ",
+            "annotation_uid": "4e144019-fb2f-4232-96db-feda23d64281"
+        },
+        {
+            "timestamp_sec": 1634.82166,
+            "timestamp_frame": 49045,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C hits the ball with the racket ",
+            "annotation_uid": "4e144019-fb2f-4232-96db-feda23d64281"
+        },
+        {
+            "timestamp_sec": 1635.73002,
+            "timestamp_frame": 49072,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C lifts the left hand",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1636.73756,
+            "timestamp_frame": 49102,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1640.99595,
+            "timestamp_frame": 49230,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person A hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1642.68131,
+            "timestamp_frame": 49280,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1644.24912,
+            "timestamp_frame": 49327,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks a ball on the ground",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1645.17557,
+            "timestamp_frame": 49355,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C walks in the field",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1648.80152,
+            "timestamp_frame": 49464,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1651.7041,
+            "timestamp_frame": 49551,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person A hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1654.0556,
+            "timestamp_frame": 49622,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1656.14116,
+            "timestamp_frame": 49684,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C touches the face",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1657.3247,
+            "timestamp_frame": 49720,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C adjusts a camera",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1658.57981,
+            "timestamp_frame": 49757,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1665.14052,
+            "timestamp_frame": 49954,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1669.44286,
+            "timestamp_frame": 50083,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person A hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1671.52579,
+            "timestamp_frame": 50146,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1673.76601,
+            "timestamp_frame": 50213,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person A hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1676.0619,
+            "timestamp_frame": 50282,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1677.64593,
+            "timestamp_frame": 50329,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1678.90108,
+            "timestamp_frame": 50367,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C walks in the field",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1682.11587,
+            "timestamp_frame": 50463,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1688.1076,
+            "timestamp_frame": 50643,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C sways a racket in the hand",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1700.9697,
+            "timestamp_frame": 51029,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1704.93853,
+            "timestamp_frame": 51148,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person A hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1706.68756,
+            "timestamp_frame": 51201,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1708.76746,
+            "timestamp_frame": 51263,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person A hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1710.63072,
+            "timestamp_frame": 51319,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1712.6307,
+            "timestamp_frame": 51379,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person A hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1714.1028900000001,
+            "timestamp_frame": 51423,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1716.4276399999999,
+            "timestamp_frame": 51493,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person A hits a ball with a racket\n",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1717.46012,
+            "timestamp_frame": 51524,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1718.65965,
+            "timestamp_frame": 51560,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks a ball with the left hand",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1719.31527,
+            "timestamp_frame": 51579,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1724.96837,
+            "timestamp_frame": 51749,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person A sways hands in the air",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1729.99897,
+            "timestamp_frame": 51900,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person A hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1731.72581,
+            "timestamp_frame": 51952,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1733.53382,
+            "timestamp_frame": 52006,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person A hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1735.31939,
+            "timestamp_frame": 52060,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1737.65443,
+            "timestamp_frame": 52130,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C walks in the field",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1740.98485,
+            "timestamp_frame": 52230,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1741.51188,
+            "timestamp_frame": 52245,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks the ball with the left hand",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1742.19156,
+            "timestamp_frame": 52266,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C walks in the field",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1744.71921,
+            "timestamp_frame": 52342,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1745.893,
+            "timestamp_frame": 52377,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1746.5978,
+            "timestamp_frame": 52398,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C wipes the face with the hand",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1747.88366,
+            "timestamp_frame": 52437,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1754.06743,
+            "timestamp_frame": 52622,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person A hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1756.4111,
+            "timestamp_frame": 52692,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1760.31127,
+            "timestamp_frame": 52809,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person A hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1763.76679,
+            "timestamp_frame": 52913,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C hits a ball with a racket",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        },
+        {
+            "timestamp_sec": 1764.95849,
+            "timestamp_frame": 52949,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "f66ee007-0b3a-4f29-95cb-e57eacc9cadd"
+        }
+    ]
+}

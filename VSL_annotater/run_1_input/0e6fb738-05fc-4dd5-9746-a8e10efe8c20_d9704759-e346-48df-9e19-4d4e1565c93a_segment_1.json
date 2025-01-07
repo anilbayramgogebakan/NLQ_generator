@@ -1,0 +1,991 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 331.13355526666663,
+            "timestamp_frame": 9933,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C touches her face",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 332.35277526666664,
+            "timestamp_frame": 9970,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 333.93709526666663,
+            "timestamp_frame": 10017,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of cabbage in a tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 335.2427252666667,
+            "timestamp_frame": 10057,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 336.7254352666667,
+            "timestamp_frame": 10101,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of cabbage in a tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 338.0878552666667,
+            "timestamp_frame": 10142,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 339.73135526666664,
+            "timestamp_frame": 10191,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of cabbage in a tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 340.71056526666666,
+            "timestamp_frame": 10221,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 341.65520526666666,
+            "timestamp_frame": 10249,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of cabbage in a tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 343.4162752666667,
+            "timestamp_frame": 10302,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 344.67260526666666,
+            "timestamp_frame": 10340,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of cabbage in a tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 347.51526526666663,
+            "timestamp_frame": 10425,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices core of the cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 349.94104526666666,
+            "timestamp_frame": 10498,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of cabbage in a tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 352.02146526666667,
+            "timestamp_frame": 10560,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C stirs cabbage in the tray with her right hand",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 356.29570526666663,
+            "timestamp_frame": 10688,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks cabbage on the floor",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 359.2471652666666,
+            "timestamp_frame": 10777,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 363.4976152666666,
+            "timestamp_frame": 10904,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O man X walks to the other room while conversing with woman C",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 367.1373652666667,
+            "timestamp_frame": 11013,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 368.56696526666667,
+            "timestamp_frame": 11056,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of cabbage in a tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 371.23324526666664,
+            "timestamp_frame": 11136,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 372.28164526666666,
+            "timestamp_frame": 11168,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of cabbage in a tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 373.8688352666667,
+            "timestamp_frame": 11215,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 376.3861952666667,
+            "timestamp_frame": 11291,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of cabbage in a tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 379.39604526666665,
+            "timestamp_frame": 11381,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 379.9809552666667,
+            "timestamp_frame": 11399,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of cabbage in a tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 380.7773352666667,
+            "timestamp_frame": 11423,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O man X walks out the other room while conversing with woman C",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 383.3601652666667,
+            "timestamp_frame": 11500,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices cabbage on a grater stool while conversing with man X",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 385.95902526666663,
+            "timestamp_frame": 11578,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of cabbage in a tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 387.9614752666667,
+            "timestamp_frame": 11638,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 389.43926526666667,
+            "timestamp_frame": 11683,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of cabbage in a tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 390.78013526666666,
+            "timestamp_frame": 11723,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 393.24136526666666,
+            "timestamp_frame": 11797,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of cabbage in a tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 394.5324952666667,
+            "timestamp_frame": 11835,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 398.46603526666667,
+            "timestamp_frame": 11953,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of cabbage in a tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 399.62282526666667,
+            "timestamp_frame": 11988,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 404.76314526666664,
+            "timestamp_frame": 12142,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of cabbage in a tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 406.87901526666667,
+            "timestamp_frame": 12206,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 408.9339152666667,
+            "timestamp_frame": 12267,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of cabbage in a tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 412.2569552666667,
+            "timestamp_frame": 12367,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C stirs cabbage in the tray with her right hand",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 418.77633526666665,
+            "timestamp_frame": 12563,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks pieces of cabbage in the tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 421.50708526666665,
+            "timestamp_frame": 12645,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices pieces of cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 422.7037752666667,
+            "timestamp_frame": 12680,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of cabbage in a tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 423.85438526666667,
+            "timestamp_frame": 12715,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks pieces of cabbage in the tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 426.30269526666666,
+            "timestamp_frame": 12788,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices pieces of cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 427.4467152666667,
+            "timestamp_frame": 12823,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of cabbage in a tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 429.4198552666667,
+            "timestamp_frame": 12882,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks pieces of cabbage in the tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 430.6043352666666,
+            "timestamp_frame": 12917,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices pieces of cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 430.84122526666664,
+            "timestamp_frame": 12925,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of cabbage in a tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 432.39635526666666,
+            "timestamp_frame": 12971,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C stirs cabbage in the tray with her right hand while she mumbles ",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 433.4414852666667,
+            "timestamp_frame": 13003,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C pushes the tray while she mumbles ",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 434.9557552666667,
+            "timestamp_frame": 13048,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C collects leaves of cabbage on the floor",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 437.40336526666664,
+            "timestamp_frame": 13121,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C adds leaves of the cabbage together",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 438.86987526666667,
+            "timestamp_frame": 13165,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C cuts leaves",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 439.96022526666667,
+            "timestamp_frame": 13198,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts unwanted part of the leave on the floor",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 442.14750526666666,
+            "timestamp_frame": 13264,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices leaves of the cabbage",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 448.4107552666666,
+            "timestamp_frame": 13452,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of the cabbage in the tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 450.0787752666667,
+            "timestamp_frame": 13502,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices leaves of the cabbage while she mumbles",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 454.5196052666667,
+            "timestamp_frame": 13635,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C stretches' to a lid pot",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 455.41900526666666,
+            "timestamp_frame": 13662,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C lifts the lid",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 456.48429526666666,
+            "timestamp_frame": 13694,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts the lid back on the pot",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 458.98983526666666,
+            "timestamp_frame": 13769,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices leaves of the cabbage",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 459.5773852666667,
+            "timestamp_frame": 13787,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of the cabbage in the tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 461.09414526666666,
+            "timestamp_frame": 13832,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices leaves of the cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 463.4481552666667,
+            "timestamp_frame": 13903,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of the cabbage in the tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 465.11617526666663,
+            "timestamp_frame": 13953,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns and stretches' to a carry bug",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 466.73859526666666,
+            "timestamp_frame": 14002,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks cabbage on the floor",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 467.44605526666663,
+            "timestamp_frame": 14023,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts cabbage on the lid of the pot",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 468.20586526666665,
+            "timestamp_frame": 14046,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks leaf of a cabbage while she mumbles",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 470.2203752666666,
+            "timestamp_frame": 14106,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices leaf of the cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 472.89246526666665,
+            "timestamp_frame": 14186,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O man X convers with woman C",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 479.96209526666667,
+            "timestamp_frame": 14398,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices leaf of the cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 330.3718209546634,
+            "timestamp_frame": 9911,
+            "_unmapped_timestamp_sec": 330.39285,
+            "narration_text": "#C C lifts his hand",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 331.6597909546634,
+            "timestamp_frame": 9949,
+            "_unmapped_timestamp_sec": 331.68082,
+            "narration_text": "#C C holds the cabbage with both hands",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 334.0940009546634,
+            "timestamp_frame": 10022,
+            "_unmapped_timestamp_sec": 334.11503,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 333.0102009546634,
+            "timestamp_frame": 9990,
+            "_unmapped_timestamp_sec": 333.03123,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 334.7590209546634,
+            "timestamp_frame": 10042,
+            "_unmapped_timestamp_sec": 334.78005,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 336.6437009546634,
+            "timestamp_frame": 10099,
+            "_unmapped_timestamp_sec": 336.66473,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 337.6194809546634,
+            "timestamp_frame": 10128,
+            "_unmapped_timestamp_sec": 337.64051,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 339.8734909546634,
+            "timestamp_frame": 10196,
+            "_unmapped_timestamp_sec": 339.89452,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 340.5450309546634,
+            "timestamp_frame": 10216,
+            "_unmapped_timestamp_sec": 340.56606,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 341.75773095466343,
+            "timestamp_frame": 10252,
+            "_unmapped_timestamp_sec": 341.77876000000003,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 343.0008009546634,
+            "timestamp_frame": 10289,
+            "_unmapped_timestamp_sec": 343.02183,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 344.7181609546634,
+            "timestamp_frame": 10341,
+            "_unmapped_timestamp_sec": 344.73919,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 345.6531909546634,
+            "timestamp_frame": 10369,
+            "_unmapped_timestamp_sec": 345.67422,
+            "narration_text": "#C C holds the cabbage with both hands",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 347.1262309546634,
+            "timestamp_frame": 10413,
+            "_unmapped_timestamp_sec": 347.14726,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 349.9665609546634,
+            "timestamp_frame": 10498,
+            "_unmapped_timestamp_sec": 349.98759,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 350.5150609546634,
+            "timestamp_frame": 10515,
+            "_unmapped_timestamp_sec": 350.53609,
+            "narration_text": "#C C spreads the cabbage",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 356.1868509546634,
+            "timestamp_frame": 10685,
+            "_unmapped_timestamp_sec": 356.20788,
+            "narration_text": "#C C picks a piece of cabbage",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 357.1405509546634,
+            "timestamp_frame": 10714,
+            "_unmapped_timestamp_sec": 357.16158,
+            "narration_text": "#C C holds the cabbage with both hands",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 359.1070109546634,
+            "timestamp_frame": 10773,
+            "_unmapped_timestamp_sec": 359.12804,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 363.62600095466337,
+            "timestamp_frame": 10908,
+            "_unmapped_timestamp_sec": 363.64703,
+            "narration_text": "#O A aman Y walks around the room",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 366.4132009546634,
+            "timestamp_frame": 10992,
+            "_unmapped_timestamp_sec": 366.43423,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 368.5378109546634,
+            "timestamp_frame": 11056,
+            "_unmapped_timestamp_sec": 368.55884000000003,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 369.5592809546634,
+            "timestamp_frame": 11086,
+            "_unmapped_timestamp_sec": 369.58031,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 372.2930009546634,
+            "timestamp_frame": 11168,
+            "_unmapped_timestamp_sec": 372.31403,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 373.1294209546634,
+            "timestamp_frame": 11193,
+            "_unmapped_timestamp_sec": 373.15045,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 376.43616095466336,
+            "timestamp_frame": 11292,
+            "_unmapped_timestamp_sec": 376.45718999999997,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 378.2666209546634,
+            "timestamp_frame": 11347,
+            "_unmapped_timestamp_sec": 378.28765,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 379.84205095466336,
+            "timestamp_frame": 11395,
+            "_unmapped_timestamp_sec": 379.86307999999997,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 381.1547609546634,
+            "timestamp_frame": 11434,
+            "_unmapped_timestamp_sec": 381.17579,
+            "narration_text": "#O A aman Y walks around the room",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 382.6071609546634,
+            "timestamp_frame": 11478,
+            "_unmapped_timestamp_sec": 382.62819,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 386.15392095466336,
+            "timestamp_frame": 11584,
+            "_unmapped_timestamp_sec": 386.17494999999997,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 386.9650209546634,
+            "timestamp_frame": 11608,
+            "_unmapped_timestamp_sec": 386.98605,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 389.5012609546634,
+            "timestamp_frame": 11684,
+            "_unmapped_timestamp_sec": 389.52229,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 390.2850209546634,
+            "timestamp_frame": 11708,
+            "_unmapped_timestamp_sec": 390.30605,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 393.2313209546634,
+            "timestamp_frame": 11796,
+            "_unmapped_timestamp_sec": 393.25235,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 394.1524709546634,
+            "timestamp_frame": 11824,
+            "_unmapped_timestamp_sec": 394.1735,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 398.4133009546634,
+            "timestamp_frame": 11952,
+            "_unmapped_timestamp_sec": 398.43433,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 399.2239809546634,
+            "timestamp_frame": 11976,
+            "_unmapped_timestamp_sec": 399.24501,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 405.0422709546634,
+            "timestamp_frame": 12151,
+            "_unmapped_timestamp_sec": 405.0633,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 405.9738709546634,
+            "timestamp_frame": 12179,
+            "_unmapped_timestamp_sec": 405.99490000000003,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 409.2105309546634,
+            "timestamp_frame": 12276,
+            "_unmapped_timestamp_sec": 409.23156,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 410.0717309546634,
+            "timestamp_frame": 12302,
+            "_unmapped_timestamp_sec": 410.09276,
+            "narration_text": "#C C spreads the cabbage",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 418.5994409546634,
+            "timestamp_frame": 12557,
+            "_unmapped_timestamp_sec": 418.62047,
+            "narration_text": "#C C picks cabbage",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 421.1918309546634,
+            "timestamp_frame": 12635,
+            "_unmapped_timestamp_sec": 421.21286,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 422.6366709546634,
+            "timestamp_frame": 12678,
+            "_unmapped_timestamp_sec": 422.6577,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 423.94613095466343,
+            "timestamp_frame": 12718,
+            "_unmapped_timestamp_sec": 423.96716000000004,
+            "narration_text": "#C C picks cabbage",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 425.5950109546634,
+            "timestamp_frame": 12767,
+            "_unmapped_timestamp_sec": 425.61604,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 427.7011309546634,
+            "timestamp_frame": 12830,
+            "_unmapped_timestamp_sec": 427.72216000000003,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 429.3771809546634,
+            "timestamp_frame": 12881,
+            "_unmapped_timestamp_sec": 429.39821,
+            "narration_text": "\n#C C picks cabbage",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 430.3883909546634,
+            "timestamp_frame": 12911,
+            "_unmapped_timestamp_sec": 430.40942,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 432.1607309546634,
+            "timestamp_frame": 12964,
+            "_unmapped_timestamp_sec": 432.18176,
+            "narration_text": "#C C spreads the cabbage",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 433.6700609546634,
+            "timestamp_frame": 13009,
+            "_unmapped_timestamp_sec": 433.69109000000003,
+            "narration_text": "#C C pushes the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 435.0775909546634,
+            "timestamp_frame": 13052,
+            "_unmapped_timestamp_sec": 435.09862,
+            "narration_text": "#C C picks cabbage",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 438.7608509546634,
+            "timestamp_frame": 13162,
+            "_unmapped_timestamp_sec": 438.78188,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 439.9967509546634,
+            "timestamp_frame": 13199,
+            "_unmapped_timestamp_sec": 440.01778,
+            "narration_text": "#C C puts the cabbage on the floor",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 442.1493209546634,
+            "timestamp_frame": 13264,
+            "_unmapped_timestamp_sec": 442.17035,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 448.5332709546634,
+            "timestamp_frame": 13455,
+            "_unmapped_timestamp_sec": 448.5543,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 449.8516809546634,
+            "timestamp_frame": 13495,
+            "_unmapped_timestamp_sec": 449.87271,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 455.4358409546634,
+            "timestamp_frame": 13662,
+            "_unmapped_timestamp_sec": 455.45687,
+            "narration_text": "#C C picks a lid",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 456.5516109546634,
+            "timestamp_frame": 13696,
+            "_unmapped_timestamp_sec": 456.57264,
+            "narration_text": "#C C puts the lid on the sufuria",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 458.08804095466337,
+            "timestamp_frame": 13742,
+            "_unmapped_timestamp_sec": 458.10907,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 459.7334209546634,
+            "timestamp_frame": 13791,
+            "_unmapped_timestamp_sec": 459.75445,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 461.1688009546634,
+            "timestamp_frame": 13834,
+            "_unmapped_timestamp_sec": 461.18983000000003,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 463.6510609546634,
+            "timestamp_frame": 13909,
+            "_unmapped_timestamp_sec": 463.67209,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 466.2387309546634,
+            "timestamp_frame": 13987,
+            "_unmapped_timestamp_sec": 466.25976,
+            "narration_text": "#C C picks cabbage",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 467.38525095466343,
+            "timestamp_frame": 14021,
+            "_unmapped_timestamp_sec": 467.40628000000004,
+            "narration_text": "#C C puts the cabbage on the lid",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 468.3100609546634,
+            "timestamp_frame": 14049,
+            "_unmapped_timestamp_sec": 468.33109,
+            "narration_text": "#C C picks cabbage leave",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 470.43145095466343,
+            "timestamp_frame": 14112,
+            "_unmapped_timestamp_sec": 470.45248000000004,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 474.7369409546634,
+            "timestamp_frame": 14241,
+            "_unmapped_timestamp_sec": 474.75797,
+            "narration_text": "#O A aman Y holds his hand together",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 479.7252409546634,
+            "timestamp_frame": 14391,
+            "_unmapped_timestamp_sec": 479.74627,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        }
+    ]
+}

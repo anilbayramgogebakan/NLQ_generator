@@ -1,0 +1,690 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 2311.24321,
+            "timestamp_frame": 69337,
+            "_unmapped_timestamp_sec": 2311.24321,
+            "narration_text": "#C C picks up the bag.",
+            "annotation_uid": "33ac0595-f742-4f87-953d-ae2fdc2eeb9d"
+        },
+        {
+            "timestamp_sec": 2313.4211,
+            "timestamp_frame": 69403,
+            "_unmapped_timestamp_sec": 2313.4211,
+            "narration_text": "#C C looks around the supermarket.",
+            "annotation_uid": "33ac0595-f742-4f87-953d-ae2fdc2eeb9d"
+        },
+        {
+            "timestamp_sec": 2315.04477,
+            "timestamp_frame": 69451,
+            "_unmapped_timestamp_sec": 2315.04477,
+            "narration_text": "#C C picks up the food from the trolley.",
+            "annotation_uid": "33ac0595-f742-4f87-953d-ae2fdc2eeb9d"
+        },
+        {
+            "timestamp_sec": 2319.02794,
+            "timestamp_frame": 69571,
+            "_unmapped_timestamp_sec": 2319.02794,
+            "narration_text": "#C C puts the papers on the table.",
+            "annotation_uid": "33ac0595-f742-4f87-953d-ae2fdc2eeb9d"
+        },
+        {
+            "timestamp_sec": 2321.79693,
+            "timestamp_frame": 69654,
+            "_unmapped_timestamp_sec": 2321.79693,
+            "narration_text": "#O cashier X puts the fruits in the paper. ",
+            "annotation_uid": "33ac0595-f742-4f87-953d-ae2fdc2eeb9d"
+        },
+        {
+            "timestamp_sec": 2349.80006,
+            "timestamp_frame": 70494,
+            "_unmapped_timestamp_sec": 2349.80006,
+            "narration_text": "#O cashier X picks the avocados ",
+            "annotation_uid": "33ac0595-f742-4f87-953d-ae2fdc2eeb9d"
+        },
+        {
+            "timestamp_sec": 2350.91237,
+            "timestamp_frame": 70527,
+            "_unmapped_timestamp_sec": 2350.91237,
+            "narration_text": "#C C looks at the trolley.",
+            "annotation_uid": "33ac0595-f742-4f87-953d-ae2fdc2eeb9d"
+        },
+        {
+            "timestamp_sec": 2355.78547,
+            "timestamp_frame": 70674,
+            "_unmapped_timestamp_sec": 2355.78547,
+            "narration_text": "#C C picks up the paper ",
+            "annotation_uid": "33ac0595-f742-4f87-953d-ae2fdc2eeb9d"
+        },
+        {
+            "timestamp_sec": 2362.45792,
+            "timestamp_frame": 70874,
+            "_unmapped_timestamp_sec": 2362.45792,
+            "narration_text": "#C C pays for the food.",
+            "annotation_uid": "33ac0595-f742-4f87-953d-ae2fdc2eeb9d"
+        },
+        {
+            "timestamp_sec": 2370.95666,
+            "timestamp_frame": 71129,
+            "_unmapped_timestamp_sec": 2370.95666,
+            "narration_text": "#O cashier X closes the papers.",
+            "annotation_uid": "33ac0595-f742-4f87-953d-ae2fdc2eeb9d"
+        },
+        {
+            "timestamp_sec": 2374.42306,
+            "timestamp_frame": 71233,
+            "_unmapped_timestamp_sec": 2374.42306,
+            "narration_text": "#C C picks up the papers from the table ",
+            "annotation_uid": "33ac0595-f742-4f87-953d-ae2fdc2eeb9d"
+        },
+        {
+            "timestamp_sec": 2377.63198,
+            "timestamp_frame": 71329,
+            "_unmapped_timestamp_sec": 2377.63198,
+            "narration_text": "#C C puts the food in the trolley.",
+            "annotation_uid": "33ac0595-f742-4f87-953d-ae2fdc2eeb9d"
+        },
+        {
+            "timestamp_sec": 2382.59652,
+            "timestamp_frame": 71478,
+            "_unmapped_timestamp_sec": 2382.59652,
+            "narration_text": "#C C picks up the paper from the table.",
+            "annotation_uid": "33ac0595-f742-4f87-953d-ae2fdc2eeb9d"
+        },
+        {
+            "timestamp_sec": 2388.95713,
+            "timestamp_frame": 71669,
+            "_unmapped_timestamp_sec": 2388.95713,
+            "narration_text": "#C C packs the papers together.",
+            "annotation_uid": "33ac0595-f742-4f87-953d-ae2fdc2eeb9d"
+        },
+        {
+            "timestamp_sec": 2392.04542,
+            "timestamp_frame": 71761,
+            "_unmapped_timestamp_sec": 2392.04542,
+            "narration_text": "#C C picks up the paper on the table.",
+            "annotation_uid": "33ac0595-f742-4f87-953d-ae2fdc2eeb9d"
+        },
+        {
+            "timestamp_sec": 2394.46089,
+            "timestamp_frame": 71834,
+            "_unmapped_timestamp_sec": 2394.46089,
+            "narration_text": "#C C puts the paper in the other.",
+            "annotation_uid": "33ac0595-f742-4f87-953d-ae2fdc2eeb9d"
+        },
+        {
+            "timestamp_sec": 2403.37328,
+            "timestamp_frame": 72101,
+            "_unmapped_timestamp_sec": 2403.37328,
+            "narration_text": "#C C puts the paper in the other.",
+            "annotation_uid": "33ac0595-f742-4f87-953d-ae2fdc2eeb9d"
+        },
+        {
+            "timestamp_sec": 2406.80378,
+            "timestamp_frame": 72204,
+            "_unmapped_timestamp_sec": 2406.80378,
+            "narration_text": "#C C puts the papers in the trolley.",
+            "annotation_uid": "33ac0595-f742-4f87-953d-ae2fdc2eeb9d"
+        },
+        {
+            "timestamp_sec": 2411.24352,
+            "timestamp_frame": 72337,
+            "_unmapped_timestamp_sec": 2411.24352,
+            "narration_text": "#C C looks at cashier X.",
+            "annotation_uid": "33ac0595-f742-4f87-953d-ae2fdc2eeb9d"
+        },
+        {
+            "timestamp_sec": 2413.25115,
+            "timestamp_frame": 72398,
+            "_unmapped_timestamp_sec": 2413.25115,
+            "narration_text": "#C C picks up the paper from cashier X.",
+            "annotation_uid": "33ac0595-f742-4f87-953d-ae2fdc2eeb9d"
+        },
+        {
+            "timestamp_sec": 2416.23557,
+            "timestamp_frame": 72487,
+            "_unmapped_timestamp_sec": 2416.23557,
+            "narration_text": "#C C pushes the trolley around the supermarket.",
+            "annotation_uid": "33ac0595-f742-4f87-953d-ae2fdc2eeb9d"
+        },
+        {
+            "timestamp_sec": 2433.7143,
+            "timestamp_frame": 73011,
+            "_unmapped_timestamp_sec": 2433.7143,
+            "narration_text": "#C C arranges the trolley.",
+            "annotation_uid": "33ac0595-f742-4f87-953d-ae2fdc2eeb9d"
+        },
+        {
+            "timestamp_sec": 2436.54627,
+            "timestamp_frame": 73096,
+            "_unmapped_timestamp_sec": 2436.54627,
+            "narration_text": "#C C pushes the trolley around the supermarket.",
+            "annotation_uid": "33ac0595-f742-4f87-953d-ae2fdc2eeb9d"
+        },
+        {
+            "timestamp_sec": 2310.59852,
+            "timestamp_frame": 69318,
+            "_unmapped_timestamp_sec": 2310.59852,
+            "narration_text": "#O A man X picks the bag from a counter table",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2311.49432,
+            "timestamp_frame": 69345,
+            "_unmapped_timestamp_sec": 2311.49432,
+            "narration_text": "#O A man X places the bag on a counter table",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2312.06929,
+            "timestamp_frame": 69362,
+            "_unmapped_timestamp_sec": 2312.06929,
+            "narration_text": "#O A man X looks into a bag",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2313.03797,
+            "timestamp_frame": 69391,
+            "_unmapped_timestamp_sec": 2313.03797,
+            "narration_text": "#C C turns to the trolley",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2316.20371,
+            "timestamp_frame": 69486,
+            "_unmapped_timestamp_sec": 2316.20371,
+            "narration_text": "#C C picks plastic bags from the trolley",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2317.05162,
+            "timestamp_frame": 69512,
+            "_unmapped_timestamp_sec": 2317.05162,
+            "narration_text": "#C C turns to the counter table",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2319.74768,
+            "timestamp_frame": 69592,
+            "_unmapped_timestamp_sec": 2319.74768,
+            "narration_text": "#C C places a plastic bag on the counter table",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2320.48479,
+            "timestamp_frame": 69615,
+            "_unmapped_timestamp_sec": 2320.48479,
+            "narration_text": "#C C places another plastic bag on a counter table",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2321.77459,
+            "timestamp_frame": 69653,
+            "_unmapped_timestamp_sec": 2321.77459,
+            "narration_text": "#O A man X removes oranges from a bag",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2325.03899,
+            "timestamp_frame": 69751,
+            "_unmapped_timestamp_sec": 2325.03899,
+            "narration_text": "#O A man X places the oranges on a weighing machine",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2327.62275,
+            "timestamp_frame": 69829,
+            "_unmapped_timestamp_sec": 2327.62275,
+            "narration_text": "#O A man X removes oranges from a bag",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2329.42719,
+            "timestamp_frame": 69883,
+            "_unmapped_timestamp_sec": 2329.42719,
+            "narration_text": "#O A man X places the oranges on a weighing machine",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2334.49937,
+            "timestamp_frame": 70035,
+            "_unmapped_timestamp_sec": 2334.49937,
+            "narration_text": "#O A man X drops a plastic bag of oranges in the bag",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2335.53495,
+            "timestamp_frame": 70066,
+            "_unmapped_timestamp_sec": 2335.53495,
+            "narration_text": "#O A man X lifts a plastic bag of cucumbers from the counter table",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2336.10216,
+            "timestamp_frame": 70083,
+            "_unmapped_timestamp_sec": 2336.10216,
+            "narration_text": "#O A man X drops the plastic bag of cucumbers in a bag",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2337.88721,
+            "timestamp_frame": 70137,
+            "_unmapped_timestamp_sec": 2337.88721,
+            "narration_text": "#O A man X picks the apples from a counter table",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2340.1106,
+            "timestamp_frame": 70203,
+            "_unmapped_timestamp_sec": 2340.1106,
+            "narration_text": "#O A man X places the apples in a bag",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2341.15923,
+            "timestamp_frame": 70235,
+            "_unmapped_timestamp_sec": 2341.15923,
+            "narration_text": "#C C gestures at X",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2343.57808,
+            "timestamp_frame": 70307,
+            "_unmapped_timestamp_sec": 2343.57808,
+            "narration_text": "#O A man X picks oranges from the weighing machine",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2344.59504,
+            "timestamp_frame": 70338,
+            "_unmapped_timestamp_sec": 2344.59504,
+            "narration_text": "#O A man X places the oranges in a bag",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2346.70816,
+            "timestamp_frame": 70401,
+            "_unmapped_timestamp_sec": 2346.70816,
+            "narration_text": "#O A man X picks an orange from the weighing machine",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2347.33058,
+            "timestamp_frame": 70420,
+            "_unmapped_timestamp_sec": 2347.33058,
+            "narration_text": "#O A man X places the orange in a bag",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2346.70816,
+            "timestamp_frame": 70401,
+            "_unmapped_timestamp_sec": 2346.70816,
+            "narration_text": "#C C picks  oranges from the weighing machine",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2347.80669,
+            "timestamp_frame": 70434,
+            "_unmapped_timestamp_sec": 2347.80669,
+            "narration_text": "#C C drops the oranges in a bag",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2348.81796,
+            "timestamp_frame": 70465,
+            "_unmapped_timestamp_sec": 2348.81796,
+            "narration_text": "#O A man places the avocados on a weighing machine",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2348.6426,
+            "timestamp_frame": 70459,
+            "_unmapped_timestamp_sec": 2348.6426,
+            "narration_text": "#O A man X picks an avocado from the counter table",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2350.0840200000002,
+            "timestamp_frame": 70503,
+            "_unmapped_timestamp_sec": 2350.0840200000002,
+            "narration_text": "#O A man X operates the weighing machine",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2351.91851,
+            "timestamp_frame": 70558,
+            "_unmapped_timestamp_sec": 2351.91851,
+            "narration_text": "#C C picks a plastic bag of vegetables from a trolley",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2353.37263,
+            "timestamp_frame": 70601,
+            "_unmapped_timestamp_sec": 2353.37263,
+            "narration_text": "#C C turns to the counter",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2353.92186,
+            "timestamp_frame": 70618,
+            "_unmapped_timestamp_sec": 2353.92186,
+            "narration_text": "#O A man X places the avocados in a bag",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2355.42131,
+            "timestamp_frame": 70663,
+            "_unmapped_timestamp_sec": 2355.42131,
+            "narration_text": "#C C passes the plastic bag of vegetables to X",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2356.62158,
+            "timestamp_frame": 70699,
+            "_unmapped_timestamp_sec": 2356.62158,
+            "narration_text": "#O A man X moves a plastic bag on a counter table",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2358.25397,
+            "timestamp_frame": 70748,
+            "_unmapped_timestamp_sec": 2358.25397,
+            "narration_text": "#O A man X turns the plastic bag of vegetables",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2359.93509,
+            "timestamp_frame": 70798,
+            "_unmapped_timestamp_sec": 2359.93509,
+            "narration_text": "#O A man X operates the weighing machine",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2364.6624,
+            "timestamp_frame": 70940,
+            "_unmapped_timestamp_sec": 2364.6624,
+            "narration_text": "#O A man X looks at the bag of vegetables",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2365.98288,
+            "timestamp_frame": 70979,
+            "_unmapped_timestamp_sec": 2365.98288,
+            "narration_text": "#C C holds a plastic bag on the counter table",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2369.79299,
+            "timestamp_frame": 71094,
+            "_unmapped_timestamp_sec": 2369.79299,
+            "narration_text": "#O A man X folds the plastic bag of vegetables",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2372.88276,
+            "timestamp_frame": 71186,
+            "_unmapped_timestamp_sec": 2372.88276,
+            "narration_text": "#C C picks the avocados from a bag",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2373.25884,
+            "timestamp_frame": 71198,
+            "_unmapped_timestamp_sec": 2373.25884,
+            "narration_text": "#O A man X picks a plastic bag of white onions from the counter table",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2374.37223,
+            "timestamp_frame": 71231,
+            "_unmapped_timestamp_sec": 2374.37223,
+            "narration_text": "#O A man X folds the plastic bag of white onions",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2375.37132,
+            "timestamp_frame": 71261,
+            "_unmapped_timestamp_sec": 2375.37132,
+            "narration_text": "#O A man X places the plastic bag of white onions on a weighing machine",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2376.87994,
+            "timestamp_frame": 71306,
+            "_unmapped_timestamp_sec": 2376.87994,
+            "narration_text": "#C C lifts the plastic bag of vegetables from a counter table",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2378.44724,
+            "timestamp_frame": 71353,
+            "_unmapped_timestamp_sec": 2378.44724,
+            "narration_text": "#C C places the plastic bag of vegetables in a trolley",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2380.02421,
+            "timestamp_frame": 71401,
+            "_unmapped_timestamp_sec": 2380.02421,
+            "narration_text": "#C C arranges the eggs in a trolley",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2381.46337,
+            "timestamp_frame": 71444,
+            "_unmapped_timestamp_sec": 2381.46337,
+            "narration_text": "#O A man X holds a plastic bag of tomatoes",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2382.22709,
+            "timestamp_frame": 71467,
+            "_unmapped_timestamp_sec": 2382.22709,
+            "narration_text": "#C C places the plastic bag of tomatoes on a weighing machine",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2383.26894,
+            "timestamp_frame": 71498,
+            "_unmapped_timestamp_sec": 2383.26894,
+            "narration_text": "#C C lifts a plastic bag from the counter",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2384.23999,
+            "timestamp_frame": 71527,
+            "_unmapped_timestamp_sec": 2384.23999,
+            "narration_text": "#C C places the plastic bag in a bag",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2387.7647699999998,
+            "timestamp_frame": 71633,
+            "_unmapped_timestamp_sec": 2387.7647699999998,
+            "narration_text": "#O A man X looks at the weighing machine",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2389.60459,
+            "timestamp_frame": 71688,
+            "_unmapped_timestamp_sec": 2389.60459,
+            "narration_text": "#C C lifts a plastic bag from the counter table",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2390.52438,
+            "timestamp_frame": 71716,
+            "_unmapped_timestamp_sec": 2390.52438,
+            "narration_text": "#O A man X lifts the plastic bag of tomatoes from a weighing machine",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2391.54083,
+            "timestamp_frame": 71746,
+            "_unmapped_timestamp_sec": 2391.54083,
+            "narration_text": "#O A man X places the plastic of tomatoes on a counter top",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2392.2125,
+            "timestamp_frame": 71766,
+            "_unmapped_timestamp_sec": 2392.2125,
+            "narration_text": "#O A man X lifts a plastic bag of broccoli from the counter table",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2392.8042100000002,
+            "timestamp_frame": 71784,
+            "_unmapped_timestamp_sec": 2392.8042100000002,
+            "narration_text": "#C C lifts the plastic bag of tomatoes from a counter table",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2394.01077,
+            "timestamp_frame": 71820,
+            "_unmapped_timestamp_sec": 2394.01077,
+            "narration_text": "#C C places the plastic bag of tomatoes in a bag",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2400.91192,
+            "timestamp_frame": 72027,
+            "_unmapped_timestamp_sec": 2400.91192,
+            "narration_text": "#O A man X places the plastic of broccoli on a counter table",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2403.27451,
+            "timestamp_frame": 72098,
+            "_unmapped_timestamp_sec": 2403.27451,
+            "narration_text": "#C C places the plastic bag of broccoli in a bag",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2405.75566,
+            "timestamp_frame": 72173,
+            "_unmapped_timestamp_sec": 2405.75566,
+            "narration_text": "#C C turns to the trolley",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2409.21528,
+            "timestamp_frame": 72276,
+            "_unmapped_timestamp_sec": 2409.21528,
+            "narration_text": "#C C places the bag in a trolley",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2410.09529,
+            "timestamp_frame": 72303,
+            "_unmapped_timestamp_sec": 2410.09529,
+            "narration_text": "#C C turns to counter",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2411.94949,
+            "timestamp_frame": 72358,
+            "_unmapped_timestamp_sec": 2411.94949,
+            "narration_text": "#O A man X holds a  receipt",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2412.72516,
+            "timestamp_frame": 72382,
+            "_unmapped_timestamp_sec": 2412.72516,
+            "narration_text": "#O A man X passes a receipt to C",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2414.24561,
+            "timestamp_frame": 72427,
+            "_unmapped_timestamp_sec": 2414.24561,
+            "narration_text": "#C C turns to the trolley",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2415.2866400000003,
+            "timestamp_frame": 72459,
+            "_unmapped_timestamp_sec": 2415.28664,
+            "narration_text": "#C C pushes the trolley to the left",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2418.3448,
+            "timestamp_frame": 72550,
+            "_unmapped_timestamp_sec": 2418.3448,
+            "narration_text": "#C C pushes the trolley forward",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2423.24685,
+            "timestamp_frame": 72697,
+            "_unmapped_timestamp_sec": 2423.24685,
+            "narration_text": "#C C turns to the right",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2424.19028,
+            "timestamp_frame": 72726,
+            "_unmapped_timestamp_sec": 2424.19028,
+            "narration_text": "#C C pushes the trolley forward",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2430.82957,
+            "timestamp_frame": 72925,
+            "_unmapped_timestamp_sec": 2430.82957,
+            "narration_text": "#C C lifts the plastic bag of vegetables from a trolley",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2432.66157,
+            "timestamp_frame": 72980,
+            "_unmapped_timestamp_sec": 2432.66157,
+            "narration_text": "#C C lifts a plastic bag of broccoli from the trolley",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2434.03552,
+            "timestamp_frame": 73021,
+            "_unmapped_timestamp_sec": 2434.03552,
+            "narration_text": "#C C places the plastic bag of vegetables in a trolley",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2436.5094,
+            "timestamp_frame": 73095,
+            "_unmapped_timestamp_sec": 2436.5094,
+            "narration_text": "#C C pushes the trolley forward",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2437.46149,
+            "timestamp_frame": 73124,
+            "_unmapped_timestamp_sec": 2437.46149,
+            "narration_text": "#C C turns to the left",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2439.62102,
+            "timestamp_frame": 73189,
+            "_unmapped_timestamp_sec": 2439.62102,
+            "narration_text": "#C C turns to the right",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2442.61268,
+            "timestamp_frame": 73278,
+            "_unmapped_timestamp_sec": 2442.61268,
+            "narration_text": "#C C pushes the trolley forward",
+            "annotation_uid": "781cdd31-1ce8-48e2-816f-aa4334953e2d"
+        },
+        {
+            "timestamp_sec": 2455.60863,
+            "timestamp_frame": 73668,
+            "_unmapped_timestamp_sec": 2455.60863,
+            "narration_text": "#C is moving around.",
+            "annotation_uid": "03a4b625-daf5-4269-9433-d0fced5935f2"
+        }
+    ]
+}

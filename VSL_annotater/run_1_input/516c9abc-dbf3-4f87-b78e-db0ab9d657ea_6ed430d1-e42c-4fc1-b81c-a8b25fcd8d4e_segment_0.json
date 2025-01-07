@@ -1,0 +1,879 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 812.7602676213301,
+            "timestamp_frame": 24382,
+            "_unmapped_timestamp_sec": 812.78463,
+            "narration_text": "#C C picks a plate from the dishwasher with her right hand. ",
+            "annotation_uid": "2dc5d52c-9cf7-4d8c-aee5-4d2cfb863b53"
+        },
+        {
+            "timestamp_sec": 817.60735762133,
+            "timestamp_frame": 24528,
+            "_unmapped_timestamp_sec": 817.63172,
+            "narration_text": "#C C drops the plate in her right hand inside the cupboard. ",
+            "annotation_uid": "2dc5d52c-9cf7-4d8c-aee5-4d2cfb863b53"
+        },
+        {
+            "timestamp_sec": 820.3560576213301,
+            "timestamp_frame": 24610,
+            "_unmapped_timestamp_sec": 820.38042,
+            "narration_text": "#C C drops a plate in her right hand inside the cupboard. ",
+            "annotation_uid": "2dc5d52c-9cf7-4d8c-aee5-4d2cfb863b53"
+        },
+        {
+            "timestamp_sec": 821.8412976213301,
+            "timestamp_frame": 24655,
+            "_unmapped_timestamp_sec": 821.8656599999999,
+            "narration_text": "#C C holds a plate with both hands. ",
+            "annotation_uid": "2dc5d52c-9cf7-4d8c-aee5-4d2cfb863b53"
+        },
+        {
+            "timestamp_sec": 823.75263762133,
+            "timestamp_frame": 24712,
+            "_unmapped_timestamp_sec": 823.777,
+            "narration_text": "#C C drops the plate inside the cupboard with her right hand. ",
+            "annotation_uid": "2dc5d52c-9cf7-4d8c-aee5-4d2cfb863b53"
+        },
+        {
+            "timestamp_sec": 832.4954976213301,
+            "timestamp_frame": 24974,
+            "_unmapped_timestamp_sec": 832.51986,
+            "narration_text": "#C C picks plates from the dishwasher with her left hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 834.2909276213301,
+            "timestamp_frame": 25028,
+            "_unmapped_timestamp_sec": 834.31529,
+            "narration_text": "#C C passes the plates from her left hand to her right hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 836.27604762133,
+            "timestamp_frame": 25088,
+            "_unmapped_timestamp_sec": 836.30041,
+            "narration_text": "#C C picks a plate from the dishwasher with her left hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 837.4378976213301,
+            "timestamp_frame": 25123,
+            "_unmapped_timestamp_sec": 837.46226,
+            "narration_text": "#C C passes the plate from her left hand to her right hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 839.77197762133,
+            "timestamp_frame": 25193,
+            "_unmapped_timestamp_sec": 839.79634,
+            "narration_text": "#C C picks a plate from the dishwasher with her left hand. \n",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 841.2909476213301,
+            "timestamp_frame": 25238,
+            "_unmapped_timestamp_sec": 841.31531,
+            "narration_text": "#C C passes the plate from her left hand to her right hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 843.7135876213301,
+            "timestamp_frame": 25311,
+            "_unmapped_timestamp_sec": 843.73795,
+            "narration_text": "#C C holds the plates with both hands. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 847.5285376213301,
+            "timestamp_frame": 25425,
+            "_unmapped_timestamp_sec": 847.5529,
+            "narration_text": "#C C drops the plates in the cupboard with both hands. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 854.7233376213301,
+            "timestamp_frame": 25641,
+            "_unmapped_timestamp_sec": 854.7477,
+            "narration_text": "#C C picks plates from the dishwasher with her left hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 856.82106762133,
+            "timestamp_frame": 25704,
+            "_unmapped_timestamp_sec": 856.84543,
+            "narration_text": "#C C picks plastics from the dishwasher with her right hand. \n",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 861.0793976213301,
+            "timestamp_frame": 25832,
+            "_unmapped_timestamp_sec": 861.10376,
+            "narration_text": "#C C drops the plate in the cupboard with her left hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 863.30921762133,
+            "timestamp_frame": 25899,
+            "_unmapped_timestamp_sec": 863.33358,
+            "narration_text": "#C C drops the plastics in the cupboard with her right hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 869.25004762133,
+            "timestamp_frame": 26077,
+            "_unmapped_timestamp_sec": 869.27441,
+            "narration_text": "#C C picks a tray from the dishwasher with her left hand. \n",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 871.71087762133,
+            "timestamp_frame": 26151,
+            "_unmapped_timestamp_sec": 871.73524,
+            "narration_text": "#C C drops the tray on the kitchen counter with her right hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 875.8660276213301,
+            "timestamp_frame": 26275,
+            "_unmapped_timestamp_sec": 875.89039,
+            "narration_text": "#C C picks a plate from the dishwasher with her left hand. \n",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 876.7275576213301,
+            "timestamp_frame": 26301,
+            "_unmapped_timestamp_sec": 876.75192,
+            "narration_text": "#C C picks a plate from the dishwasher with her right hand. \n",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 877.78675762133,
+            "timestamp_frame": 26333,
+            "_unmapped_timestamp_sec": 877.81112,
+            "narration_text": "#C C passes the plate from her right hand to her left hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 878.7618876213301,
+            "timestamp_frame": 26362,
+            "_unmapped_timestamp_sec": 878.78625,
+            "narration_text": "#C C picks a plate from the dishwasher with her right hand. \n",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 883.87880762133,
+            "timestamp_frame": 26516,
+            "_unmapped_timestamp_sec": 883.90317,
+            "narration_text": "#C C drops the plate in the cupboard with her right hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 885.86159762133,
+            "timestamp_frame": 26575,
+            "_unmapped_timestamp_sec": 885.88596,
+            "narration_text": "#C C drops the plates in the cupboard with both hands. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 885.20220762133,
+            "timestamp_frame": 26555,
+            "_unmapped_timestamp_sec": 885.22657,
+            "narration_text": "#C C holds the plate with both hands. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 893.6131576213301,
+            "timestamp_frame": 26808,
+            "_unmapped_timestamp_sec": 893.63752,
+            "narration_text": "#C C picks spoon rack from the dishwasher with her left hand. \n",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 898.34556762133,
+            "timestamp_frame": 26950,
+            "_unmapped_timestamp_sec": 898.36993,
+            "narration_text": "#C C drops the spoon rack on the kitchen counter with her left hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 899.00099762133,
+            "timestamp_frame": 26969,
+            "_unmapped_timestamp_sec": 899.02536,
+            "narration_text": "#C C picks up spoons from the spoon rack on the kitchen counter with her right hand.",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 900.2549276213301,
+            "timestamp_frame": 27007,
+            "_unmapped_timestamp_sec": 900.27929,
+            "narration_text": "#C C picks up a spatula from the spoon rack with her left hand.",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 901.2929976213301,
+            "timestamp_frame": 27038,
+            "_unmapped_timestamp_sec": 901.31736,
+            "narration_text": "#C C holds the spoons and the spatula with both hands. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 903.4964876213301,
+            "timestamp_frame": 27104,
+            "_unmapped_timestamp_sec": 903.52085,
+            "narration_text": "#C C drops the spatula in a metal rack with her right hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 906.2129576213301,
+            "timestamp_frame": 27186,
+            "_unmapped_timestamp_sec": 906.23732,
+            "narration_text": "#C C drops the spoons in a blue rack with her right hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 909.8357176213301,
+            "timestamp_frame": 27294,
+            "_unmapped_timestamp_sec": 909.86008,
+            "narration_text": "#C C picks up chopsticks from the spoon rack with her right hand.",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 910.74198762133,
+            "timestamp_frame": 27322,
+            "_unmapped_timestamp_sec": 910.76635,
+            "narration_text": "#C C passes the chopsticks from her right hand to her left hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 911.3360476213301,
+            "timestamp_frame": 27339,
+            "_unmapped_timestamp_sec": 911.36041,
+            "narration_text": "#C C picks up chopsticks from the spoon rack with her right hand.",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 911.94678762133,
+            "timestamp_frame": 27358,
+            "_unmapped_timestamp_sec": 911.97115,
+            "narration_text": "#C C holds the chopsticks with both hands. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 913.17498762133,
+            "timestamp_frame": 27395,
+            "_unmapped_timestamp_sec": 913.19935,
+            "narration_text": "#C C drops the chopsticks into a purple rack with her right hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 915.0178676213301,
+            "timestamp_frame": 27450,
+            "_unmapped_timestamp_sec": 915.04223,
+            "narration_text": "#C C picks up chopsticks from the spoon rack with her left hand.",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 915.0178676213301,
+            "timestamp_frame": 27450,
+            "_unmapped_timestamp_sec": 915.04223,
+            "narration_text": "#C C picks up chopsticks from the spoon rack with her right hand.",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 917.49185762133,
+            "timestamp_frame": 27524,
+            "_unmapped_timestamp_sec": 917.51622,
+            "narration_text": "#C C drops the chopsticks into the purple rack with her left hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 917.49185762133,
+            "timestamp_frame": 27524,
+            "_unmapped_timestamp_sec": 917.51622,
+            "narration_text": "#C C drops the chopsticks into a purple rack with her right hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 919.2014276213301,
+            "timestamp_frame": 27575,
+            "_unmapped_timestamp_sec": 919.22579,
+            "narration_text": "#C C picks up a spoon from the spoon rack with her right hand.",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 920.2006376213301,
+            "timestamp_frame": 27605,
+            "_unmapped_timestamp_sec": 920.225,
+            "narration_text": "#C C drops the spoon into a green rack with her right hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 921.61289762133,
+            "timestamp_frame": 27648,
+            "_unmapped_timestamp_sec": 921.63726,
+            "narration_text": "#C C picks up a spoon from the spoon rack with her right hand.",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 921.8446376213301,
+            "timestamp_frame": 27655,
+            "_unmapped_timestamp_sec": 921.869,
+            "narration_text": "#C C picks up a spoon from the spoon rack with her left hand.",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 922.50443762133,
+            "timestamp_frame": 27675,
+            "_unmapped_timestamp_sec": 922.5288,
+            "narration_text": "#C C drops the spoon into the green rack with her right hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 922.50443762133,
+            "timestamp_frame": 27675,
+            "_unmapped_timestamp_sec": 922.5288,
+            "narration_text": "#C C drops the spoon into the green rack with her left hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 923.4748176213301,
+            "timestamp_frame": 27704,
+            "_unmapped_timestamp_sec": 923.49918,
+            "narration_text": "#C C picks up spoons from the spoon rack with her right hand.",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 924.50623762133,
+            "timestamp_frame": 27735,
+            "_unmapped_timestamp_sec": 924.5306,
+            "narration_text": "#C C drops the spoons into the green rack with her right hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 926.6938376213301,
+            "timestamp_frame": 27800,
+            "_unmapped_timestamp_sec": 926.7182,
+            "narration_text": "#C C picks up a spoon from the spoon rack with her right hand.",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 927.4481876213301,
+            "timestamp_frame": 27823,
+            "_unmapped_timestamp_sec": 927.47255,
+            "narration_text": "#C C picks up a spoon from the spoon rack with her left hand.",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 927.8092076213301,
+            "timestamp_frame": 27834,
+            "_unmapped_timestamp_sec": 927.83357,
+            "narration_text": "#C C drops the spoon into the green rack with her right hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 928.0146276213301,
+            "timestamp_frame": 27840,
+            "_unmapped_timestamp_sec": 928.03899,
+            "narration_text": "#C C drops the spoon into the green rack with her left hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 928.7834876213301,
+            "timestamp_frame": 27863,
+            "_unmapped_timestamp_sec": 928.80785,
+            "narration_text": "#C C picks up a spoon and a knife from the spoon rack with her right hand.",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 929.5077276213301,
+            "timestamp_frame": 27885,
+            "_unmapped_timestamp_sec": 929.53209,
+            "narration_text": "#C C passes the spoon from her right hand to her left hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 930.42680762133,
+            "timestamp_frame": 27912,
+            "_unmapped_timestamp_sec": 930.45117,
+            "narration_text": "#C C drops the knife into the green rack with her right hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 931.27793762133,
+            "timestamp_frame": 27938,
+            "_unmapped_timestamp_sec": 931.3023000000001,
+            "narration_text": "#C C passes the spoon from her left hand to her right hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 931.6111676213301,
+            "timestamp_frame": 27948,
+            "_unmapped_timestamp_sec": 931.63553,
+            "narration_text": "#C C drops the spoon into the green rack with her right hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 932.55246762133,
+            "timestamp_frame": 27976,
+            "_unmapped_timestamp_sec": 932.57683,
+            "narration_text": "#C C picks up a spoon from the spoon rack with her right hand.",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 933.2964476213301,
+            "timestamp_frame": 27998,
+            "_unmapped_timestamp_sec": 933.3208099999999,
+            "narration_text": "#C C picks up spoons from the spoon rack with her left hand.",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 933.5593276213301,
+            "timestamp_frame": 28006,
+            "_unmapped_timestamp_sec": 933.58369,
+            "narration_text": "#C C drops the spoon into the green rack with her right hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 934.5593476213301,
+            "timestamp_frame": 28036,
+            "_unmapped_timestamp_sec": 934.58371,
+            "narration_text": "#C C drops the spoons into the green rack with her left hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 936.04476762133,
+            "timestamp_frame": 28081,
+            "_unmapped_timestamp_sec": 936.06913,
+            "narration_text": "#C C picks up a spoon from the spoon rack with her right hand.",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 936.6488076213301,
+            "timestamp_frame": 28099,
+            "_unmapped_timestamp_sec": 936.67317,
+            "narration_text": "#C C drops the spoon into the green rack with her right hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 938.3971076213301,
+            "timestamp_frame": 28151,
+            "_unmapped_timestamp_sec": 938.42147,
+            "narration_text": "#C C picks up a spoon from the spoon rack with her left hand.",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 939.24198762133,
+            "timestamp_frame": 28177,
+            "_unmapped_timestamp_sec": 939.26635,
+            "narration_text": "#C C drops the spoon into the green rack with her left hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 940.04310762133,
+            "timestamp_frame": 28201,
+            "_unmapped_timestamp_sec": 940.06747,
+            "narration_text": "#C C picks up a peeler from the spoon rack with her right hand.",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 940.94052762133,
+            "timestamp_frame": 28228,
+            "_unmapped_timestamp_sec": 940.96489,
+            "narration_text": "#C C holds the peeler with both hands. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 943.5827976213301,
+            "timestamp_frame": 28307,
+            "_unmapped_timestamp_sec": 943.60716,
+            "narration_text": "#C C drops the peeler into the blue rack with her right hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 946.82569762133,
+            "timestamp_frame": 28404,
+            "_unmapped_timestamp_sec": 946.85006,
+            "narration_text": "#C C picks the spoon rack from the kitchen counter with her left hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 950.1536376213301,
+            "timestamp_frame": 28504,
+            "_unmapped_timestamp_sec": 950.178,
+            "narration_text": "#C C holds the spoon rack with both hands. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 951.85384762133,
+            "timestamp_frame": 28555,
+            "_unmapped_timestamp_sec": 951.87821,
+            "narration_text": "#C C drops the spoon rack into the dishwasher with her left hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 955.49119762133,
+            "timestamp_frame": 28664,
+            "_unmapped_timestamp_sec": 955.51556,
+            "narration_text": "#C C picks a plate from the dishwasher with her right hand. \n",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 956.23768762133,
+            "timestamp_frame": 28686,
+            "_unmapped_timestamp_sec": 956.26205,
+            "narration_text": "#C C picks a plate from the dishwasher with her left hand. \n",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 957.5369576213301,
+            "timestamp_frame": 28725,
+            "_unmapped_timestamp_sec": 957.56132,
+            "narration_text": "#C C passes the plate from her right hand to her left hand. ",
+            "annotation_uid": "f4a2cab6-2d2a-4a47-8411-d5c7e57f1b1b"
+        },
+        {
+            "timestamp_sec": 811.16444762133,
+            "timestamp_frame": 24334,
+            "_unmapped_timestamp_sec": 811.18881,
+            "narration_text": "#C C places the bowl aside",
+            "annotation_uid": "4a65ba9d-cb44-4e2c-8299-5db67a1f8e5e"
+        },
+        {
+            "timestamp_sec": 813.4856276213301,
+            "timestamp_frame": 24404,
+            "_unmapped_timestamp_sec": 813.50999,
+            "narration_text": "#C C picks a plate",
+            "annotation_uid": "4a65ba9d-cb44-4e2c-8299-5db67a1f8e5e"
+        },
+        {
+            "timestamp_sec": 818.63726762133,
+            "timestamp_frame": 24558,
+            "_unmapped_timestamp_sec": 818.6616300000001,
+            "narration_text": "#C C places the plate at the utensils cabinet",
+            "annotation_uid": "4a65ba9d-cb44-4e2c-8299-5db67a1f8e5e"
+        },
+        {
+            "timestamp_sec": 821.1180476213301,
+            "timestamp_frame": 24633,
+            "_unmapped_timestamp_sec": 821.1424099999999,
+            "narration_text": "#C C places the dish at the utensils cabinet",
+            "annotation_uid": "4a65ba9d-cb44-4e2c-8299-5db67a1f8e5e"
+        },
+        {
+            "timestamp_sec": 830.52247762133,
+            "timestamp_frame": 24915,
+            "_unmapped_timestamp_sec": 830.54684,
+            "narration_text": "#C C walks towards a dish washer ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 833.50568762133,
+            "timestamp_frame": 25005,
+            "_unmapped_timestamp_sec": 833.53005,
+            "narration_text": "#C C picks plates from a dish washer ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 836.8358876213301,
+            "timestamp_frame": 25104,
+            "_unmapped_timestamp_sec": 836.86025,
+            "narration_text": "#C C picks a plate from a dishwasher ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 839.9584576213301,
+            "timestamp_frame": 25198,
+            "_unmapped_timestamp_sec": 839.98282,
+            "narration_text": "#C C picks a plate from a dishwasher ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 846.60710762133,
+            "timestamp_frame": 25398,
+            "_unmapped_timestamp_sec": 846.63147,
+            "narration_text": "#C C walks towards utensils cabinet ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 847.88585762133,
+            "timestamp_frame": 25436,
+            "_unmapped_timestamp_sec": 847.91022,
+            "narration_text": "#C C places plates in the cabinet ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 853.56308762133,
+            "timestamp_frame": 25606,
+            "_unmapped_timestamp_sec": 853.58745,
+            "narration_text": "#C C walks towards dishwasher ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 855.0275276213301,
+            "timestamp_frame": 25650,
+            "_unmapped_timestamp_sec": 855.05189,
+            "narration_text": "#C C picks plates from the dishwasher ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 857.1429576213301,
+            "timestamp_frame": 25714,
+            "_unmapped_timestamp_sec": 857.16732,
+            "narration_text": "#C C picks plastic lids from a dishwasher ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 860.2974276213301,
+            "timestamp_frame": 25808,
+            "_unmapped_timestamp_sec": 860.32179,
+            "narration_text": "#C C walks towards utensils cabinet ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 861.5449976213301,
+            "timestamp_frame": 25846,
+            "_unmapped_timestamp_sec": 861.56936,
+            "narration_text": "#C C puts a plate in the cabinet ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 863.7594076213301,
+            "timestamp_frame": 25912,
+            "_unmapped_timestamp_sec": 863.78377,
+            "narration_text": "#C C places plastic lids in the cabinet ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 869.1384176213301,
+            "timestamp_frame": 26074,
+            "_unmapped_timestamp_sec": 869.16278,
+            "narration_text": "#C C picks a chopping board from a dishwasher ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 872.38321762133,
+            "timestamp_frame": 26171,
+            "_unmapped_timestamp_sec": 872.40758,
+            "narration_text": "#C C places a chopping board on the kitchen counter ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 876.7842576213301,
+            "timestamp_frame": 26303,
+            "_unmapped_timestamp_sec": 876.80862,
+            "narration_text": "#C C picks bowls from a dishwasher ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 879.43328762133,
+            "timestamp_frame": 26382,
+            "_unmapped_timestamp_sec": 879.4576500000001,
+            "narration_text": "#C C picks a plastic container from a dishwasher ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 884.1205876213301,
+            "timestamp_frame": 26523,
+            "_unmapped_timestamp_sec": 884.14495,
+            "narration_text": "#C C places a plastic container in a cabinet ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 886.09771762133,
+            "timestamp_frame": 26582,
+            "_unmapped_timestamp_sec": 886.12208,
+            "narration_text": "#C C places bowls in the cabinet ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 893.0025976213301,
+            "timestamp_frame": 26789,
+            "_unmapped_timestamp_sec": 893.02696,
+            "narration_text": "#C C bends on the dishwasher ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 894.6857876213301,
+            "timestamp_frame": 26840,
+            "_unmapped_timestamp_sec": 894.71015,
+            "narration_text": "#C C picks spoon holder stand ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 898.2774376213301,
+            "timestamp_frame": 26948,
+            "_unmapped_timestamp_sec": 898.3018,
+            "narration_text": "#C C places spoon holder on the kitchen counter ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 899.8423476213301,
+            "timestamp_frame": 26995,
+            "_unmapped_timestamp_sec": 899.86671,
+            "narration_text": "#C C picks spoons from the holder ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 900.5062076213301,
+            "timestamp_frame": 27015,
+            "_unmapped_timestamp_sec": 900.53057,
+            "narration_text": "#C C picks a wooden spoon ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 903.9436576213301,
+            "timestamp_frame": 27118,
+            "_unmapped_timestamp_sec": 903.96802,
+            "narration_text": "#C C puts wooden spoon in the rack ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 906.48870762133,
+            "timestamp_frame": 27194,
+            "_unmapped_timestamp_sec": 906.51307,
+            "narration_text": "#C C puts a spoon on the kitchen counter ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 909.8295176213301,
+            "timestamp_frame": 27294,
+            "_unmapped_timestamp_sec": 909.85388,
+            "narration_text": "#C C picks chopping sticks from spoon rack ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 913.83593762133,
+            "timestamp_frame": 27414,
+            "_unmapped_timestamp_sec": 913.8603,
+            "narration_text": "#C C puts chopping sticks in the spoon rack ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 915.9464876213301,
+            "timestamp_frame": 27478,
+            "_unmapped_timestamp_sec": 915.97085,
+            "narration_text": "#C C picks chopping sticks from the rack ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 917.9837776213301,
+            "timestamp_frame": 27539,
+            "_unmapped_timestamp_sec": 918.00814,
+            "narration_text": "#C C puts chopping sticks in the rack ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 920.2397276213301,
+            "timestamp_frame": 27607,
+            "_unmapped_timestamp_sec": 920.26409,
+            "narration_text": "#C C picks a spoon from the rack ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 922.0427476213301,
+            "timestamp_frame": 27661,
+            "_unmapped_timestamp_sec": 922.06711,
+            "narration_text": "#C C picks spoon from the rack ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 922.6776376213301,
+            "timestamp_frame": 27680,
+            "_unmapped_timestamp_sec": 922.702,
+            "narration_text": "#C C puts spoons in the rack ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 924.01640762133,
+            "timestamp_frame": 27720,
+            "_unmapped_timestamp_sec": 924.04077,
+            "narration_text": "#C C picks spoons from a rack ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 924.59170762133,
+            "timestamp_frame": 27737,
+            "_unmapped_timestamp_sec": 924.61607,
+            "narration_text": "#C C puts spoons on the rack ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 927.6555676213301,
+            "timestamp_frame": 27829,
+            "_unmapped_timestamp_sec": 927.67993,
+            "narration_text": "#C C picks spoons from the rack ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 928.1545976213301,
+            "timestamp_frame": 27844,
+            "_unmapped_timestamp_sec": 928.17896,
+            "narration_text": "#C C puts spoons in the rack ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 929.96605762133,
+            "timestamp_frame": 27898,
+            "_unmapped_timestamp_sec": 929.99042,
+            "narration_text": "#C C picks spoons from the rack ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 930.5664176213301,
+            "timestamp_frame": 27916,
+            "_unmapped_timestamp_sec": 930.59078,
+            "narration_text": "#C C puts a spoon in the rack ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 933.50410762133,
+            "timestamp_frame": 28004,
+            "_unmapped_timestamp_sec": 933.52847,
+            "narration_text": "#C C picks spoons from a rack ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 935.03634762133,
+            "timestamp_frame": 28050,
+            "_unmapped_timestamp_sec": 935.06071,
+            "narration_text": "#C C puts spoons in the rack ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 940.99509762133,
+            "timestamp_frame": 28229,
+            "_unmapped_timestamp_sec": 941.01946,
+            "narration_text": "#C C picks a potato peeler from the rack ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 943.8432076213301,
+            "timestamp_frame": 28315,
+            "_unmapped_timestamp_sec": 943.86757,
+            "narration_text": "#C C puts potato peeler on the rack ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 947.27932762133,
+            "timestamp_frame": 28418,
+            "_unmapped_timestamp_sec": 947.30369,
+            "narration_text": "#C C picks spoon rack from the kitchen counter ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 951.7783176213301,
+            "timestamp_frame": 28553,
+            "_unmapped_timestamp_sec": 951.80268,
+            "narration_text": "#C C puts a spoon rack in the dishwasher ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        },
+        {
+            "timestamp_sec": 956.6610076213301,
+            "timestamp_frame": 28699,
+            "_unmapped_timestamp_sec": 956.68537,
+            "narration_text": "#C C picks bowls from a dishwasher ",
+            "annotation_uid": "29154699-74ff-4947-a293-a3aaeea8a899"
+        }
+    ]
+}

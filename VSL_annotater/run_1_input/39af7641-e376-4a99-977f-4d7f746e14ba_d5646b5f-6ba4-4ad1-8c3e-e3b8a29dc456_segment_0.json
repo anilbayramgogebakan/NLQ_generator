@@ -1,0 +1,914 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 464.3922486,
+            "timestamp_frame": 13931,
+            "_unmapped_timestamp_sec": 464.37122,
+            "narration_text": "#O person X sniffs a plant",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 465.4033886,
+            "timestamp_frame": 13961,
+            "_unmapped_timestamp_sec": 465.38236,
+            "narration_text": "#C C sniffs a plant",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 466.74989860000005,
+            "timestamp_frame": 14002,
+            "_unmapped_timestamp_sec": 466.72887000000003,
+            "narration_text": "#O person X sniffs a plant",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 467.95495860000005,
+            "timestamp_frame": 14038,
+            "_unmapped_timestamp_sec": 467.93393000000003,
+            "narration_text": "#O person X puts a vase plant on the table",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 468.7101486,
+            "timestamp_frame": 14061,
+            "_unmapped_timestamp_sec": 468.68912,
+            "narration_text": "#O person X picks up a vase plant from the table",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 470.2962886,
+            "timestamp_frame": 14108,
+            "_unmapped_timestamp_sec": 470.27526,
+            "narration_text": "#O person X sniffs a plant",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 471.4694686,
+            "timestamp_frame": 14143,
+            "_unmapped_timestamp_sec": 471.44844,
+            "narration_text": "#C C sniffs a plant",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 477.0108286,
+            "timestamp_frame": 14310,
+            "_unmapped_timestamp_sec": 476.9898,
+            "narration_text": "#O person X puts a vase plant on the table",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 478.9295286,
+            "timestamp_frame": 14367,
+            "_unmapped_timestamp_sec": 478.9085,
+            "narration_text": "#O person X holds a candle jar",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 485.3365486,
+            "timestamp_frame": 14559,
+            "_unmapped_timestamp_sec": 485.31552,
+            "narration_text": "#C C looks at the mirror",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 488.5430186,
+            "timestamp_frame": 14656,
+            "_unmapped_timestamp_sec": 488.52198999999996,
+            "narration_text": "#C C person X walks around the room",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 489.8143286,
+            "timestamp_frame": 14694,
+            "_unmapped_timestamp_sec": 489.7933,
+            "narration_text": "#O person X touches a plant",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 505.25314860000003,
+            "timestamp_frame": 15157,
+            "_unmapped_timestamp_sec": 505.23212,
+            "narration_text": "#O person X aligns the plates",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 532.4660086,
+            "timestamp_frame": 15973,
+            "_unmapped_timestamp_sec": 532.44498,
+            "narration_text": "#O person X touches a couch",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 541.4066386000001,
+            "timestamp_frame": 16242,
+            "_unmapped_timestamp_sec": 541.38561,
+            "narration_text": "#O person X picks up a candle jar from the table",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 542.4505886000001,
+            "timestamp_frame": 16273,
+            "_unmapped_timestamp_sec": 542.42956,
+            "narration_text": "#O person X opens a lid of candle jar",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 543.0718486,
+            "timestamp_frame": 16292,
+            "_unmapped_timestamp_sec": 543.0508199999999,
+            "narration_text": "#O person X sniffs a candle jar",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 545.3560386,
+            "timestamp_frame": 16360,
+            "_unmapped_timestamp_sec": 545.33501,
+            "narration_text": "#O person X gives C a candle jar ",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 545.8143586,
+            "timestamp_frame": 16374,
+            "_unmapped_timestamp_sec": 545.79333,
+            "narration_text": "#C C sniffs a candle jar",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 547.7451586000001,
+            "timestamp_frame": 16432,
+            "_unmapped_timestamp_sec": 547.7241300000001,
+            "narration_text": "#C C gives a candle jar to person X",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 548.7668886,
+            "timestamp_frame": 16462,
+            "_unmapped_timestamp_sec": 548.74586,
+            "narration_text": "#O person X closes a candle jar",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 550.1646086,
+            "timestamp_frame": 16504,
+            "_unmapped_timestamp_sec": 550.1435799999999,
+            "narration_text": "#O person X opens a lid of candle jar",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 550.6239886,
+            "timestamp_frame": 16518,
+            "_unmapped_timestamp_sec": 550.6029599999999,
+            "narration_text": "#O person X sniffs a candle jar",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 551.5721986,
+            "timestamp_frame": 16547,
+            "_unmapped_timestamp_sec": 551.55117,
+            "narration_text": "#O person X closes a candle jar",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 554.4380586000001,
+            "timestamp_frame": 16633,
+            "_unmapped_timestamp_sec": 554.4170300000001,
+            "narration_text": "#O person X puts a candle jar on the table",
+            "annotation_uid": "787719e2-9405-4050-8e7f-e6968378a67f"
+        },
+        {
+            "timestamp_sec": 556.2060586,
+            "timestamp_frame": 16686,
+            "_unmapped_timestamp_sec": 556.18503,
+            "narration_text": "#O person X touches a lamp",
+            "annotation_uid": "18dc8c54-6ca4-4cee-b64e-fcc6bd8cfc11"
+        },
+        {
+            "timestamp_sec": 557.6365486,
+            "timestamp_frame": 16728,
+            "_unmapped_timestamp_sec": 557.61552,
+            "narration_text": "#O person X scratches the hair",
+            "annotation_uid": "18dc8c54-6ca4-4cee-b64e-fcc6bd8cfc11"
+        },
+        {
+            "timestamp_sec": 561.3351186,
+            "timestamp_frame": 16839,
+            "_unmapped_timestamp_sec": 561.31409,
+            "narration_text": "#C C person X walks around the room",
+            "annotation_uid": "18dc8c54-6ca4-4cee-b64e-fcc6bd8cfc11"
+        },
+        {
+            "timestamp_sec": 573.4465086,
+            "timestamp_frame": 17203,
+            "_unmapped_timestamp_sec": 573.42548,
+            "narration_text": "#O person Y holds a paper",
+            "annotation_uid": "18dc8c54-6ca4-4cee-b64e-fcc6bd8cfc11"
+        },
+        {
+            "timestamp_sec": 573.7474086,
+            "timestamp_frame": 17212,
+            "_unmapped_timestamp_sec": 573.72638,
+            "narration_text": "#O person Y walks around the room",
+            "annotation_uid": "18dc8c54-6ca4-4cee-b64e-fcc6bd8cfc11"
+        },
+        {
+            "timestamp_sec": 578.7223186,
+            "timestamp_frame": 17361,
+            "_unmapped_timestamp_sec": 578.70129,
+            "narration_text": "#O person X touches a plant",
+            "annotation_uid": "18dc8c54-6ca4-4cee-b64e-fcc6bd8cfc11"
+        },
+        {
+            "timestamp_sec": 584.2745686000001,
+            "timestamp_frame": 17528,
+            "_unmapped_timestamp_sec": 584.25354,
+            "narration_text": "#C C touches a plant",
+            "annotation_uid": "18dc8c54-6ca4-4cee-b64e-fcc6bd8cfc11"
+        },
+        {
+            "timestamp_sec": 453.0410786,
+            "timestamp_frame": 13591,
+            "_unmapped_timestamp_sec": 453.02004999999997,
+            "narration_text": "#O woman X laughs",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 456.3230186,
+            "timestamp_frame": 13689,
+            "_unmapped_timestamp_sec": 456.30199,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 457.0746686,
+            "timestamp_frame": 13712,
+            "_unmapped_timestamp_sec": 457.05364,
+            "narration_text": "#C C talks to woman X",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 459.49222860000003,
+            "timestamp_frame": 13784,
+            "_unmapped_timestamp_sec": 459.4712,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 462.6060586,
+            "timestamp_frame": 13878,
+            "_unmapped_timestamp_sec": 462.58502999999996,
+            "narration_text": "#C C talks to woman X",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 462.6060586,
+            "timestamp_frame": 13878,
+            "_unmapped_timestamp_sec": 462.58502999999996,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 463.9112286,
+            "timestamp_frame": 13917,
+            "_unmapped_timestamp_sec": 463.8902,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 464.3187286,
+            "timestamp_frame": 13929,
+            "_unmapped_timestamp_sec": 464.29769999999996,
+            "narration_text": "#O woman X smells the plant",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 464.5818386,
+            "timestamp_frame": 13937,
+            "_unmapped_timestamp_sec": 464.56081,
+            "narration_text": "#C C talks to woman X",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 464.97817860000004,
+            "timestamp_frame": 13949,
+            "_unmapped_timestamp_sec": 464.95715,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 466.08639860000005,
+            "timestamp_frame": 13982,
+            "_unmapped_timestamp_sec": 466.06537000000003,
+            "narration_text": "#C C talks to woman X",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 467.0623186,
+            "timestamp_frame": 14011,
+            "_unmapped_timestamp_sec": 467.04129,
+            "narration_text": "#O woman X smells the plant",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 467.2915286,
+            "timestamp_frame": 14018,
+            "_unmapped_timestamp_sec": 467.27049999999997,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 468.4229386,
+            "timestamp_frame": 14052,
+            "_unmapped_timestamp_sec": 468.40191,
+            "narration_text": "#O woman X touches the plant pot on the table with the left hand",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 468.4229386,
+            "timestamp_frame": 14052,
+            "_unmapped_timestamp_sec": 468.40191,
+            "narration_text": "#O woman X puts the plant pot on the table with the right hand",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 470.45237860000003,
+            "timestamp_frame": 14113,
+            "_unmapped_timestamp_sec": 470.43135,
+            "narration_text": "#C C laughs",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 470.45237860000003,
+            "timestamp_frame": 14113,
+            "_unmapped_timestamp_sec": 470.43135,
+            "narration_text": "#O woman X smells the plant",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 471.1553986,
+            "timestamp_frame": 14134,
+            "_unmapped_timestamp_sec": 471.13437,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 472.2431186,
+            "timestamp_frame": 14167,
+            "_unmapped_timestamp_sec": 472.22209,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 472.2431186,
+            "timestamp_frame": 14167,
+            "_unmapped_timestamp_sec": 472.22209,
+            "narration_text": "#C C talks to woman X",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 472.2431186,
+            "timestamp_frame": 14167,
+            "_unmapped_timestamp_sec": 472.22209,
+            "narration_text": "#C C smells the plant",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 477.4368686,
+            "timestamp_frame": 14322,
+            "_unmapped_timestamp_sec": 477.41584,
+            "narration_text": "#O woman X puts the plant pot on the table with the left hand",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 477.4368686,
+            "timestamp_frame": 14322,
+            "_unmapped_timestamp_sec": 477.41584,
+            "narration_text": "#C C talks to woman X",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 478.3834486,
+            "timestamp_frame": 14351,
+            "_unmapped_timestamp_sec": 478.36242,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 478.95828860000006,
+            "timestamp_frame": 14368,
+            "_unmapped_timestamp_sec": 478.93726000000004,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 478.95828860000006,
+            "timestamp_frame": 14368,
+            "_unmapped_timestamp_sec": 478.93726000000004,
+            "narration_text": "#O woman X touches #unsure on the table",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 482.09621860000004,
+            "timestamp_frame": 14462,
+            "_unmapped_timestamp_sec": 482.07519,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 482.09621860000004,
+            "timestamp_frame": 14462,
+            "_unmapped_timestamp_sec": 482.07519,
+            "narration_text": "#C C talks to woman X",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 483.6823886,
+            "timestamp_frame": 14510,
+            "_unmapped_timestamp_sec": 483.66136,
+            "narration_text": "#C C talks to woman X",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 483.6823886,
+            "timestamp_frame": 14510,
+            "_unmapped_timestamp_sec": 483.66136,
+            "narration_text": "#O woman X walks",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 485.11121860000003,
+            "timestamp_frame": 14553,
+            "_unmapped_timestamp_sec": 485.09019,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 485.1681886,
+            "timestamp_frame": 14554,
+            "_unmapped_timestamp_sec": 485.14716,
+            "narration_text": "#C C talks to woman X",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 485.3402086,
+            "timestamp_frame": 14560,
+            "_unmapped_timestamp_sec": 485.31917999999996,
+            "narration_text": "#C C talks to woman X",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 485.3402086,
+            "timestamp_frame": 14560,
+            "_unmapped_timestamp_sec": 485.31917999999996,
+            "narration_text": "#C C looks at the mirror ",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 486.6827286,
+            "timestamp_frame": 14600,
+            "_unmapped_timestamp_sec": 486.6617,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 487.7628886,
+            "timestamp_frame": 14632,
+            "_unmapped_timestamp_sec": 487.74186,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 487.7628886,
+            "timestamp_frame": 14632,
+            "_unmapped_timestamp_sec": 487.74186,
+            "narration_text": "#C C laughs",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 490.05789860000004,
+            "timestamp_frame": 14701,
+            "_unmapped_timestamp_sec": 490.03687,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 490.05789860000004,
+            "timestamp_frame": 14701,
+            "_unmapped_timestamp_sec": 490.03687,
+            "narration_text": "#O woman X touches the plant in the plant pot with the right hand",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 491.95354860000003,
+            "timestamp_frame": 14758,
+            "_unmapped_timestamp_sec": 491.93252,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 491.95354860000003,
+            "timestamp_frame": 14758,
+            "_unmapped_timestamp_sec": 491.93252,
+            "narration_text": "#C C talks to woman X",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 494.5746686,
+            "timestamp_frame": 14837,
+            "_unmapped_timestamp_sec": 494.55364,
+            "narration_text": "#C C talks to woman X",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 494.5746686,
+            "timestamp_frame": 14837,
+            "_unmapped_timestamp_sec": 494.55364,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 496.5204886,
+            "timestamp_frame": 14895,
+            "_unmapped_timestamp_sec": 496.49946,
+            "narration_text": "#C C talks to woman X",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 496.5204886,
+            "timestamp_frame": 14895,
+            "_unmapped_timestamp_sec": 496.49946,
+            "narration_text": "#O woman X lifts the hand up",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 497.2857986,
+            "timestamp_frame": 14918,
+            "_unmapped_timestamp_sec": 497.26477,
+            "narration_text": "#C C talks to woman X",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 497.2857986,
+            "timestamp_frame": 14918,
+            "_unmapped_timestamp_sec": 497.26477,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 502.8268286,
+            "timestamp_frame": 15084,
+            "_unmapped_timestamp_sec": 502.8058,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 505.25291860000004,
+            "timestamp_frame": 15157,
+            "_unmapped_timestamp_sec": 505.23189,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 505.25291860000004,
+            "timestamp_frame": 15157,
+            "_unmapped_timestamp_sec": 505.23189,
+            "narration_text": "#C C talks to woman X",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 509.4239586,
+            "timestamp_frame": 15282,
+            "_unmapped_timestamp_sec": 509.40292999999997,
+            "narration_text": "#C C talks to woman X",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 511.56982860000005,
+            "timestamp_frame": 15346,
+            "_unmapped_timestamp_sec": 511.5488,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 513.7696286,
+            "timestamp_frame": 15412,
+            "_unmapped_timestamp_sec": 513.7486,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 513.7696286,
+            "timestamp_frame": 15412,
+            "_unmapped_timestamp_sec": 513.7486,
+            "narration_text": "#C C looks at woman X",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 516.6036486,
+            "timestamp_frame": 15497,
+            "_unmapped_timestamp_sec": 516.58262,
+            "narration_text": "#C C talks to woman X",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 518.4299786,
+            "timestamp_frame": 15552,
+            "_unmapped_timestamp_sec": 518.40895,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 519.5459486000001,
+            "timestamp_frame": 15586,
+            "_unmapped_timestamp_sec": 519.5249200000001,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 519.5459486000001,
+            "timestamp_frame": 15586,
+            "_unmapped_timestamp_sec": 519.5249200000001,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 523.0976286,
+            "timestamp_frame": 15692,
+            "_unmapped_timestamp_sec": 523.0766,
+            "narration_text": "#C C laughs",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 521.6682586000001,
+            "timestamp_frame": 15649,
+            "_unmapped_timestamp_sec": 521.64723,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 523.7149586,
+            "timestamp_frame": 15711,
+            "_unmapped_timestamp_sec": 523.69393,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 525.3410886,
+            "timestamp_frame": 15760,
+            "_unmapped_timestamp_sec": 525.32006,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 524.8089586,
+            "timestamp_frame": 15744,
+            "_unmapped_timestamp_sec": 524.78793,
+            "narration_text": "#C C laughs",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 524.8089586,
+            "timestamp_frame": 15744,
+            "_unmapped_timestamp_sec": 524.78793,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 527.3258386,
+            "timestamp_frame": 15819,
+            "_unmapped_timestamp_sec": 527.30481,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 527.3258386,
+            "timestamp_frame": 15819,
+            "_unmapped_timestamp_sec": 527.30481,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 529.7027286,
+            "timestamp_frame": 15890,
+            "_unmapped_timestamp_sec": 529.6817,
+            "narration_text": "#C C talks to woman X",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 529.7027286,
+            "timestamp_frame": 15890,
+            "_unmapped_timestamp_sec": 529.6817,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 532.2719686,
+            "timestamp_frame": 15968,
+            "_unmapped_timestamp_sec": 532.25094,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 533.0102486,
+            "timestamp_frame": 15990,
+            "_unmapped_timestamp_sec": 532.9892199999999,
+            "narration_text": "#C C talks to woman X",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 533.0102486,
+            "timestamp_frame": 15990,
+            "_unmapped_timestamp_sec": 532.9892199999999,
+            "narration_text": "#O woman X touches the sofa chair with the right hand",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 535.1430386000001,
+            "timestamp_frame": 16054,
+            "_unmapped_timestamp_sec": 535.12201,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 539.2494786000001,
+            "timestamp_frame": 16177,
+            "_unmapped_timestamp_sec": 539.2284500000001,
+            "narration_text": "#C C talks to woman X",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 541.1350986000001,
+            "timestamp_frame": 16233,
+            "_unmapped_timestamp_sec": 541.1140700000001,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 541.7701086000001,
+            "timestamp_frame": 16252,
+            "_unmapped_timestamp_sec": 541.74908,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 541.7701086000001,
+            "timestamp_frame": 16252,
+            "_unmapped_timestamp_sec": 541.74908,
+            "narration_text": "#O woman X touches the tin of #unsure with the right hand",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 543.2635286000001,
+            "timestamp_frame": 16297,
+            "_unmapped_timestamp_sec": 543.2425000000001,
+            "narration_text": "#O woman X smells the tin of #unsure",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 542.0800086,
+            "timestamp_frame": 16262,
+            "_unmapped_timestamp_sec": 542.05898,
+            "narration_text": "#O woman X holds the tin of #unsure with the both hand",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 546.2050586,
+            "timestamp_frame": 16386,
+            "_unmapped_timestamp_sec": 546.18403,
+            "narration_text": "#C C smells the tin of #unsure",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 548.0553186000001,
+            "timestamp_frame": 16441,
+            "_unmapped_timestamp_sec": 548.03429,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 548.0553186000001,
+            "timestamp_frame": 16441,
+            "_unmapped_timestamp_sec": 548.03429,
+            "narration_text": "#O woman X holds the tin of #unsure with left hand",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 549.5873086,
+            "timestamp_frame": 16487,
+            "_unmapped_timestamp_sec": 549.56628,
+            "narration_text": "#C C talks to woman X",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 550.6438085999999,
+            "timestamp_frame": 16519,
+            "_unmapped_timestamp_sec": 550.6227799999999,
+            "narration_text": "#O woman X smells the tin of #unsure",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 551.4828886,
+            "timestamp_frame": 16544,
+            "_unmapped_timestamp_sec": 551.46186,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 553.2711386,
+            "timestamp_frame": 16598,
+            "_unmapped_timestamp_sec": 553.25011,
+            "narration_text": "#C C talks to woman X",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 553.9677086,
+            "timestamp_frame": 16618,
+            "_unmapped_timestamp_sec": 553.94668,
+            "narration_text": "#O woman X talks to C",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 555.0544086000001,
+            "timestamp_frame": 16651,
+            "_unmapped_timestamp_sec": 555.0333800000001,
+            "narration_text": "#O woman X puts the tin of #unsure on the table with the right hand",
+            "annotation_uid": "4876971a-f7a3-4235-9d01-f57c19730e2e"
+        },
+        {
+            "timestamp_sec": 560.3843986,
+            "timestamp_frame": 16811,
+            "_unmapped_timestamp_sec": 560.36337,
+            "narration_text": "#O lady Y walks around the room",
+            "annotation_uid": "593be387-b997-41df-9f11-b60c933d2b2c"
+        },
+        {
+            "timestamp_sec": 560.3843986,
+            "timestamp_frame": 16811,
+            "_unmapped_timestamp_sec": 560.36337,
+            "narration_text": "#O lady Y talks to C ",
+            "annotation_uid": "593be387-b997-41df-9f11-b60c933d2b2c"
+        },
+        {
+            "timestamp_sec": 563.5837886,
+            "timestamp_frame": 16907,
+            "_unmapped_timestamp_sec": 563.56276,
+            "narration_text": "#C C talks to lady Y",
+            "annotation_uid": "593be387-b997-41df-9f11-b60c933d2b2c"
+        },
+        {
+            "timestamp_sec": 579.1154286,
+            "timestamp_frame": 17373,
+            "_unmapped_timestamp_sec": 579.0944,
+            "narration_text": "#O lady Y touches the flower",
+            "annotation_uid": "593be387-b997-41df-9f11-b60c933d2b2c"
+        },
+        {
+            "timestamp_sec": 581.3251686,
+            "timestamp_frame": 17439,
+            "_unmapped_timestamp_sec": 581.30414,
+            "narration_text": "#C C talks to lady Y ",
+            "annotation_uid": "593be387-b997-41df-9f11-b60c933d2b2c"
+        },
+        {
+            "timestamp_sec": 581.3251686,
+            "timestamp_frame": 17439,
+            "_unmapped_timestamp_sec": 581.30414,
+            "narration_text": "#C C walks around the room",
+            "annotation_uid": "593be387-b997-41df-9f11-b60c933d2b2c"
+        },
+        {
+            "timestamp_sec": 584.4957586,
+            "timestamp_frame": 17534,
+            "_unmapped_timestamp_sec": 584.47473,
+            "narration_text": "#O lady Y touches the flower",
+            "annotation_uid": "593be387-b997-41df-9f11-b60c933d2b2c"
+        },
+        {
+            "timestamp_sec": 584.4957586,
+            "timestamp_frame": 17534,
+            "_unmapped_timestamp_sec": 584.47473,
+            "narration_text": "#C C touches the flower ",
+            "annotation_uid": "593be387-b997-41df-9f11-b60c933d2b2c"
+        },
+        {
+            "timestamp_sec": 585.9821586,
+            "timestamp_frame": 17579,
+            "_unmapped_timestamp_sec": 585.96113,
+            "narration_text": "#O lady Y talks to C ",
+            "annotation_uid": "593be387-b997-41df-9f11-b60c933d2b2c"
+        },
+        {
+            "timestamp_sec": 585.9821586,
+            "timestamp_frame": 17579,
+            "_unmapped_timestamp_sec": 585.96113,
+            "narration_text": "#O lady Y touches the flower",
+            "annotation_uid": "593be387-b997-41df-9f11-b60c933d2b2c"
+        },
+        {
+            "timestamp_sec": 593.8562986000001,
+            "timestamp_frame": 17815,
+            "_unmapped_timestamp_sec": 593.83527,
+            "narration_text": "#C C talks to lady Y",
+            "annotation_uid": "593be387-b997-41df-9f11-b60c933d2b2c"
+        }
+    ]
+}

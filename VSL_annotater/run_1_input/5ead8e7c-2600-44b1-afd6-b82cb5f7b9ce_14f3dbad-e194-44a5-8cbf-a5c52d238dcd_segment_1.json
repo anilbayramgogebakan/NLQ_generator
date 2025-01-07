@@ -1,0 +1,676 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 2043.2248511999999,
+            "timestamp_frame": 61296,
+            "_unmapped_timestamp_sec": 2043.19282,
+            "narration_text": "#C C interacts with the man X",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2047.3916112,
+            "timestamp_frame": 61421,
+            "_unmapped_timestamp_sec": 2047.35958,
+            "narration_text": "#O the man Y throws back the balls towards C ",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2058.4970712,
+            "timestamp_frame": 61754,
+            "_unmapped_timestamp_sec": 2058.46504,
+            "narration_text": "#C C walks towards a ball on the ground",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2063.7484012,
+            "timestamp_frame": 61911,
+            "_unmapped_timestamp_sec": 2063.71637,
+            "narration_text": "#C C kicks the ball on the ground #unsure",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2066.6651211999997,
+            "timestamp_frame": 61999,
+            "_unmapped_timestamp_sec": 2066.63309,
+            "narration_text": "#C C interacts with the man Y",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2070.8687812,
+            "timestamp_frame": 62125,
+            "_unmapped_timestamp_sec": 2070.83675,
+            "narration_text": "#O the man Y throws a ball towards C",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2074.4662512,
+            "timestamp_frame": 62233,
+            "_unmapped_timestamp_sec": 2074.43422,
+            "narration_text": "#C C runs after the ball on the ground",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2078.1951412,
+            "timestamp_frame": 62345,
+            "_unmapped_timestamp_sec": 2078.16311,
+            "narration_text": "#C C kicks the ball on the ground #unsure",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2082.1077212,
+            "timestamp_frame": 62462,
+            "_unmapped_timestamp_sec": 2082.07569,
+            "narration_text": "#C C walks towards another ball on the ground",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2090.9116112,
+            "timestamp_frame": 62726,
+            "_unmapped_timestamp_sec": 2090.87958,
+            "narration_text": "#C C hits the ball on the ground with the baseball bat ",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2094.9590811999997,
+            "timestamp_frame": 62848,
+            "_unmapped_timestamp_sec": 2094.9270500000002,
+            "narration_text": "#C C hits the ball on the ground again with the baseball bat ",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2099.9986978666666,
+            "timestamp_frame": 62999,
+            "_unmapped_timestamp_sec": 2099.99104,
+            "narration_text": "#C C kicks the ball on the ground",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2101.2009611999997,
+            "timestamp_frame": 63035,
+            "_unmapped_timestamp_sec": 2101.16893,
+            "narration_text": "#C C walks towards the ball on the ground",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2106.3618512,
+            "timestamp_frame": 63190,
+            "_unmapped_timestamp_sec": 2106.32982,
+            "narration_text": "#C C kicks the ball on the ground",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2107.5372411999997,
+            "timestamp_frame": 63225,
+            "_unmapped_timestamp_sec": 2107.50521,
+            "narration_text": "#O the man X walks towards another ball on the ground",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2108.7985912,
+            "timestamp_frame": 63263,
+            "_unmapped_timestamp_sec": 2108.76656,
+            "narration_text": "#C C walks towards another ball on the ground",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2114.7086812,
+            "timestamp_frame": 63440,
+            "_unmapped_timestamp_sec": 2114.67665,
+            "narration_text": "#C C kicks the ball on the ground",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2122.0166912,
+            "timestamp_frame": 63660,
+            "_unmapped_timestamp_sec": 2121.98466,
+            "narration_text": "#O the man X picks a ball from the ground with his right hand",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2123.7734812,
+            "timestamp_frame": 63712,
+            "_unmapped_timestamp_sec": 2123.74145,
+            "narration_text": "#O the man X picks more balls from the ground",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2124.3209011999998,
+            "timestamp_frame": 63729,
+            "_unmapped_timestamp_sec": 2124.28887,
+            "narration_text": "#C C hits the baseball bat on the ground",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2129.8785811999996,
+            "timestamp_frame": 63895,
+            "_unmapped_timestamp_sec": 2129.84655,
+            "narration_text": "#O the man X throws a ball towards C with his right hand",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2130.3885712,
+            "timestamp_frame": 63911,
+            "_unmapped_timestamp_sec": 2130.3565399999998,
+            "narration_text": "#C C hits the ball with the baseball bat in his hands",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2133.1648012,
+            "timestamp_frame": 63994,
+            "_unmapped_timestamp_sec": 2133.13277,
+            "narration_text": "#O the man X throws another ball towards C with his right hand",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2133.9207812,
+            "timestamp_frame": 64017,
+            "_unmapped_timestamp_sec": 2133.88875,
+            "narration_text": "#C C hits the ball with the baseball bat in his hands",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2136.8874511999998,
+            "timestamp_frame": 64106,
+            "_unmapped_timestamp_sec": 2136.85542,
+            "narration_text": "#O the man X throws another ball towards C with his right hand",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2137.6684012,
+            "timestamp_frame": 64129,
+            "_unmapped_timestamp_sec": 2137.63637,
+            "narration_text": "#C C hits the ball with the baseball bat in his hands",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2140.5308212,
+            "timestamp_frame": 64215,
+            "_unmapped_timestamp_sec": 2140.49879,
+            "narration_text": "#O the man X throws another ball towards C with his right hand",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2141.2079312,
+            "timestamp_frame": 64235,
+            "_unmapped_timestamp_sec": 2141.1759,
+            "narration_text": "#C C hits the ball with the baseball bat in his hands",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2144.2405512,
+            "timestamp_frame": 64326,
+            "_unmapped_timestamp_sec": 2144.20852,
+            "narration_text": "#O the man X picks more balls from the ground",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2150.4599611999997,
+            "timestamp_frame": 64513,
+            "_unmapped_timestamp_sec": 2150.42793,
+            "narration_text": "#O the man X throws another ball towards C with his right hand",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2151.2479312,
+            "timestamp_frame": 64536,
+            "_unmapped_timestamp_sec": 2151.2159,
+            "narration_text": "#C C hits the ball with the baseball bat in his hands",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2153.9180711999998,
+            "timestamp_frame": 64617,
+            "_unmapped_timestamp_sec": 2153.88604,
+            "narration_text": "#O the man X throws another ball towards C with his right hand",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2154.5541112,
+            "timestamp_frame": 64636,
+            "_unmapped_timestamp_sec": 2154.52208,
+            "narration_text": "#C C hits the ball with the baseball bat in his hands",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2161.6147412,
+            "timestamp_frame": 64847,
+            "_unmapped_timestamp_sec": 2161.58271,
+            "narration_text": "#O the man X throws another ball towards C with his right hand",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2162.3011812,
+            "timestamp_frame": 64868,
+            "_unmapped_timestamp_sec": 2162.26915,
+            "narration_text": "#C C hits the ball with the baseball bat in his hands",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2166.2681611999997,
+            "timestamp_frame": 64987,
+            "_unmapped_timestamp_sec": 2166.2361300000002,
+            "narration_text": "#O the man X throws another ball towards C with his right hand",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2167.1503212,
+            "timestamp_frame": 65014,
+            "_unmapped_timestamp_sec": 2167.11829,
+            "narration_text": "#C C hits the ball with the baseball bat in his hands",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2174.6479512,
+            "timestamp_frame": 65238,
+            "_unmapped_timestamp_sec": 2174.61592,
+            "narration_text": "#C C turns towards the gate behind him",
+            "annotation_uid": "849d79b8-195e-494e-8d69-35a55780a487"
+        },
+        {
+            "timestamp_sec": 2175.1026011999998,
+            "timestamp_frame": 65252,
+            "_unmapped_timestamp_sec": 2175.07057,
+            "narration_text": "#C C turns towards a gate behind",
+            "annotation_uid": "1e161f1d-beaf-4e3a-9b3b-a22c1afe54fa"
+        },
+        {
+            "timestamp_sec": 2178.6892712,
+            "timestamp_frame": 65360,
+            "_unmapped_timestamp_sec": 2178.65724,
+            "narration_text": "#C C walks towards some baseball bats on the ground",
+            "annotation_uid": "1e161f1d-beaf-4e3a-9b3b-a22c1afe54fa"
+        },
+        {
+            "timestamp_sec": 2180.0565812,
+            "timestamp_frame": 65401,
+            "_unmapped_timestamp_sec": 2180.02455,
+            "narration_text": "#C C drops the hand gloves in his hands on the ground ",
+            "annotation_uid": "1e161f1d-beaf-4e3a-9b3b-a22c1afe54fa"
+        },
+        {
+            "timestamp_sec": 2182.7727712,
+            "timestamp_frame": 65482,
+            "_unmapped_timestamp_sec": 2182.74074,
+            "narration_text": "#C C removes the camera from his head",
+            "annotation_uid": "1e161f1d-beaf-4e3a-9b3b-a22c1afe54fa"
+        },
+        {
+            "timestamp_sec": 2176.0259011999997,
+            "timestamp_frame": 65280,
+            "_unmapped_timestamp_sec": 2175.99387,
+            "narration_text": "#C C interacts with the man X",
+            "annotation_uid": "1e161f1d-beaf-4e3a-9b3b-a22c1afe54fa"
+        },
+        {
+            "timestamp_sec": 2184.4310312,
+            "timestamp_frame": 65532,
+            "_unmapped_timestamp_sec": 2184.399,
+            "narration_text": "#C C walks with the camera in his hand",
+            "annotation_uid": "1e161f1d-beaf-4e3a-9b3b-a22c1afe54fa"
+        },
+        {
+            "timestamp_sec": 2043.0694512,
+            "timestamp_frame": 61291,
+            "_unmapped_timestamp_sec": 2043.03742,
+            "narration_text": "#O A man W stands on the pitch ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2045.8117412,
+            "timestamp_frame": 61373,
+            "_unmapped_timestamp_sec": 2045.77971,
+            "narration_text": "#O A man X walks around the pitch ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2048.4984612,
+            "timestamp_frame": 61454,
+            "_unmapped_timestamp_sec": 2048.46643,
+            "narration_text": "#O A man W stands on the pitch ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2050.5738512,
+            "timestamp_frame": 61516,
+            "_unmapped_timestamp_sec": 2050.54182,
+            "narration_text": "#O A man X walks around the pitch ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2053.6882212,
+            "timestamp_frame": 61610,
+            "_unmapped_timestamp_sec": 2053.65619,
+            "narration_text": "#O A man X walks around the pitch ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2059.5774112,
+            "timestamp_frame": 61786,
+            "_unmapped_timestamp_sec": 2059.54538,
+            "narration_text": "#C C walks around the pitch ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2063.0222512,
+            "timestamp_frame": 61890,
+            "_unmapped_timestamp_sec": 2062.99022,
+            "narration_text": "#C C looks on the ground ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2064.8989211999997,
+            "timestamp_frame": 61946,
+            "_unmapped_timestamp_sec": 2064.8668900000002,
+            "narration_text": "#O A man X walks around the pitch ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2068.1023112,
+            "timestamp_frame": 62042,
+            "_unmapped_timestamp_sec": 2068.07028,
+            "narration_text": "#O A man X bends on the pitch ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2070.6707112,
+            "timestamp_frame": 62119,
+            "_unmapped_timestamp_sec": 2070.63868,
+            "narration_text": "#O A man X throws the baseball ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2074.2696212,
+            "timestamp_frame": 62227,
+            "_unmapped_timestamp_sec": 2074.23759,
+            "narration_text": "#C C walks around the pitch ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2080.1304812,
+            "timestamp_frame": 62403,
+            "_unmapped_timestamp_sec": 2080.09845,
+            "narration_text": "#O A man W walks around the pitch ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2082.0479612,
+            "timestamp_frame": 62460,
+            "_unmapped_timestamp_sec": 2082.01593,
+            "narration_text": "#O A man X bends on the pitch ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2083.7779212,
+            "timestamp_frame": 62512,
+            "_unmapped_timestamp_sec": 2083.74589,
+            "narration_text": "#O A man X throws the baseball ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2086.6425912,
+            "timestamp_frame": 62598,
+            "_unmapped_timestamp_sec": 2086.61056,
+            "narration_text": "#C C walks around the pitch ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2091.7889212,
+            "timestamp_frame": 62753,
+            "_unmapped_timestamp_sec": 2091.75689,
+            "narration_text": "#O A man W walks around the pitch ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2094.9325912,
+            "timestamp_frame": 62847,
+            "_unmapped_timestamp_sec": 2094.90056,
+            "narration_text": "#C C hits the baseball with the bat on the ground ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2095.7390212,
+            "timestamp_frame": 62871,
+            "_unmapped_timestamp_sec": 2095.70699,
+            "narration_text": "#O A man W walks around the pitch ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2100.0400312,
+            "timestamp_frame": 63000,
+            "_unmapped_timestamp_sec": 2100.008,
+            "narration_text": "#C C kicks the baseball on the ground ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2107.6716412,
+            "timestamp_frame": 63229,
+            "_unmapped_timestamp_sec": 2107.63961,
+            "narration_text": "#O A man W walks around the pitch ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2115.8795912,
+            "timestamp_frame": 63475,
+            "_unmapped_timestamp_sec": 2115.84756,
+            "narration_text": "#C C stands on the pitch ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2117.7056611999997,
+            "timestamp_frame": 63530,
+            "_unmapped_timestamp_sec": 2117.6736300000002,
+            "narration_text": "#C C looks around the pitch ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2119.8717112,
+            "timestamp_frame": 63595,
+            "_unmapped_timestamp_sec": 2119.83968,
+            "narration_text": "#O A man W walks around the pitch ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2122.0908511999996,
+            "timestamp_frame": 63662,
+            "_unmapped_timestamp_sec": 2122.05882,
+            "narration_text": "#O A man W picks a baseball from the ground ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2121.0487912,
+            "timestamp_frame": 63631,
+            "_unmapped_timestamp_sec": 2121.01676,
+            "narration_text": "#C C swings the bat ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2123.8436412,
+            "timestamp_frame": 63714,
+            "_unmapped_timestamp_sec": 2123.81161,
+            "narration_text": "#O A man W picks a baseballs from the ground ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2126.8017912,
+            "timestamp_frame": 63803,
+            "_unmapped_timestamp_sec": 2126.76976,
+            "narration_text": "#O A man W walks around the pitch ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2129.5953712,
+            "timestamp_frame": 63887,
+            "_unmapped_timestamp_sec": 2129.56334,
+            "narration_text": "#O A man W throws the baseball ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2130.3099112,
+            "timestamp_frame": 63908,
+            "_unmapped_timestamp_sec": 2130.27788,
+            "narration_text": "#C C hits the baseball with the bat ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2132.8447912,
+            "timestamp_frame": 63984,
+            "_unmapped_timestamp_sec": 2132.81276,
+            "narration_text": "#O A man W throws the baseball ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2133.6000311999996,
+            "timestamp_frame": 64007,
+            "_unmapped_timestamp_sec": 2133.568,
+            "narration_text": "#C C hits the baseball with the bat ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2136.2989512,
+            "timestamp_frame": 64088,
+            "_unmapped_timestamp_sec": 2136.26692,
+            "narration_text": "#O A man W throws the baseball ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2137.5377611999997,
+            "timestamp_frame": 64125,
+            "_unmapped_timestamp_sec": 2137.50573,
+            "narration_text": "#C C hits the baseball with the bat ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2140.3967712,
+            "timestamp_frame": 64211,
+            "_unmapped_timestamp_sec": 2140.36474,
+            "narration_text": "#O A man W throws the baseball ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2141.1040312,
+            "timestamp_frame": 64232,
+            "_unmapped_timestamp_sec": 2141.072,
+            "narration_text": "#C C hits the baseball with the bat ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2142.6785212,
+            "timestamp_frame": 64279,
+            "_unmapped_timestamp_sec": 2142.64649,
+            "narration_text": "#O A man W walks around the pitch ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2144.1594912,
+            "timestamp_frame": 64324,
+            "_unmapped_timestamp_sec": 2144.12746,
+            "narration_text": "#O A man W picks baseballs from the ground ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2145.1015211999998,
+            "timestamp_frame": 64352,
+            "_unmapped_timestamp_sec": 2145.06949,
+            "narration_text": "#O A man W walks around the pitch ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2146.1695712,
+            "timestamp_frame": 64384,
+            "_unmapped_timestamp_sec": 2146.13754,
+            "narration_text": "#O A man W picks a baseball from the ground ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2147.0004212,
+            "timestamp_frame": 64409,
+            "_unmapped_timestamp_sec": 2146.96839,
+            "narration_text": "#O A man W walks around the pitch ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2150.2715512,
+            "timestamp_frame": 64507,
+            "_unmapped_timestamp_sec": 2150.23952,
+            "narration_text": "#O A man W throws the baseball ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2151.1778512,
+            "timestamp_frame": 64534,
+            "_unmapped_timestamp_sec": 2151.14582,
+            "narration_text": "#C C hits the baseball with the bat ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2153.4079412,
+            "timestamp_frame": 64601,
+            "_unmapped_timestamp_sec": 2153.3759099999997,
+            "narration_text": "#O A man W throws the baseball ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2154.4232112,
+            "timestamp_frame": 64632,
+            "_unmapped_timestamp_sec": 2154.39118,
+            "narration_text": "#C C hits the baseball with the bat ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2161.1772612,
+            "timestamp_frame": 64834,
+            "_unmapped_timestamp_sec": 2161.14523,
+            "narration_text": "#O A man W throws the baseball ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2162.1704912,
+            "timestamp_frame": 64864,
+            "_unmapped_timestamp_sec": 2162.13846,
+            "narration_text": "#C C hits the baseball with the bat ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2166.1687211999997,
+            "timestamp_frame": 64984,
+            "_unmapped_timestamp_sec": 2166.13669,
+            "narration_text": "#O A man W throws the baseball ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2167.0331912,
+            "timestamp_frame": 65010,
+            "_unmapped_timestamp_sec": 2167.00116,
+            "narration_text": "#C C hits the baseball with the bat ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2170.2638411999997,
+            "timestamp_frame": 65107,
+            "_unmapped_timestamp_sec": 2170.23181,
+            "narration_text": "#O A man W stands on the pitch ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2172.2178311999996,
+            "timestamp_frame": 65166,
+            "_unmapped_timestamp_sec": 2172.1858,
+            "narration_text": "#C C walks around the pitch ",
+            "annotation_uid": "3e556329-9db8-4ee2-90a2-560663404656"
+        },
+        {
+            "timestamp_sec": 2180.9164112,
+            "timestamp_frame": 65427,
+            "_unmapped_timestamp_sec": 2180.88438,
+            "narration_text": "#C C picks a baseball bat ",
+            "annotation_uid": "ac94c611-6aa1-4530-a965-b5ec9ff52d70"
+        },
+        {
+            "timestamp_sec": 2182.8842311999997,
+            "timestamp_frame": 65486,
+            "_unmapped_timestamp_sec": 2182.8522,
+            "narration_text": "#C C walks towards man Y",
+            "annotation_uid": "ac94c611-6aa1-4530-a965-b5ec9ff52d70"
+        }
+    ]
+}

@@ -1,0 +1,690 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 1140.7420386,
+            "timestamp_frame": 34222,
+            "_unmapped_timestamp_sec": 1140.72101,
+            "narration_text": "#C C pours water on the cloth from the pot with his right hand",
+            "annotation_uid": "154c5ae7-9016-4a17-a0fe-441e7ef83977"
+        },
+        {
+            "timestamp_sec": 1142.0817186,
+            "timestamp_frame": 34262,
+            "_unmapped_timestamp_sec": 1142.06069,
+            "narration_text": "#C C takes water from the drum with the pot in his right hand",
+            "annotation_uid": "154c5ae7-9016-4a17-a0fe-441e7ef83977"
+        },
+        {
+            "timestamp_sec": 1145.4175186,
+            "timestamp_frame": 34362,
+            "_unmapped_timestamp_sec": 1145.39649,
+            "narration_text": "#C C washes the cloth with both hands",
+            "annotation_uid": "154c5ae7-9016-4a17-a0fe-441e7ef83977"
+        },
+        {
+            "timestamp_sec": 1153.0918986000001,
+            "timestamp_frame": 34592,
+            "_unmapped_timestamp_sec": 1153.07087,
+            "narration_text": "#C C searches a bucket of clothes with his right hand",
+            "annotation_uid": "154c5ae7-9016-4a17-a0fe-441e7ef83977"
+        },
+        {
+            "timestamp_sec": 1143.3124085999998,
+            "timestamp_frame": 34299,
+            "_unmapped_timestamp_sec": 1143.29138,
+            "narration_text": "#C C washes the cloth with his left hand",
+            "annotation_uid": "154c5ae7-9016-4a17-a0fe-441e7ef83977"
+        },
+        {
+            "timestamp_sec": 1143.5777785999999,
+            "timestamp_frame": 34307,
+            "_unmapped_timestamp_sec": 1143.55675,
+            "narration_text": "#C C pours the water on the cloth",
+            "annotation_uid": "154c5ae7-9016-4a17-a0fe-441e7ef83977"
+        },
+        {
+            "timestamp_sec": 1144.9336586,
+            "timestamp_frame": 34347,
+            "_unmapped_timestamp_sec": 1144.91263,
+            "narration_text": "#C C drops the pot in his right hand on the floor",
+            "annotation_uid": "154c5ae7-9016-4a17-a0fe-441e7ef83977"
+        },
+        {
+            "timestamp_sec": 1151.4435985999999,
+            "timestamp_frame": 34543,
+            "_unmapped_timestamp_sec": 1151.42257,
+            "narration_text": "#C C throws the cloth on a pile of cloths beside the wall ",
+            "annotation_uid": "154c5ae7-9016-4a17-a0fe-441e7ef83977"
+        },
+        {
+            "timestamp_sec": 1154.2790786,
+            "timestamp_frame": 34628,
+            "_unmapped_timestamp_sec": 1154.25805,
+            "narration_text": "#C C holds the bucket with his left hand",
+            "annotation_uid": "154c5ae7-9016-4a17-a0fe-441e7ef83977"
+        },
+        {
+            "timestamp_sec": 1158.8950886,
+            "timestamp_frame": 34766,
+            "_unmapped_timestamp_sec": 1158.8740599999999,
+            "narration_text": "#C C picks out a piece of cloth with his right hand",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1160.2007786,
+            "timestamp_frame": 34805,
+            "_unmapped_timestamp_sec": 1160.17975,
+            "narration_text": "#C C drops the cloth on the floor with both hands",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1161.1519686000001,
+            "timestamp_frame": 34834,
+            "_unmapped_timestamp_sec": 1161.13094,
+            "narration_text": "#C C washes the cloth with both hands",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1164.3474586,
+            "timestamp_frame": 34930,
+            "_unmapped_timestamp_sec": 1164.3264299999998,
+            "narration_text": "#C C adjusts the pot on the floor with his right hand",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1165.7184186,
+            "timestamp_frame": 34971,
+            "_unmapped_timestamp_sec": 1165.69739,
+            "narration_text": "#C C spreads out the cloth on the floor with both hands",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1169.4548986,
+            "timestamp_frame": 35083,
+            "_unmapped_timestamp_sec": 1169.4338699999998,
+            "narration_text": "#C C picks up soap with his right hand",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1171.1669686,
+            "timestamp_frame": 35134,
+            "_unmapped_timestamp_sec": 1171.1459399999999,
+            "narration_text": "#C C applies soap to the cloth on the floor",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1199.8247586,
+            "timestamp_frame": 35994,
+            "_unmapped_timestamp_sec": 1199.8037299999999,
+            "narration_text": "#C C turns the cloth to the other side with both hands",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1202.6498469333333,
+            "timestamp_frame": 36079,
+            "_unmapped_timestamp_sec": 1202.79249,
+            "narration_text": "#C C washes the cloth with both hands",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1206.8606069333332,
+            "timestamp_frame": 36205,
+            "_unmapped_timestamp_sec": 1207.00325,
+            "narration_text": "#C C turns the cloth to the other side with both hands",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1209.0281469333331,
+            "timestamp_frame": 36270,
+            "_unmapped_timestamp_sec": 1209.17079,
+            "narration_text": "#C C turns the cloth to the other side with both hands",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1217.1987769333332,
+            "timestamp_frame": 36515,
+            "_unmapped_timestamp_sec": 1217.34142,
+            "narration_text": "#C C picks up another soap with his right hand",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1219.4256169333335,
+            "timestamp_frame": 36582,
+            "_unmapped_timestamp_sec": 1219.56826,
+            "narration_text": "#C C applies soap to the cloth on the floor",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1222.1762069333333,
+            "timestamp_frame": 36665,
+            "_unmapped_timestamp_sec": 1222.3188499999999,
+            "narration_text": "#C C takes the soap off the cloth to the floor with his right hand",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1223.0323069333333,
+            "timestamp_frame": 36690,
+            "_unmapped_timestamp_sec": 1223.1749499999999,
+            "narration_text": "#C C picks up a brush with his right hand",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1223.5623169333332,
+            "timestamp_frame": 36706,
+            "_unmapped_timestamp_sec": 1223.70496,
+            "narration_text": "#C C washes the cloth with the brush in his right hand",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1232.9194069333334,
+            "timestamp_frame": 36987,
+            "_unmapped_timestamp_sec": 1233.06205,
+            "narration_text": "#C C drops the brush in his right hand on the floor",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1233.5959969333333,
+            "timestamp_frame": 37007,
+            "_unmapped_timestamp_sec": 1233.73864,
+            "narration_text": "#C C turns the cloth to the other side with both hands",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1234.7512869333332,
+            "timestamp_frame": 37042,
+            "_unmapped_timestamp_sec": 1234.89393,
+            "narration_text": "#C C picks up the brush with his right hand",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1240.5236069333332,
+            "timestamp_frame": 37215,
+            "_unmapped_timestamp_sec": 1240.66625,
+            "narration_text": "#C C drops the brush in his right hand on the floor",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1241.0774669333332,
+            "timestamp_frame": 37232,
+            "_unmapped_timestamp_sec": 1241.22011,
+            "narration_text": "#C C washes the cloth with both hands",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1245.1447369333332,
+            "timestamp_frame": 37354,
+            "_unmapped_timestamp_sec": 1245.28738,
+            "narration_text": "#C C picks the pot on the floor with his right hand",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1246.1060369333331,
+            "timestamp_frame": 37383,
+            "_unmapped_timestamp_sec": 1246.24868,
+            "narration_text": "#C C takes water from the drum with the pot in his right hand",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1247.1177269333334,
+            "timestamp_frame": 37413,
+            "_unmapped_timestamp_sec": 1247.26037,
+            "narration_text": "#C C washes the cloth with his left hand",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1247.1177269333334,
+            "timestamp_frame": 37413,
+            "_unmapped_timestamp_sec": 1247.26037,
+            "narration_text": "#C C pours the water on the cloth",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1251.3430669333334,
+            "timestamp_frame": 37540,
+            "_unmapped_timestamp_sec": 1251.48571,
+            "narration_text": "#C C drops the pot in his right hand on the floor",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1251.5175769333332,
+            "timestamp_frame": 37545,
+            "_unmapped_timestamp_sec": 1251.66022,
+            "narration_text": "#C C washes the cloth with both hands",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1257.3515869333332,
+            "timestamp_frame": 37720,
+            "_unmapped_timestamp_sec": 1257.49423,
+            "narration_text": "#C C pours water on the cloth from the pot with his right hand",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1258.2072069333333,
+            "timestamp_frame": 37746,
+            "_unmapped_timestamp_sec": 1258.34985,
+            "narration_text": "#C C washes the cloth with his left hand",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1259.7609269333334,
+            "timestamp_frame": 37792,
+            "_unmapped_timestamp_sec": 1259.90357,
+            "narration_text": "#C C drops the pot in his right hand on the floor",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1260.0475069333334,
+            "timestamp_frame": 37801,
+            "_unmapped_timestamp_sec": 1260.19015,
+            "narration_text": "#C C washes the cloth with both hands",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1264.3042669333333,
+            "timestamp_frame": 37928,
+            "_unmapped_timestamp_sec": 1264.44691,
+            "narration_text": "#C C throws the cloth on a pile of cloths beside the wall ",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1265.6161469333333,
+            "timestamp_frame": 37968,
+            "_unmapped_timestamp_sec": 1265.7587899999999,
+            "narration_text": "#C C picks out a cloth from a bucket to the floor with his right hand",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1270.1912869333332,
+            "timestamp_frame": 38105,
+            "_unmapped_timestamp_sec": 1270.33393,
+            "narration_text": "#C C holds his hands together",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1273.7930769333334,
+            "timestamp_frame": 38213,
+            "_unmapped_timestamp_sec": 1273.93572,
+            "narration_text": "#C C adjusts the pot on the floor with his right hand",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1273.9809969333332,
+            "timestamp_frame": 38219,
+            "_unmapped_timestamp_sec": 1274.12364,
+            "narration_text": "#C C washes the cloth with both hands",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1276.8827969333333,
+            "timestamp_frame": 38306,
+            "_unmapped_timestamp_sec": 1277.02544,
+            "narration_text": "#C C adjusts the brush on the floor with his right hand",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1277.368656933333,
+            "timestamp_frame": 38320,
+            "_unmapped_timestamp_sec": 1277.5113,
+            "narration_text": "#C C spreads out the cloth on the floor with both hands",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1278.3099469333333,
+            "timestamp_frame": 38349,
+            "_unmapped_timestamp_sec": 1278.4525899999999,
+            "narration_text": "#C C picks the pot on the floor with his right hand",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1278.9715569333334,
+            "timestamp_frame": 38369,
+            "_unmapped_timestamp_sec": 1279.1142,
+            "narration_text": "#C C drops the pot in the drum ",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1279.6767969333332,
+            "timestamp_frame": 38390,
+            "_unmapped_timestamp_sec": 1279.81944,
+            "narration_text": "#C C spreads out the cloth on the floor with both hands",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1283.6598069333331,
+            "timestamp_frame": 38509,
+            "_unmapped_timestamp_sec": 1283.80245,
+            "narration_text": "#C C picks up soap with his right hand ",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1234.9977369333333,
+            "timestamp_frame": 37049,
+            "_unmapped_timestamp_sec": 1235.14038,
+            "narration_text": "#C C washes the cloth with the brush in his right hand",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1284.0052769333333,
+            "timestamp_frame": 38520,
+            "_unmapped_timestamp_sec": 1284.1479199999999,
+            "narration_text": "#C C applies soap to the cloth on the floor",
+            "annotation_uid": "4cf34f0c-1351-4d67-ad59-c049cd19e24d"
+        },
+        {
+            "timestamp_sec": 1141.7755152666666,
+            "timestamp_frame": 34253,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C  pours the water on the trouser",
+            "annotation_uid": "6e56780c-a008-4579-8c25-344fb11f37cc"
+        },
+        {
+            "timestamp_sec": 1142.5964552666667,
+            "timestamp_frame": 34277,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C fetches water in the bucket with the cooking pot in the right hand",
+            "annotation_uid": "6e56780c-a008-4579-8c25-344fb11f37cc"
+        },
+        {
+            "timestamp_sec": 1144.2785352666665,
+            "timestamp_frame": 34328,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C holds the trouser with the left hand",
+            "annotation_uid": "6e56780c-a008-4579-8c25-344fb11f37cc"
+        },
+        {
+            "timestamp_sec": 1145.7653252666667,
+            "timestamp_frame": 34372,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C places the cooking pot on the floor with the right hand",
+            "annotation_uid": "6e56780c-a008-4579-8c25-344fb11f37cc"
+        },
+        {
+            "timestamp_sec": 1147.7594752666666,
+            "timestamp_frame": 34432,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C squeezes water in the trouser with both hands",
+            "annotation_uid": "6e56780c-a008-4579-8c25-344fb11f37cc"
+        },
+        {
+            "timestamp_sec": 1153.4890152666665,
+            "timestamp_frame": 34604,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C  holds the cloth in the bucket with the right hand",
+            "annotation_uid": "6e56780c-a008-4579-8c25-344fb11f37cc"
+        },
+        {
+            "timestamp_sec": 1155.0839152666665,
+            "timestamp_frame": 34652,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C  holds the bucket with the left hand",
+            "annotation_uid": "6e56780c-a008-4579-8c25-344fb11f37cc"
+        },
+        {
+            "timestamp_sec": 1160.4944552666666,
+            "timestamp_frame": 34814,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C throws cloth on the floor",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1161.6447952666665,
+            "timestamp_frame": 34849,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C scrubs cloth on the floor",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1166.6801652666666,
+            "timestamp_frame": 35000,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C straightens the cloth",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1168.2171952666665,
+            "timestamp_frame": 35046,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C throws cloth on the floor",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1169.5468052666665,
+            "timestamp_frame": 35086,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks soap on a cloth",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1170.8193052666666,
+            "timestamp_frame": 35124,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C talks",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1171.6169252666666,
+            "timestamp_frame": 35148,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C applies soap on the cloth",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1173.6217752666666,
+            "timestamp_frame": 35208,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C applies soap on the cloth",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1173.6217752666666,
+            "timestamp_frame": 35208,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C talks",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1176.3640352666666,
+            "timestamp_frame": 35290,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1180.1856252666666,
+            "timestamp_frame": 35405,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C applies soap on the cloth",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1202.9775685999998,
+            "timestamp_frame": 36089,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C scrubs cloth on the floor",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1207.2221985999997,
+            "timestamp_frame": 36216,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns the cloth",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1209.9726785999999,
+            "timestamp_frame": 36299,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C scrubs cloth on the floor",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1215.6684586,
+            "timestamp_frame": 36469,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks brush from the floor",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1219.3583385999998,
+            "timestamp_frame": 36580,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C applies soap on the cloth",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1223.8751485999999,
+            "timestamp_frame": 36716,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C scrubs the cloth with a brush",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1233.5474986,
+            "timestamp_frame": 37006,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns the cloth",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1235.5012585999998,
+            "timestamp_frame": 37064,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C scrubs the cloth with a brush",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1240.5876585999997,
+            "timestamp_frame": 37217,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts brush aside",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1241.5780785999998,
+            "timestamp_frame": 37247,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C scrubs cloth on the floor",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1245.1690985999999,
+            "timestamp_frame": 37354,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks pot on the floor",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1246.1723785999998,
+            "timestamp_frame": 37385,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C fetches water in the bucket with the pot",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1247.2109185999998,
+            "timestamp_frame": 37416,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C pours water on the cloth with a pot",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1251.7482185999997,
+            "timestamp_frame": 37552,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C scrubs cloth on the floor",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1257.7741385999998,
+            "timestamp_frame": 37733,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C pours water on the cloth with a pot",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1259.9464485999997,
+            "timestamp_frame": 37798,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C scrubs cloth on the floor",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1264.3403686,
+            "timestamp_frame": 37930,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts cloth aside",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1265.4095685999998,
+            "timestamp_frame": 37962,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks sweater from the bucket",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1267.5499885999998,
+            "timestamp_frame": 38026,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C throws sweater on the floor",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1273.5763985999997,
+            "timestamp_frame": 38207,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C moves the pot aside",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1274.4288185999999,
+            "timestamp_frame": 38232,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C scrubs sweater on the floor",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1276.9004685999998,
+            "timestamp_frame": 38306,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C moves the brush",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1278.0866985999999,
+            "timestamp_frame": 38342,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns the sweater",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1278.6928385999997,
+            "timestamp_frame": 38360,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts pot in the bucket",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1281.5479385999997,
+            "timestamp_frame": 38446,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C spreads sweater on the floor",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1283.8557485999997,
+            "timestamp_frame": 38515,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks soap from the cloth",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        },
+        {
+            "timestamp_sec": 1284.3143486,
+            "timestamp_frame": 38529,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C applies soap on the sweater",
+            "annotation_uid": "d41af9b8-a165-4877-a5f2-369f3ccf0806"
+        }
+    ]
+}

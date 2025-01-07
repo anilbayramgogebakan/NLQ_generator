@@ -1,0 +1,816 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 2582.7804986,
+            "timestamp_frame": 77483,
+            "_unmapped_timestamp_sec": 2582.75947,
+            "narration_text": "#O lady Z speaks to C.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2583.5365186,
+            "timestamp_frame": 77505,
+            "_unmapped_timestamp_sec": 2583.5154899999998,
+            "narration_text": "#O lady Z reaches her right hand over the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2586.5712386,
+            "timestamp_frame": 77597,
+            "_unmapped_timestamp_sec": 2586.55021,
+            "narration_text": "#O lady Z drops a yellow game piece inside a rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2587.1827886,
+            "timestamp_frame": 77615,
+            "_unmapped_timestamp_sec": 2587.16176,
+            "narration_text": "#O lady Z raises her hand.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2587.3942886,
+            "timestamp_frame": 77621,
+            "_unmapped_timestamp_sec": 2587.37326,
+            "narration_text": "#O lady Z speaks to C.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2587.7816786000003,
+            "timestamp_frame": 77633,
+            "_unmapped_timestamp_sec": 2587.76065,
+            "narration_text": "#O lady Z lowers her hand.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2593.5907786000002,
+            "timestamp_frame": 77807,
+            "_unmapped_timestamp_sec": 2593.56975,
+            "narration_text": "#C C raises his hand to #unsure.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2594.8096786,
+            "timestamp_frame": 77844,
+            "_unmapped_timestamp_sec": 2594.78865,
+            "narration_text": "#C C reaches his left hand to the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2595.2003886,
+            "timestamp_frame": 77855,
+            "_unmapped_timestamp_sec": 2595.17936,
+            "narration_text": "#C C drops a red piece inside the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2596.0903786,
+            "timestamp_frame": 77882,
+            "_unmapped_timestamp_sec": 2596.0693499999998,
+            "narration_text": "#C C reaches his hand to #unsure.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2597.3459686,
+            "timestamp_frame": 77920,
+            "_unmapped_timestamp_sec": 2597.32494,
+            "narration_text": "#C C touches #unsure.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2598.0889086,
+            "timestamp_frame": 77942,
+            "_unmapped_timestamp_sec": 2598.06788,
+            "narration_text": "#O lady Z reaches her hand over the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2598.4825986,
+            "timestamp_frame": 77954,
+            "_unmapped_timestamp_sec": 2598.46157,
+            "narration_text": "#O lady Z drops a yellow game piece inside the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2599.1418986000003,
+            "timestamp_frame": 77974,
+            "_unmapped_timestamp_sec": 2599.12087,
+            "narration_text": "#O lady Z lowers her hands.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2599.9622786,
+            "timestamp_frame": 77998,
+            "_unmapped_timestamp_sec": 2599.94125,
+            "narration_text": "#C C drops a red game piece inside the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2602.1981486,
+            "timestamp_frame": 78065,
+            "_unmapped_timestamp_sec": 2602.17712,
+            "narration_text": "#O lady Z drops a yellow game piece over the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2602.6015486,
+            "timestamp_frame": 78077,
+            "_unmapped_timestamp_sec": 2602.58052,
+            "narration_text": "#O lady Z laughs with C.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2603.4711086,
+            "timestamp_frame": 78104,
+            "_unmapped_timestamp_sec": 2603.45008,
+            "narration_text": "#C C drops a red game piece inside the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2607.8375386000002,
+            "timestamp_frame": 78234,
+            "_unmapped_timestamp_sec": 2607.81651,
+            "narration_text": "#C C speaks to lady Z.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2608.0536086,
+            "timestamp_frame": 78241,
+            "_unmapped_timestamp_sec": 2608.03258,
+            "narration_text": "#C C holds the top of the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2609.0768386,
+            "timestamp_frame": 78272,
+            "_unmapped_timestamp_sec": 2609.05581,
+            "narration_text": "#C C presses the top of the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2610.1688586,
+            "timestamp_frame": 78304,
+            "_unmapped_timestamp_sec": 2610.14783,
+            "narration_text": "#C C pours the game pieces on the table.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2611.9407586,
+            "timestamp_frame": 78358,
+            "_unmapped_timestamp_sec": 2611.91973,
+            "narration_text": "#O lady Z pulls yellow game pieces on the table.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2613.0751186,
+            "timestamp_frame": 78392,
+            "_unmapped_timestamp_sec": 2613.05409,
+            "narration_text": "#C C pulls red game pieces on the table.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2619.4640886,
+            "timestamp_frame": 78583,
+            "_unmapped_timestamp_sec": 2619.44306,
+            "narration_text": "#C C slides the yellow game pieces to lady Z.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2621.4904686,
+            "timestamp_frame": 78644,
+            "_unmapped_timestamp_sec": 2621.46944,
+            "narration_text": "#C C pulls red game pieces on the table.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2622.1337986000003,
+            "timestamp_frame": 78663,
+            "_unmapped_timestamp_sec": 2622.11277,
+            "narration_text": "#O lady Z slides the red game pieces to C.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2622.4735486,
+            "timestamp_frame": 78674,
+            "_unmapped_timestamp_sec": 2622.45252,
+            "narration_text": "#O lady Z pulls yellow game pieces on the table.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2626.6740786,
+            "timestamp_frame": 78800,
+            "_unmapped_timestamp_sec": 2626.65305,
+            "narration_text": "#O lady Z touches the yellow game pieces on the table.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2627.0516486,
+            "timestamp_frame": 78811,
+            "_unmapped_timestamp_sec": 2627.03062,
+            "narration_text": "#C C touches the red game pieces on the table.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2628.2143586,
+            "timestamp_frame": 78846,
+            "_unmapped_timestamp_sec": 2628.19333,
+            "narration_text": "#O lady Z holds the floor with both hands.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2629.5898586000003,
+            "timestamp_frame": 78887,
+            "_unmapped_timestamp_sec": 2629.56883,
+            "narration_text": "#C C holds the rack with both hands.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2629.8491286000003,
+            "timestamp_frame": 78895,
+            "_unmapped_timestamp_sec": 2629.8281,
+            "narration_text": "#C C closes the lower opening of the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2630.5422086000003,
+            "timestamp_frame": 78916,
+            "_unmapped_timestamp_sec": 2630.52118,
+            "narration_text": "#C C lets go of the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2631.7543786,
+            "timestamp_frame": 78952,
+            "_unmapped_timestamp_sec": 2631.73335,
+            "narration_text": "#C C takes a red game piece from the table.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2632.3755086,
+            "timestamp_frame": 78971,
+            "_unmapped_timestamp_sec": 2632.35448,
+            "narration_text": "#C C drops the red piece inside the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2634.5930886,
+            "timestamp_frame": 79037,
+            "_unmapped_timestamp_sec": 2634.57206,
+            "narration_text": "#O lady Z takes a yellow game piece from the table.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2635.6042286,
+            "timestamp_frame": 79067,
+            "_unmapped_timestamp_sec": 2635.5832,
+            "narration_text": "#O lady Z drops the yellow game piece inside the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2636.9248486,
+            "timestamp_frame": 79107,
+            "_unmapped_timestamp_sec": 2636.90382,
+            "narration_text": "#C C holds two red pieces over the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2637.2867886000004,
+            "timestamp_frame": 79118,
+            "_unmapped_timestamp_sec": 2637.2657600000002,
+            "narration_text": "#C C drops one red piece in the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2638.1313786,
+            "timestamp_frame": 79143,
+            "_unmapped_timestamp_sec": 2638.11035,
+            "narration_text": "#C C drops the other red piece inside the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2639.2880186,
+            "timestamp_frame": 79178,
+            "_unmapped_timestamp_sec": 2639.26699,
+            "narration_text": "#C C lowers his hand from the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2642.7176286000004,
+            "timestamp_frame": 79281,
+            "_unmapped_timestamp_sec": 2642.6966,
+            "narration_text": "#O lady Z speaks to C.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2644.4713386000003,
+            "timestamp_frame": 79334,
+            "_unmapped_timestamp_sec": 2644.45031,
+            "narration_text": "#C C raises his hand to #unsure.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2645.3045386000003,
+            "timestamp_frame": 79359,
+            "_unmapped_timestamp_sec": 2645.28351,
+            "narration_text": "#C C lets go of #unsure.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2646.9875186,
+            "timestamp_frame": 79409,
+            "_unmapped_timestamp_sec": 2646.96649,
+            "narration_text": "#O lady Z takes a yellow game piece from the table.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2648.6681886,
+            "timestamp_frame": 79459,
+            "_unmapped_timestamp_sec": 2648.64716,
+            "narration_text": "#O lady Z drops the yellow piece in the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2649.1801986,
+            "timestamp_frame": 79475,
+            "_unmapped_timestamp_sec": 2649.15917,
+            "narration_text": "#O lady Z lowers her hand.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2650.3977686000003,
+            "timestamp_frame": 79511,
+            "_unmapped_timestamp_sec": 2650.37674,
+            "narration_text": "#C C holds a red game piece over the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2651.5926186,
+            "timestamp_frame": 79547,
+            "_unmapped_timestamp_sec": 2651.57159,
+            "narration_text": "#C C moves the red game piece over the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2654.7864886,
+            "timestamp_frame": 79643,
+            "_unmapped_timestamp_sec": 2654.76546,
+            "narration_text": "#C C drops the red game piece in the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2655.8456386000003,
+            "timestamp_frame": 79675,
+            "_unmapped_timestamp_sec": 2655.82461,
+            "narration_text": "#O lady Z holds a yellow game piece over the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2656.9429586,
+            "timestamp_frame": 79708,
+            "_unmapped_timestamp_sec": 2656.92193,
+            "narration_text": "#O lady Z drops the yellow game piece inside the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2660.0332286000003,
+            "timestamp_frame": 79800,
+            "_unmapped_timestamp_sec": 2660.0122,
+            "narration_text": "#C C takes a red game piece from the table.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2661.0469286000002,
+            "timestamp_frame": 79831,
+            "_unmapped_timestamp_sec": 2661.0259,
+            "narration_text": "#C C drops the red game piece inside the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2661.5021886,
+            "timestamp_frame": 79844,
+            "_unmapped_timestamp_sec": 2661.48116,
+            "narration_text": "#C C removes his hand from the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2663.9439486,
+            "timestamp_frame": 79918,
+            "_unmapped_timestamp_sec": 2663.92292,
+            "narration_text": "#O lady Z takes a yellow piece from the table.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2664.8186686,
+            "timestamp_frame": 79944,
+            "_unmapped_timestamp_sec": 2664.79764,
+            "narration_text": "#O lady Z drops the yellow piece inside the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2666.0132286000003,
+            "timestamp_frame": 79980,
+            "_unmapped_timestamp_sec": 2665.9922,
+            "narration_text": "#O lady Z lowers her hand to the table. ",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2669.0748386,
+            "timestamp_frame": 80072,
+            "_unmapped_timestamp_sec": 2669.05381,
+            "narration_text": "#C C holds two red pieces over the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2670.2098786,
+            "timestamp_frame": 80106,
+            "_unmapped_timestamp_sec": 2670.18885,
+            "narration_text": "#C C drops one red piece inside the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2670.8919486,
+            "timestamp_frame": 80126,
+            "_unmapped_timestamp_sec": 2670.87092,
+            "narration_text": "#C C removes his hand from the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2679.9016086,
+            "timestamp_frame": 80396,
+            "_unmapped_timestamp_sec": 2679.88058,
+            "narration_text": "#O lady Z reaches her hand over the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2680.5092486000003,
+            "timestamp_frame": 80415,
+            "_unmapped_timestamp_sec": 2680.48822,
+            "narration_text": "#O lady Z drops a yellow piece inside a rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2681.5481586,
+            "timestamp_frame": 80446,
+            "_unmapped_timestamp_sec": 2681.52713,
+            "narration_text": "#O lady Z holds her feet.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2686.9148086,
+            "timestamp_frame": 80607,
+            "_unmapped_timestamp_sec": 2686.89378,
+            "narration_text": "#O lady Z holds yellow game pieces in hand.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2689.0542886000003,
+            "timestamp_frame": 80671,
+            "_unmapped_timestamp_sec": 2689.03326,
+            "narration_text": "#O lady Z touches the yellow game piece in hand.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2689.9020286,
+            "timestamp_frame": 80696,
+            "_unmapped_timestamp_sec": 2689.881,
+            "narration_text": "#C C shows a red game piece in hand.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2692.1360286,
+            "timestamp_frame": 80763,
+            "_unmapped_timestamp_sec": 2692.115,
+            "narration_text": "#C C plays with the red game piece in hand.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2694.6026186,
+            "timestamp_frame": 80837,
+            "_unmapped_timestamp_sec": 2694.58159,
+            "narration_text": "#C C drops the red piece in the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2699.6262286,
+            "timestamp_frame": 80988,
+            "_unmapped_timestamp_sec": 2699.6052,
+            "narration_text": "#O lady Z drops a yellow game piece in the rack",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2701.0920986,
+            "timestamp_frame": 81032,
+            "_unmapped_timestamp_sec": 2701.07107,
+            "narration_text": "#C C speaks to lady Z.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2701.4599886,
+            "timestamp_frame": 81043,
+            "_unmapped_timestamp_sec": 2701.43896,
+            "narration_text": "#C C drops a red piece inside a rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2702.4593686000003,
+            "timestamp_frame": 81073,
+            "_unmapped_timestamp_sec": 2702.43834,
+            "narration_text": "#O lady Z laughs with C.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2704.0543886,
+            "timestamp_frame": 81121,
+            "_unmapped_timestamp_sec": 2704.03336,
+            "narration_text": "#C C touches the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2704.2840186000003,
+            "timestamp_frame": 81128,
+            "_unmapped_timestamp_sec": 2704.26299,
+            "narration_text": "#C C lets go of the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2706.5920786,
+            "timestamp_frame": 81197,
+            "_unmapped_timestamp_sec": 2706.57105,
+            "narration_text": "#C C presses the top of the rack.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2707.0057886,
+            "timestamp_frame": 81210,
+            "_unmapped_timestamp_sec": 2706.98476,
+            "narration_text": "#C C pours the game pieces on the table.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2708.8934286000003,
+            "timestamp_frame": 81266,
+            "_unmapped_timestamp_sec": 2708.8724,
+            "narration_text": "#O lady Z reaches her hand under the table.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2709.1671586,
+            "timestamp_frame": 81274,
+            "_unmapped_timestamp_sec": 2709.14613,
+            "narration_text": "#O lady Z speaks to C.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2710.1212486,
+            "timestamp_frame": 81303,
+            "_unmapped_timestamp_sec": 2710.10022,
+            "narration_text": "#C C speaks to lady Z.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2713.0237786000002,
+            "timestamp_frame": 81390,
+            "_unmapped_timestamp_sec": 2713.00275,
+            "narration_text": "#O lady Z laughs.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2714.3799886,
+            "timestamp_frame": 81431,
+            "_unmapped_timestamp_sec": 2714.35896,
+            "narration_text": "#O lady Z takes the yellow game pieces on the table.",
+            "annotation_uid": "f29cd3f4-cb3d-41fe-9218-652b55ad21df"
+        },
+        {
+            "timestamp_sec": 2720.6972786,
+            "timestamp_frame": 81620,
+            "_unmapped_timestamp_sec": 2720.67625,
+            "narration_text": "#O lady G takes the yellow game pieces from the table.",
+            "annotation_uid": "49c2ddeb-be12-47be-b17b-542624001882"
+        },
+        {
+            "timestamp_sec": 2722.3505386,
+            "timestamp_frame": 81670,
+            "_unmapped_timestamp_sec": 2722.32951,
+            "narration_text": "#C C speaks to lady G.",
+            "annotation_uid": "49c2ddeb-be12-47be-b17b-542624001882"
+        },
+        {
+            "timestamp_sec": 2726.7120486000003,
+            "timestamp_frame": 81801,
+            "_unmapped_timestamp_sec": 2726.69102,
+            "narration_text": "#O lady G speaks to C.",
+            "annotation_uid": "49c2ddeb-be12-47be-b17b-542624001882"
+        },
+        {
+            "timestamp_sec": 2583.2375186,
+            "timestamp_frame": 77496,
+            "_unmapped_timestamp_sec": 2583.21649,
+            "narration_text": "#O lady X dialogues with C",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2586.2024386000003,
+            "timestamp_frame": 77585,
+            "_unmapped_timestamp_sec": 2586.18141,
+            "narration_text": "#O lady X plays connect four game",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2587.5300686,
+            "timestamp_frame": 77625,
+            "_unmapped_timestamp_sec": 2587.50904,
+            "narration_text": "#O lady X dialogues with C",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2595.0331286,
+            "timestamp_frame": 77850,
+            "_unmapped_timestamp_sec": 2595.0121,
+            "narration_text": "#C C plays connect four game",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2596.3789686,
+            "timestamp_frame": 77891,
+            "_unmapped_timestamp_sec": 2596.35794,
+            "narration_text": "#C C holds camera",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2598.4655286,
+            "timestamp_frame": 77953,
+            "_unmapped_timestamp_sec": 2598.4445,
+            "narration_text": "#O lady X plays connect four game",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2599.7934886000003,
+            "timestamp_frame": 77993,
+            "_unmapped_timestamp_sec": 2599.77246,
+            "narration_text": "#C C plays connect four game",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2601.8261686,
+            "timestamp_frame": 78054,
+            "_unmapped_timestamp_sec": 2601.80514,
+            "narration_text": "#O lady X plays connect four game",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2603.4982686000003,
+            "timestamp_frame": 78104,
+            "_unmapped_timestamp_sec": 2603.47724,
+            "narration_text": "#C C plays connect four game",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2604.1175886,
+            "timestamp_frame": 78123,
+            "_unmapped_timestamp_sec": 2604.09656,
+            "narration_text": "#C C dialogues with lady X",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2609.2177286,
+            "timestamp_frame": 78276,
+            "_unmapped_timestamp_sec": 2609.1967,
+            "narration_text": "#C C removes connect four pieces from the board",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2613.8121786,
+            "timestamp_frame": 78414,
+            "_unmapped_timestamp_sec": 2613.79115,
+            "narration_text": "#C C moves connect four pieces",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2624.3186586,
+            "timestamp_frame": 78729,
+            "_unmapped_timestamp_sec": 2624.29763,
+            "narration_text": "#O lady X moves connect four pieces",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2630.1841086,
+            "timestamp_frame": 78905,
+            "_unmapped_timestamp_sec": 2630.16308,
+            "narration_text": "#C C holds connect four board",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2631.9169686,
+            "timestamp_frame": 78957,
+            "_unmapped_timestamp_sec": 2631.89594,
+            "narration_text": "#C C plays connect four game",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2635.3950986,
+            "timestamp_frame": 79061,
+            "_unmapped_timestamp_sec": 2635.37407,
+            "narration_text": "#O lady X plays connect four game",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2637.4008686,
+            "timestamp_frame": 79121,
+            "_unmapped_timestamp_sec": 2637.37984,
+            "narration_text": "#C C plays connect four game",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2638.0523486,
+            "timestamp_frame": 79141,
+            "_unmapped_timestamp_sec": 2638.03132,
+            "narration_text": "#C C plays connect four game",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2647.4464886,
+            "timestamp_frame": 79423,
+            "_unmapped_timestamp_sec": 2647.42546,
+            "narration_text": "#O lady X plays connect four game",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2651.8196686,
+            "timestamp_frame": 79554,
+            "_unmapped_timestamp_sec": 2651.79864,
+            "narration_text": "#C C plays connect four game",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2656.6827286000002,
+            "timestamp_frame": 79700,
+            "_unmapped_timestamp_sec": 2656.6617,
+            "narration_text": "#O lady X plays connect four game",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2660.7239586,
+            "timestamp_frame": 79821,
+            "_unmapped_timestamp_sec": 2660.70293,
+            "narration_text": "#C C plays connect four game",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2664.2296686,
+            "timestamp_frame": 79926,
+            "_unmapped_timestamp_sec": 2664.20864,
+            "narration_text": "#O lady X plays connect four game",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2668.7022586000003,
+            "timestamp_frame": 80060,
+            "_unmapped_timestamp_sec": 2668.68123,
+            "narration_text": "#C C plays connect four game",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2680.2353086000003,
+            "timestamp_frame": 80406,
+            "_unmapped_timestamp_sec": 2680.21428,
+            "narration_text": "#O lady X plays connect four game",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2694.5362886000003,
+            "timestamp_frame": 80835,
+            "_unmapped_timestamp_sec": 2694.51526,
+            "narration_text": "#C C plays connect four game",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2699.6231186,
+            "timestamp_frame": 80988,
+            "_unmapped_timestamp_sec": 2699.60209,
+            "narration_text": "#O lady X plays connect four game",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2701.0680386000004,
+            "timestamp_frame": 81031,
+            "_unmapped_timestamp_sec": 2701.0470100000002,
+            "narration_text": "#C C plays connect four game",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2706.5531986,
+            "timestamp_frame": 81196,
+            "_unmapped_timestamp_sec": 2706.53217,
+            "narration_text": "#C C removes connect four pieces from the board",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        },
+        {
+            "timestamp_sec": 2708.2729086,
+            "timestamp_frame": 81248,
+            "_unmapped_timestamp_sec": 2708.25188,
+            "narration_text": "#O lady X dialogues with C",
+            "annotation_uid": "d7201bfc-663f-4fe2-b133-76b708375128"
+        }
+    ]
+}

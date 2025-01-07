@@ -1,0 +1,893 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 1196.2222571449217,
+            "timestamp_frame": 35886,
+            "_unmapped_timestamp_sec": 1203.23522,
+            "narration_text": "#C C opens the tin",
+            "annotation_uid": "a2e8d80d-181d-484c-94fd-812227466ea1"
+        },
+        {
+            "timestamp_sec": 1197.4688171449218,
+            "timestamp_frame": 35923,
+            "_unmapped_timestamp_sec": 1204.48178,
+            "narration_text": "#C C picks the nail",
+            "annotation_uid": "a2e8d80d-181d-484c-94fd-812227466ea1"
+        },
+        {
+            "timestamp_sec": 1203.2152071449218,
+            "timestamp_frame": 36096,
+            "_unmapped_timestamp_sec": 1210.22817,
+            "narration_text": "#C C walks around",
+            "annotation_uid": "a2e8d80d-181d-484c-94fd-812227466ea1"
+        },
+        {
+            "timestamp_sec": 1206.0712071449218,
+            "timestamp_frame": 36182,
+            "_unmapped_timestamp_sec": 1213.08417,
+            "narration_text": "#C C opens the drawer",
+            "annotation_uid": "a2e8d80d-181d-484c-94fd-812227466ea1"
+        },
+        {
+            "timestamp_sec": 1211.7146971449217,
+            "timestamp_frame": 36351,
+            "_unmapped_timestamp_sec": 1218.72766,
+            "narration_text": "#C C picks the bolt",
+            "annotation_uid": "a2e8d80d-181d-484c-94fd-812227466ea1"
+        },
+        {
+            "timestamp_sec": 1238.8726471449218,
+            "timestamp_frame": 37166,
+            "_unmapped_timestamp_sec": 1245.88561,
+            "narration_text": "#C C looks for #unsure",
+            "annotation_uid": "a2e8d80d-181d-484c-94fd-812227466ea1"
+        },
+        {
+            "timestamp_sec": 1245.6071471449218,
+            "timestamp_frame": 37368,
+            "_unmapped_timestamp_sec": 1252.62011,
+            "narration_text": "#C C picks the nail",
+            "annotation_uid": "a2e8d80d-181d-484c-94fd-812227466ea1"
+        },
+        {
+            "timestamp_sec": 1248.8230071449218,
+            "timestamp_frame": 37464,
+            "_unmapped_timestamp_sec": 1255.83597,
+            "narration_text": "#C C walks around",
+            "annotation_uid": "a2e8d80d-181d-484c-94fd-812227466ea1"
+        },
+        {
+            "timestamp_sec": 1264.9189771449219,
+            "timestamp_frame": 37947,
+            "_unmapped_timestamp_sec": 1271.93194,
+            "narration_text": "#C C returns the drawer",
+            "annotation_uid": "a2e8d80d-181d-484c-94fd-812227466ea1"
+        },
+        {
+            "timestamp_sec": 1267.1105371449219,
+            "timestamp_frame": 38013,
+            "_unmapped_timestamp_sec": 1274.1235,
+            "narration_text": "#C C picks a tin",
+            "annotation_uid": "a2e8d80d-181d-484c-94fd-812227466ea1"
+        },
+        {
+            "timestamp_sec": 1269.7676871449219,
+            "timestamp_frame": 38092,
+            "_unmapped_timestamp_sec": 1276.78065,
+            "narration_text": "#C C opens the drawer",
+            "annotation_uid": "a2e8d80d-181d-484c-94fd-812227466ea1"
+        },
+        {
+            "timestamp_sec": 1270.3266671449219,
+            "timestamp_frame": 38109,
+            "_unmapped_timestamp_sec": 1277.33963,
+            "narration_text": "#C C puts the paper in the drawer",
+            "annotation_uid": "a2e8d80d-181d-484c-94fd-812227466ea1"
+        },
+        {
+            "timestamp_sec": 1271.7647071449219,
+            "timestamp_frame": 38152,
+            "_unmapped_timestamp_sec": 1278.77767,
+            "narration_text": "#C C picks a tin",
+            "annotation_uid": "a2e8d80d-181d-484c-94fd-812227466ea1"
+        },
+        {
+            "timestamp_sec": 1274.7929071449219,
+            "timestamp_frame": 38243,
+            "_unmapped_timestamp_sec": 1281.80587,
+            "narration_text": "#C C walks around",
+            "annotation_uid": "a2e8d80d-181d-484c-94fd-812227466ea1"
+        },
+        {
+            "timestamp_sec": 1276.2644771449218,
+            "timestamp_frame": 38287,
+            "_unmapped_timestamp_sec": 1283.27744,
+            "narration_text": "#C C  puts the tin in the cabinet",
+            "annotation_uid": "a2e8d80d-181d-484c-94fd-812227466ea1"
+        },
+        {
+            "timestamp_sec": 1278.4151371449218,
+            "timestamp_frame": 38352,
+            "_unmapped_timestamp_sec": 1285.4281,
+            "narration_text": "#C C picks the nail",
+            "annotation_uid": "a2e8d80d-181d-484c-94fd-812227466ea1"
+        },
+        {
+            "timestamp_sec": 1280.6322771449218,
+            "timestamp_frame": 38418,
+            "_unmapped_timestamp_sec": 1287.64524,
+            "narration_text": "#C C opens the drawer",
+            "annotation_uid": "a2e8d80d-181d-484c-94fd-812227466ea1"
+        },
+        {
+            "timestamp_sec": 1282.5591071449219,
+            "timestamp_frame": 38476,
+            "_unmapped_timestamp_sec": 1289.57207,
+            "narration_text": "#C C looks for #unsure",
+            "annotation_uid": "a2e8d80d-181d-484c-94fd-812227466ea1"
+        },
+        {
+            "timestamp_sec": 1285.3894571449218,
+            "timestamp_frame": 38561,
+            "_unmapped_timestamp_sec": 1292.40242,
+            "narration_text": "#C C picks the paper",
+            "annotation_uid": "a2e8d80d-181d-484c-94fd-812227466ea1"
+        },
+        {
+            "timestamp_sec": 1295.7073571449218,
+            "timestamp_frame": 38871,
+            "_unmapped_timestamp_sec": 1302.72032,
+            "narration_text": "#C C picks the bolt",
+            "annotation_uid": "a2e8d80d-181d-484c-94fd-812227466ea1"
+        },
+        {
+            "timestamp_sec": 1320.029647144922,
+            "timestamp_frame": 39600,
+            "_unmapped_timestamp_sec": 1327.04261,
+            "narration_text": "#C C closes the drawer",
+            "annotation_uid": "a2e8d80d-181d-484c-94fd-812227466ea1"
+        },
+        {
+            "timestamp_sec": 1323.6920571449218,
+            "timestamp_frame": 39710,
+            "_unmapped_timestamp_sec": 1330.7050199999999,
+            "narration_text": "#C C puts the bolt on the wood",
+            "annotation_uid": "a2e8d80d-181d-484c-94fd-812227466ea1"
+        },
+        {
+            "timestamp_sec": 1328.6520971449218,
+            "timestamp_frame": 39859,
+            "_unmapped_timestamp_sec": 1335.66506,
+            "narration_text": "#C C closes the bolt",
+            "annotation_uid": "a2e8d80d-181d-484c-94fd-812227466ea1"
+        },
+        {
+            "timestamp_sec": 1194.874817144922,
+            "timestamp_frame": 35846,
+            "_unmapped_timestamp_sec": 1201.88778,
+            "narration_text": "#C C opens the container.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1195.6112871449218,
+            "timestamp_frame": 35868,
+            "_unmapped_timestamp_sec": 1202.62425,
+            "narration_text": "#C C passes the lid to the left hand.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1196.4361571449217,
+            "timestamp_frame": 35892,
+            "_unmapped_timestamp_sec": 1203.44912,
+            "narration_text": "#C C picks the nails.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1197.7266171449219,
+            "timestamp_frame": 35931,
+            "_unmapped_timestamp_sec": 1204.73958,
+            "narration_text": "#C C puts the bolt in the container.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1198.5339071449218,
+            "timestamp_frame": 35955,
+            "_unmapped_timestamp_sec": 1205.54687,
+            "narration_text": "#C C picks the bolt.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1199.2692671449217,
+            "timestamp_frame": 35977,
+            "_unmapped_timestamp_sec": 1206.28223,
+            "narration_text": "#C C looks at the bolts.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1201.2022571449218,
+            "timestamp_frame": 36035,
+            "_unmapped_timestamp_sec": 1208.21522,
+            "narration_text": "#C C picks the bolts.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1201.8997571449218,
+            "timestamp_frame": 36056,
+            "_unmapped_timestamp_sec": 1208.91272,
+            "narration_text": "#C C steps forward.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1203.7521471449218,
+            "timestamp_frame": 36112,
+            "_unmapped_timestamp_sec": 1210.76511,
+            "narration_text": "#C C puts the bolts in the container.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1204.284967144922,
+            "timestamp_frame": 36128,
+            "_unmapped_timestamp_sec": 1211.29793,
+            "narration_text": "#C C puts the container on top of the tool case.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1205.554947144922,
+            "timestamp_frame": 36166,
+            "_unmapped_timestamp_sec": 1212.56791,
+            "narration_text": "#C C opens the drawer.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1207.2603271449218,
+            "timestamp_frame": 36217,
+            "_unmapped_timestamp_sec": 1214.27329,
+            "narration_text": "#C C picks the paper.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1208.5415171449217,
+            "timestamp_frame": 36256,
+            "_unmapped_timestamp_sec": 1215.55448,
+            "narration_text": "#C C passes the paper to the left hand.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1208.9206571449217,
+            "timestamp_frame": 36267,
+            "_unmapped_timestamp_sec": 1215.93362,
+            "narration_text": "#C C picks the metal piece.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1211.5272271449219,
+            "timestamp_frame": 36345,
+            "_unmapped_timestamp_sec": 1218.54019,
+            "narration_text": "#C C picks the bolt.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1212.1450771449217,
+            "timestamp_frame": 36364,
+            "_unmapped_timestamp_sec": 1219.15804,
+            "narration_text": "#C C puts the metal piece on the bolt.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1215.367807144922,
+            "timestamp_frame": 36460,
+            "_unmapped_timestamp_sec": 1222.38077,
+            "narration_text": "#C C picks the bolt.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1216.6222571449218,
+            "timestamp_frame": 36498,
+            "_unmapped_timestamp_sec": 1223.6352200000001,
+            "narration_text": "#C C picks the bolt.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1217.7051171449218,
+            "timestamp_frame": 36531,
+            "_unmapped_timestamp_sec": 1224.71808,
+            "narration_text": "#C C moves the hands.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1218.8087771449218,
+            "timestamp_frame": 36564,
+            "_unmapped_timestamp_sec": 1225.82174,
+            "narration_text": "#C C touches the box.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1220.3763271449218,
+            "timestamp_frame": 36611,
+            "_unmapped_timestamp_sec": 1227.38929,
+            "narration_text": "#C C touches the paper.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1221.2904671449219,
+            "timestamp_frame": 36638,
+            "_unmapped_timestamp_sec": 1228.30343,
+            "narration_text": "#C C puts the hand down.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1221.4994571449217,
+            "timestamp_frame": 36644,
+            "_unmapped_timestamp_sec": 1228.51242,
+            "narration_text": "#C C picks the container.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1222.5419071449219,
+            "timestamp_frame": 36676,
+            "_unmapped_timestamp_sec": 1229.55487,
+            "narration_text": "#C C puts the container in the drawer.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1224.5682071449219,
+            "timestamp_frame": 36736,
+            "_unmapped_timestamp_sec": 1231.58117,
+            "narration_text": "#C C moves the drawer.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1225.332317144922,
+            "timestamp_frame": 36759,
+            "_unmapped_timestamp_sec": 1232.34528,
+            "narration_text": "#C C puts the drawer on the tool case.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1226.7604871449219,
+            "timestamp_frame": 36802,
+            "_unmapped_timestamp_sec": 1233.77345,
+            "narration_text": "#C C picks the metal piece.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1228.0252971449218,
+            "timestamp_frame": 36840,
+            "_unmapped_timestamp_sec": 1235.03826,
+            "narration_text": "#C C picks the bolt.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1229.7210471449218,
+            "timestamp_frame": 36891,
+            "_unmapped_timestamp_sec": 1236.7340100000001,
+            "narration_text": "#C C connects the metal piece to the bolt.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1231.0283271449218,
+            "timestamp_frame": 36930,
+            "_unmapped_timestamp_sec": 1238.0412900000001,
+            "narration_text": "#C C moves the paper.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1232.062067144922,
+            "timestamp_frame": 36961,
+            "_unmapped_timestamp_sec": 1239.07503,
+            "narration_text": "#C C puts the metal piece in the drawer.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1232.930947144922,
+            "timestamp_frame": 36987,
+            "_unmapped_timestamp_sec": 1239.94391,
+            "narration_text": "#C C touches the paper.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1234.137437144922,
+            "timestamp_frame": 37023,
+            "_unmapped_timestamp_sec": 1241.1504,
+            "narration_text": "#C C picks the container.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1234.7004271449218,
+            "timestamp_frame": 37040,
+            "_unmapped_timestamp_sec": 1241.71339,
+            "narration_text": "#C C puts the container in the drawer.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1235.387077144922,
+            "timestamp_frame": 37061,
+            "_unmapped_timestamp_sec": 1242.40004,
+            "narration_text": "#C C moves the metal pieces.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1236.5268771449219,
+            "timestamp_frame": 37095,
+            "_unmapped_timestamp_sec": 1243.53984,
+            "narration_text": "#C C picks the paper.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1237.6822371449218,
+            "timestamp_frame": 37130,
+            "_unmapped_timestamp_sec": 1244.6952,
+            "narration_text": "#C C puts the paper in the drawer.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1238.6464871449218,
+            "timestamp_frame": 37159,
+            "_unmapped_timestamp_sec": 1245.65945,
+            "narration_text": "#C C looks at the bolts.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1239.949677144922,
+            "timestamp_frame": 37198,
+            "_unmapped_timestamp_sec": 1246.96264,
+            "narration_text": "#C C puts the bolts on the tool case.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1241.2043971449218,
+            "timestamp_frame": 37236,
+            "_unmapped_timestamp_sec": 1248.21736,
+            "narration_text": "#C C picks the box.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1242.2927771449217,
+            "timestamp_frame": 37268,
+            "_unmapped_timestamp_sec": 1249.30574,
+            "narration_text": "#C C picks the metal pieces.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1243.578547144922,
+            "timestamp_frame": 37307,
+            "_unmapped_timestamp_sec": 1250.59151,
+            "narration_text": "#C C puts the box in the drawer.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1244.524147144922,
+            "timestamp_frame": 37335,
+            "_unmapped_timestamp_sec": 1251.53711,
+            "narration_text": "#C C picks the bolt.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1245.413027144922,
+            "timestamp_frame": 37362,
+            "_unmapped_timestamp_sec": 1252.42599,
+            "narration_text": "#C C connects the metal piece to the bolt.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1248.1430571449218,
+            "timestamp_frame": 37444,
+            "_unmapped_timestamp_sec": 1255.15602,
+            "narration_text": "#C C stands.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1248.774517144922,
+            "timestamp_frame": 37463,
+            "_unmapped_timestamp_sec": 1255.78748,
+            "narration_text": "#C C steps forward.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1249.4576471449218,
+            "timestamp_frame": 37483,
+            "_unmapped_timestamp_sec": 1256.47061,
+            "narration_text": "#C C puts the bolt on the wood.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1253.5279671449218,
+            "timestamp_frame": 37605,
+            "_unmapped_timestamp_sec": 1260.5409300000001,
+            "narration_text": "#C C steps forward.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1254.7462571449219,
+            "timestamp_frame": 37642,
+            "_unmapped_timestamp_sec": 1261.75922,
+            "narration_text": "#CC puts the bolt on the tool case.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1256.4672971449218,
+            "timestamp_frame": 37693,
+            "_unmapped_timestamp_sec": 1263.48026,
+            "narration_text": "#C C moves the hand.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1257.4528971449217,
+            "timestamp_frame": 37723,
+            "_unmapped_timestamp_sec": 1264.46586,
+            "narration_text": "#C C picks the bolt.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1259.1588371449218,
+            "timestamp_frame": 37774,
+            "_unmapped_timestamp_sec": 1266.1718,
+            "narration_text": "#C C puts the bolt on the tool case.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1259.836187144922,
+            "timestamp_frame": 37794,
+            "_unmapped_timestamp_sec": 1266.84915,
+            "narration_text": "#C C moves the hand.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1261.3277671449218,
+            "timestamp_frame": 37839,
+            "_unmapped_timestamp_sec": 1268.34073,
+            "narration_text": "#C C lifts the drawer.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1262.8622571449218,
+            "timestamp_frame": 37885,
+            "_unmapped_timestamp_sec": 1269.87522,
+            "narration_text": "#C C puts the drawer on the cupboard.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1264.4429371449219,
+            "timestamp_frame": 37933,
+            "_unmapped_timestamp_sec": 1271.4559,
+            "narration_text": "#C C pushes the drawer.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1266.219587144922,
+            "timestamp_frame": 37986,
+            "_unmapped_timestamp_sec": 1273.23255,
+            "narration_text": "#C C picks the container.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1266.8055371449218,
+            "timestamp_frame": 38004,
+            "_unmapped_timestamp_sec": 1273.8185,
+            "narration_text": "#C C picks the lid.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1267.316117144922,
+            "timestamp_frame": 38019,
+            "_unmapped_timestamp_sec": 1274.32908,
+            "narration_text": "#C C puts the container on the tool case.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1267.7912071449218,
+            "timestamp_frame": 38033,
+            "_unmapped_timestamp_sec": 1274.8041699999999,
+            "narration_text": "#C C puts the lid on the container.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1268.3048871449218,
+            "timestamp_frame": 38049,
+            "_unmapped_timestamp_sec": 1275.31785,
+            "narration_text": "#C C picks the paper.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1268.6329071449218,
+            "timestamp_frame": 38058,
+            "_unmapped_timestamp_sec": 1275.64587,
+            "narration_text": "#C C opens the drawer.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1269.6160371449218,
+            "timestamp_frame": 38088,
+            "_unmapped_timestamp_sec": 1276.629,
+            "narration_text": "#C C puts the paper in the drawer.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1270.0495671449219,
+            "timestamp_frame": 38101,
+            "_unmapped_timestamp_sec": 1277.06253,
+            "narration_text": "#C C pushes the drawer.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1271.185087144922,
+            "timestamp_frame": 38135,
+            "_unmapped_timestamp_sec": 1278.19805,
+            "narration_text": "#C C moves the container.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1272.1533771449217,
+            "timestamp_frame": 38164,
+            "_unmapped_timestamp_sec": 1279.16634,
+            "narration_text": "#C C moves the metal pieces.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1273.4427271449217,
+            "timestamp_frame": 38203,
+            "_unmapped_timestamp_sec": 1280.45569,
+            "narration_text": "#C C picks the container.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1273.9601671449218,
+            "timestamp_frame": 38218,
+            "_unmapped_timestamp_sec": 1280.97313,
+            "narration_text": "#C C steps forward.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1274.9008371449218,
+            "timestamp_frame": 38246,
+            "_unmapped_timestamp_sec": 1281.9138,
+            "narration_text": "#C C passes the container to the left hand.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1275.6143371449218,
+            "timestamp_frame": 38268,
+            "_unmapped_timestamp_sec": 1282.6273,
+            "narration_text": "#C C puts the container on the shelf.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1276.496777144922,
+            "timestamp_frame": 38294,
+            "_unmapped_timestamp_sec": 1283.50974,
+            "narration_text": "#C C steps forward.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1278.2185171449219,
+            "timestamp_frame": 38346,
+            "_unmapped_timestamp_sec": 1285.23148,
+            "narration_text": "#C C picks the nails.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1279.0569671449218,
+            "timestamp_frame": 38371,
+            "_unmapped_timestamp_sec": 1286.06993,
+            "narration_text": "#C C puts the nails on the tool case.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1279.767487144922,
+            "timestamp_frame": 38392,
+            "_unmapped_timestamp_sec": 1286.78045,
+            "narration_text": "#C C opens the drawer.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1281.1211871449218,
+            "timestamp_frame": 38433,
+            "_unmapped_timestamp_sec": 1288.13415,
+            "narration_text": "#C C moves the papers.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1282.8916171449218,
+            "timestamp_frame": 38486,
+            "_unmapped_timestamp_sec": 1289.90458,
+            "narration_text": "#C C looks at the paper.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1286.5422271449218,
+            "timestamp_frame": 38596,
+            "_unmapped_timestamp_sec": 1293.55519,
+            "narration_text": "#C C puts the paper in the drawer.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1289.867627144922,
+            "timestamp_frame": 38695,
+            "_unmapped_timestamp_sec": 1296.88059,
+            "narration_text": "#C C looks at the paper.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1290.079537144922,
+            "timestamp_frame": 38702,
+            "_unmapped_timestamp_sec": 1297.0925,
+            "narration_text": "#C C puts the paper in the drawer.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1291.3305771449218,
+            "timestamp_frame": 38739,
+            "_unmapped_timestamp_sec": 1298.34354,
+            "narration_text": "#C C picks the nuts.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1292.4730271449218,
+            "timestamp_frame": 38774,
+            "_unmapped_timestamp_sec": 1299.48599,
+            "narration_text": "#C C takes the nuts.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1297.3076271449218,
+            "timestamp_frame": 38919,
+            "_unmapped_timestamp_sec": 1304.32059,
+            "narration_text": "#C C looks at the nuts.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1298.876997144922,
+            "timestamp_frame": 38966,
+            "_unmapped_timestamp_sec": 1305.88996,
+            "narration_text": "#C C takes the nuts.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1301.4190971449218,
+            "timestamp_frame": 39042,
+            "_unmapped_timestamp_sec": 1308.43206,
+            "narration_text": "#C C looks at the nuts.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1302.115287144922,
+            "timestamp_frame": 39063,
+            "_unmapped_timestamp_sec": 1309.12825,
+            "narration_text": "#C C takes the nuts.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1309.073947144922,
+            "timestamp_frame": 39272,
+            "_unmapped_timestamp_sec": 1316.08691,
+            "narration_text": "#C C takes the nuts.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1310.406097144922,
+            "timestamp_frame": 39312,
+            "_unmapped_timestamp_sec": 1317.41906,
+            "narration_text": "#C C puts the paper in the drawer.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1310.8006471449219,
+            "timestamp_frame": 39323,
+            "_unmapped_timestamp_sec": 1317.81361,
+            "narration_text": "#C C picks the nut.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1312.2111371449218,
+            "timestamp_frame": 39366,
+            "_unmapped_timestamp_sec": 1319.2241,
+            "narration_text": "#C C puts the nut on the hand.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1312.6766871449217,
+            "timestamp_frame": 39380,
+            "_unmapped_timestamp_sec": 1319.68965,
+            "narration_text": "#C C looks at the nuts.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1313.1482971449218,
+            "timestamp_frame": 39394,
+            "_unmapped_timestamp_sec": 1320.16126,
+            "narration_text": "#C C looks at the nuts.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1315.1474771449218,
+            "timestamp_frame": 39454,
+            "_unmapped_timestamp_sec": 1322.16044,
+            "narration_text": "#C C picks the paper.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1316.4389071449218,
+            "timestamp_frame": 39493,
+            "_unmapped_timestamp_sec": 1323.45187,
+            "narration_text": "#C C looks at the paper.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1317.5944771449217,
+            "timestamp_frame": 39527,
+            "_unmapped_timestamp_sec": 1324.60744,
+            "narration_text": "#C C puts the paper in the drawer.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1317.6648071449217,
+            "timestamp_frame": 39529,
+            "_unmapped_timestamp_sec": 1324.67777,
+            "narration_text": "#C C closes the drawer.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1319.0259871449218,
+            "timestamp_frame": 39570,
+            "_unmapped_timestamp_sec": 1326.03895,
+            "narration_text": "#C C picks the nails.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1321.8001171449218,
+            "timestamp_frame": 39653,
+            "_unmapped_timestamp_sec": 1328.81308,
+            "narration_text": "#C C steps forward.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1323.4208071449218,
+            "timestamp_frame": 39702,
+            "_unmapped_timestamp_sec": 1330.43377,
+            "narration_text": "#C C puts the nuts on the wood.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1324.8397371449219,
+            "timestamp_frame": 39745,
+            "_unmapped_timestamp_sec": 1331.8527,
+            "narration_text": "#C C picks the bolt.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1325.5497271449217,
+            "timestamp_frame": 39766,
+            "_unmapped_timestamp_sec": 1332.56269,
+            "narration_text": "#C C removes the nuts from the bolt.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1327.6240471449219,
+            "timestamp_frame": 39828,
+            "_unmapped_timestamp_sec": 1334.63701,
+            "narration_text": "#C C picks the nuts.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1329.660147144922,
+            "timestamp_frame": 39889,
+            "_unmapped_timestamp_sec": 1336.67311,
+            "narration_text": "#C C connects the nuts to the bolts.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1336.0353671449218,
+            "timestamp_frame": 40080,
+            "_unmapped_timestamp_sec": 1343.04833,
+            "narration_text": "#C C puts the bolt on the wood.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        },
+        {
+            "timestamp_sec": 1338.5359971449218,
+            "timestamp_frame": 40155,
+            "_unmapped_timestamp_sec": 1345.54896,
+            "narration_text": "#C C connects the nut to the bolt.",
+            "annotation_uid": "ca7071be-b6cb-4a4c-b035-97000a2aca9d"
+        }
+    ]
+}

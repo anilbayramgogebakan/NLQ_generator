@@ -1,0 +1,886 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 2040.0993486,
+            "timestamp_frame": 61202,
+            "_unmapped_timestamp_sec": 2040.07832,
+            "narration_text": "#C C puts the card on top of other cards",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2041.1811386,
+            "timestamp_frame": 61235,
+            "_unmapped_timestamp_sec": 2041.16011,
+            "narration_text": "#O man A points the cards",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2046.3525485999999,
+            "timestamp_frame": 61390,
+            "_unmapped_timestamp_sec": 2046.33152,
+            "narration_text": "#O man A picks a card",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2049.4726886000003,
+            "timestamp_frame": 61484,
+            "_unmapped_timestamp_sec": 2049.45166,
+            "narration_text": "#O man A reads the card",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2054.3169686,
+            "timestamp_frame": 61629,
+            "_unmapped_timestamp_sec": 2054.29594,
+            "narration_text": "#O man A picks the piece of paper",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2058.6115086,
+            "timestamp_frame": 61758,
+            "_unmapped_timestamp_sec": 2058.59048,
+            "narration_text": "#C C looks at the piece of paper",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2064.7026986,
+            "timestamp_frame": 61940,
+            "_unmapped_timestamp_sec": 2064.68167,
+            "narration_text": "#C C turns the piece of paper",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2070.4744586,
+            "timestamp_frame": 62114,
+            "_unmapped_timestamp_sec": 2070.45343,
+            "narration_text": "#O man A taps the card",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2073.5464486,
+            "timestamp_frame": 62206,
+            "_unmapped_timestamp_sec": 2073.52542,
+            "narration_text": "#C C gives man A the piece of paper",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2074.5285686,
+            "timestamp_frame": 62235,
+            "_unmapped_timestamp_sec": 2074.50754,
+            "narration_text": "#O man A puts the piece of paper on the table",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2076.4328686000003,
+            "timestamp_frame": 62292,
+            "_unmapped_timestamp_sec": 2076.41184,
+            "narration_text": "#O man A moves the token on the board",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2081.3192986000004,
+            "timestamp_frame": 62439,
+            "_unmapped_timestamp_sec": 2081.2982700000002,
+            "narration_text": "#C C puts the card on top of other cards",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2082.7175386,
+            "timestamp_frame": 62481,
+            "_unmapped_timestamp_sec": 2082.6965099999998,
+            "narration_text": "#C C moves the token on the board",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2086.4335986,
+            "timestamp_frame": 62592,
+            "_unmapped_timestamp_sec": 2086.41257,
+            "narration_text": "#O man A picks a card",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2089.3379386,
+            "timestamp_frame": 62680,
+            "_unmapped_timestamp_sec": 2089.31691,
+            "narration_text": "#O man A reads the card",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2090.3400686,
+            "timestamp_frame": 62710,
+            "_unmapped_timestamp_sec": 2090.31904,
+            "narration_text": "#O man A moves the token on the board",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2092.3337186000003,
+            "timestamp_frame": 62769,
+            "_unmapped_timestamp_sec": 2092.31269,
+            "narration_text": "#O man A puts the card on top of other cards",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2094.1638286,
+            "timestamp_frame": 62824,
+            "_unmapped_timestamp_sec": 2094.1428,
+            "narration_text": "#C C reads the card",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2099.2281386,
+            "timestamp_frame": 62976,
+            "_unmapped_timestamp_sec": 2099.20711,
+            "narration_text": "#C C moves the token on the board",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2107.7962086,
+            "timestamp_frame": 63233,
+            "_unmapped_timestamp_sec": 2107.77518,
+            "narration_text": "#C C points the board",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2107.7962086,
+            "timestamp_frame": 63233,
+            "_unmapped_timestamp_sec": 2107.77518,
+            "narration_text": "#O man A points the board",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2110.3832486,
+            "timestamp_frame": 63311,
+            "_unmapped_timestamp_sec": 2110.36222,
+            "narration_text": "#C C puts the token on the board",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2112.4787686,
+            "timestamp_frame": 63374,
+            "_unmapped_timestamp_sec": 2112.45774,
+            "narration_text": "#C C puts the card on top of other cards",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2114.4952886,
+            "timestamp_frame": 63434,
+            "_unmapped_timestamp_sec": 2114.47426,
+            "narration_text": "#C C looks at man A",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2115.8739486,
+            "timestamp_frame": 63476,
+            "_unmapped_timestamp_sec": 2115.85292,
+            "narration_text": "#O man A nods his head",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2121.0711186000003,
+            "timestamp_frame": 63632,
+            "_unmapped_timestamp_sec": 2121.05009,
+            "narration_text": "#O man A picks a card",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2123.9494486000003,
+            "timestamp_frame": 63718,
+            "_unmapped_timestamp_sec": 2123.92842,
+            "narration_text": "#O man A reads the card",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2137.7113186,
+            "timestamp_frame": 64131,
+            "_unmapped_timestamp_sec": 2137.69029,
+            "narration_text": "#C C points the cards",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2140.7454686,
+            "timestamp_frame": 64222,
+            "_unmapped_timestamp_sec": 2140.72444,
+            "narration_text": "#O man A picks a token",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2145.5979086,
+            "timestamp_frame": 64367,
+            "_unmapped_timestamp_sec": 2145.57688,
+            "narration_text": "#C C looks at man A",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2147.3404986,
+            "timestamp_frame": 64420,
+            "_unmapped_timestamp_sec": 2147.31947,
+            "narration_text": "#O man A puts the card on top of other cards",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2148.4762286,
+            "timestamp_frame": 64454,
+            "_unmapped_timestamp_sec": 2148.4552,
+            "narration_text": "#C C picks a card",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2151.0080686,
+            "timestamp_frame": 64530,
+            "_unmapped_timestamp_sec": 2150.98704,
+            "narration_text": "#C C reads the card",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2155.7754086,
+            "timestamp_frame": 64673,
+            "_unmapped_timestamp_sec": 2155.75438,
+            "narration_text": "#C C picks a token",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2158.1594686000003,
+            "timestamp_frame": 64744,
+            "_unmapped_timestamp_sec": 2158.13844,
+            "narration_text": "#C C puts the token on the board",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2159.1406486,
+            "timestamp_frame": 64774,
+            "_unmapped_timestamp_sec": 2159.11962,
+            "narration_text": "#C C puts a token on the board",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2160.6924286000003,
+            "timestamp_frame": 64820,
+            "_unmapped_timestamp_sec": 2160.6714,
+            "narration_text": "#C C looks at man A",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2165.1961286,
+            "timestamp_frame": 64955,
+            "_unmapped_timestamp_sec": 2165.1751,
+            "narration_text": "#O man A touches the cards",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2171.9036786,
+            "timestamp_frame": 65156,
+            "_unmapped_timestamp_sec": 2171.88265,
+            "narration_text": "#C C talks with man A",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2172.7992286000003,
+            "timestamp_frame": 65183,
+            "_unmapped_timestamp_sec": 2172.7782,
+            "narration_text": "#O man A nods his head",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2056.3562286,
+            "timestamp_frame": 61690,
+            "_unmapped_timestamp_sec": 2056.3352,
+            "narration_text": "#O man A gives C the piece of paper",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2078.3098586,
+            "timestamp_frame": 62349,
+            "_unmapped_timestamp_sec": 2078.28883,
+            "narration_text": "#O man A puts the card on top of other cards",
+            "annotation_uid": "daa43c71-3f54-4c5b-821c-a2e44a31e4de"
+        },
+        {
+            "timestamp_sec": 2176.6161286,
+            "timestamp_frame": 65298,
+            "_unmapped_timestamp_sec": 2176.5951,
+            "narration_text": "#O man A picks a card",
+            "annotation_uid": "c36e941a-33cf-4726-92ed-398a642040de"
+        },
+        {
+            "timestamp_sec": 2179.5136086,
+            "timestamp_frame": 65385,
+            "_unmapped_timestamp_sec": 2179.49258,
+            "narration_text": "#O man A reads the card",
+            "annotation_uid": "c36e941a-33cf-4726-92ed-398a642040de"
+        },
+        {
+            "timestamp_sec": 2186.6712486,
+            "timestamp_frame": 65600,
+            "_unmapped_timestamp_sec": 2186.65022,
+            "narration_text": "#O man A moves a token on the board",
+            "annotation_uid": "c36e941a-33cf-4726-92ed-398a642040de"
+        },
+        {
+            "timestamp_sec": 2040.2573486,
+            "timestamp_frame": 61207,
+            "_unmapped_timestamp_sec": 2040.23632,
+            "narration_text": "#C C converses with man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2042.1312185999998,
+            "timestamp_frame": 61263,
+            "_unmapped_timestamp_sec": 2042.1101899999999,
+            "narration_text": "#C C looks  at man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2043.5579286,
+            "timestamp_frame": 61306,
+            "_unmapped_timestamp_sec": 2043.5369,
+            "narration_text": "#C C converses with man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2045.0187486,
+            "timestamp_frame": 61350,
+            "_unmapped_timestamp_sec": 2044.99772,
+            "narration_text": "#O man D picks up the cards from the table.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2047.1332286,
+            "timestamp_frame": 61413,
+            "_unmapped_timestamp_sec": 2047.1122,
+            "narration_text": "#O man D looks at the cards.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2049.8005686,
+            "timestamp_frame": 61493,
+            "_unmapped_timestamp_sec": 2049.77954,
+            "narration_text": "#C C converses with man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2051.7473686000003,
+            "timestamp_frame": 61552,
+            "_unmapped_timestamp_sec": 2051.72634,
+            "narration_text": "#C C looks at man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2052.7065186,
+            "timestamp_frame": 61581,
+            "_unmapped_timestamp_sec": 2052.68549,
+            "narration_text": "#C C converses with man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2054.7048386,
+            "timestamp_frame": 61641,
+            "_unmapped_timestamp_sec": 2054.68381,
+            "narration_text": "#O man D picks up the paper",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2056.7890886,
+            "timestamp_frame": 61703,
+            "_unmapped_timestamp_sec": 2056.76806,
+            "narration_text": "#C C picks up the paper from man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2058.8200686,
+            "timestamp_frame": 61764,
+            "_unmapped_timestamp_sec": 2058.79904,
+            "narration_text": "#C C looks at the piece of paper.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2064.8041386,
+            "timestamp_frame": 61943,
+            "_unmapped_timestamp_sec": 2064.78311,
+            "narration_text": "#C C turns the piece of paper.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2065.0646986,
+            "timestamp_frame": 61951,
+            "_unmapped_timestamp_sec": 2065.04367,
+            "narration_text": "#C C converses with  man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2066.5020786,
+            "timestamp_frame": 61994,
+            "_unmapped_timestamp_sec": 2066.48105,
+            "narration_text": "#O man D turs the piece of paper.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2068.1183486,
+            "timestamp_frame": 62043,
+            "_unmapped_timestamp_sec": 2068.09732,
+            "narration_text": "#C C reads the piece of paper",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2068.8126686,
+            "timestamp_frame": 62064,
+            "_unmapped_timestamp_sec": 2068.79164,
+            "narration_text": "#O man D converses with C",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2071.5636986,
+            "timestamp_frame": 62146,
+            "_unmapped_timestamp_sec": 2071.54267,
+            "narration_text": "#C C looks at man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2074.0941586,
+            "timestamp_frame": 62222,
+            "_unmapped_timestamp_sec": 2074.0731299999998,
+            "narration_text": "#O man D puts the papers in the Box.\n",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2075.7856486,
+            "timestamp_frame": 62273,
+            "_unmapped_timestamp_sec": 2075.76462,
+            "narration_text": "#O man D picks up the cards ",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2076.8752186,
+            "timestamp_frame": 62306,
+            "_unmapped_timestamp_sec": 2076.85419,
+            "narration_text": "#O man D plays the game.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2078.0921086000003,
+            "timestamp_frame": 62342,
+            "_unmapped_timestamp_sec": 2078.07108,
+            "narration_text": "#C C puts the cards on the table.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2079.3965586,
+            "timestamp_frame": 62381,
+            "_unmapped_timestamp_sec": 2079.37553,
+            "narration_text": "#C C looks at the game.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2080.7691386,
+            "timestamp_frame": 62422,
+            "_unmapped_timestamp_sec": 2080.74811,
+            "narration_text": "#C C converses with man D",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2081.8329686,
+            "timestamp_frame": 62454,
+            "_unmapped_timestamp_sec": 2081.81194,
+            "narration_text": "#C C puts the card down.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2082.7967086000003,
+            "timestamp_frame": 62483,
+            "_unmapped_timestamp_sec": 2082.77568,
+            "narration_text": "#C C plays the game.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2086.0512286000003,
+            "timestamp_frame": 62581,
+            "_unmapped_timestamp_sec": 2086.0302,
+            "narration_text": "#O man D picks up the cards.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2087.2977286,
+            "timestamp_frame": 62618,
+            "_unmapped_timestamp_sec": 2087.2767,
+            "narration_text": "#O man D looks at the cards.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2089.2853386,
+            "timestamp_frame": 62678,
+            "_unmapped_timestamp_sec": 2089.26431,
+            "narration_text": "#O man D converses ",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2090.4084086000003,
+            "timestamp_frame": 62712,
+            "_unmapped_timestamp_sec": 2090.38738,
+            "narration_text": "#O man D plays the game.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2091.9815786,
+            "timestamp_frame": 62759,
+            "_unmapped_timestamp_sec": 2091.96055,
+            "narration_text": "#O man D puts the card on the table.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2093.8536186,
+            "timestamp_frame": 62815,
+            "_unmapped_timestamp_sec": 2093.83259,
+            "narration_text": "#C C converses with man D",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2094.8841686,
+            "timestamp_frame": 62846,
+            "_unmapped_timestamp_sec": 2094.86314,
+            "narration_text": "#C C converses with man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2096.1883086000003,
+            "timestamp_frame": 62885,
+            "_unmapped_timestamp_sec": 2096.16728,
+            "narration_text": "#C C looks at the card.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2097.4595586,
+            "timestamp_frame": 62923,
+            "_unmapped_timestamp_sec": 2097.43853,
+            "narration_text": "#C C converses with man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2098.7668886,
+            "timestamp_frame": 62962,
+            "_unmapped_timestamp_sec": 2098.74586,
+            "narration_text": "#C C plays the game.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2103.2841786,
+            "timestamp_frame": 63098,
+            "_unmapped_timestamp_sec": 2103.2631499999998,
+            "narration_text": "#C C looks at the game.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2104.8536086000004,
+            "timestamp_frame": 63145,
+            "_unmapped_timestamp_sec": 2104.8325800000002,
+            "narration_text": "#C C converses with man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2107.4515086,
+            "timestamp_frame": 63223,
+            "_unmapped_timestamp_sec": 2107.43048,
+            "narration_text": "#C C points at the game on the table.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2109.3598986,
+            "timestamp_frame": 63280,
+            "_unmapped_timestamp_sec": 2109.33887,
+            "narration_text": "#C C converses with man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2110.4283186000002,
+            "timestamp_frame": 63312,
+            "_unmapped_timestamp_sec": 2110.40729,
+            "narration_text": "#O man D converses  with C.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2112.0966886,
+            "timestamp_frame": 63362,
+            "_unmapped_timestamp_sec": 2112.07566,
+            "narration_text": "#C C puts the card on the table.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2113.3425886,
+            "timestamp_frame": 63400,
+            "_unmapped_timestamp_sec": 2113.32156,
+            "narration_text": "#C C converses with man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2114.3012786,
+            "timestamp_frame": 63428,
+            "_unmapped_timestamp_sec": 2114.28025,
+            "narration_text": "#C C looks at man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2115.2832386,
+            "timestamp_frame": 63458,
+            "_unmapped_timestamp_sec": 2115.26221,
+            "narration_text": "#C C converses with man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2119.1171186,
+            "timestamp_frame": 63573,
+            "_unmapped_timestamp_sec": 2119.09609,
+            "narration_text": "#O man D converses with C.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2119.9089986,
+            "timestamp_frame": 63597,
+            "_unmapped_timestamp_sec": 2119.8879699999998,
+            "narration_text": "#O man D picks up the card from the table.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2121.5281586,
+            "timestamp_frame": 63645,
+            "_unmapped_timestamp_sec": 2121.50713,
+            "narration_text": "#O man D looks at the cards.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2123.6072186,
+            "timestamp_frame": 63708,
+            "_unmapped_timestamp_sec": 2123.58619,
+            "narration_text": "#O Man D looks at the cards.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2127.2564986,
+            "timestamp_frame": 63817,
+            "_unmapped_timestamp_sec": 2127.23547,
+            "narration_text": "#O man D converses with C.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2128.6847286,
+            "timestamp_frame": 63860,
+            "_unmapped_timestamp_sec": 2128.6637,
+            "narration_text": "#C C looks at the cards.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2130.2984886,
+            "timestamp_frame": 63908,
+            "_unmapped_timestamp_sec": 2130.27746,
+            "narration_text": "#O man D converses with C.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2131.8487486000004,
+            "timestamp_frame": 63955,
+            "_unmapped_timestamp_sec": 2131.82772,
+            "narration_text": "#C C looks at man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2133.2644186,
+            "timestamp_frame": 63997,
+            "_unmapped_timestamp_sec": 2133.24339,
+            "narration_text": "#O man D converses with C.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2134.3947886,
+            "timestamp_frame": 64031,
+            "_unmapped_timestamp_sec": 2134.37376,
+            "narration_text": "#C C converse's with man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2136.0476086000003,
+            "timestamp_frame": 64081,
+            "_unmapped_timestamp_sec": 2136.02658,
+            "narration_text": "#C C looks at man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2137.4655686,
+            "timestamp_frame": 64123,
+            "_unmapped_timestamp_sec": 2137.44454,
+            "narration_text": "#C C converses with man D",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2138.9541686000002,
+            "timestamp_frame": 64168,
+            "_unmapped_timestamp_sec": 2138.93314,
+            "narration_text": "#O man D converses with C.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2142.0189486,
+            "timestamp_frame": 64260,
+            "_unmapped_timestamp_sec": 2141.99792,
+            "narration_text": "#C C converses with man D",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2142.5924886000003,
+            "timestamp_frame": 64277,
+            "_unmapped_timestamp_sec": 2142.57146,
+            "narration_text": "#C C converses with man D",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2145.0655086,
+            "timestamp_frame": 64351,
+            "_unmapped_timestamp_sec": 2145.04448,
+            "narration_text": "#C C looks at man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2145.8392886,
+            "timestamp_frame": 64375,
+            "_unmapped_timestamp_sec": 2145.81826,
+            "narration_text": "#O man D converses with C",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2146.4045986,
+            "timestamp_frame": 64392,
+            "_unmapped_timestamp_sec": 2146.38357,
+            "narration_text": "#C C converses with man D",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2148.2421886,
+            "timestamp_frame": 64447,
+            "_unmapped_timestamp_sec": 2148.22116,
+            "narration_text": "#C C picks up the cards from the table.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2149.3281586000003,
+            "timestamp_frame": 64479,
+            "_unmapped_timestamp_sec": 2149.30713,
+            "narration_text": "#C C looks at the cards.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2150.4474386,
+            "timestamp_frame": 64513,
+            "_unmapped_timestamp_sec": 2150.42641,
+            "narration_text": "#C C converses with man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2155.4558686,
+            "timestamp_frame": 64663,
+            "_unmapped_timestamp_sec": 2155.43484,
+            "narration_text": "#C C plays the game.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2158.1569786,
+            "timestamp_frame": 64744,
+            "_unmapped_timestamp_sec": 2158.13595,
+            "narration_text": "#C C plays the game.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2160.0841386,
+            "timestamp_frame": 64802,
+            "_unmapped_timestamp_sec": 2160.06311,
+            "narration_text": "#C C looks at man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2161.2561686,
+            "timestamp_frame": 64837,
+            "_unmapped_timestamp_sec": 2161.23514,
+            "narration_text": "#C C converses with man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2162.4249586,
+            "timestamp_frame": 64872,
+            "_unmapped_timestamp_sec": 2162.40393,
+            "narration_text": "#O man D converses with C.\n",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2163.7808386,
+            "timestamp_frame": 64913,
+            "_unmapped_timestamp_sec": 2163.75981,
+            "narration_text": "#C C looks around the house.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2165.3880986000004,
+            "timestamp_frame": 64961,
+            "_unmapped_timestamp_sec": 2165.3670700000002,
+            "narration_text": "#C C converses with man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2166.0342986,
+            "timestamp_frame": 64980,
+            "_unmapped_timestamp_sec": 2166.01327,
+            "narration_text": "#C C looks at man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2168.5615886,
+            "timestamp_frame": 65056,
+            "_unmapped_timestamp_sec": 2168.54056,
+            "narration_text": "#C C converses with man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2169.3354386,
+            "timestamp_frame": 65079,
+            "_unmapped_timestamp_sec": 2169.31441,
+            "narration_text": "#O  man D converses with C.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2172.7569886,
+            "timestamp_frame": 65182,
+            "_unmapped_timestamp_sec": 2172.73596,
+            "narration_text": "#C C converses with man D.",
+            "annotation_uid": "05497e35-62bc-49c5-8a86-62c5f5a0a16b"
+        },
+        {
+            "timestamp_sec": 2175.3611186000003,
+            "timestamp_frame": 65260,
+            "_unmapped_timestamp_sec": 2175.34009,
+            "narration_text": "#O man D plays the card game ",
+            "annotation_uid": "46bffeb7-9c1a-4006-828c-b43ff0a392f2"
+        },
+        {
+            "timestamp_sec": 2177.3813986,
+            "timestamp_frame": 65321,
+            "_unmapped_timestamp_sec": 2177.36037,
+            "narration_text": "#O man D picks up the card ",
+            "annotation_uid": "46bffeb7-9c1a-4006-828c-b43ff0a392f2"
+        },
+        {
+            "timestamp_sec": 2178.5843886000002,
+            "timestamp_frame": 65357,
+            "_unmapped_timestamp_sec": 2178.56336,
+            "narration_text": "#O ma D looks at the card.",
+            "annotation_uid": "46bffeb7-9c1a-4006-828c-b43ff0a392f2"
+        },
+        {
+            "timestamp_sec": 2183.1646586,
+            "timestamp_frame": 65494,
+            "_unmapped_timestamp_sec": 2183.14363,
+            "narration_text": "#O man D converses with C.",
+            "annotation_uid": "46bffeb7-9c1a-4006-828c-b43ff0a392f2"
+        },
+        {
+            "timestamp_sec": 2186.8325786,
+            "timestamp_frame": 65604,
+            "_unmapped_timestamp_sec": 2186.81155,
+            "narration_text": "#C C plays the game.",
+            "annotation_uid": "46bffeb7-9c1a-4006-828c-b43ff0a392f2"
+        }
+    ]
+}

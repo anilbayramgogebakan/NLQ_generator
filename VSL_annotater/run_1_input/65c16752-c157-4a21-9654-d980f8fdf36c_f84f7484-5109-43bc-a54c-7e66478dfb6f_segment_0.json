@@ -1,0 +1,774 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 296.2434909546634,
+            "timestamp_frame": 8887,
+            "_unmapped_timestamp_sec": 296.26452,
+            "narration_text": "#C C carries pan from cooker",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 297.3883409546634,
+            "timestamp_frame": 8921,
+            "_unmapped_timestamp_sec": 297.40937,
+            "narration_text": "#C C drops pot on cooker",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 298.8604509546634,
+            "timestamp_frame": 8965,
+            "_unmapped_timestamp_sec": 298.88148,
+            "narration_text": "#C C drops pan on counter",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 301.5096209546634,
+            "timestamp_frame": 9045,
+            "_unmapped_timestamp_sec": 301.53065,
+            "narration_text": "#C C turns on a switch",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 302.2836409546634,
+            "timestamp_frame": 9068,
+            "_unmapped_timestamp_sec": 302.30467,
+            "narration_text": "#C C touches pan handle",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 303.2421209546634,
+            "timestamp_frame": 9097,
+            "_unmapped_timestamp_sec": 303.26315,
+            "narration_text": "#C C carries meal pack from cooker",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 304.7664109546634,
+            "timestamp_frame": 9142,
+            "_unmapped_timestamp_sec": 304.78744,
+            "narration_text": "#C C drops meal pack on cooker",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 306.08025095466337,
+            "timestamp_frame": 9182,
+            "_unmapped_timestamp_sec": 306.10128,
+            "narration_text": "#C C picks up hand towel from counter",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 307.3154109546634,
+            "timestamp_frame": 9219,
+            "_unmapped_timestamp_sec": 307.33644,
+            "narration_text": "#C C carries meal pack from cooker",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 308.29666095466337,
+            "timestamp_frame": 9248,
+            "_unmapped_timestamp_sec": 308.31768999999997,
+            "narration_text": "#C C drops pan on cooker",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 312.2291709546634,
+            "timestamp_frame": 9366,
+            "_unmapped_timestamp_sec": 312.2502,
+            "narration_text": "#C C drops meal pack on cooker",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 313.7525609546634,
+            "timestamp_frame": 9412,
+            "_unmapped_timestamp_sec": 313.77359,
+            "narration_text": "#C C drops hand towel on counter",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 317.3952109546634,
+            "timestamp_frame": 9521,
+            "_unmapped_timestamp_sec": 317.41624,
+            "narration_text": "#C C takes out a plate from fridge",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 318.8049609546634,
+            "timestamp_frame": 9564,
+            "_unmapped_timestamp_sec": 318.82599,
+            "narration_text": "#C C takes out a plate from fridge",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 324.5277909546634,
+            "timestamp_frame": 9735,
+            "_unmapped_timestamp_sec": 324.54882,
+            "narration_text": "#C C walks to a dining table",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 327.7010409546634,
+            "timestamp_frame": 9830,
+            "_unmapped_timestamp_sec": 327.72207000000003,
+            "narration_text": "#C C drops both plates on dining table",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 330.0833509546634,
+            "timestamp_frame": 9902,
+            "_unmapped_timestamp_sec": 330.10438,
+            "narration_text": "#C C walks back to the fridge",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 332.3793909546634,
+            "timestamp_frame": 9971,
+            "_unmapped_timestamp_sec": 332.40042,
+            "narration_text": "#C C touches fridge",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 335.9321209546634,
+            "timestamp_frame": 10077,
+            "_unmapped_timestamp_sec": 335.95315,
+            "narration_text": "#C C closes fridge",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 339.1516809546634,
+            "timestamp_frame": 10174,
+            "_unmapped_timestamp_sec": 339.17271,
+            "narration_text": "#C C turns on tap",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 341.9748309546634,
+            "timestamp_frame": 10259,
+            "_unmapped_timestamp_sec": 341.99586,
+            "narration_text": "#C C turns off tap",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 345.1815609546634,
+            "timestamp_frame": 10355,
+            "_unmapped_timestamp_sec": 345.20259,
+            "narration_text": "#C C picks up a bottle from counter",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 347.6207009546634,
+            "timestamp_frame": 10428,
+            "_unmapped_timestamp_sec": 347.64173,
+            "narration_text": "#C C opens bottle",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 351.93364095466336,
+            "timestamp_frame": 10557,
+            "_unmapped_timestamp_sec": 351.95466999999996,
+            "narration_text": "#C C pours oil on the meat in pack #unsure",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 355.6558809546634,
+            "timestamp_frame": 10669,
+            "_unmapped_timestamp_sec": 355.67691,
+            "narration_text": "#C C moves bottle",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 356.8894309546634,
+            "timestamp_frame": 10706,
+            "_unmapped_timestamp_sec": 356.91046,
+            "narration_text": "#C C picks up another bottle from counter",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 360.4738209546634,
+            "timestamp_frame": 10814,
+            "_unmapped_timestamp_sec": 360.49485,
+            "narration_text": "#C C pours ketchup onto meat in pack #unsure",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 366.4259309546634,
+            "timestamp_frame": 10992,
+            "_unmapped_timestamp_sec": 366.44696,
+            "narration_text": "#C C picks a spice on counter",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 368.1809609546634,
+            "timestamp_frame": 11045,
+            "_unmapped_timestamp_sec": 368.20199,
+            "narration_text": "#C C pours spice onto meat",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 371.6025209546634,
+            "timestamp_frame": 11147,
+            "_unmapped_timestamp_sec": 371.62355,
+            "narration_text": "#C C drops spice on counter",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 379.3925209546634,
+            "timestamp_frame": 11381,
+            "_unmapped_timestamp_sec": 379.41355,
+            "narration_text": "#C C moves pan handle",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 407.6222509546634,
+            "timestamp_frame": 12228,
+            "_unmapped_timestamp_sec": 407.64328,
+            "narration_text": "#C C picks a nylon of spice from counter",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 409.5451709546634,
+            "timestamp_frame": 12286,
+            "_unmapped_timestamp_sec": 409.5662,
+            "narration_text": "#C C opens nylon of spice",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 417.0844109546634,
+            "timestamp_frame": 12512,
+            "_unmapped_timestamp_sec": 417.10544,
+            "narration_text": "#C C pours spice onto meat",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 425.4934209546634,
+            "timestamp_frame": 12764,
+            "_unmapped_timestamp_sec": 425.51445,
+            "narration_text": "#C C closes nylon of spice",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 428.73080095466344,
+            "timestamp_frame": 12861,
+            "_unmapped_timestamp_sec": 428.75183000000004,
+            "narration_text": "#C C drops nylon of spice on the counter",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 430.67972095466337,
+            "timestamp_frame": 12920,
+            "_unmapped_timestamp_sec": 430.70074999999997,
+            "narration_text": "#C C moves bottle on counter",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 431.9309609546634,
+            "timestamp_frame": 12957,
+            "_unmapped_timestamp_sec": 431.95199,
+            "narration_text": "#C C picks a nylon of spice from counter",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 434.2576509546634,
+            "timestamp_frame": 13027,
+            "_unmapped_timestamp_sec": 434.27868,
+            "narration_text": "#C C opens nylon of spice",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 435.4559509546634,
+            "timestamp_frame": 13063,
+            "_unmapped_timestamp_sec": 435.47698,
+            "narration_text": "#C C drops a clip on the counter",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 440.3661309546634,
+            "timestamp_frame": 13210,
+            "_unmapped_timestamp_sec": 440.38716,
+            "narration_text": "#C C pours spice onto meat",
+            "annotation_uid": "cad3af08-4ad0-4b54-ab6e-204daaef594f"
+        },
+        {
+            "timestamp_sec": 293.1080409546634,
+            "timestamp_frame": 8793,
+            "_unmapped_timestamp_sec": 293.12907,
+            "narration_text": "#C C picks cooking pot",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 296.5115309546634,
+            "timestamp_frame": 8895,
+            "_unmapped_timestamp_sec": 296.53256,
+            "narration_text": "#C C moves cooking pan",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 297.3465109546634,
+            "timestamp_frame": 8920,
+            "_unmapped_timestamp_sec": 297.36754,
+            "narration_text": "#C C puts cooking pot on gas cooker",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 299.0134409546634,
+            "timestamp_frame": 8970,
+            "_unmapped_timestamp_sec": 299.03447,
+            "narration_text": "#C C puts cooking pan down",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 300.1782909546634,
+            "timestamp_frame": 9005,
+            "_unmapped_timestamp_sec": 300.19932,
+            "narration_text": "#C C lights gas cooker",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 301.3780409546634,
+            "timestamp_frame": 9041,
+            "_unmapped_timestamp_sec": 301.39907,
+            "narration_text": "#C C puts power button on",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 302.3852109546634,
+            "timestamp_frame": 9071,
+            "_unmapped_timestamp_sec": 302.40624,
+            "narration_text": "#C C moves cooking pan",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 303.6381409546634,
+            "timestamp_frame": 9109,
+            "_unmapped_timestamp_sec": 303.65917,
+            "narration_text": "#C C moves meat tray",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 305.0793309546634,
+            "timestamp_frame": 9152,
+            "_unmapped_timestamp_sec": 305.10036,
+            "narration_text": "#C C puts meat tray down",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 306.6065809546634,
+            "timestamp_frame": 9198,
+            "_unmapped_timestamp_sec": 306.62761,
+            "narration_text": "#C C picks kitchen towel",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 307.4652609546634,
+            "timestamp_frame": 9223,
+            "_unmapped_timestamp_sec": 307.48629,
+            "narration_text": "#C C moves meat tray with with kitchen towel",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 308.1683209546634,
+            "timestamp_frame": 9244,
+            "_unmapped_timestamp_sec": 308.18935,
+            "narration_text": "#C C puts cooking pan on gas cooker",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 312.0808209546634,
+            "timestamp_frame": 9362,
+            "_unmapped_timestamp_sec": 312.10185,
+            "narration_text": "#C C puts meat tray down",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 313.9006609546634,
+            "timestamp_frame": 9416,
+            "_unmapped_timestamp_sec": 313.92169,
+            "narration_text": "#C C puts kitchen towel down",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 317.1508609546634,
+            "timestamp_frame": 9514,
+            "_unmapped_timestamp_sec": 317.17189,
+            "narration_text": "#C C picks food",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 324.7717409546634,
+            "timestamp_frame": 9743,
+            "_unmapped_timestamp_sec": 324.79277,
+            "narration_text": "#C C walks",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 328.4152609546634,
+            "timestamp_frame": 9852,
+            "_unmapped_timestamp_sec": 328.43629,
+            "narration_text": "#C C puts food on table",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 330.5845809546634,
+            "timestamp_frame": 9917,
+            "_unmapped_timestamp_sec": 330.60561,
+            "narration_text": "#C C walks",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 332.6852109546634,
+            "timestamp_frame": 9980,
+            "_unmapped_timestamp_sec": 332.70624,
+            "narration_text": "#C C opens fridge",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 334.7317809546634,
+            "timestamp_frame": 10041,
+            "_unmapped_timestamp_sec": 334.75281,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 336.2969809546634,
+            "timestamp_frame": 10088,
+            "_unmapped_timestamp_sec": 336.31801,
+            "narration_text": "#C C closes fridge",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 339.19532095466343,
+            "timestamp_frame": 10175,
+            "_unmapped_timestamp_sec": 339.21635000000003,
+            "narration_text": "#C C opens tap",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 340.1579009546634,
+            "timestamp_frame": 10204,
+            "_unmapped_timestamp_sec": 340.17893,
+            "narration_text": "#C C washes hands",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 342.2002909546634,
+            "timestamp_frame": 10265,
+            "_unmapped_timestamp_sec": 342.22132,
+            "narration_text": "#C C closes tap",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 345.6207009546634,
+            "timestamp_frame": 10368,
+            "_unmapped_timestamp_sec": 345.64173,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 347.3184509546634,
+            "timestamp_frame": 10419,
+            "_unmapped_timestamp_sec": 347.33948,
+            "narration_text": "#C C opens #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 350.5925309546634,
+            "timestamp_frame": 10517,
+            "_unmapped_timestamp_sec": 350.61356,
+            "narration_text": "#C C puts #unsure in meat tray",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 352.9920309546634,
+            "timestamp_frame": 10589,
+            "_unmapped_timestamp_sec": 353.01306,
+            "narration_text": "#C C closes #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 354.9816309546634,
+            "timestamp_frame": 10649,
+            "_unmapped_timestamp_sec": 355.00266,
+            "narration_text": "#C C puts #unsure down",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 355.6126609546634,
+            "timestamp_frame": 10668,
+            "_unmapped_timestamp_sec": 355.63369,
+            "narration_text": "#C C moves #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 357.5659809546634,
+            "timestamp_frame": 10726,
+            "_unmapped_timestamp_sec": 357.58701,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 358.5468209546634,
+            "timestamp_frame": 10756,
+            "_unmapped_timestamp_sec": 358.56785,
+            "narration_text": "#C C opens #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 359.8951609546634,
+            "timestamp_frame": 10796,
+            "_unmapped_timestamp_sec": 359.91619000000003,
+            "narration_text": "#C C puts #unsure in meat tray",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 363.9869109546634,
+            "timestamp_frame": 10919,
+            "_unmapped_timestamp_sec": 364.00794,
+            "narration_text": "#C C closes #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 365.1103809546634,
+            "timestamp_frame": 10953,
+            "_unmapped_timestamp_sec": 365.13141,
+            "narration_text": "#C C puts #unsure down ",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 366.7692309546634,
+            "timestamp_frame": 11002,
+            "_unmapped_timestamp_sec": 366.79026,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 367.5609209546634,
+            "timestamp_frame": 11026,
+            "_unmapped_timestamp_sec": 367.58195,
+            "narration_text": "#C C opens #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 368.4439109546634,
+            "timestamp_frame": 11053,
+            "_unmapped_timestamp_sec": 368.46494,
+            "narration_text": "#C C puts #unsure in meat",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 371.1476209546634,
+            "timestamp_frame": 11134,
+            "_unmapped_timestamp_sec": 371.16865,
+            "narration_text": "#C C closes #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 371.5538309546634,
+            "timestamp_frame": 11146,
+            "_unmapped_timestamp_sec": 371.57486,
+            "narration_text": "#C C puts #unsure down",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 372.6354809546634,
+            "timestamp_frame": 11178,
+            "_unmapped_timestamp_sec": 372.65651,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 373.8720709546634,
+            "timestamp_frame": 11216,
+            "_unmapped_timestamp_sec": 373.8931,
+            "narration_text": "#C C puts #unsure on meat",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 376.1200309546634,
+            "timestamp_frame": 11283,
+            "_unmapped_timestamp_sec": 376.14106,
+            "narration_text": "#C C closes #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 376.9874409546634,
+            "timestamp_frame": 11309,
+            "_unmapped_timestamp_sec": 377.00847,
+            "narration_text": "#C C puts #unsure  down",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 377.76784095466337,
+            "timestamp_frame": 11332,
+            "_unmapped_timestamp_sec": 377.78887,
+            "narration_text": "#C C moves",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 379.8850709546634,
+            "timestamp_frame": 11396,
+            "_unmapped_timestamp_sec": 379.9061,
+            "narration_text": "#C C moves cooking pan",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 380.9056909546634,
+            "timestamp_frame": 11427,
+            "_unmapped_timestamp_sec": 380.92672,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 382.6507109546634,
+            "timestamp_frame": 11479,
+            "_unmapped_timestamp_sec": 382.67174,
+            "narration_text": "#C C opens #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 384.5474809546634,
+            "timestamp_frame": 11536,
+            "_unmapped_timestamp_sec": 384.56851,
+            "narration_text": "#C C puts #unsure on meat",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 388.6289909546634,
+            "timestamp_frame": 11658,
+            "_unmapped_timestamp_sec": 388.65002,
+            "narration_text": "#C C closes #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 390.3785609546634,
+            "timestamp_frame": 11711,
+            "_unmapped_timestamp_sec": 390.39959,
+            "narration_text": "#C C puts #unsure down",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 391.79891095466337,
+            "timestamp_frame": 11753,
+            "_unmapped_timestamp_sec": 391.81994,
+            "narration_text": "#C C moves #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 392.3843409546634,
+            "timestamp_frame": 11771,
+            "_unmapped_timestamp_sec": 392.40537,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 393.4212009546634,
+            "timestamp_frame": 11802,
+            "_unmapped_timestamp_sec": 393.44223,
+            "narration_text": "#C C opens #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 394.2590709546634,
+            "timestamp_frame": 11827,
+            "_unmapped_timestamp_sec": 394.2801,
+            "narration_text": "#C C puts #unsure on meat",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 396.5707809546634,
+            "timestamp_frame": 11896,
+            "_unmapped_timestamp_sec": 396.59181,
+            "narration_text": "#C C closes #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 398.4832809546634,
+            "timestamp_frame": 11954,
+            "_unmapped_timestamp_sec": 398.50431000000003,
+            "narration_text": "#C C puts #unsure down",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 400.5621409546634,
+            "timestamp_frame": 12016,
+            "_unmapped_timestamp_sec": 400.58317,
+            "narration_text": "#C C moves #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 408.33989095466336,
+            "timestamp_frame": 12250,
+            "_unmapped_timestamp_sec": 408.36091999999996,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 409.4115909546634,
+            "timestamp_frame": 12282,
+            "_unmapped_timestamp_sec": 409.43262,
+            "narration_text": "#C C opens #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 412.61209095466336,
+            "timestamp_frame": 12378,
+            "_unmapped_timestamp_sec": 412.63311999999996,
+            "narration_text": "#C C puts #unsure on meat",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 424.9227509546634,
+            "timestamp_frame": 12747,
+            "_unmapped_timestamp_sec": 424.94378,
+            "narration_text": "#C C folds #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 429.01241095466344,
+            "timestamp_frame": 12870,
+            "_unmapped_timestamp_sec": 429.03344000000004,
+            "narration_text": "#C C puts #unsure down",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 430.6034509546634,
+            "timestamp_frame": 12917,
+            "_unmapped_timestamp_sec": 430.62448,
+            "narration_text": "#C C moves #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 432.6653209546634,
+            "timestamp_frame": 12979,
+            "_unmapped_timestamp_sec": 432.68635,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 434.1478709546634,
+            "timestamp_frame": 13024,
+            "_unmapped_timestamp_sec": 434.1689,
+            "narration_text": "#C C opens #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 435.5562209546634,
+            "timestamp_frame": 13066,
+            "_unmapped_timestamp_sec": 435.57725,
+            "narration_text": "#C C puts #unsure down",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 436.3791409546634,
+            "timestamp_frame": 13091,
+            "_unmapped_timestamp_sec": 436.40017,
+            "narration_text": "#C C opens #unsure",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        },
+        {
+            "timestamp_sec": 438.4055209546634,
+            "timestamp_frame": 13152,
+            "_unmapped_timestamp_sec": 438.42655,
+            "narration_text": "#C C puts #unsure on meat",
+            "annotation_uid": "2a0466a7-f7a5-4bba-8088-9142e939e085"
+        }
+    ]
+}

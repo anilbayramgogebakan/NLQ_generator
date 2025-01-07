@@ -1,0 +1,928 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 1770.9676509546632,
+            "timestamp_frame": 53128,
+            "_unmapped_timestamp_sec": 1770.98868,
+            "narration_text": "#C C pulls out a drawer from the wardrobe with her left hand.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1772.3522209546632,
+            "timestamp_frame": 53170,
+            "_unmapped_timestamp_sec": 1772.37325,
+            "narration_text": "#C C puts the red dress in the drawer. ",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1775.2263409546633,
+            "timestamp_frame": 53256,
+            "_unmapped_timestamp_sec": 1775.24737,
+            "narration_text": "#C C pushes the drawer back with her left hand. ",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1776.4071809546633,
+            "timestamp_frame": 53292,
+            "_unmapped_timestamp_sec": 1776.42821,
+            "narration_text": "#C C pulls out another drawer from the wardrobe with her left hand.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1777.1990909546632,
+            "timestamp_frame": 53315,
+            "_unmapped_timestamp_sec": 1777.22012,
+            "narration_text": "#C C puts the pair of socks in the drawer.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1777.7927409546633,
+            "timestamp_frame": 53333,
+            "_unmapped_timestamp_sec": 1777.81377,
+            "narration_text": "#C C pushes the drawer back. ",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1779.7033709546633,
+            "timestamp_frame": 53390,
+            "_unmapped_timestamp_sec": 1779.7244,
+            "narration_text": "#C C closes the wardrobe with her left hand.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1781.1332609546632,
+            "timestamp_frame": 53433,
+            "_unmapped_timestamp_sec": 1781.15429,
+            "narration_text": "#C C walks down towards an hanger. ",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1787.2262109546632,
+            "timestamp_frame": 53616,
+            "_unmapped_timestamp_sec": 1787.24724,
+            "narration_text": "#C C picks up a baby's pair of trousers and a sock from the hanger.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1788.3057609546631,
+            "timestamp_frame": 53649,
+            "_unmapped_timestamp_sec": 1788.32679,
+            "narration_text": "#C C walks towards the chest of drawers..",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1791.2280009546632,
+            "timestamp_frame": 53736,
+            "_unmapped_timestamp_sec": 1791.24903,
+            "narration_text": "#C C folds the baby's pair of trousers. ",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1800.7339309546633,
+            "timestamp_frame": 54021,
+            "_unmapped_timestamp_sec": 1800.75496,
+            "narration_text": "#C C puts the folded pair of trousers in the drawer with her left hand.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1802.0364609546632,
+            "timestamp_frame": 54060,
+            "_unmapped_timestamp_sec": 1802.05749,
+            "narration_text": "#C C folds the sock.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1802.8182209546633,
+            "timestamp_frame": 54084,
+            "_unmapped_timestamp_sec": 1802.83925,
+            "narration_text": "#C C walks towards the wardrobe.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1805.5758109546632,
+            "timestamp_frame": 54167,
+            "_unmapped_timestamp_sec": 1805.59684,
+            "narration_text": "#C C opens the wardrobe with her right hand.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1807.4311409546633,
+            "timestamp_frame": 54222,
+            "_unmapped_timestamp_sec": 1807.45217,
+            "narration_text": "#C C passes the sock from her left hand to her right hand.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1808.0288009546632,
+            "timestamp_frame": 54240,
+            "_unmapped_timestamp_sec": 1808.04983,
+            "narration_text": "#C C pulls the drawer in the wardrobe with her left hand.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1808.9221609546632,
+            "timestamp_frame": 54267,
+            "_unmapped_timestamp_sec": 1808.94319,
+            "narration_text": "#C C puts the sock in the drawer with her right hand. ",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1808.8194409546632,
+            "timestamp_frame": 54264,
+            "_unmapped_timestamp_sec": 1808.84047,
+            "narration_text": "#C C pushes the drawer back. ",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1809.8953509546632,
+            "timestamp_frame": 54296,
+            "_unmapped_timestamp_sec": 1809.9163800000001,
+            "narration_text": "#C C walks towards the hanger. ",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1816.0921009546632,
+            "timestamp_frame": 54482,
+            "_unmapped_timestamp_sec": 1816.11313,
+            "narration_text": "#C C picks up a pair of trousers from the hanger.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1820.5985709546633,
+            "timestamp_frame": 54617,
+            "_unmapped_timestamp_sec": 1820.6196,
+            "narration_text": "#C C folds the pair of trousers.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1819.9961709546633,
+            "timestamp_frame": 54599,
+            "_unmapped_timestamp_sec": 1820.0172,
+            "narration_text": "#C C walks back towards the chest of drawers",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1825.2970209546634,
+            "timestamp_frame": 54758,
+            "_unmapped_timestamp_sec": 1825.31805,
+            "narration_text": "#C C opens another drawer on the chest of drawers with her right hand. ",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1828.7147909546634,
+            "timestamp_frame": 54861,
+            "_unmapped_timestamp_sec": 1828.7358199999999,
+            "narration_text": "#C C puts the pair of trousers in the drawer.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1830.8594909546632,
+            "timestamp_frame": 54925,
+            "_unmapped_timestamp_sec": 1830.88052,
+            "narration_text": "#C C closes the drawer. ",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1834.4095509546632,
+            "timestamp_frame": 55032,
+            "_unmapped_timestamp_sec": 1834.43058,
+            "narration_text": "#C C walks towards the hanger. ",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1838.8307309546633,
+            "timestamp_frame": 55164,
+            "_unmapped_timestamp_sec": 1838.85176,
+            "narration_text": "#C C picks a pair of socks and a dress with an hanger.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1844.3803609546633,
+            "timestamp_frame": 55331,
+            "_unmapped_timestamp_sec": 1844.40139,
+            "narration_text": "#C C removes the hanger from the dress.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1845.5701909546633,
+            "timestamp_frame": 55366,
+            "_unmapped_timestamp_sec": 1845.59122,
+            "narration_text": "#C C walks towards the wardrobe.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1851.7482109546631,
+            "timestamp_frame": 55552,
+            "_unmapped_timestamp_sec": 1851.76924,
+            "narration_text": "#C C puts the hanger inside the wardrobe.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1854.2416509546633,
+            "timestamp_frame": 55627,
+            "_unmapped_timestamp_sec": 1854.26268,
+            "narration_text": "#C C puts the socks in the drawer in the wardrobe.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1854.5278009546632,
+            "timestamp_frame": 55635,
+            "_unmapped_timestamp_sec": 1854.54883,
+            "narration_text": "#C C pushes the drawer in with her right hand. ",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1855.6115209546633,
+            "timestamp_frame": 55668,
+            "_unmapped_timestamp_sec": 1855.63255,
+            "narration_text": "#C C walks towards the baby cot with the dress in her hand.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1860.3656109546632,
+            "timestamp_frame": 55810,
+            "_unmapped_timestamp_sec": 1860.38664,
+            "narration_text": "#C C adjusts the dress on the baby cot.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1863.3144109546633,
+            "timestamp_frame": 55899,
+            "_unmapped_timestamp_sec": 1863.33544,
+            "narration_text": "#C C folds the dress on the baby cot.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1872.5182609546632,
+            "timestamp_frame": 56175,
+            "_unmapped_timestamp_sec": 1872.53929,
+            "narration_text": "#C C touches the folded dress with her right hand.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1876.6118509546632,
+            "timestamp_frame": 56298,
+            "_unmapped_timestamp_sec": 1876.6328800000001,
+            "narration_text": "#C C picks the folded dress from the baby cot.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1877.9536409546633,
+            "timestamp_frame": 56338,
+            "_unmapped_timestamp_sec": 1877.97467,
+            "narration_text": "#C C walks towards the chest of drawers.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1879.3237209546633,
+            "timestamp_frame": 56379,
+            "_unmapped_timestamp_sec": 1879.34475,
+            "narration_text": "#C C puts the folded dress in the drawer.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1882.6967309546633,
+            "timestamp_frame": 56480,
+            "_unmapped_timestamp_sec": 1882.71776,
+            "narration_text": "#C C walks towards a table. ",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1885.6733309546632,
+            "timestamp_frame": 56570,
+            "_unmapped_timestamp_sec": 1885.69436,
+            "narration_text": "#C C picks a can of air freshener  from the table with her right hand. #unsure",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1886.3170909546634,
+            "timestamp_frame": 56589,
+            "_unmapped_timestamp_sec": 1886.33812,
+            "narration_text": "#C C walks towards another table. ",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1886.7599309546633,
+            "timestamp_frame": 56602,
+            "_unmapped_timestamp_sec": 1886.78096,
+            "narration_text": "#C C passes the can of air freshener  from her right hand to her left hand. #unsure",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1887.9272609546633,
+            "timestamp_frame": 56637,
+            "_unmapped_timestamp_sec": 1887.94829,
+            "narration_text": "#C C picks a piece of cloth from the table.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1889.7172209546634,
+            "timestamp_frame": 56691,
+            "_unmapped_timestamp_sec": 1889.7382499999999,
+            "narration_text": "#C C walks down to the kitchen where a cabinet is. ",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1900.0759909546632,
+            "timestamp_frame": 57002,
+            "_unmapped_timestamp_sec": 1900.09702,
+            "narration_text": "#C C opens the cabinet with her right hand.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1902.7730609546634,
+            "timestamp_frame": 57083,
+            "_unmapped_timestamp_sec": 1902.7940899999999,
+            "narration_text": "#C C drops the can of air freshener in the cabinet. #unsure",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1902.7007809546633,
+            "timestamp_frame": 57080,
+            "_unmapped_timestamp_sec": 1902.72181,
+            "narration_text": "#C C bends down.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1904.0095609546634,
+            "timestamp_frame": 57120,
+            "_unmapped_timestamp_sec": 1904.03059,
+            "narration_text": "#C C puts the piece of cloth on the can of air freshener. #unsure. ",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1904.8790509546634,
+            "timestamp_frame": 57146,
+            "_unmapped_timestamp_sec": 1904.90008,
+            "narration_text": "#C C stands up.",
+            "annotation_uid": "80ab292f-de1f-44df-9a12-76a819edb285"
+        },
+        {
+            "timestamp_sec": 1905.6808709546633,
+            "timestamp_frame": 57170,
+            "_unmapped_timestamp_sec": 1905.7019,
+            "narration_text": "#C C closes the cupboard with his right hand",
+            "annotation_uid": "7c063203-eb81-47fb-8560-21872bff6da4"
+        },
+        {
+            "timestamp_sec": 1906.3357909546633,
+            "timestamp_frame": 57189,
+            "_unmapped_timestamp_sec": 1906.35682,
+            "narration_text": "#C C walks towards a container beside the cooker",
+            "annotation_uid": "7c063203-eb81-47fb-8560-21872bff6da4"
+        },
+        {
+            "timestamp_sec": 1908.3246609546632,
+            "timestamp_frame": 57249,
+            "_unmapped_timestamp_sec": 1908.34569,
+            "narration_text": "#C C carries the container to the fridge with both hands",
+            "annotation_uid": "7c063203-eb81-47fb-8560-21872bff6da4"
+        },
+        {
+            "timestamp_sec": 1913.5363909546631,
+            "timestamp_frame": 57405,
+            "_unmapped_timestamp_sec": 1913.55742,
+            "narration_text": "#C C opens the fridge with his right hand",
+            "annotation_uid": "7c063203-eb81-47fb-8560-21872bff6da4"
+        },
+        {
+            "timestamp_sec": 1915.6920909546634,
+            "timestamp_frame": 57470,
+            "_unmapped_timestamp_sec": 1915.71312,
+            "narration_text": "#C C puts the container into the fridge with his left hand",
+            "annotation_uid": "7c063203-eb81-47fb-8560-21872bff6da4"
+        },
+        {
+            "timestamp_sec": 1919.6925709546633,
+            "timestamp_frame": 57590,
+            "_unmapped_timestamp_sec": 1919.7136,
+            "narration_text": "#C C picks a nylon from a chair with both hands",
+            "annotation_uid": "7c063203-eb81-47fb-8560-21872bff6da4"
+        },
+        {
+            "timestamp_sec": 1771.1139509546633,
+            "timestamp_frame": 53133,
+            "_unmapped_timestamp_sec": 1771.13498,
+            "narration_text": "#C C opens the wardrobe.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1772.1440109546634,
+            "timestamp_frame": 53164,
+            "_unmapped_timestamp_sec": 1772.16504,
+            "narration_text": "#C C holds the cloth.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1773.0982709546633,
+            "timestamp_frame": 53192,
+            "_unmapped_timestamp_sec": 1773.1193,
+            "narration_text": "#C C puts the cloth on the shelf.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1775.3253409546633,
+            "timestamp_frame": 53259,
+            "_unmapped_timestamp_sec": 1775.34637,
+            "narration_text": "#C C closes the draw.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1776.2982909546633,
+            "timestamp_frame": 53288,
+            "_unmapped_timestamp_sec": 1776.31932,
+            "narration_text": "#C C opens the drawer.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1777.0843709546634,
+            "timestamp_frame": 53312,
+            "_unmapped_timestamp_sec": 1777.1054,
+            "narration_text": "#C C puts the cloth in the drawer.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1778.0161509546633,
+            "timestamp_frame": 53340,
+            "_unmapped_timestamp_sec": 1778.03718,
+            "narration_text": "#C C closes the drawer.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1779.2722609546634,
+            "timestamp_frame": 53378,
+            "_unmapped_timestamp_sec": 1779.29329,
+            "narration_text": "#C C closes the wardrobe.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1780.9167309546633,
+            "timestamp_frame": 53427,
+            "_unmapped_timestamp_sec": 1780.93776,
+            "narration_text": "#C C walks around.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1786.9296409546632,
+            "timestamp_frame": 53607,
+            "_unmapped_timestamp_sec": 1786.95067,
+            "narration_text": "#C C picks the clothes.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1788.5777209546632,
+            "timestamp_frame": 53657,
+            "_unmapped_timestamp_sec": 1788.59875,
+            "narration_text": "#C C walks around.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1791.8109109546633,
+            "timestamp_frame": 53754,
+            "_unmapped_timestamp_sec": 1791.83194,
+            "narration_text": "#C C folds the cloth.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1794.1119709546633,
+            "timestamp_frame": 53823,
+            "_unmapped_timestamp_sec": 1794.133,
+            "narration_text": "#C C stands.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1795.7535009546632,
+            "timestamp_frame": 53872,
+            "_unmapped_timestamp_sec": 1795.77453,
+            "narration_text": "#C C passes the cloth to the left hand.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1796.7083809546634,
+            "timestamp_frame": 53901,
+            "_unmapped_timestamp_sec": 1796.72941,
+            "narration_text": "#C C folds the cloth.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1800.3850209546633,
+            "timestamp_frame": 54011,
+            "_unmapped_timestamp_sec": 1800.40605,
+            "narration_text": "#C C passes the cloth to the left hand.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1800.8398209546633,
+            "timestamp_frame": 54025,
+            "_unmapped_timestamp_sec": 1800.86085,
+            "narration_text": "#C C puts the cloth in the drawer.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1801.9769009546633,
+            "timestamp_frame": 54059,
+            "_unmapped_timestamp_sec": 1801.99793,
+            "narration_text": "#C C holds the cloth.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1802.5711109546633,
+            "timestamp_frame": 54077,
+            "_unmapped_timestamp_sec": 1802.59214,
+            "narration_text": "#C C walks around.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1805.3056409546634,
+            "timestamp_frame": 54159,
+            "_unmapped_timestamp_sec": 1805.32667,
+            "narration_text": "#C C passes the cloth to the left hand.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1805.7642309546632,
+            "timestamp_frame": 54172,
+            "_unmapped_timestamp_sec": 1805.78526,
+            "narration_text": "#C C opens the wardrobe.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1807.2948009546633,
+            "timestamp_frame": 54218,
+            "_unmapped_timestamp_sec": 1807.31583,
+            "narration_text": "#C C passes the cloth to the right hand.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1808.1002909546633,
+            "timestamp_frame": 54242,
+            "_unmapped_timestamp_sec": 1808.12132,
+            "narration_text": "#C C opens the drawer.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1808.7635109546632,
+            "timestamp_frame": 54262,
+            "_unmapped_timestamp_sec": 1808.78454,
+            "narration_text": "#C C puts the cloth in the drawer.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1808.9757209546633,
+            "timestamp_frame": 54269,
+            "_unmapped_timestamp_sec": 1808.99675,
+            "narration_text": "#C C pushes the drawer.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1809.8636009546633,
+            "timestamp_frame": 54295,
+            "_unmapped_timestamp_sec": 1809.88463,
+            "narration_text": "#C C walks around.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1816.0517009546634,
+            "timestamp_frame": 54481,
+            "_unmapped_timestamp_sec": 1816.07273,
+            "narration_text": "#C C picks the cloth.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1818.1057209546634,
+            "timestamp_frame": 54543,
+            "_unmapped_timestamp_sec": 1818.12675,
+            "narration_text": "#C C holds the cloth.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1819.9017209546632,
+            "timestamp_frame": 54596,
+            "_unmapped_timestamp_sec": 1819.92275,
+            "narration_text": "#C C walks around.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1819.3493409546631,
+            "timestamp_frame": 54580,
+            "_unmapped_timestamp_sec": 1819.37037,
+            "narration_text": "#C C folds the cloth.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1825.3783909546632,
+            "timestamp_frame": 54761,
+            "_unmapped_timestamp_sec": 1825.39942,
+            "narration_text": "#C C opens the drawer.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1826.7816509546633,
+            "timestamp_frame": 54803,
+            "_unmapped_timestamp_sec": 1826.80268,
+            "narration_text": "#C C holds the piece of cloth.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1828.7158109546633,
+            "timestamp_frame": 54861,
+            "_unmapped_timestamp_sec": 1828.73684,
+            "narration_text": "#C C puts the piece of cloth in the drawer.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1831.7505809546633,
+            "timestamp_frame": 54952,
+            "_unmapped_timestamp_sec": 1831.77161,
+            "narration_text": "#C C closes the drawer.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1834.0235609546633,
+            "timestamp_frame": 55020,
+            "_unmapped_timestamp_sec": 1834.04459,
+            "narration_text": "#C C walks around.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1838.7371009546632,
+            "timestamp_frame": 55161,
+            "_unmapped_timestamp_sec": 1838.75813,
+            "narration_text": "#C C picks the socks.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1840.5621109546632,
+            "timestamp_frame": 55216,
+            "_unmapped_timestamp_sec": 1840.58314,
+            "narration_text": "#C C passes the socks to the left hand.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1842.4672709546633,
+            "timestamp_frame": 55273,
+            "_unmapped_timestamp_sec": 1842.4883,
+            "narration_text": "#C C picks the cloth.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1843.5934409546633,
+            "timestamp_frame": 55307,
+            "_unmapped_timestamp_sec": 1843.61447,
+            "narration_text": "#C C removes the hanger  from the cloth.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1845.6098709546632,
+            "timestamp_frame": 55368,
+            "_unmapped_timestamp_sec": 1845.6309,
+            "narration_text": "#C C walks around.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1851.6241209546633,
+            "timestamp_frame": 55548,
+            "_unmapped_timestamp_sec": 1851.64515,
+            "narration_text": "#C C puts the hanger in the wardrobe.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1852.4632009546633,
+            "timestamp_frame": 55573,
+            "_unmapped_timestamp_sec": 1852.48423,
+            "narration_text": "#C C passes the socks the right hand.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1853.6140709546632,
+            "timestamp_frame": 55608,
+            "_unmapped_timestamp_sec": 1853.6351,
+            "narration_text": "#C C puts the socks in the wardrobe.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1854.5963609546634,
+            "timestamp_frame": 55637,
+            "_unmapped_timestamp_sec": 1854.61739,
+            "narration_text": "#C C pushes the drawer.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1855.6420809546632,
+            "timestamp_frame": 55669,
+            "_unmapped_timestamp_sec": 1855.66311,
+            "narration_text": "#C C passes the cloth to the right hand.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1856.3647209546634,
+            "timestamp_frame": 55690,
+            "_unmapped_timestamp_sec": 1856.38575,
+            "narration_text": "#C C walks around.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1856.6936209546634,
+            "timestamp_frame": 55700,
+            "_unmapped_timestamp_sec": 1856.71465,
+            "narration_text": "#C C holds the cloth.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1857.1617309546632,
+            "timestamp_frame": 55714,
+            "_unmapped_timestamp_sec": 1857.18276,
+            "narration_text": "#C C lifts the cloth.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1859.6685809546634,
+            "timestamp_frame": 55789,
+            "_unmapped_timestamp_sec": 1859.68961,
+            "narration_text": "#C C puts the cloth on the bed.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1860.5165709546632,
+            "timestamp_frame": 55815,
+            "_unmapped_timestamp_sec": 1860.5376,
+            "narration_text": "#C C folds the cloth.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1872.2435809546632,
+            "timestamp_frame": 56167,
+            "_unmapped_timestamp_sec": 1872.26461,
+            "narration_text": "#C C touches the cloth.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1876.4634609546633,
+            "timestamp_frame": 56293,
+            "_unmapped_timestamp_sec": 1876.48449,
+            "narration_text": "#C C lifts the cloth.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1877.4133809546634,
+            "timestamp_frame": 56322,
+            "_unmapped_timestamp_sec": 1877.43441,
+            "narration_text": "#C C steps forward.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1879.4361809546633,
+            "timestamp_frame": 56382,
+            "_unmapped_timestamp_sec": 1879.45721,
+            "narration_text": "#C C puts the cloth in the drawer.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1879.6815309546632,
+            "timestamp_frame": 56390,
+            "_unmapped_timestamp_sec": 1879.70256,
+            "narration_text": "#C C passes the cloth to the left hand.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1879.9455009546632,
+            "timestamp_frame": 56398,
+            "_unmapped_timestamp_sec": 1879.96653,
+            "narration_text": "#C C passes the cloth right hand.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1880.6009909546633,
+            "timestamp_frame": 56417,
+            "_unmapped_timestamp_sec": 1880.62202,
+            "narration_text": "#C C puts the cloth in the drawer.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1881.9305009546633,
+            "timestamp_frame": 56457,
+            "_unmapped_timestamp_sec": 1881.95153,
+            "narration_text": "#C C touches the clothes.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1882.4503809546632,
+            "timestamp_frame": 56473,
+            "_unmapped_timestamp_sec": 1882.47141,
+            "narration_text": "#C C pushes the drawer.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1882.9401009546632,
+            "timestamp_frame": 56488,
+            "_unmapped_timestamp_sec": 1882.9611300000001,
+            "narration_text": "#C C walks around.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1885.9059309546633,
+            "timestamp_frame": 56577,
+            "_unmapped_timestamp_sec": 1885.92696,
+            "narration_text": "#C C picks #unsure.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1886.9298709546633,
+            "timestamp_frame": 56607,
+            "_unmapped_timestamp_sec": 1886.9509,
+            "narration_text": "#C C passes #unsure to the left hand.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1887.8488609546632,
+            "timestamp_frame": 56635,
+            "_unmapped_timestamp_sec": 1887.86989,
+            "narration_text": "#C C picks the cloth.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1889.0181609546632,
+            "timestamp_frame": 56670,
+            "_unmapped_timestamp_sec": 1889.03919,
+            "narration_text": "#C C walks around.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1900.2939909546633,
+            "timestamp_frame": 57008,
+            "_unmapped_timestamp_sec": 1900.31502,
+            "narration_text": "#C C opens the cabinet.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1902.2369309546634,
+            "timestamp_frame": 57066,
+            "_unmapped_timestamp_sec": 1902.25796,
+            "narration_text": "#C C bends.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1902.6853609546633,
+            "timestamp_frame": 57080,
+            "_unmapped_timestamp_sec": 1902.70639,
+            "narration_text": "#C C puts the #unsure on the cabinet.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1902.4724409546634,
+            "timestamp_frame": 57074,
+            "_unmapped_timestamp_sec": 1902.49347,
+            "narration_text": "#C C squats.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1903.6102309546632,
+            "timestamp_frame": 57108,
+            "_unmapped_timestamp_sec": 1903.63126,
+            "narration_text": "#C C puts the cloth on top of #unsure.",
+            "annotation_uid": "b8cc2aa2-d787-4642-8e44-eac6ba6580ee"
+        },
+        {
+            "timestamp_sec": 1905.7587009546633,
+            "timestamp_frame": 57172,
+            "_unmapped_timestamp_sec": 1905.77973,
+            "narration_text": "#C C closes the sink cabinet door",
+            "annotation_uid": "b5db47d2-d237-441c-83d8-6e53de6bd8a6"
+        },
+        {
+            "timestamp_sec": 1907.3696709546634,
+            "timestamp_frame": 57220,
+            "_unmapped_timestamp_sec": 1907.3907,
+            "narration_text": "#C C walks around the room",
+            "annotation_uid": "b5db47d2-d237-441c-83d8-6e53de6bd8a6"
+        },
+        {
+            "timestamp_sec": 1908.5001609546634,
+            "timestamp_frame": 57254,
+            "_unmapped_timestamp_sec": 1908.52119,
+            "narration_text": "#C C picks a fridge storage container",
+            "annotation_uid": "b5db47d2-d237-441c-83d8-6e53de6bd8a6"
+        },
+        {
+            "timestamp_sec": 1910.5432009546632,
+            "timestamp_frame": 57316,
+            "_unmapped_timestamp_sec": 1910.56423,
+            "narration_text": "#C C walks around the room",
+            "annotation_uid": "b5db47d2-d237-441c-83d8-6e53de6bd8a6"
+        },
+        {
+            "timestamp_sec": 1913.6992209546634,
+            "timestamp_frame": 57410,
+            "_unmapped_timestamp_sec": 1913.72025,
+            "narration_text": "#C  C opens the fridge door",
+            "annotation_uid": "b5db47d2-d237-441c-83d8-6e53de6bd8a6"
+        },
+        {
+            "timestamp_sec": 1915.8961309546632,
+            "timestamp_frame": 57476,
+            "_unmapped_timestamp_sec": 1915.91716,
+            "narration_text": "#C C puts the fridge storage container in the fridge",
+            "annotation_uid": "b5db47d2-d237-441c-83d8-6e53de6bd8a6"
+        }
+    ]
+}

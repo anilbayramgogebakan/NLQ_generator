@@ -1,0 +1,921 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 270.5818186,
+            "timestamp_frame": 8117,
+            "_unmapped_timestamp_sec": 270.56079,
+            "narration_text": "#C C drops the slice of meat on the cutting board.",
+            "annotation_uid": "835ef88c-00b2-4f82-822e-8eb0701d353c"
+        },
+        {
+            "timestamp_sec": 272.6666786,
+            "timestamp_frame": 8179,
+            "_unmapped_timestamp_sec": 272.64565,
+            "narration_text": "#C C touches the meat in the pack with his right hand.",
+            "annotation_uid": "835ef88c-00b2-4f82-822e-8eb0701d353c"
+        },
+        {
+            "timestamp_sec": 275.18296860000004,
+            "timestamp_frame": 8255,
+            "_unmapped_timestamp_sec": 275.16194,
+            "narration_text": "#C C covers the wrapping on the pack of meat with his right hand.",
+            "annotation_uid": "835ef88c-00b2-4f82-822e-8eb0701d353c"
+        },
+        {
+            "timestamp_sec": 277.78331860000003,
+            "timestamp_frame": 8333,
+            "_unmapped_timestamp_sec": 277.76229,
+            "narration_text": "#C C places the meat pack on the table.",
+            "annotation_uid": "835ef88c-00b2-4f82-822e-8eb0701d353c"
+        },
+        {
+            "timestamp_sec": 278.4535386,
+            "timestamp_frame": 8353,
+            "_unmapped_timestamp_sec": 278.43251,
+            "narration_text": "#C C picks up the knife from the sink with his right hand.",
+            "annotation_uid": "835ef88c-00b2-4f82-822e-8eb0701d353c"
+        },
+        {
+            "timestamp_sec": 278.93974860000003,
+            "timestamp_frame": 8368,
+            "_unmapped_timestamp_sec": 278.91872,
+            "narration_text": "#C C holds the meat on the cutting board with his left hand.",
+            "annotation_uid": "835ef88c-00b2-4f82-822e-8eb0701d353c"
+        },
+        {
+            "timestamp_sec": 279.47290860000004,
+            "timestamp_frame": 8384,
+            "_unmapped_timestamp_sec": 279.45188,
+            "narration_text": "#C C cuts the meat on the cutting board with the knife in his right hand.",
+            "annotation_uid": "835ef88c-00b2-4f82-822e-8eb0701d353c"
+        },
+        {
+            "timestamp_sec": 282.0739686,
+            "timestamp_frame": 8462,
+            "_unmapped_timestamp_sec": 282.05294,
+            "narration_text": "#C C picks up the slices of meat from the cutting board with his left hand.",
+            "annotation_uid": "835ef88c-00b2-4f82-822e-8eb0701d353c"
+        },
+        {
+            "timestamp_sec": 282.8500986,
+            "timestamp_frame": 8485,
+            "_unmapped_timestamp_sec": 282.82907,
+            "narration_text": "#C C drops the slices of meat into the frying pan.",
+            "annotation_uid": "835ef88c-00b2-4f82-822e-8eb0701d353c"
+        },
+        {
+            "timestamp_sec": 285.6009786,
+            "timestamp_frame": 8567,
+            "_unmapped_timestamp_sec": 285.57995,
+            "narration_text": "#C C holds sliced potatoes on the cutting board with his left hand. #unsure",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 287.4049986,
+            "timestamp_frame": 8622,
+            "_unmapped_timestamp_sec": 287.38397,
+            "narration_text": "#C C chops the sliced potatoes on the cutting board with the knife in his right hand. #unsure",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 297.3901286,
+            "timestamp_frame": 8921,
+            "_unmapped_timestamp_sec": 297.3691,
+            "narration_text": "#C C shakes the meat in the frying pan with his left hand on the handle of the frying pan.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 296.6504486,
+            "timestamp_frame": 8899,
+            "_unmapped_timestamp_sec": 296.62942,
+            "narration_text": "#C C drops the knife on the cutting board.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 300.6054386,
+            "timestamp_frame": 9018,
+            "_unmapped_timestamp_sec": 300.58441,
+            "narration_text": "#C C picks up a turner from the sink with his right hand.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 301.4716786,
+            "timestamp_frame": 9044,
+            "_unmapped_timestamp_sec": 301.45065,
+            "narration_text": "#C C holds the handle of the frying pan with his left hand.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 302.2072686,
+            "timestamp_frame": 9066,
+            "_unmapped_timestamp_sec": 302.18624,
+            "narration_text": "#C C turns the meat in the frying pan with the turner in his right hand.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 305.34056860000004,
+            "timestamp_frame": 9160,
+            "_unmapped_timestamp_sec": 305.31954,
+            "narration_text": "#C C holds the handle of the frying pan with his left hand.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 305.5082386,
+            "timestamp_frame": 9165,
+            "_unmapped_timestamp_sec": 305.48721,
+            "narration_text": "#C C turns the meat in the frying pan with the turner in his right hand.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 313.1609386,
+            "timestamp_frame": 9394,
+            "_unmapped_timestamp_sec": 313.13991,
+            "narration_text": "#C C drops the turner on the sink.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 314.24742860000003,
+            "timestamp_frame": 9427,
+            "_unmapped_timestamp_sec": 314.2264,
+            "narration_text": "#C C picks up the knife from the cutting board with his right hand.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 314.77164860000005,
+            "timestamp_frame": 9443,
+            "_unmapped_timestamp_sec": 314.75062,
+            "narration_text": "#C C chops the sliced potatoes on the cutting board with the knife in his right hand. #unsure",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 329.67271860000005,
+            "timestamp_frame": 9890,
+            "_unmapped_timestamp_sec": 329.65169000000003,
+            "narration_text": "#C C brushes off the chopped potatoes on the knife into a bowl on the table with his left hand.. #unsure",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 330.8817386,
+            "timestamp_frame": 9926,
+            "_unmapped_timestamp_sec": 330.86071,
+            "narration_text": "#C C chops the sliced potatoes on the cutting board with the knife in his right hand. #unsure",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 334.76219860000003,
+            "timestamp_frame": 10042,
+            "_unmapped_timestamp_sec": 334.74117,
+            "narration_text": "#C C brushes off the chopped potatoes on the knife into a bowl on the table with his left hand.. #unsure",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 336.6373186,
+            "timestamp_frame": 10098,
+            "_unmapped_timestamp_sec": 336.61629,
+            "narration_text": "#C C chops the sliced potatoes on the cutting board with the knife in his right hand. #unsure",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 338.7582386,
+            "timestamp_frame": 10162,
+            "_unmapped_timestamp_sec": 338.73721,
+            "narration_text": "#C C brushes off the chopped potatoes on the knife into the bowl on the table with his left hand. #unsure",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 339.9034786,
+            "timestamp_frame": 10196,
+            "_unmapped_timestamp_sec": 339.88245,
+            "narration_text": "#C C picks up the potato tuber from the cutting board with his left hand.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 340.64149860000003,
+            "timestamp_frame": 10219,
+            "_unmapped_timestamp_sec": 340.62047,
+            "narration_text": "#C C drops the potato tuber on the table.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 341.2553186,
+            "timestamp_frame": 10237,
+            "_unmapped_timestamp_sec": 341.23429,
+            "narration_text": "#C C picks up the cutting board from the table with his left hand.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 343.2444186,
+            "timestamp_frame": 10297,
+            "_unmapped_timestamp_sec": 343.22339,
+            "narration_text": "#C C brushes off the chopped potatoes on the cutting board into the bowl on the table with the knife in his right hand. #unsure",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 347.4745386,
+            "timestamp_frame": 10424,
+            "_unmapped_timestamp_sec": 347.45351,
+            "narration_text": "#C C drops the cutting board on the sink.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 348.3111086,
+            "timestamp_frame": 10449,
+            "_unmapped_timestamp_sec": 348.29008,
+            "narration_text": "#C C brushes off the chopped potatoes on the knife into the bowl on the table with his left hand. #unsure",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 349.2008086,
+            "timestamp_frame": 10475,
+            "_unmapped_timestamp_sec": 349.17978,
+            "narration_text": "#C C places the knife on the cutting board.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 351.22718860000003,
+            "timestamp_frame": 10536,
+            "_unmapped_timestamp_sec": 351.20616,
+            "narration_text": "#C C picks up the bowl from the sink with his left hand.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 352.1964686,
+            "timestamp_frame": 10565,
+            "_unmapped_timestamp_sec": 352.17544,
+            "narration_text": "#C C picks up a bottle from the sink with his right hand.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 351.7138986,
+            "timestamp_frame": 10551,
+            "_unmapped_timestamp_sec": 351.69286999999997,
+            "narration_text": "#C C drops the bowl on the cutting board.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 352.8486386,
+            "timestamp_frame": 10585,
+            "_unmapped_timestamp_sec": 352.82761,
+            "narration_text": "#C C opens the cover of the bottle.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 353.75271860000004,
+            "timestamp_frame": 10612,
+            "_unmapped_timestamp_sec": 353.73169,
+            "narration_text": "#C C pours cream from the bottle into the bowl on the table. #unsure",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 357.17080860000004,
+            "timestamp_frame": 10714,
+            "_unmapped_timestamp_sec": 357.14978,
+            "narration_text": "#C C closes the cover of the bottle.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 358.70606860000004,
+            "timestamp_frame": 10761,
+            "_unmapped_timestamp_sec": 358.68504,
+            "narration_text": "#C C places the bottle on the sink.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 360.7686686,
+            "timestamp_frame": 10822,
+            "_unmapped_timestamp_sec": 360.74764,
+            "narration_text": "#C C picks out a plate a shelf cabinet with his right hand.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 365.90988860000004,
+            "timestamp_frame": 10977,
+            "_unmapped_timestamp_sec": 365.88886,
+            "narration_text": "#C C places the meat in the turner on the plate.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 361.95180860000005,
+            "timestamp_frame": 10858,
+            "_unmapped_timestamp_sec": 361.93078,
+            "narration_text": "#C C picks up the turner from the sink with his right hand.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 363.7328986,
+            "timestamp_frame": 10911,
+            "_unmapped_timestamp_sec": 363.71187,
+            "narration_text": "#C C picks out a meat from the frying pan with the turner in his right hand.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 367.0905186,
+            "timestamp_frame": 11012,
+            "_unmapped_timestamp_sec": 367.06949,
+            "narration_text": "#C C picks out a meat from the frying pan with the turner in his right hand.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 369.0250386,
+            "timestamp_frame": 11070,
+            "_unmapped_timestamp_sec": 369.00401,
+            "narration_text": "#C C places the meat in the turner on the plate.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 370.5137886,
+            "timestamp_frame": 11115,
+            "_unmapped_timestamp_sec": 370.49276,
+            "narration_text": "#C C picks out a meat from the frying pan with the turner in his right hand.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 373.55550860000005,
+            "timestamp_frame": 11206,
+            "_unmapped_timestamp_sec": 373.53448000000003,
+            "narration_text": "#C C places the meat in the turner on the plate.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 374.4476386,
+            "timestamp_frame": 11233,
+            "_unmapped_timestamp_sec": 374.42661,
+            "narration_text": "#C C drops the turner into the frying pan.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 378.3084586,
+            "timestamp_frame": 11349,
+            "_unmapped_timestamp_sec": 378.28743,
+            "narration_text": "#C C picks up the pack of meat from the sink with his right hand.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 379.3470586,
+            "timestamp_frame": 11380,
+            "_unmapped_timestamp_sec": 379.32603,
+            "narration_text": "#C C places the plate in his left hand on the sink.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 380.12543860000005,
+            "timestamp_frame": 11403,
+            "_unmapped_timestamp_sec": 380.10441000000003,
+            "narration_text": "#C C places the pack in his right hand on the sink.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 382.57282860000004,
+            "timestamp_frame": 11477,
+            "_unmapped_timestamp_sec": 382.5518,
+            "narration_text": "#C C picks up a spoon from the table with his left hand.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 384.0913286,
+            "timestamp_frame": 11522,
+            "_unmapped_timestamp_sec": 384.0703,
+            "narration_text": "#C C stirs the cream with the chopped potatoes in the bowl with the spoon. #unsure",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 403.7615986,
+            "timestamp_frame": 12112,
+            "_unmapped_timestamp_sec": 403.74057,
+            "narration_text": "#C C picks up the bowl from the cutting board with his left hand.",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 404.93474860000003,
+            "timestamp_frame": 12147,
+            "_unmapped_timestamp_sec": 404.91372,
+            "narration_text": "#C C pours out the chopped potatoes in the bowl on the meat on the plate. #unsure",
+            "annotation_uid": "3ff78e80-e177-41b8-84b2-1c56876ba098"
+        },
+        {
+            "timestamp_sec": 270.1449586,
+            "timestamp_frame": 8104,
+            "_unmapped_timestamp_sec": 270.12393,
+            "narration_text": "#C C puts liver cheese on the cutting board",
+            "annotation_uid": "bec255ca-878f-4823-9766-cb3313d07b4b"
+        },
+        {
+            "timestamp_sec": 271.7806486,
+            "timestamp_frame": 8153,
+            "_unmapped_timestamp_sec": 271.75962,
+            "narration_text": "#C C moves #unsure",
+            "annotation_uid": "bec255ca-878f-4823-9766-cb3313d07b4b"
+        },
+        {
+            "timestamp_sec": 272.8740086,
+            "timestamp_frame": 8186,
+            "_unmapped_timestamp_sec": 272.85298,
+            "narration_text": "#C C touches liver cheese",
+            "annotation_uid": "bec255ca-878f-4823-9766-cb3313d07b4b"
+        },
+        {
+            "timestamp_sec": 276.0528186,
+            "timestamp_frame": 8281,
+            "_unmapped_timestamp_sec": 276.03179,
+            "narration_text": "#C C covers liver cheeses",
+            "annotation_uid": "bec255ca-878f-4823-9766-cb3313d07b4b"
+        },
+        {
+            "timestamp_sec": 277.60080860000005,
+            "timestamp_frame": 8327,
+            "_unmapped_timestamp_sec": 277.57978,
+            "narration_text": "#C C puts packaging container on the countertop",
+            "annotation_uid": "bec255ca-878f-4823-9766-cb3313d07b4b"
+        },
+        {
+            "timestamp_sec": 278.4637086,
+            "timestamp_frame": 8353,
+            "_unmapped_timestamp_sec": 278.44268,
+            "narration_text": "#C C picks a knife",
+            "annotation_uid": "bec255ca-878f-4823-9766-cb3313d07b4b"
+        },
+        {
+            "timestamp_sec": 278.85657860000003,
+            "timestamp_frame": 8365,
+            "_unmapped_timestamp_sec": 278.83555,
+            "narration_text": "#C C holds liver cheese",
+            "annotation_uid": "bec255ca-878f-4823-9766-cb3313d07b4b"
+        },
+        {
+            "timestamp_sec": 279.7347786,
+            "timestamp_frame": 8391,
+            "_unmapped_timestamp_sec": 279.71375,
+            "narration_text": "#C C cuts liver cheese",
+            "annotation_uid": "bec255ca-878f-4823-9766-cb3313d07b4b"
+        },
+        {
+            "timestamp_sec": 281.7580586,
+            "timestamp_frame": 8452,
+            "_unmapped_timestamp_sec": 281.73703,
+            "narration_text": "#C C collects liver cheese",
+            "annotation_uid": "bec255ca-878f-4823-9766-cb3313d07b4b"
+        },
+        {
+            "timestamp_sec": 283.0864886,
+            "timestamp_frame": 8492,
+            "_unmapped_timestamp_sec": 283.06546,
+            "narration_text": "#C C puts liver cheese on the frying pan",
+            "annotation_uid": "bec255ca-878f-4823-9766-cb3313d07b4b"
+        },
+        {
+            "timestamp_sec": 288.0547186,
+            "timestamp_frame": 8641,
+            "_unmapped_timestamp_sec": 288.03369,
+            "narration_text": "#C C cuts #unsure",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 296.7536486,
+            "timestamp_frame": 8902,
+            "_unmapped_timestamp_sec": 296.73262,
+            "narration_text": "#C C puts a knife on the cutting board",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 297.3521486,
+            "timestamp_frame": 8920,
+            "_unmapped_timestamp_sec": 297.33112,
+            "narration_text": "#C C holds the frying pan",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 297.8897486,
+            "timestamp_frame": 8936,
+            "_unmapped_timestamp_sec": 297.86872,
+            "narration_text": "#C C shakes the frying pan",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 298.88478860000004,
+            "timestamp_frame": 8966,
+            "_unmapped_timestamp_sec": 298.86376,
+            "narration_text": "#C C puts the frying pan on the cooker",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 300.0740586,
+            "timestamp_frame": 9002,
+            "_unmapped_timestamp_sec": 300.05303,
+            "narration_text": "#C C walks",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 300.9986586,
+            "timestamp_frame": 9029,
+            "_unmapped_timestamp_sec": 300.97763,
+            "narration_text": "#C C picks turner spoon",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 301.02921860000004,
+            "timestamp_frame": 9030,
+            "_unmapped_timestamp_sec": 301.00819,
+            "narration_text": "#C C moves tuner spoon towards the pan",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 301.92393860000004,
+            "timestamp_frame": 9057,
+            "_unmapped_timestamp_sec": 301.90291,
+            "narration_text": "#C C turns bacon",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 305.55368860000004,
+            "timestamp_frame": 9166,
+            "_unmapped_timestamp_sec": 305.53266,
+            "narration_text": "#C C moves the fish",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 308.33288860000005,
+            "timestamp_frame": 9249,
+            "_unmapped_timestamp_sec": 308.31186,
+            "narration_text": "#C C turns bacon",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 311.0816186,
+            "timestamp_frame": 9332,
+            "_unmapped_timestamp_sec": 311.06059,
+            "narration_text": "#C C exchanges spoon to the other hand",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 312.5244486,
+            "timestamp_frame": 9375,
+            "_unmapped_timestamp_sec": 312.50342,
+            "narration_text": "#C C holds spoon with the other hand",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 313.15389860000005,
+            "timestamp_frame": 9394,
+            "_unmapped_timestamp_sec": 313.13287,
+            "narration_text": "#C C puts turner spoon on the sink",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 314.3980586,
+            "timestamp_frame": 9431,
+            "_unmapped_timestamp_sec": 314.37703,
+            "narration_text": "#C C picks a knife",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 314.62411860000003,
+            "timestamp_frame": 9438,
+            "_unmapped_timestamp_sec": 314.60309,
+            "narration_text": "#C C holds #unsure",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 314.92848860000004,
+            "timestamp_frame": 9447,
+            "_unmapped_timestamp_sec": 314.90746,
+            "narration_text": "#C C cuts #unsure",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 329.7048186,
+            "timestamp_frame": 9891,
+            "_unmapped_timestamp_sec": 329.68379,
+            "narration_text": "#C C removes #unsure from the knife",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 331.0304886,
+            "timestamp_frame": 9930,
+            "_unmapped_timestamp_sec": 331.00946,
+            "narration_text": "#C C cuts #unsure",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 334.96741860000003,
+            "timestamp_frame": 10048,
+            "_unmapped_timestamp_sec": 334.94639,
+            "narration_text": "#C C removes #unsure from the knife",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 336.25537860000003,
+            "timestamp_frame": 10087,
+            "_unmapped_timestamp_sec": 336.23435,
+            "narration_text": "#C C holds #unsure",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 336.5251386,
+            "timestamp_frame": 10095,
+            "_unmapped_timestamp_sec": 336.50410999999997,
+            "narration_text": "#C C cuts #unsure",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 339.1492486,
+            "timestamp_frame": 10174,
+            "_unmapped_timestamp_sec": 339.12822,
+            "narration_text": "#C C removes #unsure from the knife",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 339.43278860000004,
+            "timestamp_frame": 10182,
+            "_unmapped_timestamp_sec": 339.41176,
+            "narration_text": "#C C puts a knife on the sink",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 339.74744860000004,
+            "timestamp_frame": 10192,
+            "_unmapped_timestamp_sec": 339.72642,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 340.9075586,
+            "timestamp_frame": 10227,
+            "_unmapped_timestamp_sec": 340.88653,
+            "narration_text": "#C C puts #unsure on the countertop",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 341.24404860000004,
+            "timestamp_frame": 10237,
+            "_unmapped_timestamp_sec": 341.22302,
+            "narration_text": "#C C lifts the cutting board",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 342.7180286,
+            "timestamp_frame": 10281,
+            "_unmapped_timestamp_sec": 342.697,
+            "narration_text": "#C C pours #unsure in the bowl",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 347.5171586,
+            "timestamp_frame": 10425,
+            "_unmapped_timestamp_sec": 347.49613,
+            "narration_text": "#C C puts the cutting board on the countertop",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 348.3324086,
+            "timestamp_frame": 10449,
+            "_unmapped_timestamp_sec": 348.31138,
+            "narration_text": "#C C removes #unsure from the knife",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 349.3638186,
+            "timestamp_frame": 10480,
+            "_unmapped_timestamp_sec": 349.34279,
+            "narration_text": "#C C puts the knife on the cutting board",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 349.82651860000004,
+            "timestamp_frame": 10494,
+            "_unmapped_timestamp_sec": 349.80549,
+            "narration_text": "#C C moves hands",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 351.19460860000004,
+            "timestamp_frame": 10535,
+            "_unmapped_timestamp_sec": 351.17358,
+            "narration_text": "#C C picks a bowl",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 351.3777686,
+            "timestamp_frame": 10541,
+            "_unmapped_timestamp_sec": 351.35674,
+            "narration_text": "#C C holds a knife",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 351.71412860000004,
+            "timestamp_frame": 10551,
+            "_unmapped_timestamp_sec": 351.6931,
+            "narration_text": "#C C puts the bowl on the cutting board",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 352.2139886,
+            "timestamp_frame": 10566,
+            "_unmapped_timestamp_sec": 352.19295999999997,
+            "narration_text": "#C C picks a bottle of #unsure",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 352.64210860000003,
+            "timestamp_frame": 10579,
+            "_unmapped_timestamp_sec": 352.62108,
+            "narration_text": "#C C holds a bottle of #unsure",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 353.2356586,
+            "timestamp_frame": 10596,
+            "_unmapped_timestamp_sec": 353.21463,
+            "narration_text": "#C C opens a bottle of #unsure",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 353.6529686,
+            "timestamp_frame": 10609,
+            "_unmapped_timestamp_sec": 353.63194,
+            "narration_text": "#C C squeezes #unsure in the bowl",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 356.7562886,
+            "timestamp_frame": 10702,
+            "_unmapped_timestamp_sec": 356.73526,
+            "narration_text": "#C C closes a bottle of #unsure",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 358.6350686,
+            "timestamp_frame": 10758,
+            "_unmapped_timestamp_sec": 358.61404,
+            "narration_text": "#C C puts a bottle of #unsure on the countertop",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 359.6819286,
+            "timestamp_frame": 10790,
+            "_unmapped_timestamp_sec": 359.66089999999997,
+            "narration_text": "#C C moves a hand",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 360.88014860000004,
+            "timestamp_frame": 10826,
+            "_unmapped_timestamp_sec": 360.85912,
+            "narration_text": "#C C picks a plate",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 361.84373860000005,
+            "timestamp_frame": 10855,
+            "_unmapped_timestamp_sec": 361.82271000000003,
+            "narration_text": "#C C exchanges plate to the other hand",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 362.1537986,
+            "timestamp_frame": 10864,
+            "_unmapped_timestamp_sec": 362.13277,
+            "narration_text": "#C C picks turner spoon",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 363.23256860000004,
+            "timestamp_frame": 10896,
+            "_unmapped_timestamp_sec": 363.21154,
+            "narration_text": "#C C picks fish",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 366.01736860000005,
+            "timestamp_frame": 10980,
+            "_unmapped_timestamp_sec": 365.99634000000003,
+            "narration_text": "#C C serves fish on the plate",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 367.45775860000003,
+            "timestamp_frame": 11023,
+            "_unmapped_timestamp_sec": 367.43673,
+            "narration_text": "#C C picks bacon",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 368.9532886,
+            "timestamp_frame": 11068,
+            "_unmapped_timestamp_sec": 368.93226,
+            "narration_text": "#C C serves bacon on the plate",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 370.4268486,
+            "timestamp_frame": 11112,
+            "_unmapped_timestamp_sec": 370.40582,
+            "narration_text": "#C C picks bacon",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 373.6433286,
+            "timestamp_frame": 11209,
+            "_unmapped_timestamp_sec": 373.6223,
+            "narration_text": "#C C serves bacon on the plate",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 374.91330860000005,
+            "timestamp_frame": 11247,
+            "_unmapped_timestamp_sec": 374.89228,
+            "narration_text": "#C C drops turner spoon on the frying pan",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 375.64034860000004,
+            "timestamp_frame": 11269,
+            "_unmapped_timestamp_sec": 375.61932,
+            "narration_text": "#C C walks",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 376.93505860000005,
+            "timestamp_frame": 11307,
+            "_unmapped_timestamp_sec": 376.91403,
+            "narration_text": "#C C touches scissors",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 377.7815286,
+            "timestamp_frame": 11333,
+            "_unmapped_timestamp_sec": 377.7605,
+            "narration_text": "#C C walks",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 378.6731586,
+            "timestamp_frame": 11360,
+            "_unmapped_timestamp_sec": 378.65213,
+            "narration_text": "#C C picks a food packaging container",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 379.1030786,
+            "timestamp_frame": 11372,
+            "_unmapped_timestamp_sec": 379.08205,
+            "narration_text": "#C C puts plate on the countertop",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 380.1005986,
+            "timestamp_frame": 11402,
+            "_unmapped_timestamp_sec": 380.07957,
+            "narration_text": "#C C puts food packaging container on top of a cylindrical container",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 381.4071186,
+            "timestamp_frame": 11442,
+            "_unmapped_timestamp_sec": 381.38608999999997,
+            "narration_text": "#C C picks a spoon",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 383.8911486,
+            "timestamp_frame": 11516,
+            "_unmapped_timestamp_sec": 383.87012,
+            "narration_text": "#C C holds the bowl",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 384.15477860000004,
+            "timestamp_frame": 11524,
+            "_unmapped_timestamp_sec": 384.13375,
+            "narration_text": "#C C mixes #unsure with eggs",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 403.62267860000003,
+            "timestamp_frame": 12108,
+            "_unmapped_timestamp_sec": 403.60165,
+            "narration_text": "#C C lifts the bowl",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 404.54479860000004,
+            "timestamp_frame": 12136,
+            "_unmapped_timestamp_sec": 404.52377,
+            "narration_text": "#C C pours mixture of eggs and #unsure on the plate",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 416.97440860000006,
+            "timestamp_frame": 12509,
+            "_unmapped_timestamp_sec": 416.95338000000004,
+            "narration_text": "#C C sways the spoon",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        },
+        {
+            "timestamp_sec": 419.4563386,
+            "timestamp_frame": 12583,
+            "_unmapped_timestamp_sec": 419.43530999999996,
+            "narration_text": "#C C moves both the bowl and spoon away",
+            "annotation_uid": "8eb6289f-9b47-42ec-97ed-67713613a18b"
+        }
+    ]
+}

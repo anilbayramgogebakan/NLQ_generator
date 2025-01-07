@@ -1,0 +1,725 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 607.8736086,
+            "timestamp_frame": 18236,
+            "_unmapped_timestamp_sec": 607.85258,
+            "narration_text": "#C C looks around the shelves",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 610.8971086,
+            "timestamp_frame": 18326,
+            "_unmapped_timestamp_sec": 610.87608,
+            "narration_text": "#O A woman Y picks a juice packet",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 614.1522586,
+            "timestamp_frame": 18424,
+            "_unmapped_timestamp_sec": 614.13123,
+            "narration_text": "#O A woman Y  puts the juice packet on the shelf",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 615.9878086,
+            "timestamp_frame": 18479,
+            "_unmapped_timestamp_sec": 615.96678,
+            "narration_text": "#O A woman Y looks around the shelves",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 619.7844386,
+            "timestamp_frame": 18593,
+            "_unmapped_timestamp_sec": 619.76341,
+            "narration_text": "#O A woman Y points at #unsure",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 621.9939986,
+            "timestamp_frame": 18659,
+            "_unmapped_timestamp_sec": 621.97297,
+            "narration_text": "#O A woman Y  pulls his hand off #unsure",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 623.7254886000001,
+            "timestamp_frame": 18711,
+            "_unmapped_timestamp_sec": 623.70446,
+            "narration_text": "#O A woman Y gestures his hand",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 625.7216886,
+            "timestamp_frame": 18771,
+            "_unmapped_timestamp_sec": 625.70066,
+            "narration_text": "#O A woman Y holds a phone",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 632.3130886,
+            "timestamp_frame": 18969,
+            "_unmapped_timestamp_sec": 632.29206,
+            "narration_text": "#C C holds ground nuts",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 634.2457786,
+            "timestamp_frame": 19027,
+            "_unmapped_timestamp_sec": 634.22475,
+            "narration_text": "#C C  puts ground nuts on the shelf",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 635.2491986,
+            "timestamp_frame": 19057,
+            "_unmapped_timestamp_sec": 635.22817,
+            "narration_text": "#C C looks around the shelves",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 637.9803986000001,
+            "timestamp_frame": 19139,
+            "_unmapped_timestamp_sec": 637.95937,
+            "narration_text": "#C C picks fritos",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 638.6760286,
+            "timestamp_frame": 19160,
+            "_unmapped_timestamp_sec": 638.655,
+            "narration_text": "#C C examines the fritos wrapper",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 639.9996986,
+            "timestamp_frame": 19199,
+            "_unmapped_timestamp_sec": 639.97867,
+            "narration_text": "#O A woman Y holds #unsure",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 641.9200586000001,
+            "timestamp_frame": 19257,
+            "_unmapped_timestamp_sec": 641.89903,
+            "narration_text": "#O A woman Y  pulls his hand off #unsure",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 642.2959686,
+            "timestamp_frame": 19268,
+            "_unmapped_timestamp_sec": 642.27494,
+            "narration_text": "#O A woman Y holds #unsure",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 644.4472886,
+            "timestamp_frame": 19333,
+            "_unmapped_timestamp_sec": 644.42626,
+            "narration_text": "#C C looks around the store",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 647.2311186000001,
+            "timestamp_frame": 19416,
+            "_unmapped_timestamp_sec": 647.21009,
+            "narration_text": "#O A woman Y holds #unsure",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 648.1430886,
+            "timestamp_frame": 19444,
+            "_unmapped_timestamp_sec": 648.12206,
+            "narration_text": "#O A woman Y  pulls his hand off #unsure",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 648.8697986000001,
+            "timestamp_frame": 19465,
+            "_unmapped_timestamp_sec": 648.8487700000001,
+            "narration_text": "#C C looks around the store",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 651.1620386000001,
+            "timestamp_frame": 19534,
+            "_unmapped_timestamp_sec": 651.14101,
+            "narration_text": "#C C walks around the store",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 660.3209786,
+            "timestamp_frame": 19809,
+            "_unmapped_timestamp_sec": 660.29995,
+            "narration_text": "#C C holds biscuits",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 673.7136586,
+            "timestamp_frame": 20211,
+            "_unmapped_timestamp_sec": 673.69263,
+            "narration_text": "#O A woman Y gestures her hand",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 676.0699686,
+            "timestamp_frame": 20281,
+            "_unmapped_timestamp_sec": 676.04894,
+            "narration_text": "#C C looks around the store",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 678.8642786,
+            "timestamp_frame": 20365,
+            "_unmapped_timestamp_sec": 678.84325,
+            "narration_text": "#O A woman Y gestures her hand",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 680.3646086,
+            "timestamp_frame": 20410,
+            "_unmapped_timestamp_sec": 680.34358,
+            "narration_text": "#C C holds corn",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 680.8567786,
+            "timestamp_frame": 20425,
+            "_unmapped_timestamp_sec": 680.83575,
+            "narration_text": "#C C looks around the store",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 691.2992386,
+            "timestamp_frame": 20738,
+            "_unmapped_timestamp_sec": 691.27821,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 694.5776486000001,
+            "timestamp_frame": 20837,
+            "_unmapped_timestamp_sec": 694.5566200000001,
+            "narration_text": "#C C looks around the store",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 696.8882186,
+            "timestamp_frame": 20906,
+            "_unmapped_timestamp_sec": 696.8671899999999,
+            "narration_text": "#C C puts #unsure on the shelf",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 699.7091886000001,
+            "timestamp_frame": 20991,
+            "_unmapped_timestamp_sec": 699.68816,
+            "narration_text": "#O A woman Y holds #unsure",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 699.7091886000001,
+            "timestamp_frame": 20991,
+            "_unmapped_timestamp_sec": 699.68816,
+            "narration_text": "#C C walks around the store",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 703.8789186,
+            "timestamp_frame": 21116,
+            "_unmapped_timestamp_sec": 703.85789,
+            "narration_text": "#O A woman Y puts #unsure on the shelf",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 707.1298786,
+            "timestamp_frame": 21213,
+            "_unmapped_timestamp_sec": 707.10885,
+            "narration_text": "#C C picks gardetto's",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 707.6156186000001,
+            "timestamp_frame": 21228,
+            "_unmapped_timestamp_sec": 707.59459,
+            "narration_text": "#C C examines  gardetto's wrapper",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 710.4394386,
+            "timestamp_frame": 21313,
+            "_unmapped_timestamp_sec": 710.41841,
+            "narration_text": "#C C lifts gardetto's",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 713.6626386,
+            "timestamp_frame": 21409,
+            "_unmapped_timestamp_sec": 713.64161,
+            "narration_text": "#C C walks around the store",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 718.4076886,
+            "timestamp_frame": 21552,
+            "_unmapped_timestamp_sec": 718.38666,
+            "narration_text": "#C C picks up a sauce",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 719.6244586,
+            "timestamp_frame": 21588,
+            "_unmapped_timestamp_sec": 719.60343,
+            "narration_text": "#C C examines the sauce bottle",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 723.1176386000001,
+            "timestamp_frame": 21693,
+            "_unmapped_timestamp_sec": 723.09661,
+            "narration_text": "#C C  puts the sauce on the shelf",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 724.6974086,
+            "timestamp_frame": 21740,
+            "_unmapped_timestamp_sec": 724.67638,
+            "narration_text": "#C C walks around the store",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 725.8447186,
+            "timestamp_frame": 21775,
+            "_unmapped_timestamp_sec": 725.8236899999999,
+            "narration_text": "#C C holds a sauce bottle",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 726.3103786,
+            "timestamp_frame": 21789,
+            "_unmapped_timestamp_sec": 726.28935,
+            "narration_text": "#C C pulls his hand off the sauce bottle",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 726.8855586000001,
+            "timestamp_frame": 21806,
+            "_unmapped_timestamp_sec": 726.8645300000001,
+            "narration_text": "#C C  holds a bottle",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 729.2922386,
+            "timestamp_frame": 21878,
+            "_unmapped_timestamp_sec": 729.27121,
+            "narration_text": "#C C pulls his hand off the  bottle",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 732.3660886,
+            "timestamp_frame": 21970,
+            "_unmapped_timestamp_sec": 732.34506,
+            "narration_text": "#C C  looks around the shelves",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 736.6553486,
+            "timestamp_frame": 22099,
+            "_unmapped_timestamp_sec": 736.63432,
+            "narration_text": "#C C  walks around the store",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 738.7060186,
+            "timestamp_frame": 22161,
+            "_unmapped_timestamp_sec": 738.68499,
+            "narration_text": "#O A woman Y  gestures her hand",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 738.7060186,
+            "timestamp_frame": 22161,
+            "_unmapped_timestamp_sec": 738.68499,
+            "narration_text": "#O A woman Y walks around the store",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 740.0368586000001,
+            "timestamp_frame": 22200,
+            "_unmapped_timestamp_sec": 740.01583,
+            "narration_text": "#C C  walks around the store",
+            "annotation_uid": "21a7ac4e-1627-4865-bd2f-599a4182de68"
+        },
+        {
+            "timestamp_sec": 600.4583586,
+            "timestamp_frame": 18013,
+            "_unmapped_timestamp_sec": 600.43733,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 602.6729286,
+            "timestamp_frame": 18080,
+            "_unmapped_timestamp_sec": 602.6519,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 602.6729286,
+            "timestamp_frame": 18080,
+            "_unmapped_timestamp_sec": 602.6519,
+            "narration_text": "#C C picks a snack",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 610.7000286,
+            "timestamp_frame": 18320,
+            "_unmapped_timestamp_sec": 610.679,
+            "narration_text": "#O woman X takes a bag of #unsure",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 614.1734686,
+            "timestamp_frame": 18425,
+            "_unmapped_timestamp_sec": 614.15244,
+            "narration_text": "#O woman X returns a bag of #unsure",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 614.1734686,
+            "timestamp_frame": 18425,
+            "_unmapped_timestamp_sec": 614.15244,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 610.7000286,
+            "timestamp_frame": 18320,
+            "_unmapped_timestamp_sec": 610.679,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 616.0583586,
+            "timestamp_frame": 18481,
+            "_unmapped_timestamp_sec": 616.03733,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 619.5271486,
+            "timestamp_frame": 18585,
+            "_unmapped_timestamp_sec": 619.50612,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 619.5271486,
+            "timestamp_frame": 18585,
+            "_unmapped_timestamp_sec": 619.50612,
+            "narration_text": "#O woman X holds cellphone",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 630.7042686,
+            "timestamp_frame": 18920,
+            "_unmapped_timestamp_sec": 630.68324,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 630.7042686,
+            "timestamp_frame": 18920,
+            "_unmapped_timestamp_sec": 630.68324,
+            "narration_text": "#C C holds a jar of peanuts",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 633.5177386,
+            "timestamp_frame": 19005,
+            "_unmapped_timestamp_sec": 633.49671,
+            "narration_text": "#C C returns peanut jar on the shelf",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 635.0203486,
+            "timestamp_frame": 19050,
+            "_unmapped_timestamp_sec": 634.99932,
+            "narration_text": "#C C looks around the shelf",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 637.7888986,
+            "timestamp_frame": 19133,
+            "_unmapped_timestamp_sec": 637.76787,
+            "narration_text": "#C C picks a bag of chips",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 640.6085086,
+            "timestamp_frame": 19218,
+            "_unmapped_timestamp_sec": 640.58748,
+            "narration_text": "#C C holds bag of chips",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 640.6085086,
+            "timestamp_frame": 19218,
+            "_unmapped_timestamp_sec": 640.58748,
+            "narration_text": "#O woman X touches bag of chips",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 644.0840286,
+            "timestamp_frame": 19322,
+            "_unmapped_timestamp_sec": 644.063,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 644.0840286,
+            "timestamp_frame": 19322,
+            "_unmapped_timestamp_sec": 644.063,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 650.3835086,
+            "timestamp_frame": 19511,
+            "_unmapped_timestamp_sec": 650.36248,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 650.3835086,
+            "timestamp_frame": 19511,
+            "_unmapped_timestamp_sec": 650.36248,
+            "narration_text": "#C C walks around woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 656.0940286,
+            "timestamp_frame": 19682,
+            "_unmapped_timestamp_sec": 656.073,
+            "narration_text": "#C C grabs a snack",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 656.0940286,
+            "timestamp_frame": 19682,
+            "_unmapped_timestamp_sec": 656.073,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 660.4590286,
+            "timestamp_frame": 19813,
+            "_unmapped_timestamp_sec": 660.438,
+            "narration_text": "#C C puts snack back on the shelf",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 660.4597086,
+            "timestamp_frame": 19813,
+            "_unmapped_timestamp_sec": 660.43868,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 660.4590286,
+            "timestamp_frame": 19813,
+            "_unmapped_timestamp_sec": 660.438,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 662.0992486,
+            "timestamp_frame": 19862,
+            "_unmapped_timestamp_sec": 662.07822,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 672.1266986,
+            "timestamp_frame": 20163,
+            "_unmapped_timestamp_sec": 672.10567,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 672.1266986,
+            "timestamp_frame": 20163,
+            "_unmapped_timestamp_sec": 672.10567,
+            "narration_text": "#C C picks up a snack",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 684.5474386,
+            "timestamp_frame": 20536,
+            "_unmapped_timestamp_sec": 684.5264099999999,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 684.5474386,
+            "timestamp_frame": 20536,
+            "_unmapped_timestamp_sec": 684.5264099999999,
+            "narration_text": "#C C holds a snack",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 697.6019386,
+            "timestamp_frame": 20927,
+            "_unmapped_timestamp_sec": 697.58091,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 697.6019386,
+            "timestamp_frame": 20927,
+            "_unmapped_timestamp_sec": 697.58091,
+            "narration_text": "#C C returns snack on the shelf",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 698.6546786,
+            "timestamp_frame": 20959,
+            "_unmapped_timestamp_sec": 698.63365,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 698.6546786,
+            "timestamp_frame": 20959,
+            "_unmapped_timestamp_sec": 698.63365,
+            "narration_text": "#O woman X grabs a bag of chips",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 704.2216486,
+            "timestamp_frame": 21126,
+            "_unmapped_timestamp_sec": 704.20062,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 704.2216486,
+            "timestamp_frame": 21126,
+            "_unmapped_timestamp_sec": 704.20062,
+            "narration_text": "#O woman X returns bag of snack",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 707.1101586000001,
+            "timestamp_frame": 21213,
+            "_unmapped_timestamp_sec": 707.0891300000001,
+            "narration_text": "#C C holds a snack",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 714.1881186,
+            "timestamp_frame": 21425,
+            "_unmapped_timestamp_sec": 714.16709,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 714.1881186,
+            "timestamp_frame": 21425,
+            "_unmapped_timestamp_sec": 714.16709,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 719.1313886,
+            "timestamp_frame": 21573,
+            "_unmapped_timestamp_sec": 719.11036,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 719.1313886,
+            "timestamp_frame": 21573,
+            "_unmapped_timestamp_sec": 719.11036,
+            "narration_text": "#C C grabs a bottle of sauce",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 722.6556986,
+            "timestamp_frame": 21679,
+            "_unmapped_timestamp_sec": 722.63467,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 722.6556986,
+            "timestamp_frame": 21679,
+            "_unmapped_timestamp_sec": 722.63467,
+            "narration_text": "#C C returns bottle of sauce back on the shelf",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 724.6640286,
+            "timestamp_frame": 21739,
+            "_unmapped_timestamp_sec": 724.643,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 729.4160286,
+            "timestamp_frame": 21882,
+            "_unmapped_timestamp_sec": 729.395,
+            "narration_text": "#C C looks through shelf",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 729.4160286,
+            "timestamp_frame": 21882,
+            "_unmapped_timestamp_sec": 729.395,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 737.9242586,
+            "timestamp_frame": 22137,
+            "_unmapped_timestamp_sec": 737.90323,
+            "narration_text": "#C C walks around the shelf",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 737.9242586,
+            "timestamp_frame": 22137,
+            "_unmapped_timestamp_sec": 737.90323,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 747.7730286,
+            "timestamp_frame": 22433,
+            "_unmapped_timestamp_sec": 747.752,
+            "narration_text": "#C C stands on another aisle",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 747.7730286,
+            "timestamp_frame": 22433,
+            "_unmapped_timestamp_sec": 747.752,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 748.7813986,
+            "timestamp_frame": 22463,
+            "_unmapped_timestamp_sec": 748.76037,
+            "narration_text": "#C C goes through medicinal products ",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        },
+        {
+            "timestamp_sec": 748.7813986,
+            "timestamp_frame": 22463,
+            "_unmapped_timestamp_sec": 748.76037,
+            "narration_text": "#C C dialogues with woman X",
+            "annotation_uid": "0784c894-4aa0-48a2-aca9-cf52a1692834"
+        }
+    ]
+}

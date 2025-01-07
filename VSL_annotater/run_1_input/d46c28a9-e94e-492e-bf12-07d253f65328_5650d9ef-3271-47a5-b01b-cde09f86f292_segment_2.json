@@ -1,0 +1,858 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 3722.6117299999996,
+            "timestamp_frame": 111678,
+            "_unmapped_timestamp_sec": 3722.62173,
+            "narration_text": "#C C carries the bucket from the floor with his right hand.",
+            "annotation_uid": "a07760bb-bfc9-4b09-ab8f-40019fe09e98"
+        },
+        {
+            "timestamp_sec": 3724.4037399999997,
+            "timestamp_frame": 111732,
+            "_unmapped_timestamp_sec": 3724.41374,
+            "narration_text": "#C C drops the bucket on the floor with his right hand.",
+            "annotation_uid": "a07760bb-bfc9-4b09-ab8f-40019fe09e98"
+        },
+        {
+            "timestamp_sec": 3733.256,
+            "timestamp_frame": 111998,
+            "_unmapped_timestamp_sec": 3733.266,
+            "narration_text": "#C C touches the control panel of the oven with his right hand.",
+            "annotation_uid": "a07760bb-bfc9-4b09-ab8f-40019fe09e98"
+        },
+        {
+            "timestamp_sec": 3745.03978,
+            "timestamp_frame": 112351,
+            "_unmapped_timestamp_sec": 3745.04978,
+            "narration_text": "#C C opens up a bag with both hands.",
+            "annotation_uid": "a07760bb-bfc9-4b09-ab8f-40019fe09e98"
+        },
+        {
+            "timestamp_sec": 3746.68592,
+            "timestamp_frame": 112401,
+            "_unmapped_timestamp_sec": 3746.69592,
+            "narration_text": "#C C moves the bag to the floor with both hands.",
+            "annotation_uid": "a07760bb-bfc9-4b09-ab8f-40019fe09e98"
+        },
+        {
+            "timestamp_sec": 3750.5509899999997,
+            "timestamp_frame": 112517,
+            "_unmapped_timestamp_sec": 3750.56099,
+            "narration_text": "#C C takes a scoop from a bag of flour with his right hand.",
+            "annotation_uid": "a07760bb-bfc9-4b09-ab8f-40019fe09e98"
+        },
+        {
+            "timestamp_sec": 3751.95327,
+            "timestamp_frame": 112559,
+            "_unmapped_timestamp_sec": 3751.96327,
+            "narration_text": "#C C collects flour from a bag using the scoop in his right hand.",
+            "annotation_uid": "a07760bb-bfc9-4b09-ab8f-40019fe09e98"
+        },
+        {
+            "timestamp_sec": 3757.82352,
+            "timestamp_frame": 112735,
+            "_unmapped_timestamp_sec": 3757.83352,
+            "narration_text": "#C C pours the collected flour into the bag dropped on the floor.",
+            "annotation_uid": "a07760bb-bfc9-4b09-ab8f-40019fe09e98"
+        },
+        {
+            "timestamp_sec": 3759.3714199999995,
+            "timestamp_frame": 112781,
+            "_unmapped_timestamp_sec": 3759.38142,
+            "narration_text": "#C C collects flour from the bag using the scoop in his right hand.",
+            "annotation_uid": "a07760bb-bfc9-4b09-ab8f-40019fe09e98"
+        },
+        {
+            "timestamp_sec": 3762.2755199999997,
+            "timestamp_frame": 112868,
+            "_unmapped_timestamp_sec": 3762.28552,
+            "narration_text": "#C C pours the collected flour into the bag dropped on the floor.",
+            "annotation_uid": "a07760bb-bfc9-4b09-ab8f-40019fe09e98"
+        },
+        {
+            "timestamp_sec": 3764.5527899999997,
+            "timestamp_frame": 112937,
+            "_unmapped_timestamp_sec": 3764.56279,
+            "narration_text": "#C C collects flour from the bag using the scoop in his right hand.",
+            "annotation_uid": "a07760bb-bfc9-4b09-ab8f-40019fe09e98"
+        },
+        {
+            "timestamp_sec": 3767.7732399999995,
+            "timestamp_frame": 113033,
+            "_unmapped_timestamp_sec": 3767.7832399999998,
+            "narration_text": "#C C pours the collected flour into the bag dropped on the floor.",
+            "annotation_uid": "a07760bb-bfc9-4b09-ab8f-40019fe09e98"
+        },
+        {
+            "timestamp_sec": 3769.3830199999998,
+            "timestamp_frame": 113081,
+            "_unmapped_timestamp_sec": 3769.39302,
+            "narration_text": "#C C drops the scoop in a bag with his right hand.",
+            "annotation_uid": "a07760bb-bfc9-4b09-ab8f-40019fe09e98"
+        },
+        {
+            "timestamp_sec": 3770.4530099999997,
+            "timestamp_frame": 113114,
+            "_unmapped_timestamp_sec": 3770.46301,
+            "narration_text": "#C C scoops flour from a bag with a container in his right hand.",
+            "annotation_uid": "a07760bb-bfc9-4b09-ab8f-40019fe09e98"
+        },
+        {
+            "timestamp_sec": 3773.15129,
+            "timestamp_frame": 113195,
+            "_unmapped_timestamp_sec": 3773.16129,
+            "narration_text": "#C C pours the collected flour into the bag dropped on the floor.",
+            "annotation_uid": "a07760bb-bfc9-4b09-ab8f-40019fe09e98"
+        },
+        {
+            "timestamp_sec": 3774.6032299999997,
+            "timestamp_frame": 113238,
+            "_unmapped_timestamp_sec": 3774.61323,
+            "narration_text": "#C C scoops flour from the bag with the container in his right hand.",
+            "annotation_uid": "a07760bb-bfc9-4b09-ab8f-40019fe09e98"
+        },
+        {
+            "timestamp_sec": 3777.1538,
+            "timestamp_frame": 113315,
+            "_unmapped_timestamp_sec": 3777.1638,
+            "narration_text": "#C C pours the collected flour into the bag dropped on the floor.",
+            "annotation_uid": "a07760bb-bfc9-4b09-ab8f-40019fe09e98"
+        },
+        {
+            "timestamp_sec": 3779.7825599999996,
+            "timestamp_frame": 113393,
+            "_unmapped_timestamp_sec": 3779.79256,
+            "narration_text": "#C C carries the bag from the floor with both hands.",
+            "annotation_uid": "a07760bb-bfc9-4b09-ab8f-40019fe09e98"
+        },
+        {
+            "timestamp_sec": 3791.6224899999997,
+            "timestamp_frame": 113749,
+            "_unmapped_timestamp_sec": 3791.63249,
+            "narration_text": "#C C operates the weight scale with his left hand.",
+            "annotation_uid": "a07760bb-bfc9-4b09-ab8f-40019fe09e98"
+        },
+        {
+            "timestamp_sec": 3799.06815,
+            "timestamp_frame": 113972,
+            "_unmapped_timestamp_sec": 3799.07815,
+            "narration_text": "#C C carries the bag of flour from the weight scale with both hands.",
+            "annotation_uid": "f66e5826-4165-488e-914b-ce4dc6e2c397"
+        },
+        {
+            "timestamp_sec": 3803.6133499999996,
+            "timestamp_frame": 114108,
+            "_unmapped_timestamp_sec": 3803.62335,
+            "narration_text": "#C C pours the flour from the bag into a mixer with both hands.",
+            "annotation_uid": "f66e5826-4165-488e-914b-ce4dc6e2c397"
+        },
+        {
+            "timestamp_sec": 3819.2889999999998,
+            "timestamp_frame": 114579,
+            "_unmapped_timestamp_sec": 3819.299,
+            "narration_text": "#C C folds the bag with both hands.",
+            "annotation_uid": "f66e5826-4165-488e-914b-ce4dc6e2c397"
+        },
+        {
+            "timestamp_sec": 3822.18714,
+            "timestamp_frame": 114666,
+            "_unmapped_timestamp_sec": 3822.19714,
+            "narration_text": "#C C closes the mixer with his right hand.",
+            "annotation_uid": "f66e5826-4165-488e-914b-ce4dc6e2c397"
+        },
+        {
+            "timestamp_sec": 3823.58069,
+            "timestamp_frame": 114707,
+            "_unmapped_timestamp_sec": 3823.59069,
+            "narration_text": "#C C turns on the mixer with his right hand.",
+            "annotation_uid": "f66e5826-4165-488e-914b-ce4dc6e2c397"
+        },
+        {
+            "timestamp_sec": 3835.0946099999996,
+            "timestamp_frame": 115053,
+            "_unmapped_timestamp_sec": 3835.10461,
+            "narration_text": "#C C drops the folded bag with his right hand.",
+            "annotation_uid": "f66e5826-4165-488e-914b-ce4dc6e2c397"
+        },
+        {
+            "timestamp_sec": 3838.20799,
+            "timestamp_frame": 115146,
+            "_unmapped_timestamp_sec": 3838.21799,
+            "narration_text": "#C C takes a packet of milk from a shelf with his left hand.",
+            "annotation_uid": "f66e5826-4165-488e-914b-ce4dc6e2c397"
+        },
+        {
+            "timestamp_sec": 3841.83933,
+            "timestamp_frame": 115255,
+            "_unmapped_timestamp_sec": 3841.84933,
+            "narration_text": "#C C holds the packet of milk with both hands.",
+            "annotation_uid": "f66e5826-4165-488e-914b-ce4dc6e2c397"
+        },
+        {
+            "timestamp_sec": 3852.3098499999996,
+            "timestamp_frame": 115569,
+            "_unmapped_timestamp_sec": 3852.31985,
+            "narration_text": "#C C drops the packet of milk on a table top with his left hand.",
+            "annotation_uid": "f66e5826-4165-488e-914b-ce4dc6e2c397"
+        },
+        {
+            "timestamp_sec": 3855.0337999999997,
+            "timestamp_frame": 115651,
+            "_unmapped_timestamp_sec": 3855.0438,
+            "narration_text": "#C C cuts open the packet of milk on a table top with a lame in his left hand",
+            "annotation_uid": "f66e5826-4165-488e-914b-ce4dc6e2c397"
+        },
+        {
+            "timestamp_sec": 3861.64551,
+            "timestamp_frame": 115849,
+            "_unmapped_timestamp_sec": 3861.65551,
+            "narration_text": "#C C drops the lame on a shelf with his right hand.",
+            "annotation_uid": "f66e5826-4165-488e-914b-ce4dc6e2c397"
+        },
+        {
+            "timestamp_sec": 3864.33042,
+            "timestamp_frame": 115930,
+            "_unmapped_timestamp_sec": 3864.34042,
+            "narration_text": "#C C drops the packet of milk on the table with his left hand.",
+            "annotation_uid": "f66e5826-4165-488e-914b-ce4dc6e2c397"
+        },
+        {
+            "timestamp_sec": 3722.67018,
+            "timestamp_frame": 111680,
+            "_unmapped_timestamp_sec": 3722.68018,
+            "narration_text": "#C C picks the bucket on the floor",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3724.00007,
+            "timestamp_frame": 111720,
+            "_unmapped_timestamp_sec": 3724.01007,
+            "narration_text": "#C C puts the bucket on the floor",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3724.75978,
+            "timestamp_frame": 111743,
+            "_unmapped_timestamp_sec": 3724.76978,
+            "narration_text": "#C C  puts the bucket inside another bucket",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3725.3059,
+            "timestamp_frame": 111759,
+            "_unmapped_timestamp_sec": 3725.3159,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3725.9831099999997,
+            "timestamp_frame": 111779,
+            "_unmapped_timestamp_sec": 3725.99311,
+            "narration_text": "#C C walks around",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3731.8358,
+            "timestamp_frame": 111955,
+            "_unmapped_timestamp_sec": 3731.8458,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3733.80795,
+            "timestamp_frame": 112014,
+            "_unmapped_timestamp_sec": 3733.81795,
+            "narration_text": "#C C holds #unsure",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3737.6266399999995,
+            "timestamp_frame": 112129,
+            "_unmapped_timestamp_sec": 3737.63664,
+            "narration_text": "#C C presses a button on #unsure",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3738.19395,
+            "timestamp_frame": 112146,
+            "_unmapped_timestamp_sec": 3738.20395,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3740.21269,
+            "timestamp_frame": 112206,
+            "_unmapped_timestamp_sec": 3740.22269,
+            "narration_text": "#C C walks around",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3745.01075,
+            "timestamp_frame": 112350,
+            "_unmapped_timestamp_sec": 3745.02075,
+            "narration_text": "#C C holds a sack",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3746.6765299999997,
+            "timestamp_frame": 112400,
+            "_unmapped_timestamp_sec": 3746.68653,
+            "narration_text": "#C C picks a sack",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3748.06812,
+            "timestamp_frame": 112442,
+            "_unmapped_timestamp_sec": 3748.07812,
+            "narration_text": "#C C puts the sack on the floor",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3748.97804,
+            "timestamp_frame": 112469,
+            "_unmapped_timestamp_sec": 3748.98804,
+            "narration_text": "#C C shakes the sack",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3750.64185,
+            "timestamp_frame": 112519,
+            "_unmapped_timestamp_sec": 3750.65185,
+            "narration_text": "#C C picks a flour scooper in the sack",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3751.2204899999997,
+            "timestamp_frame": 112537,
+            "_unmapped_timestamp_sec": 3751.23049,
+            "narration_text": "#C C moves around",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3751.6495999999997,
+            "timestamp_frame": 112549,
+            "_unmapped_timestamp_sec": 3751.6596,
+            "narration_text": "#C C pulls the sack",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3752.27065,
+            "timestamp_frame": 112568,
+            "_unmapped_timestamp_sec": 3752.28065,
+            "narration_text": "#C C scoops flour with a flour scooper in the sack",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3753.2437499999996,
+            "timestamp_frame": 112597,
+            "_unmapped_timestamp_sec": 3753.25375,
+            "narration_text": "#C C holds the sack",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3753.58274,
+            "timestamp_frame": 112607,
+            "_unmapped_timestamp_sec": 3753.59274,
+            "narration_text": "#C C scoops flour with a flour scooper in the sack",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3754.11665,
+            "timestamp_frame": 112623,
+            "_unmapped_timestamp_sec": 3754.12665,
+            "narration_text": "#C C pulls the sack",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3755.20657,
+            "timestamp_frame": 112656,
+            "_unmapped_timestamp_sec": 3755.21657,
+            "narration_text": "#C C scoops flour with a flour scooper in the sack",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3758.08634,
+            "timestamp_frame": 112743,
+            "_unmapped_timestamp_sec": 3758.09634,
+            "narration_text": "#C C puts flour with a flour scooper in the sack",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3759.2013899999997,
+            "timestamp_frame": 112776,
+            "_unmapped_timestamp_sec": 3759.21139,
+            "narration_text": "#C C pulls the sack",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3759.6012,
+            "timestamp_frame": 112788,
+            "_unmapped_timestamp_sec": 3759.6112,
+            "narration_text": "#C C scoops flour with a flour scooper in the sack",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3762.4481499999997,
+            "timestamp_frame": 112873,
+            "_unmapped_timestamp_sec": 3762.45815,
+            "narration_text": "#C C puts flour with a flour scooper in the sack",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3763.9681699999996,
+            "timestamp_frame": 112919,
+            "_unmapped_timestamp_sec": 3763.97817,
+            "narration_text": "#C C moves around",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3764.50879,
+            "timestamp_frame": 112935,
+            "_unmapped_timestamp_sec": 3764.51879,
+            "narration_text": "#C C pulls the sack",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3764.93785,
+            "timestamp_frame": 112948,
+            "_unmapped_timestamp_sec": 3764.94785,
+            "narration_text": "#C C scoops flour with a flour scooper in the sack",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3767.89886,
+            "timestamp_frame": 113037,
+            "_unmapped_timestamp_sec": 3767.90886,
+            "narration_text": "#C C puts flour with a flour scooper in the sack",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3769.53923,
+            "timestamp_frame": 113086,
+            "_unmapped_timestamp_sec": 3769.54923,
+            "narration_text": "#C C puts a flour scooper in the sack",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3770.43074,
+            "timestamp_frame": 113113,
+            "_unmapped_timestamp_sec": 3770.44074,
+            "narration_text": "#C C scoops flour with a container in the sack",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3773.24302,
+            "timestamp_frame": 113197,
+            "_unmapped_timestamp_sec": 3773.25302,
+            "narration_text": "#C C puts flour with a container in the sack",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3774.8054599999996,
+            "timestamp_frame": 113244,
+            "_unmapped_timestamp_sec": 3774.81546,
+            "narration_text": "#C C scoops flour with a container in the sack",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3777.2052599999997,
+            "timestamp_frame": 113316,
+            "_unmapped_timestamp_sec": 3777.21526,
+            "narration_text": "#C C puts flour with a container in the sack",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3777.9818999999998,
+            "timestamp_frame": 113339,
+            "_unmapped_timestamp_sec": 3777.9919,
+            "narration_text": "#C C shakes a container in the sack",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3778.8557199999996,
+            "timestamp_frame": 113366,
+            "_unmapped_timestamp_sec": 3778.86572,
+            "narration_text": "#C C puts  a container in the sack",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3779.5362699999996,
+            "timestamp_frame": 113386,
+            "_unmapped_timestamp_sec": 3779.54627,
+            "narration_text": "#C C picks the sack on the floor",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3781.1020499999995,
+            "timestamp_frame": 113433,
+            "_unmapped_timestamp_sec": 3781.11205,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3782.73081,
+            "timestamp_frame": 113482,
+            "_unmapped_timestamp_sec": 3782.7408100000002,
+            "narration_text": "#C C walks around",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3791.90624,
+            "timestamp_frame": 113757,
+            "_unmapped_timestamp_sec": 3791.91624,
+            "narration_text": "#C C presses the electric scale",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3791.4388099999996,
+            "timestamp_frame": 113743,
+            "_unmapped_timestamp_sec": 3791.44881,
+            "narration_text": "#C C puts the sack on the countertop",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3792.7739599999995,
+            "timestamp_frame": 113783,
+            "_unmapped_timestamp_sec": 3792.7839599999998,
+            "narration_text": "#C C moves the scale on the table",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3794.0098799999996,
+            "timestamp_frame": 113820,
+            "_unmapped_timestamp_sec": 3794.01988,
+            "narration_text": "#C C picks the sack on the countertop",
+            "annotation_uid": "3ae01c9c-06c5-47d4-8a87-12991f75f4f7"
+        },
+        {
+            "timestamp_sec": 3795.52425,
+            "timestamp_frame": 113866,
+            "_unmapped_timestamp_sec": 3795.53425,
+            "narration_text": "#C C puts the sack on the electric scale",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3796.7185799999997,
+            "timestamp_frame": 113902,
+            "_unmapped_timestamp_sec": 3796.72858,
+            "narration_text": "#C C wipes the countertop",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3798.70983,
+            "timestamp_frame": 113961,
+            "_unmapped_timestamp_sec": 3798.71983,
+            "narration_text": "#C C picks the sack on the electric scale",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3799.61383,
+            "timestamp_frame": 113988,
+            "_unmapped_timestamp_sec": 3799.62383,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3800.69031,
+            "timestamp_frame": 114021,
+            "_unmapped_timestamp_sec": 3800.70031,
+            "narration_text": "#C C walks around",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3803.54087,
+            "timestamp_frame": 114106,
+            "_unmapped_timestamp_sec": 3803.55087,
+            "narration_text": "#C C puts the sack on the electric dough maker machine",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3804.50726,
+            "timestamp_frame": 114135,
+            "_unmapped_timestamp_sec": 3804.51726,
+            "narration_text": "#C C puts the baking flour in the electric dough maker machine",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3807.06434,
+            "timestamp_frame": 114212,
+            "_unmapped_timestamp_sec": 3807.07434,
+            "narration_text": "#C C lifts the sack upwards",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3809.66309,
+            "timestamp_frame": 114290,
+            "_unmapped_timestamp_sec": 3809.67309,
+            "narration_text": "#C C pulls the sack ",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3810.81022,
+            "timestamp_frame": 114324,
+            "_unmapped_timestamp_sec": 3810.82022,
+            "narration_text": "#C C shakes the sack ",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3812.0439199999996,
+            "timestamp_frame": 114361,
+            "_unmapped_timestamp_sec": 3812.05392,
+            "narration_text": "#C C holds the sack ",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3812.7966699999997,
+            "timestamp_frame": 114384,
+            "_unmapped_timestamp_sec": 3812.80667,
+            "narration_text": "#C C turns the sack ",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3814.3617,
+            "timestamp_frame": 114431,
+            "_unmapped_timestamp_sec": 3814.3717,
+            "narration_text": "#C C shakes the sack ",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3817.4716499999995,
+            "timestamp_frame": 114524,
+            "_unmapped_timestamp_sec": 3817.48165,
+            "narration_text": "#C C moves the sack around",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3819.60898,
+            "timestamp_frame": 114588,
+            "_unmapped_timestamp_sec": 3819.61898,
+            "narration_text": "#C C folds the sack ",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3822.30563,
+            "timestamp_frame": 114669,
+            "_unmapped_timestamp_sec": 3822.31563,
+            "narration_text": "#C C lowers the protect guard",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3824.0374899999997,
+            "timestamp_frame": 114721,
+            "_unmapped_timestamp_sec": 3824.04749,
+            "narration_text": "#C C holds the electric dough maker machine",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3824.3152999999998,
+            "timestamp_frame": 114729,
+            "_unmapped_timestamp_sec": 3824.3253,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3825.7733099999996,
+            "timestamp_frame": 114773,
+            "_unmapped_timestamp_sec": 3825.78331,
+            "narration_text": "#C C walks around",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3827.3561299999997,
+            "timestamp_frame": 114821,
+            "_unmapped_timestamp_sec": 3827.36613,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3829.11422,
+            "timestamp_frame": 114873,
+            "_unmapped_timestamp_sec": 3829.12422,
+            "narration_text": "#C C walks around",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3835.46422,
+            "timestamp_frame": 115064,
+            "_unmapped_timestamp_sec": 3835.47422,
+            "narration_text": "#C C puts the sack in a corner",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3835.7987999999996,
+            "timestamp_frame": 115074,
+            "_unmapped_timestamp_sec": 3835.8088,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3837.27924,
+            "timestamp_frame": 115118,
+            "_unmapped_timestamp_sec": 3837.28924,
+            "narration_text": "#C C walks around",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3838.57975,
+            "timestamp_frame": 115157,
+            "_unmapped_timestamp_sec": 3838.58975,
+            "narration_text": "#C C picks a packet of #unsure in a shelf",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3841.0075399999996,
+            "timestamp_frame": 115230,
+            "_unmapped_timestamp_sec": 3841.01754,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3842.2241299999996,
+            "timestamp_frame": 115267,
+            "_unmapped_timestamp_sec": 3842.23413,
+            "narration_text": "#C C walks around",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3846.87065,
+            "timestamp_frame": 115406,
+            "_unmapped_timestamp_sec": 3846.88065,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3848.0044199999998,
+            "timestamp_frame": 115440,
+            "_unmapped_timestamp_sec": 3848.01442,
+            "narration_text": "#C C walks around",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3849.44847,
+            "timestamp_frame": 115483,
+            "_unmapped_timestamp_sec": 3849.45847,
+            "narration_text": "#C C picks a tweezer on the shelf",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3849.70396,
+            "timestamp_frame": 115491,
+            "_unmapped_timestamp_sec": 3849.71396,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3851.9415999999997,
+            "timestamp_frame": 115558,
+            "_unmapped_timestamp_sec": 3851.9516,
+            "narration_text": "#C C walks around",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3852.61023,
+            "timestamp_frame": 115578,
+            "_unmapped_timestamp_sec": 3852.62023,
+            "narration_text": "#C C puts a packet of #unsure on a countertop",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3854.03449,
+            "timestamp_frame": 115621,
+            "_unmapped_timestamp_sec": 3854.04449,
+            "narration_text": "#C C holds a tweezer",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3855.1845599999997,
+            "timestamp_frame": 115656,
+            "_unmapped_timestamp_sec": 3855.19456,
+            "narration_text": "#C C cuts a packet of #unsure with a tweezer",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3857.7765799999997,
+            "timestamp_frame": 115733,
+            "_unmapped_timestamp_sec": 3857.78658,
+            "narration_text": "#C C holds a packet of #unsure on a countertop",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3858.16317,
+            "timestamp_frame": 115745,
+            "_unmapped_timestamp_sec": 3858.17317,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3859.34689,
+            "timestamp_frame": 115780,
+            "_unmapped_timestamp_sec": 3859.35689,
+            "narration_text": "#C C holds #unsure",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3860.4849799999997,
+            "timestamp_frame": 115815,
+            "_unmapped_timestamp_sec": 3860.49498,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3862.3043,
+            "timestamp_frame": 115869,
+            "_unmapped_timestamp_sec": 3862.3143,
+            "narration_text": "#C C puts a tweezer on the shelf",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3862.7368699999997,
+            "timestamp_frame": 115882,
+            "_unmapped_timestamp_sec": 3862.74687,
+            "narration_text": "#C C walks around",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3864.50828,
+            "timestamp_frame": 115935,
+            "_unmapped_timestamp_sec": 3864.5182800000002,
+            "narration_text": "#C C puts a packet of #unsure on a countertop",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3865.3385399999997,
+            "timestamp_frame": 115960,
+            "_unmapped_timestamp_sec": 3865.34854,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3866.17832,
+            "timestamp_frame": 115985,
+            "_unmapped_timestamp_sec": 3866.18832,
+            "narration_text": "#C C walks around",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3867.2049799999995,
+            "timestamp_frame": 116016,
+            "_unmapped_timestamp_sec": 3867.21498,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3868.4712899999995,
+            "timestamp_frame": 116054,
+            "_unmapped_timestamp_sec": 3868.48129,
+            "narration_text": "#C C walks around",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        },
+        {
+            "timestamp_sec": 3869.38057,
+            "timestamp_frame": 116081,
+            "_unmapped_timestamp_sec": 3869.39057,
+            "narration_text": "#C C moves a packet of #unsure on a countertop",
+            "annotation_uid": "e1a2469b-cc8a-4c93-af46-a2005b271b25"
+        }
+    ]
+}

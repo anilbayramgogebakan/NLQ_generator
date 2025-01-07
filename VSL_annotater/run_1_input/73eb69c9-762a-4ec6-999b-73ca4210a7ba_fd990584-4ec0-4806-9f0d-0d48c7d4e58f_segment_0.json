@@ -1,0 +1,963 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 0.0410286,
+            "timestamp_frame": 1,
+            "_unmapped_timestamp_sec": 0.02,
+            "narration_text": "#C C moves veggies in a bowl on a cabinet with a chopsticks.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 1.2288885999999999,
+            "timestamp_frame": 36,
+            "_unmapped_timestamp_sec": 1.20786,
+            "narration_text": "#C C checks a beef in a frying pan on a cooker with the chopsticks.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 2.6557386000000003,
+            "timestamp_frame": 79,
+            "_unmapped_timestamp_sec": 2.63471,
+            "narration_text": "#C C puts the beef in the bowl with veggies.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 4.3427086,
+            "timestamp_frame": 130,
+            "_unmapped_timestamp_sec": 4.32168,
+            "narration_text": "#C C picks another beef from the frying pan with the chopsticks.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 6.2830286,
+            "timestamp_frame": 188,
+            "_unmapped_timestamp_sec": 6.262,
+            "narration_text": "#C C puts the beef in the bowl with veggies.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 7.3714286,
+            "timestamp_frame": 221,
+            "_unmapped_timestamp_sec": 7.3504,
+            "narration_text": "#C C picks another beef from the frying pan with the chopsticks.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 8.539618599999999,
+            "timestamp_frame": 256,
+            "_unmapped_timestamp_sec": 8.51859,
+            "narration_text": "#C C puts the beef in the bowl with veggies.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 9.7299086,
+            "timestamp_frame": 291,
+            "_unmapped_timestamp_sec": 9.70888,
+            "narration_text": "#C C turns around a beef in the frying pan.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 15.729618599999998,
+            "timestamp_frame": 471,
+            "_unmapped_timestamp_sec": 15.70859,
+            "narration_text": "#C C picks the beef from the frying pan with the chopsticks.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 16.6015386,
+            "timestamp_frame": 497,
+            "_unmapped_timestamp_sec": 16.58051,
+            "narration_text": "#C C puts the beef in the bowl with veggies.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 17.8296186,
+            "timestamp_frame": 534,
+            "_unmapped_timestamp_sec": 17.80859,
+            "narration_text": "#C C turns around a beef in the frying pan.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 19.2173486,
+            "timestamp_frame": 576,
+            "_unmapped_timestamp_sec": 19.19632,
+            "narration_text": "#C C turns a control knob on the cooker with her left hand.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 20.060028600000003,
+            "timestamp_frame": 601,
+            "_unmapped_timestamp_sec": 20.039,
+            "narration_text": "#C C passes the chopsticks to his left hand.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 20.7837186,
+            "timestamp_frame": 623,
+            "_unmapped_timestamp_sec": 20.76269,
+            "narration_text": "#C C picks a scissors on the cabinet.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 21.6742686,
+            "timestamp_frame": 650,
+            "_unmapped_timestamp_sec": 21.65324,
+            "narration_text": "#C C holds down a beef in the frying pan with the chopsticks.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 22.7745286,
+            "timestamp_frame": 683,
+            "_unmapped_timestamp_sec": 22.7535,
+            "narration_text": "#C C cuts the burnt part of the beef with the scissors.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 33.9672486,
+            "timestamp_frame": 1018,
+            "_unmapped_timestamp_sec": 33.94622,
+            "narration_text": "#C C moves the burnt part away from the beef in the frying pan with the chopsticks.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 35.5946986,
+            "timestamp_frame": 1067,
+            "_unmapped_timestamp_sec": 35.57367,
+            "narration_text": "#C C holds down a beef in the frying pan with the chopsticks.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 35.9932386,
+            "timestamp_frame": 1079,
+            "_unmapped_timestamp_sec": 35.97221,
+            "narration_text": "#C C cuts the burnt part of the beef with the scissors.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 50.5404186,
+            "timestamp_frame": 1516,
+            "_unmapped_timestamp_sec": 50.51939,
+            "narration_text": "#C C moves the beef in the frying pan with the chopsticks.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 52.734528600000004,
+            "timestamp_frame": 1581,
+            "_unmapped_timestamp_sec": 52.7135,
+            "narration_text": "#C C turns a beef in the frying pan with the chopsticks and scissors.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 55.0912086,
+            "timestamp_frame": 1652,
+            "_unmapped_timestamp_sec": 55.07018,
+            "narration_text": "#C C moves the beef in the frying pan.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 58.6092886,
+            "timestamp_frame": 1758,
+            "_unmapped_timestamp_sec": 58.58826,
+            "narration_text": "#C C cuts the burnt part of the beef with the scissors.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 68.43402859999999,
+            "timestamp_frame": 2052,
+            "_unmapped_timestamp_sec": 68.413,
+            "narration_text": "#C C turns the beef around with the scissors and chopsticks.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 70.32925859999999,
+            "timestamp_frame": 2109,
+            "_unmapped_timestamp_sec": 70.30823,
+            "narration_text": "#C C holds down another beef in the frying pan with the chopsticks.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 73.1075886,
+            "timestamp_frame": 2193,
+            "_unmapped_timestamp_sec": 73.08656,
+            "narration_text": "#C C cuts the burnt part of the beefs with the scissors.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 98.4140886,
+            "timestamp_frame": 2952,
+            "_unmapped_timestamp_sec": 98.39306,
+            "narration_text": "#C C drops the scissors on the cabinet.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 98.9170286,
+            "timestamp_frame": 2967,
+            "_unmapped_timestamp_sec": 98.896,
+            "narration_text": "#C C passes the chopsticks to her right hand.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 100.2518886,
+            "timestamp_frame": 3007,
+            "_unmapped_timestamp_sec": 100.23086,
+            "narration_text": "#C C takes the beef from the frying pan with the chopsticks.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 104.61502859999999,
+            "timestamp_frame": 3138,
+            "_unmapped_timestamp_sec": 104.594,
+            "narration_text": "#C C drops the beef in the bowl with veggies.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 105.6483586,
+            "timestamp_frame": 3169,
+            "_unmapped_timestamp_sec": 105.62733,
+            "narration_text": "#C C picks the beef from the frying pan with the chopsticks.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 107.49830859999999,
+            "timestamp_frame": 3224,
+            "_unmapped_timestamp_sec": 107.47728,
+            "narration_text": "#C C drops the beef in the bowl with veggies.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 108.78040859999999,
+            "timestamp_frame": 3263,
+            "_unmapped_timestamp_sec": 108.75938,
+            "narration_text": "#C C picks the beef from the frying pan with the chopsticks.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 109.7613586,
+            "timestamp_frame": 3292,
+            "_unmapped_timestamp_sec": 109.74033,
+            "narration_text": "#C C drops the beef in the bowl with veggies.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 105.5300886,
+            "timestamp_frame": 3165,
+            "_unmapped_timestamp_sec": 105.50906,
+            "narration_text": "#C C holds the frying pan with her left hand.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 109.98730859999999,
+            "timestamp_frame": 3299,
+            "_unmapped_timestamp_sec": 109.96628,
+            "narration_text": "#C C carries the frying pan from the cooker.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 111.1548686,
+            "timestamp_frame": 3334,
+            "_unmapped_timestamp_sec": 111.13384,
+            "narration_text": "#C C gathers the burnt beef together in the frying pan with the chopsticks.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 115.88114859999999,
+            "timestamp_frame": 3476,
+            "_unmapped_timestamp_sec": 115.86012,
+            "narration_text": "#C C pours the burnt beef in a trash nylon on the cabinet.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 117.8419086,
+            "timestamp_frame": 3535,
+            "_unmapped_timestamp_sec": 117.82088,
+            "narration_text": "#C C opens a sink tap with her right hand.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 119.31860859999999,
+            "timestamp_frame": 3579,
+            "_unmapped_timestamp_sec": 119.29758,
+            "narration_text": "#C C rinses the frying pan and chopsticks with water from the sink tap.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 126.0595886,
+            "timestamp_frame": 3781,
+            "_unmapped_timestamp_sec": 126.03856,
+            "narration_text": "#C C drops the chopsticks into the sink.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 127.0916386,
+            "timestamp_frame": 3812,
+            "_unmapped_timestamp_sec": 127.07061,
+            "narration_text": "#C C picks a sponge from the sink.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 127.9419286,
+            "timestamp_frame": 3838,
+            "_unmapped_timestamp_sec": 127.9209,
+            "narration_text": "#C C washes the frying pan with the sponge.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 143.1510286,
+            "timestamp_frame": 4294,
+            "_unmapped_timestamp_sec": 143.13,
+            "narration_text": "#C C squeezes the sponge into the sink.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 143.5577786,
+            "timestamp_frame": 4306,
+            "_unmapped_timestamp_sec": 143.53675,
+            "narration_text": "#C C drops the sponge in the sink.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 144.2882886,
+            "timestamp_frame": 4328,
+            "_unmapped_timestamp_sec": 144.26726,
+            "narration_text": "#C C rinses her hand and frying pan in the sink.",
+            "annotation_uid": "3aab7c92-cc47-4f8e-b540-d0d5850bf64c"
+        },
+        {
+            "timestamp_sec": 0.0210286,
+            "timestamp_frame": 0,
+            "_unmapped_timestamp_sec": 0.0,
+            "narration_text": "#C C holds a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 2.6587586,
+            "timestamp_frame": 79,
+            "_unmapped_timestamp_sec": 2.63773,
+            "narration_text": "#C C puts the piece of meat in a plate",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 3.3831486,
+            "timestamp_frame": 101,
+            "_unmapped_timestamp_sec": 3.36212,
+            "narration_text": "#C C picks a piece of meat from the frying pan using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 6.1244386,
+            "timestamp_frame": 183,
+            "_unmapped_timestamp_sec": 6.10341,
+            "narration_text": "#C C puts the piece of meat in a plate",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 6.9443686,
+            "timestamp_frame": 208,
+            "_unmapped_timestamp_sec": 6.92334,
+            "narration_text": "#C C picks a piece of meat from the frying pan",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 8.4090086,
+            "timestamp_frame": 252,
+            "_unmapped_timestamp_sec": 8.38798,
+            "narration_text": "#C C puts the piece of meat in a plate",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 9.1744186,
+            "timestamp_frame": 275,
+            "_unmapped_timestamp_sec": 9.15339,
+            "narration_text": "#C C holds a piece of meat in the frying pan using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 10.3280786,
+            "timestamp_frame": 309,
+            "_unmapped_timestamp_sec": 10.30705,
+            "narration_text": "#C C turns a piece of meat in the frying pan using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 13.135678599999999,
+            "timestamp_frame": 393,
+            "_unmapped_timestamp_sec": 13.11465,
+            "narration_text": "#C C touches a piece of meat in the frying pan using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 15.8625086,
+            "timestamp_frame": 475,
+            "_unmapped_timestamp_sec": 15.84148,
+            "narration_text": "#C C picks a piece of meat from the frying pan using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 0.43118860000000003,
+            "timestamp_frame": 12,
+            "_unmapped_timestamp_sec": 0.41016,
+            "narration_text": "#C C moves a celery using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 0.8081185999999999,
+            "timestamp_frame": 24,
+            "_unmapped_timestamp_sec": 0.78709,
+            "narration_text": "#C C picks a piece of meat from the frying pan using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 16.331798600000003,
+            "timestamp_frame": 489,
+            "_unmapped_timestamp_sec": 16.31077,
+            "narration_text": "#C C puts the piece of meat in a plate",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 17.5205886,
+            "timestamp_frame": 525,
+            "_unmapped_timestamp_sec": 17.49956,
+            "narration_text": "#C C turns a piece of meat using a chopstick",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 19.1581186,
+            "timestamp_frame": 574,
+            "_unmapped_timestamp_sec": 19.13709,
+            "narration_text": "#C C reduces the pressure of a gas cooker",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 20.5326886,
+            "timestamp_frame": 615,
+            "_unmapped_timestamp_sec": 20.51166,
+            "narration_text": "#C C holds a piece of meat using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 20.9580786,
+            "timestamp_frame": 628,
+            "_unmapped_timestamp_sec": 20.93705,
+            "narration_text": "#C C picks a pair of scissors",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 22.180158600000002,
+            "timestamp_frame": 665,
+            "_unmapped_timestamp_sec": 22.15913,
+            "narration_text": "#C C cuts the burnt part of the meat using a scissors",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 26.037498600000003,
+            "timestamp_frame": 780,
+            "_unmapped_timestamp_sec": 26.01647,
+            "narration_text": "#C C removes the scissors from the meat",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 26.2894486,
+            "timestamp_frame": 788,
+            "_unmapped_timestamp_sec": 26.26842,
+            "narration_text": "#C C holds a meat using a scissors",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 28.0377386,
+            "timestamp_frame": 841,
+            "_unmapped_timestamp_sec": 28.01671,
+            "narration_text": "#C C cuts the meat using a scissors",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 33.3319086,
+            "timestamp_frame": 999,
+            "_unmapped_timestamp_sec": 33.31088,
+            "narration_text": "#C C removes the scissors from the meat",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 33.5413886,
+            "timestamp_frame": 1006,
+            "_unmapped_timestamp_sec": 33.52036,
+            "narration_text": "#C C pulls the burnt particles of the meat using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 35.3101786,
+            "timestamp_frame": 1059,
+            "_unmapped_timestamp_sec": 35.28915,
+            "narration_text": "#C C holds a piece of meat using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 35.3301786,
+            "timestamp_frame": 1059,
+            "_unmapped_timestamp_sec": 35.30915,
+            "narration_text": "#C C cuts the meat using a scissors",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 39.2280386,
+            "timestamp_frame": 1176,
+            "_unmapped_timestamp_sec": 39.20701,
+            "narration_text": "#C C removes the scissors from the meat",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 40.7797286,
+            "timestamp_frame": 1223,
+            "_unmapped_timestamp_sec": 40.7587,
+            "narration_text": "#C C cuts the meat using a scissors",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 45.223088600000004,
+            "timestamp_frame": 1356,
+            "_unmapped_timestamp_sec": 45.20206,
+            "narration_text": "#C C holds a piece of meat using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 46.1214186,
+            "timestamp_frame": 1383,
+            "_unmapped_timestamp_sec": 46.10039,
+            "narration_text": "#C C cuts the meat using a scissors",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 49.9716486,
+            "timestamp_frame": 1499,
+            "_unmapped_timestamp_sec": 49.95062,
+            "narration_text": "#C C removes the scissors from the meat",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 50.127278600000004,
+            "timestamp_frame": 1503,
+            "_unmapped_timestamp_sec": 50.10625,
+            "narration_text": "#C C turns a piece of meat using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 51.9759786,
+            "timestamp_frame": 1559,
+            "_unmapped_timestamp_sec": 51.95495,
+            "narration_text": "#C C holds a piece of meat using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 52.689218600000004,
+            "timestamp_frame": 1580,
+            "_unmapped_timestamp_sec": 52.66819,
+            "narration_text": "#C C turns a piece of meat using a scissors",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 53.2158386,
+            "timestamp_frame": 1596,
+            "_unmapped_timestamp_sec": 53.19481,
+            "narration_text": "#C C holds a piece of meat using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 55.1325286,
+            "timestamp_frame": 1653,
+            "_unmapped_timestamp_sec": 55.1115,
+            "narration_text": "#C C moves a piece of meat using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 56.4240386,
+            "timestamp_frame": 1692,
+            "_unmapped_timestamp_sec": 56.40301,
+            "narration_text": "#C C cuts the meat using a scissors",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 60.2235686,
+            "timestamp_frame": 1806,
+            "_unmapped_timestamp_sec": 60.20254,
+            "narration_text": "#C C holds a piece of meat using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 60.4110386,
+            "timestamp_frame": 1812,
+            "_unmapped_timestamp_sec": 60.39001,
+            "narration_text": "#C C cuts the meat using a scissors",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 63.5551586,
+            "timestamp_frame": 1906,
+            "_unmapped_timestamp_sec": 63.53413,
+            "narration_text": "#C C holds a piece of meat using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 63.8505886,
+            "timestamp_frame": 1915,
+            "_unmapped_timestamp_sec": 63.82956,
+            "narration_text": "#C C cuts the meat using a scissors",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 64.47502859999999,
+            "timestamp_frame": 1934,
+            "_unmapped_timestamp_sec": 64.454,
+            "narration_text": "#C C turns a piece of meat using a scissors",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 65.3690286,
+            "timestamp_frame": 1960,
+            "_unmapped_timestamp_sec": 65.348,
+            "narration_text": "#C C holds a piece of meat using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 65.62457859999999,
+            "timestamp_frame": 1968,
+            "_unmapped_timestamp_sec": 65.60355,
+            "narration_text": "#C C cuts the meat using a scissors",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 67.8455386,
+            "timestamp_frame": 2035,
+            "_unmapped_timestamp_sec": 67.82451,
+            "narration_text": "#C C turns a piece of meat using a scissors",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 69.1895586,
+            "timestamp_frame": 2075,
+            "_unmapped_timestamp_sec": 69.16853,
+            "narration_text": "#C C moves a piece of meat using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 70.07013859999999,
+            "timestamp_frame": 2101,
+            "_unmapped_timestamp_sec": 70.04911,
+            "narration_text": "#C C holds a piece of meat using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 70.76290859999999,
+            "timestamp_frame": 2122,
+            "_unmapped_timestamp_sec": 70.74188,
+            "narration_text": "#C C cuts the meat using a scissors",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 74.48797859999999,
+            "timestamp_frame": 2234,
+            "_unmapped_timestamp_sec": 74.46695,
+            "narration_text": "#C C moves a piece of meat using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 75.60629859999999,
+            "timestamp_frame": 2268,
+            "_unmapped_timestamp_sec": 75.58527,
+            "narration_text": "#C C cuts the meat using a scissors",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 76.5420286,
+            "timestamp_frame": 2296,
+            "_unmapped_timestamp_sec": 76.521,
+            "narration_text": "#C C holds a piece of meat using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 77.3811286,
+            "timestamp_frame": 2321,
+            "_unmapped_timestamp_sec": 77.3601,
+            "narration_text": "#C C cuts the meat using a scissors",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 77.9314186,
+            "timestamp_frame": 2337,
+            "_unmapped_timestamp_sec": 77.91039,
+            "narration_text": "#C C removes the burnt particles from the meat",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 78.48667859999999,
+            "timestamp_frame": 2354,
+            "_unmapped_timestamp_sec": 78.46565,
+            "narration_text": "#C C moves a piece of meat using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 81.09931859999999,
+            "timestamp_frame": 2432,
+            "_unmapped_timestamp_sec": 81.07829,
+            "narration_text": "#C C holds a piece of meat using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 81.2822786,
+            "timestamp_frame": 2438,
+            "_unmapped_timestamp_sec": 81.26125,
+            "narration_text": "#C C cuts the meat using a scissors",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 84.44149859999999,
+            "timestamp_frame": 2533,
+            "_unmapped_timestamp_sec": 84.42047,
+            "narration_text": "#C C turns a piece of meat using a scissors",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 85.90227859999999,
+            "timestamp_frame": 2576,
+            "_unmapped_timestamp_sec": 85.88125,
+            "narration_text": "#C C turns a piece of meat using a scissors",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 87.7276186,
+            "timestamp_frame": 2631,
+            "_unmapped_timestamp_sec": 87.70659,
+            "narration_text": "#C C moves a piece of meat using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 88.6426386,
+            "timestamp_frame": 2659,
+            "_unmapped_timestamp_sec": 88.62161,
+            "narration_text": "#C C holds a piece of meat using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 89.3766886,
+            "timestamp_frame": 2681,
+            "_unmapped_timestamp_sec": 89.35566,
+            "narration_text": "#C C cuts the meat using a scissors",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 92.90581859999999,
+            "timestamp_frame": 2787,
+            "_unmapped_timestamp_sec": 92.88479,
+            "narration_text": "#C C removes the scissors from the meat",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 94.3746786,
+            "timestamp_frame": 2831,
+            "_unmapped_timestamp_sec": 94.35365,
+            "narration_text": "#C C cuts the meat using a scissors",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 96.5726086,
+            "timestamp_frame": 2897,
+            "_unmapped_timestamp_sec": 96.55158,
+            "narration_text": "#C C removes the burnt particle of the meat from the scissors",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 97.5808586,
+            "timestamp_frame": 2927,
+            "_unmapped_timestamp_sec": 97.55983,
+            "narration_text": "#C C puts a scissors on a sink",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 98.8197086,
+            "timestamp_frame": 2964,
+            "_unmapped_timestamp_sec": 98.79868,
+            "narration_text": "#C C holds a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 100.1033186,
+            "timestamp_frame": 3002,
+            "_unmapped_timestamp_sec": 100.08229,
+            "narration_text": "#C C turns a piece of meat",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 102.5331286,
+            "timestamp_frame": 3075,
+            "_unmapped_timestamp_sec": 102.5121,
+            "narration_text": "#C C picks a piece of meat",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 104.33695859999999,
+            "timestamp_frame": 3129,
+            "_unmapped_timestamp_sec": 104.31593,
+            "narration_text": "#C C puts a piece of meat in a plate",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 105.0170986,
+            "timestamp_frame": 3150,
+            "_unmapped_timestamp_sec": 104.99607,
+            "narration_text": "#C C holds a frying pan",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 105.1556586,
+            "timestamp_frame": 3154,
+            "_unmapped_timestamp_sec": 105.13463,
+            "narration_text": "#C C picks a piece of meat",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 107.2581886,
+            "timestamp_frame": 3217,
+            "_unmapped_timestamp_sec": 107.23716,
+            "narration_text": "#C C puts a piece of meat in a plate",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 108.3871686,
+            "timestamp_frame": 3251,
+            "_unmapped_timestamp_sec": 108.36614,
+            "narration_text": "#C C picks a piece of meat",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 109.6034986,
+            "timestamp_frame": 3287,
+            "_unmapped_timestamp_sec": 109.58247,
+            "narration_text": "#C C puts a piece of meat in a plate",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 109.71559859999999,
+            "timestamp_frame": 3291,
+            "_unmapped_timestamp_sec": 109.69457,
+            "narration_text": "#C C carries a frying pan",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 111.0105286,
+            "timestamp_frame": 3330,
+            "_unmapped_timestamp_sec": 110.9895,
+            "narration_text": "#C C  pulls the burnt particles of the meat using a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 115.4336786,
+            "timestamp_frame": 3462,
+            "_unmapped_timestamp_sec": 115.41265,
+            "narration_text": "#C C pours the burnt particles of the meat in a polythene bag",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 117.8010386,
+            "timestamp_frame": 3533,
+            "_unmapped_timestamp_sec": 117.78001,
+            "narration_text": "#C C opens the tap",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 119.0341586,
+            "timestamp_frame": 3570,
+            "_unmapped_timestamp_sec": 119.01313,
+            "narration_text": "#C C rinses the frying pan",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 124.0999786,
+            "timestamp_frame": 3722,
+            "_unmapped_timestamp_sec": 124.07895,
+            "narration_text": "#C C rinses a chopsticks",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 125.10992859999999,
+            "timestamp_frame": 3753,
+            "_unmapped_timestamp_sec": 125.0889,
+            "narration_text": "#C C rinses the frying pan",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 125.1299286,
+            "timestamp_frame": 3753,
+            "_unmapped_timestamp_sec": 125.1089,
+            "narration_text": "#C C puts the chopsticks in the sink",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 126.7245286,
+            "timestamp_frame": 3801,
+            "_unmapped_timestamp_sec": 126.7035,
+            "narration_text": "#C C picks a sponge",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 127.8124986,
+            "timestamp_frame": 3834,
+            "_unmapped_timestamp_sec": 127.79147,
+            "narration_text": "#C C washes the frying pan using a sponge",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 130.5541586,
+            "timestamp_frame": 3916,
+            "_unmapped_timestamp_sec": 130.53313,
+            "narration_text": "#C C pours water from the frying pan",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 130.6696986,
+            "timestamp_frame": 3919,
+            "_unmapped_timestamp_sec": 130.64867,
+            "narration_text": "#C C washes the frying pan using a sponge",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 135.2638586,
+            "timestamp_frame": 4057,
+            "_unmapped_timestamp_sec": 135.24283,
+            "narration_text": "#C C turns the frying pan",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 136.5728886,
+            "timestamp_frame": 4097,
+            "_unmapped_timestamp_sec": 136.55186,
+            "narration_text": "#C C washes the frying pan using a sponge",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 142.7442386,
+            "timestamp_frame": 4282,
+            "_unmapped_timestamp_sec": 142.72321,
+            "narration_text": "#C C drops the sponge in the sink",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 144.02125859999998,
+            "timestamp_frame": 4320,
+            "_unmapped_timestamp_sec": 144.00023,
+            "narration_text": "#C C rinses the frying pan",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 147.26490859999998,
+            "timestamp_frame": 4417,
+            "_unmapped_timestamp_sec": 147.24388,
+            "narration_text": "#C C turns the frying pan",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        },
+        {
+            "timestamp_sec": 147.8573686,
+            "timestamp_frame": 4435,
+            "_unmapped_timestamp_sec": 147.83634,
+            "narration_text": "#C C rinses the frying pan",
+            "annotation_uid": "395a3e6f-d279-4a25-9964-282e27e7d811"
+        }
+    ]
+}

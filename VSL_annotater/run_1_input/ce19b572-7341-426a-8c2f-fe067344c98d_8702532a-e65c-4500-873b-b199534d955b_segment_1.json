@@ -1,0 +1,809 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 2220.039386666667,
+            "timestamp_frame": 66601,
+            "_unmapped_timestamp_sec": 2220.03272,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2222.8253966666666,
+            "timestamp_frame": 66685,
+            "_unmapped_timestamp_sec": 2222.81873,
+            "narration_text": "#O A man E puts the bag in the trolley.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2223.8167566666666,
+            "timestamp_frame": 66715,
+            "_unmapped_timestamp_sec": 2223.81009,
+            "narration_text": "#O A man F puts the packet in the bag.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2224.7944366666666,
+            "timestamp_frame": 66744,
+            "_unmapped_timestamp_sec": 2224.78777,
+            "narration_text": "#O A man F picks the packet.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2225.6830966666666,
+            "timestamp_frame": 66770,
+            "_unmapped_timestamp_sec": 2225.67643,
+            "narration_text": "#O A man F puts the packet in the bag.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2226.1333266666666,
+            "timestamp_frame": 66784,
+            "_unmapped_timestamp_sec": 2226.12666,
+            "narration_text": "#O A man E picks the bag.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2226.6777866666666,
+            "timestamp_frame": 66800,
+            "_unmapped_timestamp_sec": 2226.67112,
+            "narration_text": "#O A man F puts the packet in the bag.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2228.0648866666666,
+            "timestamp_frame": 66842,
+            "_unmapped_timestamp_sec": 2228.05822,
+            "narration_text": "#O A man F lifts the bag.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2230.3634166666666,
+            "timestamp_frame": 66911,
+            "_unmapped_timestamp_sec": 2230.35675,
+            "narration_text": "#O A man K steps forward.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2231.0204766666666,
+            "timestamp_frame": 66931,
+            "_unmapped_timestamp_sec": 2231.01381,
+            "narration_text": "#O A man F puts the bag on the counter.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2231.827276666667,
+            "timestamp_frame": 66955,
+            "_unmapped_timestamp_sec": 2231.82061,
+            "narration_text": "#O A man E puts the packet in the bag.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2233.5342766666668,
+            "timestamp_frame": 67006,
+            "_unmapped_timestamp_sec": 2233.52761,
+            "narration_text": "#O A man E picks the bag.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2235.3186266666667,
+            "timestamp_frame": 67060,
+            "_unmapped_timestamp_sec": 2235.31196,
+            "narration_text": "#O A man L steps forward.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2235.8724866666666,
+            "timestamp_frame": 67076,
+            "_unmapped_timestamp_sec": 2235.86582,
+            "narration_text": "#O A man E puts the bag in the trolley.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2237.5371766666667,
+            "timestamp_frame": 67126,
+            "_unmapped_timestamp_sec": 2237.53051,
+            "narration_text": "#O A man E picks the bag.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2239.5122066666668,
+            "timestamp_frame": 67185,
+            "_unmapped_timestamp_sec": 2239.50554,
+            "narration_text": "#O A man E puts the bag in the trolley.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2242.051626666667,
+            "timestamp_frame": 67262,
+            "_unmapped_timestamp_sec": 2242.04496,
+            "narration_text": "#O A man E removes the phone from the pocket.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2243.7797466666666,
+            "timestamp_frame": 67313,
+            "_unmapped_timestamp_sec": 2243.77308,
+            "narration_text": "#O A man E operates the phone.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2246.1286266666666,
+            "timestamp_frame": 67384,
+            "_unmapped_timestamp_sec": 2246.12196,
+            "narration_text": "#O A man K moves the trolley.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2249.675656666667,
+            "timestamp_frame": 67490,
+            "_unmapped_timestamp_sec": 2249.66899,
+            "narration_text": "#O A man E moves the hand.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2251.181396666667,
+            "timestamp_frame": 67535,
+            "_unmapped_timestamp_sec": 2251.17473,
+            "narration_text": "#O A man F moves the hand.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2252.6657466666666,
+            "timestamp_frame": 67580,
+            "_unmapped_timestamp_sec": 2252.65908,
+            "narration_text": "#O A man E moves the hand.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2254.1385266666666,
+            "timestamp_frame": 67624,
+            "_unmapped_timestamp_sec": 2254.13186,
+            "narration_text": "#O A man E steps forward.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2255.4928066666666,
+            "timestamp_frame": 67665,
+            "_unmapped_timestamp_sec": 2255.48614,
+            "narration_text": "#O A man F picks the packet.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2255.628506666667,
+            "timestamp_frame": 67669,
+            "_unmapped_timestamp_sec": 2255.62184,
+            "narration_text": "#O A man F puts the packet on the counter.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2256.0717866666664,
+            "timestamp_frame": 67682,
+            "_unmapped_timestamp_sec": 2256.06512,
+            "narration_text": "#O A man E moves the trolley.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2258.2661966666665,
+            "timestamp_frame": 67748,
+            "_unmapped_timestamp_sec": 2258.25953,
+            "narration_text": "#O A lady H steps forward.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2258.9043666666666,
+            "timestamp_frame": 67767,
+            "_unmapped_timestamp_sec": 2258.8977,
+            "narration_text": "#O A man E moves the hand,",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2260.247156666667,
+            "timestamp_frame": 67807,
+            "_unmapped_timestamp_sec": 2260.24049,
+            "narration_text": "#O A man E moves the trolley.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2261.3484866666668,
+            "timestamp_frame": 67840,
+            "_unmapped_timestamp_sec": 2261.34182,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2262.5242066666665,
+            "timestamp_frame": 67876,
+            "_unmapped_timestamp_sec": 2262.51754,
+            "narration_text": "#O A lady H lifts the paper.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2262.9964666666665,
+            "timestamp_frame": 67890,
+            "_unmapped_timestamp_sec": 2262.9898,
+            "narration_text": "#O A lady H steps forward.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2263.5270666666665,
+            "timestamp_frame": 67906,
+            "_unmapped_timestamp_sec": 2263.5204,
+            "narration_text": "#O A lady H puts the paper in the trolley.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2264.230286666667,
+            "timestamp_frame": 67927,
+            "_unmapped_timestamp_sec": 2264.22362,
+            "narration_text": "#C C moves the bag.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2265.5365366666665,
+            "timestamp_frame": 67966,
+            "_unmapped_timestamp_sec": 2265.52987,
+            "narration_text": "#O A man H steps forward.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2266.236716666667,
+            "timestamp_frame": 67987,
+            "_unmapped_timestamp_sec": 2266.23005,
+            "narration_text": "#C C puts the bag in the trolley.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2266.9250166666666,
+            "timestamp_frame": 68008,
+            "_unmapped_timestamp_sec": 2266.91835,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2269.159706666667,
+            "timestamp_frame": 68075,
+            "_unmapped_timestamp_sec": 2269.15304,
+            "narration_text": "#O A lady H steps forward.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2270.1191066666665,
+            "timestamp_frame": 68104,
+            "_unmapped_timestamp_sec": 2270.11244,
+            "narration_text": "#C C moves the trolley.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2270.8356066666665,
+            "timestamp_frame": 68125,
+            "_unmapped_timestamp_sec": 2270.82894,
+            "narration_text": "#O A lady M appears.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2271.1829166666666,
+            "timestamp_frame": 68135,
+            "_unmapped_timestamp_sec": 2271.17625,
+            "narration_text": "#O A man F moves the packet.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2271.7349066666666,
+            "timestamp_frame": 68152,
+            "_unmapped_timestamp_sec": 2271.72824,
+            "narration_text": "#O A man F moves the hands.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2272.5301666666664,
+            "timestamp_frame": 68176,
+            "_unmapped_timestamp_sec": 2272.5235,
+            "narration_text": "#O A man F picks the packet.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2274.266756666667,
+            "timestamp_frame": 68228,
+            "_unmapped_timestamp_sec": 2274.26009,
+            "narration_text": "#O A man F puts the packet on the counter.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2274.7425566666666,
+            "timestamp_frame": 68242,
+            "_unmapped_timestamp_sec": 2274.73589,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2276.4903066666666,
+            "timestamp_frame": 68295,
+            "_unmapped_timestamp_sec": 2276.48364,
+            "narration_text": "#O A lady H looks around.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2277.247026666667,
+            "timestamp_frame": 68317,
+            "_unmapped_timestamp_sec": 2277.24036,
+            "narration_text": "#O A man F puts the packet on the counter.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2278.032526666667,
+            "timestamp_frame": 68341,
+            "_unmapped_timestamp_sec": 2278.02586,
+            "narration_text": "#O A man F moves the packet.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2279.838746666667,
+            "timestamp_frame": 68395,
+            "_unmapped_timestamp_sec": 2279.83208,
+            "narration_text": "#O A man F picks the packet.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2280.3186166666665,
+            "timestamp_frame": 68410,
+            "_unmapped_timestamp_sec": 2280.31195,
+            "narration_text": "#O A man F puts the packet on the counter.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2281.0216666666665,
+            "timestamp_frame": 68431,
+            "_unmapped_timestamp_sec": 2281.015,
+            "narration_text": "#O A man F picks the packet.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2281.455376666667,
+            "timestamp_frame": 68444,
+            "_unmapped_timestamp_sec": 2281.44871,
+            "narration_text": "#O A man F puts the packet on the counter",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2282.650576666667,
+            "timestamp_frame": 68480,
+            "_unmapped_timestamp_sec": 2282.64391,
+            "narration_text": "#O A lady M puts the packet on the counter.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2283.5722166666665,
+            "timestamp_frame": 68507,
+            "_unmapped_timestamp_sec": 2283.56555,
+            "narration_text": "#O A man F puts the packet on the counter.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2284.3641866666667,
+            "timestamp_frame": 68531,
+            "_unmapped_timestamp_sec": 2284.35752,
+            "narration_text": "#O A lady H steps forward.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2285.8699166666665,
+            "timestamp_frame": 68576,
+            "_unmapped_timestamp_sec": 2285.86325,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2287.5171466666666,
+            "timestamp_frame": 68626,
+            "_unmapped_timestamp_sec": 2287.51048,
+            "narration_text": "#O A man F picks the bag.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2289.3702366666666,
+            "timestamp_frame": 68681,
+            "_unmapped_timestamp_sec": 2289.36357,
+            "narration_text": "#C C passes the card to F.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2290.5044166666667,
+            "timestamp_frame": 68715,
+            "_unmapped_timestamp_sec": 2290.49775,
+            "narration_text": "#C C steps forward.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2291.5659866666665,
+            "timestamp_frame": 68747,
+            "_unmapped_timestamp_sec": 2291.55932,
+            "narration_text": "#O A lady G looks around.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2292.8895166666666,
+            "timestamp_frame": 68787,
+            "_unmapped_timestamp_sec": 2292.88285,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2294.5642066666665,
+            "timestamp_frame": 68837,
+            "_unmapped_timestamp_sec": 2294.55754,
+            "narration_text": "#O A man F passes the card to C.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2296.798316666667,
+            "timestamp_frame": 68904,
+            "_unmapped_timestamp_sec": 2296.79165,
+            "narration_text": "#C C picks the bag.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2298.1604166666666,
+            "timestamp_frame": 68945,
+            "_unmapped_timestamp_sec": 2298.15375,
+            "narration_text": "#O A lady H picks #unsure.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2302.6057666666666,
+            "timestamp_frame": 69078,
+            "_unmapped_timestamp_sec": 2302.5991,
+            "narration_text": "#O A lady H puts the bag on the counter.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2305.3707466666665,
+            "timestamp_frame": 69161,
+            "_unmapped_timestamp_sec": 2305.36408,
+            "narration_text": "#O A lady H puts #unsure in the bag.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2307.131516666667,
+            "timestamp_frame": 69214,
+            "_unmapped_timestamp_sec": 2307.12485,
+            "narration_text": "#C C picks the packet.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2307.9545866666667,
+            "timestamp_frame": 69239,
+            "_unmapped_timestamp_sec": 2307.94792,
+            "narration_text": "#O A lady N pushes the trolley.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2308.5267366666667,
+            "timestamp_frame": 69256,
+            "_unmapped_timestamp_sec": 2308.52007,
+            "narration_text": "#C C puts the packet in the trolley.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2309.1754966666667,
+            "timestamp_frame": 69275,
+            "_unmapped_timestamp_sec": 2309.16883,
+            "narration_text": "#O A man H touches the container.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2310.0137866666664,
+            "timestamp_frame": 69300,
+            "_unmapped_timestamp_sec": 2310.00712,
+            "narration_text": "#C C picks the packet.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2311.2809166666666,
+            "timestamp_frame": 69338,
+            "_unmapped_timestamp_sec": 2311.27425,
+            "narration_text": "#C C puts the packet in the bag.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2312.6181866666666,
+            "timestamp_frame": 69379,
+            "_unmapped_timestamp_sec": 2312.61152,
+            "narration_text": "#O A lady H puts the packet in the bag.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2313.652236666667,
+            "timestamp_frame": 69410,
+            "_unmapped_timestamp_sec": 2313.64557,
+            "narration_text": "#O A man F picks the bag.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2314.2920566666667,
+            "timestamp_frame": 69429,
+            "_unmapped_timestamp_sec": 2314.28539,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2316.2999666666665,
+            "timestamp_frame": 69489,
+            "_unmapped_timestamp_sec": 2316.2933,
+            "narration_text": "#O A lady H puts the paper in the bag.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2318.3673266666665,
+            "timestamp_frame": 69551,
+            "_unmapped_timestamp_sec": 2318.36066,
+            "narration_text": "#C C pushes the trolley.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2322.0217666666667,
+            "timestamp_frame": 69661,
+            "_unmapped_timestamp_sec": 2322.0151,
+            "narration_text": "#O A lady H steps forward.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2323.3778766666665,
+            "timestamp_frame": 69701,
+            "_unmapped_timestamp_sec": 2323.37121,
+            "narration_text": "#O A lady H puts the paper in the bag.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2324.170506666667,
+            "timestamp_frame": 69725,
+            "_unmapped_timestamp_sec": 2324.16384,
+            "narration_text": "#C C pushes the trolley.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2332.6820866666667,
+            "timestamp_frame": 69980,
+            "_unmapped_timestamp_sec": 2332.67542,
+            "narration_text": "#O A lady O appears.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2333.3043766666665,
+            "timestamp_frame": 69999,
+            "_unmapped_timestamp_sec": 2333.29771,
+            "narration_text": "#C C pushes the trolley.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2337.340276666667,
+            "timestamp_frame": 70120,
+            "_unmapped_timestamp_sec": 2337.33361,
+            "narration_text": "#O A man P appears.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2337.8230866666668,
+            "timestamp_frame": 70135,
+            "_unmapped_timestamp_sec": 2337.81642,
+            "narration_text": "#C C pushes the trolley.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2341.9043366666665,
+            "timestamp_frame": 70257,
+            "_unmapped_timestamp_sec": 2341.89767,
+            "narration_text": "#O A man P pushes the trolley.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2342.5542166666664,
+            "timestamp_frame": 70277,
+            "_unmapped_timestamp_sec": 2342.5475500000002,
+            "narration_text": "#C C pushes the trolley.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2353.013696666667,
+            "timestamp_frame": 70590,
+            "_unmapped_timestamp_sec": 2353.0070299999998,
+            "narration_text": "#O A lady H walks on the pavement.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2353.941676666667,
+            "timestamp_frame": 70618,
+            "_unmapped_timestamp_sec": 2353.93501,
+            "narration_text": "#C C pushes the trolley.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2365.277146666667,
+            "timestamp_frame": 70958,
+            "_unmapped_timestamp_sec": 2365.27048,
+            "narration_text": "#C C steps forward.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2367.5581466666667,
+            "timestamp_frame": 71027,
+            "_unmapped_timestamp_sec": 2367.55148,
+            "narration_text": "#O A lady H pushes the trolley.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2368.281646666667,
+            "timestamp_frame": 71048,
+            "_unmapped_timestamp_sec": 2368.27498,
+            "narration_text": "#C C steps forward.",
+            "annotation_uid": "cb2eb1cb-15ea-4d04-adaf-4ed5dd8c431f"
+        },
+        {
+            "timestamp_sec": 2264.3608366666667,
+            "timestamp_frame": 67931,
+            "_unmapped_timestamp_sec": 2264.35417,
+            "narration_text": "#OB places the pack of water in the trolley",
+            "annotation_uid": "61b67a6d-ee42-4b4a-9282-2f0d4d2586a0"
+        },
+        {
+            "timestamp_sec": 2265.0112266666665,
+            "timestamp_frame": 67950,
+            "_unmapped_timestamp_sec": 2265.00456,
+            "narration_text": "#C C places the pack of water in the trolley",
+            "annotation_uid": "61b67a6d-ee42-4b4a-9282-2f0d4d2586a0"
+        },
+        {
+            "timestamp_sec": 2266.3284166666667,
+            "timestamp_frame": 67990,
+            "_unmapped_timestamp_sec": 2266.32175,
+            "narration_text": "#C C places bag in the trolley",
+            "annotation_uid": "61b67a6d-ee42-4b4a-9282-2f0d4d2586a0"
+        },
+        {
+            "timestamp_sec": 2268.2826866666665,
+            "timestamp_frame": 68048,
+            "_unmapped_timestamp_sec": 2268.27602,
+            "narration_text": "#O B picks shopping bag from the counter",
+            "annotation_uid": "61b67a6d-ee42-4b4a-9282-2f0d4d2586a0"
+        },
+        {
+            "timestamp_sec": 2283.8022266666667,
+            "timestamp_frame": 68514,
+            "_unmapped_timestamp_sec": 2283.79556,
+            "narration_text": "#O B converses with C",
+            "annotation_uid": "61b67a6d-ee42-4b4a-9282-2f0d4d2586a0"
+        },
+        {
+            "timestamp_sec": 2285.5277966666667,
+            "timestamp_frame": 68566,
+            "_unmapped_timestamp_sec": 2285.52113,
+            "narration_text": "#C C gives R the smart card",
+            "annotation_uid": "61b67a6d-ee42-4b4a-9282-2f0d4d2586a0"
+        },
+        {
+            "timestamp_sec": 2290.586656666667,
+            "timestamp_frame": 68718,
+            "_unmapped_timestamp_sec": 2290.57999,
+            "narration_text": "#C C converses with B",
+            "annotation_uid": "61b67a6d-ee42-4b4a-9282-2f0d4d2586a0"
+        },
+        {
+            "timestamp_sec": 2296.284076666667,
+            "timestamp_frame": 68889,
+            "_unmapped_timestamp_sec": 2296.27741,
+            "narration_text": "#O R gives C the smart card",
+            "annotation_uid": "61b67a6d-ee42-4b4a-9282-2f0d4d2586a0"
+        },
+        {
+            "timestamp_sec": 2297.922686666667,
+            "timestamp_frame": 68938,
+            "_unmapped_timestamp_sec": 2297.91602,
+            "narration_text": "#C C removes shopping bag from the bag",
+            "annotation_uid": "61b67a6d-ee42-4b4a-9282-2f0d4d2586a0"
+        },
+        {
+            "timestamp_sec": 2302.4256766666667,
+            "timestamp_frame": 69073,
+            "_unmapped_timestamp_sec": 2302.41901,
+            "narration_text": "#O B picks #Unsure from the counter",
+            "annotation_uid": "61b67a6d-ee42-4b4a-9282-2f0d4d2586a0"
+        },
+        {
+            "timestamp_sec": 2306.7544166666667,
+            "timestamp_frame": 69203,
+            "_unmapped_timestamp_sec": 2306.74775,
+            "narration_text": "#O B places #Unsure in the shopping bag",
+            "annotation_uid": "61b67a6d-ee42-4b4a-9282-2f0d4d2586a0"
+        },
+        {
+            "timestamp_sec": 2307.4751866666666,
+            "timestamp_frame": 69224,
+            "_unmapped_timestamp_sec": 2307.46852,
+            "narration_text": "#C C  picks #Unsure from the counter",
+            "annotation_uid": "61b67a6d-ee42-4b4a-9282-2f0d4d2586a0"
+        },
+        {
+            "timestamp_sec": 2309.0488166666664,
+            "timestamp_frame": 69271,
+            "_unmapped_timestamp_sec": 2309.04215,
+            "narration_text": "#C C  places #Unsure in the shopping bag",
+            "annotation_uid": "61b67a6d-ee42-4b4a-9282-2f0d4d2586a0"
+        },
+        {
+            "timestamp_sec": 2309.6584966666665,
+            "timestamp_frame": 69290,
+            "_unmapped_timestamp_sec": 2309.65183,
+            "narration_text": "#O B places #Unsure in the shopping bag",
+            "annotation_uid": "61b67a6d-ee42-4b4a-9282-2f0d4d2586a0"
+        },
+        {
+            "timestamp_sec": 2310.4357966666666,
+            "timestamp_frame": 69313,
+            "_unmapped_timestamp_sec": 2310.42913,
+            "narration_text": "#C C  picks #Unsure from the counter",
+            "annotation_uid": "61b67a6d-ee42-4b4a-9282-2f0d4d2586a0"
+        },
+        {
+            "timestamp_sec": 2310.6020366666667,
+            "timestamp_frame": 69318,
+            "_unmapped_timestamp_sec": 2310.59537,
+            "narration_text": "#O B picks #Unsure from the counter",
+            "annotation_uid": "61b67a6d-ee42-4b4a-9282-2f0d4d2586a0"
+        },
+        {
+            "timestamp_sec": 2311.9094466666666,
+            "timestamp_frame": 69357,
+            "_unmapped_timestamp_sec": 2311.90278,
+            "narration_text": "#C C  places #Unsure in the shopping bag",
+            "annotation_uid": "61b67a6d-ee42-4b4a-9282-2f0d4d2586a0"
+        },
+        {
+            "timestamp_sec": 2313.337736666667,
+            "timestamp_frame": 69400,
+            "_unmapped_timestamp_sec": 2313.33107,
+            "narration_text": "#O B places #Unsure in the shopping bag",
+            "annotation_uid": "61b67a6d-ee42-4b4a-9282-2f0d4d2586a0"
+        },
+        {
+            "timestamp_sec": 2315.1799866666665,
+            "timestamp_frame": 69455,
+            "_unmapped_timestamp_sec": 2315.17332,
+            "narration_text": "#C C places smart card in the bag",
+            "annotation_uid": "61b67a6d-ee42-4b4a-9282-2f0d4d2586a0"
+        },
+        {
+            "timestamp_sec": 2315.7754766666667,
+            "timestamp_frame": 69473,
+            "_unmapped_timestamp_sec": 2315.76881,
+            "narration_text": "#O B picks shopping bag from the counter",
+            "annotation_uid": "61b67a6d-ee42-4b4a-9282-2f0d4d2586a0"
+        },
+        {
+            "timestamp_sec": 2318.4008766666666,
+            "timestamp_frame": 69552,
+            "_unmapped_timestamp_sec": 2318.39421,
+            "narration_text": "#C C pushes trolley out of the supermarket",
+            "annotation_uid": "61b67a6d-ee42-4b4a-9282-2f0d4d2586a0"
+        },
+        {
+            "timestamp_sec": 2322.7130566666665,
+            "timestamp_frame": 69681,
+            "_unmapped_timestamp_sec": 2322.70639,
+            "narration_text": "#O B places #Unsure in the shopping bag",
+            "annotation_uid": "61b67a6d-ee42-4b4a-9282-2f0d4d2586a0"
+        },
+        {
+            "timestamp_sec": 2341.213256666667,
+            "timestamp_frame": 70236,
+            "_unmapped_timestamp_sec": 2341.20659,
+            "narration_text": "#C C walks towards the parking lot",
+            "annotation_uid": "61b67a6d-ee42-4b4a-9282-2f0d4d2586a0"
+        },
+        {
+            "timestamp_sec": 2352.7258266666668,
+            "timestamp_frame": 70582,
+            "_unmapped_timestamp_sec": 2352.71916,
+            "narration_text": "#O B walks along C",
+            "annotation_uid": "61b67a6d-ee42-4b4a-9282-2f0d4d2586a0"
+        }
+    ]
+}

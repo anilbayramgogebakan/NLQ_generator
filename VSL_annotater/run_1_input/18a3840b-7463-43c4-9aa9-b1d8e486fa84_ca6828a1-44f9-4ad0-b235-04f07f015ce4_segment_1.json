@@ -1,0 +1,984 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 691.9692466666667,
+            "timestamp_frame": 20759,
+            "_unmapped_timestamp_sec": 691.97258,
+            "narration_text": "#C C walks down the stairs",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 695.9533266666667,
+            "timestamp_frame": 20879,
+            "_unmapped_timestamp_sec": 695.95666,
+            "narration_text": "#C C walks to a truck",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 701.8271766666667,
+            "timestamp_frame": 21055,
+            "_unmapped_timestamp_sec": 701.83051,
+            "narration_text": "#C C opens a door of the truck",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 705.7439866666666,
+            "timestamp_frame": 21172,
+            "_unmapped_timestamp_sec": 705.74732,
+            "narration_text": "#C C opens a bag in the truck",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 706.9702166666666,
+            "timestamp_frame": 21209,
+            "_unmapped_timestamp_sec": 706.9735499999999,
+            "narration_text": "#C C takes out a drilling machine from the bag #unsure",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 708.3257466666666,
+            "timestamp_frame": 21250,
+            "_unmapped_timestamp_sec": 708.32908,
+            "narration_text": "#C C drops the drilling machine on a car seat #unsure",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 710.8003366666667,
+            "timestamp_frame": 21324,
+            "_unmapped_timestamp_sec": 710.80367,
+            "narration_text": "#C C takes out a container from the bag",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 713.0824766666667,
+            "timestamp_frame": 21392,
+            "_unmapped_timestamp_sec": 713.08581,
+            "narration_text": "#C C moves the container to his right hand",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 713.7406266666667,
+            "timestamp_frame": 21412,
+            "_unmapped_timestamp_sec": 713.74396,
+            "narration_text": "#C C picks the drilling machine from the car seat with his left hand",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 714.8757766666666,
+            "timestamp_frame": 21446,
+            "_unmapped_timestamp_sec": 714.87911,
+            "narration_text": "#C C moves the container to his left hand",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 716.0375566666667,
+            "timestamp_frame": 21481,
+            "_unmapped_timestamp_sec": 716.04089,
+            "narration_text": "#C C closes the door of the truck",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 717.6867066666666,
+            "timestamp_frame": 21531,
+            "_unmapped_timestamp_sec": 717.69004,
+            "narration_text": "#C C walks to the back of the truck",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 721.6846066666667,
+            "timestamp_frame": 21651,
+            "_unmapped_timestamp_sec": 721.68794,
+            "narration_text": "#C C closes the back door of the truck",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 726.2469266666667,
+            "timestamp_frame": 21787,
+            "_unmapped_timestamp_sec": 726.25026,
+            "narration_text": "#C C walks to the house",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 726.3408866666666,
+            "timestamp_frame": 21790,
+            "_unmapped_timestamp_sec": 726.34422,
+            "narration_text": "#C C takes the cigarette out of his mouth",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 734.9299466666666,
+            "timestamp_frame": 22048,
+            "_unmapped_timestamp_sec": 734.93328,
+            "narration_text": "#C C places the cigarette in his mouth",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 737.0654666666667,
+            "timestamp_frame": 22112,
+            "_unmapped_timestamp_sec": 737.0688,
+            "narration_text": "#C C walks up the stairs",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 737.7440666666666,
+            "timestamp_frame": 22132,
+            "_unmapped_timestamp_sec": 737.7474,
+            "narration_text": "#C C takes the cigarette out of his mouth",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 738.9933666666667,
+            "timestamp_frame": 22170,
+            "_unmapped_timestamp_sec": 738.9967,
+            "narration_text": "#C C stretches out his right hand",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 742.2344366666666,
+            "timestamp_frame": 22267,
+            "_unmapped_timestamp_sec": 742.23777,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 748.6736366666667,
+            "timestamp_frame": 22460,
+            "_unmapped_timestamp_sec": 748.67697,
+            "narration_text": "#C C drops the cigarette on a phone on the tool box  #unsure",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 749.8294466666666,
+            "timestamp_frame": 22495,
+            "_unmapped_timestamp_sec": 749.83278,
+            "narration_text": "#C C opens the door",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 750.6743766666666,
+            "timestamp_frame": 22520,
+            "_unmapped_timestamp_sec": 750.6777099999999,
+            "narration_text": "#C C walks into the house",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 752.2363266666666,
+            "timestamp_frame": 22567,
+            "_unmapped_timestamp_sec": 752.23966,
+            "narration_text": "#C C closes the door",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 758.2771666666666,
+            "timestamp_frame": 22748,
+            "_unmapped_timestamp_sec": 758.2805,
+            "narration_text": "#C C moves the drilling machine to his right hand #unsure",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 758.8766766666666,
+            "timestamp_frame": 22766,
+            "_unmapped_timestamp_sec": 758.88001,
+            "narration_text": "#C C kneels on the floor",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 760.3100866666666,
+            "timestamp_frame": 22809,
+            "_unmapped_timestamp_sec": 760.31342,
+            "narration_text": "#C C drops the drilling machine on the floor #unsure",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 761.0909466666667,
+            "timestamp_frame": 22833,
+            "_unmapped_timestamp_sec": 761.09428,
+            "narration_text": "#C C moves the container to his right hand",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 762.0333166666667,
+            "timestamp_frame": 22861,
+            "_unmapped_timestamp_sec": 762.03665,
+            "narration_text": "#C C pulls on the cover of the container",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 763.9415366666667,
+            "timestamp_frame": 22918,
+            "_unmapped_timestamp_sec": 763.94487,
+            "narration_text": "#C C moves the container to his left hand",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 764.6003066666667,
+            "timestamp_frame": 22938,
+            "_unmapped_timestamp_sec": 764.60364,
+            "narration_text": "#C C opens the container",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 766.9977266666667,
+            "timestamp_frame": 23010,
+            "_unmapped_timestamp_sec": 767.00106,
+            "narration_text": "#C C moves the container to his right hand",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 767.8732866666667,
+            "timestamp_frame": 23036,
+            "_unmapped_timestamp_sec": 767.87662,
+            "narration_text": "#C C removes a paper in the container",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 770.1924466666667,
+            "timestamp_frame": 23106,
+            "_unmapped_timestamp_sec": 770.19578,
+            "narration_text": "#C C takes out a card from the container #unsure",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 771.7260766666667,
+            "timestamp_frame": 23152,
+            "_unmapped_timestamp_sec": 771.72941,
+            "narration_text": "#C C moves the container to his left hand",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 772.3529466666666,
+            "timestamp_frame": 23171,
+            "_unmapped_timestamp_sec": 772.35628,
+            "narration_text": "#C C drops the container on the floor",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 773.5298166666666,
+            "timestamp_frame": 23206,
+            "_unmapped_timestamp_sec": 773.53315,
+            "narration_text": "#C C picks the drilling machine from the floor #unsure",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 777.3044466666666,
+            "timestamp_frame": 23319,
+            "_unmapped_timestamp_sec": 777.30778,
+            "narration_text": "#C C puts the card into the drilling machine #unsure",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 780.5021366666667,
+            "timestamp_frame": 23415,
+            "_unmapped_timestamp_sec": 780.5054700000001,
+            "narration_text": "#C C picks a cord on the floor",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 781.7941966666667,
+            "timestamp_frame": 23454,
+            "_unmapped_timestamp_sec": 781.79753,
+            "narration_text": "#C C rests the drilling machine against his legs #unsure",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 782.5694066666667,
+            "timestamp_frame": 23477,
+            "_unmapped_timestamp_sec": 782.5727400000001,
+            "narration_text": "#C C moves the slab of wood on the floor",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 782.9346566666667,
+            "timestamp_frame": 23488,
+            "_unmapped_timestamp_sec": 782.93799,
+            "narration_text": "#C C pulls out the cord from under the wood",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 784.1294666666666,
+            "timestamp_frame": 23524,
+            "_unmapped_timestamp_sec": 784.1328,
+            "narration_text": "#C C picks the drilling machine from the floor #unsure",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 785.0537366666667,
+            "timestamp_frame": 23552,
+            "_unmapped_timestamp_sec": 785.0570700000001,
+            "narration_text": "#C C plugs the cord into the drilling machine #unsure",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 786.8106766666667,
+            "timestamp_frame": 23604,
+            "_unmapped_timestamp_sec": 786.81401,
+            "narration_text": "#C C straightens the cord",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 787.9410266666666,
+            "timestamp_frame": 23638,
+            "_unmapped_timestamp_sec": 787.94436,
+            "narration_text": "#C C drops the drilling machine on the floor #unsure",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 789.7179966666666,
+            "timestamp_frame": 23692,
+            "_unmapped_timestamp_sec": 789.72133,
+            "narration_text": "#C C stands",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 791.5683066666667,
+            "timestamp_frame": 23747,
+            "_unmapped_timestamp_sec": 791.57164,
+            "narration_text": "#C C walks into a room",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 799.6229566666666,
+            "timestamp_frame": 23989,
+            "_unmapped_timestamp_sec": 799.6262899999999,
+            "narration_text": "#C C picks an air quality meter from a shelf #unsure",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 801.5515866666667,
+            "timestamp_frame": 24047,
+            "_unmapped_timestamp_sec": 801.55492,
+            "narration_text": "#C C walks to the sitting room",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 811.3674866666667,
+            "timestamp_frame": 24341,
+            "_unmapped_timestamp_sec": 811.37082,
+            "narration_text": "#C C drops the air quality meter on the floor",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 814.2168366666667,
+            "timestamp_frame": 24427,
+            "_unmapped_timestamp_sec": 814.22017,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 821.1775666666667,
+            "timestamp_frame": 24635,
+            "_unmapped_timestamp_sec": 821.1809000000001,
+            "narration_text": "#C C picks a bottle of water from the floor",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 825.1075966666667,
+            "timestamp_frame": 24753,
+            "_unmapped_timestamp_sec": 825.11093,
+            "narration_text": "#C C drinks from the bottle #unsure",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 828.6829366666666,
+            "timestamp_frame": 24860,
+            "_unmapped_timestamp_sec": 828.6862699999999,
+            "narration_text": "#C C covers the bottle",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 822.1250266666666,
+            "timestamp_frame": 24664,
+            "_unmapped_timestamp_sec": 822.1283599999999,
+            "narration_text": "#C C moves the bottle to his right hand",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 831.3355766666666,
+            "timestamp_frame": 24940,
+            "_unmapped_timestamp_sec": 831.3389099999999,
+            "narration_text": "#C C moves the bottle to his left hand",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 832.1290466666667,
+            "timestamp_frame": 24964,
+            "_unmapped_timestamp_sec": 832.13238,
+            "narration_text": "#C C places the bottle on a shelf",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 835.5666466666667,
+            "timestamp_frame": 25067,
+            "_unmapped_timestamp_sec": 835.56998,
+            "narration_text": "#C C moves the drilling machine on the floor #unsure",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 835.9766966666666,
+            "timestamp_frame": 25079,
+            "_unmapped_timestamp_sec": 835.9800299999999,
+            "narration_text": "#C C kneels on the floor",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 837.1618866666666,
+            "timestamp_frame": 25115,
+            "_unmapped_timestamp_sec": 837.16522,
+            "narration_text": "#C C picks the slab of wood on the floor",
+            "annotation_uid": "752f82b9-7654-4af0-b67a-74ba1b14eb58"
+        },
+        {
+            "timestamp_sec": 690.7086866666666,
+            "timestamp_frame": 20721,
+            "_unmapped_timestamp_sec": 690.7120199999999,
+            "narration_text": "#C C walks away from the workshop",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 701.5241566666666,
+            "timestamp_frame": 21046,
+            "_unmapped_timestamp_sec": 701.52749,
+            "narration_text": "#C C  opens a track door",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 705.0125666666667,
+            "timestamp_frame": 21150,
+            "_unmapped_timestamp_sec": 705.0159,
+            "narration_text": "#C C  holds a tool bag",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 705.6368666666667,
+            "timestamp_frame": 21169,
+            "_unmapped_timestamp_sec": 705.6402,
+            "narration_text": "#C C opens the tool bag",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 707.2922866666667,
+            "timestamp_frame": 21219,
+            "_unmapped_timestamp_sec": 707.29562,
+            "narration_text": "#C C picks a nail gun",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 712.0674366666667,
+            "timestamp_frame": 21362,
+            "_unmapped_timestamp_sec": 712.07077,
+            "narration_text": "#C C picks a container",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 708.3689066666667,
+            "timestamp_frame": 21251,
+            "_unmapped_timestamp_sec": 708.37224,
+            "narration_text": "#C C puts the nail gun on the chair",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 707.7558066666667,
+            "timestamp_frame": 21233,
+            "_unmapped_timestamp_sec": 707.75914,
+            "narration_text": "#C C removes the nail gun from the tool bag",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 712.3484266666667,
+            "timestamp_frame": 21370,
+            "_unmapped_timestamp_sec": 712.35176,
+            "narration_text": "#C C removes the container from the bag",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 713.8133266666666,
+            "timestamp_frame": 21414,
+            "_unmapped_timestamp_sec": 713.81666,
+            "narration_text": "#C C picks a nail gun",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 714.2070866666667,
+            "timestamp_frame": 21426,
+            "_unmapped_timestamp_sec": 714.21042,
+            "narration_text": "#C C steps away from the chair",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 715.6939066666666,
+            "timestamp_frame": 21471,
+            "_unmapped_timestamp_sec": 715.69724,
+            "narration_text": "#C C closes the track door",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 717.1292966666667,
+            "timestamp_frame": 21514,
+            "_unmapped_timestamp_sec": 717.1326300000001,
+            "narration_text": "#C C walks along the track",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 721.4312266666667,
+            "timestamp_frame": 21643,
+            "_unmapped_timestamp_sec": 721.43456,
+            "narration_text": "#C C closes the track door",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 725.2217866666667,
+            "timestamp_frame": 21757,
+            "_unmapped_timestamp_sec": 725.2251200000001,
+            "narration_text": "#C C walks away from the track",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 733.9267666666667,
+            "timestamp_frame": 22018,
+            "_unmapped_timestamp_sec": 733.9301,
+            "narration_text": "#C C holds a cigarette",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 734.4944666666667,
+            "timestamp_frame": 22035,
+            "_unmapped_timestamp_sec": 734.4978,
+            "narration_text": "#C C  smokes cigarette",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 735.4593166666666,
+            "timestamp_frame": 22064,
+            "_unmapped_timestamp_sec": 735.4626499999999,
+            "narration_text": "#C C walks toward the workshop",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 735.4252966666667,
+            "timestamp_frame": 22063,
+            "_unmapped_timestamp_sec": 735.42863,
+            "narration_text": "#C C pulls his hand off the cigarette",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 737.5689366666667,
+            "timestamp_frame": 22127,
+            "_unmapped_timestamp_sec": 737.57227,
+            "narration_text": "#C C picks a cigarette",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 738.7762366666667,
+            "timestamp_frame": 22163,
+            "_unmapped_timestamp_sec": 738.77957,
+            "narration_text": "#C C puts the cigarette aside",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 739.9774066666666,
+            "timestamp_frame": 22199,
+            "_unmapped_timestamp_sec": 739.98074,
+            "narration_text": "#C C walks  to the workshop",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 741.6214666666667,
+            "timestamp_frame": 22249,
+            "_unmapped_timestamp_sec": 741.6248,
+            "narration_text": "#C C holds a cigarette",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 744.2269066666667,
+            "timestamp_frame": 22327,
+            "_unmapped_timestamp_sec": 744.23024,
+            "narration_text": "#C C stand at   the workshop",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 744.9705166666666,
+            "timestamp_frame": 22349,
+            "_unmapped_timestamp_sec": 744.97385,
+            "narration_text": "#C C holds a cigarette",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 748.5897466666667,
+            "timestamp_frame": 22458,
+            "_unmapped_timestamp_sec": 748.59308,
+            "narration_text": "#C C puts the cigarette on a phone",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 749.8050866666667,
+            "timestamp_frame": 22494,
+            "_unmapped_timestamp_sec": 749.8084200000001,
+            "narration_text": "#C C  opens a door",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 750.7761466666667,
+            "timestamp_frame": 22523,
+            "_unmapped_timestamp_sec": 750.77948,
+            "narration_text": "#C C  walks in the house",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 753.9558366666666,
+            "timestamp_frame": 22619,
+            "_unmapped_timestamp_sec": 753.95917,
+            "narration_text": "#C C  walks around the house",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 752.1321466666667,
+            "timestamp_frame": 22564,
+            "_unmapped_timestamp_sec": 752.13548,
+            "narration_text": "#C C closes the door",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 759.1987866666667,
+            "timestamp_frame": 22776,
+            "_unmapped_timestamp_sec": 759.20212,
+            "narration_text": "#C C kneels on the floor",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 760.2871866666667,
+            "timestamp_frame": 22809,
+            "_unmapped_timestamp_sec": 760.29052,
+            "narration_text": "#C C puts a nail gun on the floor",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 761.0726166666667,
+            "timestamp_frame": 22832,
+            "_unmapped_timestamp_sec": 761.07595,
+            "narration_text": "#C C holds a container with both hands",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 762.2657666666667,
+            "timestamp_frame": 22868,
+            "_unmapped_timestamp_sec": 762.2691,
+            "narration_text": "#C C opens a container",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 768.2477366666667,
+            "timestamp_frame": 23047,
+            "_unmapped_timestamp_sec": 768.25107,
+            "narration_text": "#C C pulls a wrapper",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 770.9961766666667,
+            "timestamp_frame": 23130,
+            "_unmapped_timestamp_sec": 770.99951,
+            "narration_text": "#C C  picks magazine",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 771.5868766666667,
+            "timestamp_frame": 23148,
+            "_unmapped_timestamp_sec": 771.5902100000001,
+            "narration_text": "#C C holds a container with both hands",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 772.1272066666667,
+            "timestamp_frame": 23164,
+            "_unmapped_timestamp_sec": 772.13054,
+            "narration_text": "#C C puts the container on the floor",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 773.4282366666666,
+            "timestamp_frame": 23203,
+            "_unmapped_timestamp_sec": 773.43157,
+            "narration_text": "#C C  picks a nail gun",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 774.8953766666666,
+            "timestamp_frame": 23247,
+            "_unmapped_timestamp_sec": 774.8987099999999,
+            "narration_text": "#C C  sticks  magazine on his pants",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 775.0543166666666,
+            "timestamp_frame": 23252,
+            "_unmapped_timestamp_sec": 775.05765,
+            "narration_text": "#C C lifts  magazine off his pants",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 776.8204666666667,
+            "timestamp_frame": 23305,
+            "_unmapped_timestamp_sec": 776.8238,
+            "narration_text": "#C C puts magazine in the nail gun",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 778.3458266666667,
+            "timestamp_frame": 23350,
+            "_unmapped_timestamp_sec": 778.34916,
+            "narration_text": "#C C pushes  magazine in the gun",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 779.4092866666667,
+            "timestamp_frame": 23382,
+            "_unmapped_timestamp_sec": 779.4126200000001,
+            "narration_text": "#C C pulls #unsure",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 780.3616966666666,
+            "timestamp_frame": 23411,
+            "_unmapped_timestamp_sec": 780.3650299999999,
+            "narration_text": "#C C  picks a cable",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 780.8778166666666,
+            "timestamp_frame": 23426,
+            "_unmapped_timestamp_sec": 780.8811499999999,
+            "narration_text": "#C C pulls the cable",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 782.0331566666666,
+            "timestamp_frame": 23461,
+            "_unmapped_timestamp_sec": 782.03649,
+            "narration_text": "#C C  puts the nail gun on the floor",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 782.7885866666667,
+            "timestamp_frame": 23484,
+            "_unmapped_timestamp_sec": 782.79192,
+            "narration_text": "#C C pushes the wood plank aside",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 784.0468166666667,
+            "timestamp_frame": 23521,
+            "_unmapped_timestamp_sec": 784.05015,
+            "narration_text": "#C C  picks the nail gun",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 784.8626666666667,
+            "timestamp_frame": 23546,
+            "_unmapped_timestamp_sec": 784.866,
+            "narration_text": "#C C  puts the cable in the nail gun",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 786.1624566666667,
+            "timestamp_frame": 23585,
+            "_unmapped_timestamp_sec": 786.16579,
+            "narration_text": "#C C pulls the cable",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 787.2709866666667,
+            "timestamp_frame": 23618,
+            "_unmapped_timestamp_sec": 787.27432,
+            "narration_text": "#C C  puts the nail gun on the floor",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 788.4407666666666,
+            "timestamp_frame": 23653,
+            "_unmapped_timestamp_sec": 788.4440999999999,
+            "narration_text": "#C C pulls his hand off the cable",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 789.2111466666667,
+            "timestamp_frame": 23676,
+            "_unmapped_timestamp_sec": 789.21448,
+            "narration_text": "#C C stands up",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 790.7356566666667,
+            "timestamp_frame": 23722,
+            "_unmapped_timestamp_sec": 790.7389900000001,
+            "narration_text": "#C C walks around the house",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 793.3784366666666,
+            "timestamp_frame": 23801,
+            "_unmapped_timestamp_sec": 793.38177,
+            "narration_text": "#C C  holds a chair",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 795.6693766666667,
+            "timestamp_frame": 23870,
+            "_unmapped_timestamp_sec": 795.67271,
+            "narration_text": "#C C walks around the house",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 799.6848266666666,
+            "timestamp_frame": 23991,
+            "_unmapped_timestamp_sec": 799.6881599999999,
+            "narration_text": "#C C  picks #unsure",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 801.0288066666667,
+            "timestamp_frame": 24031,
+            "_unmapped_timestamp_sec": 801.03214,
+            "narration_text": "#C C walks around the house",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 803.5279266666666,
+            "timestamp_frame": 24106,
+            "_unmapped_timestamp_sec": 803.53126,
+            "narration_text": "#C C holds a cabinet",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 804.2787666666667,
+            "timestamp_frame": 24128,
+            "_unmapped_timestamp_sec": 804.2821,
+            "narration_text": "#C C pulls his hand off the cabinet",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 805.1680466666667,
+            "timestamp_frame": 24155,
+            "_unmapped_timestamp_sec": 805.17138,
+            "narration_text": "#C C walks around the house",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 811.2649366666667,
+            "timestamp_frame": 24338,
+            "_unmapped_timestamp_sec": 811.26827,
+            "narration_text": "#C C puts #unsure on the floor",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 811.2649366666667,
+            "timestamp_frame": 24338,
+            "_unmapped_timestamp_sec": 811.26827,
+            "narration_text": "#C C  bends",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 793.8191566666667,
+            "timestamp_frame": 23815,
+            "_unmapped_timestamp_sec": 793.82249,
+            "narration_text": "#C C steps over #unsure",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 811.9429466666667,
+            "timestamp_frame": 24358,
+            "_unmapped_timestamp_sec": 811.94628,
+            "narration_text": "#C C stands up",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 813.1943966666666,
+            "timestamp_frame": 24396,
+            "_unmapped_timestamp_sec": 813.19773,
+            "narration_text": "#C C stands on the floor",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 814.9291966666667,
+            "timestamp_frame": 24448,
+            "_unmapped_timestamp_sec": 814.93253,
+            "narration_text": "#C C holds his waist with both hands",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 819.0142866666667,
+            "timestamp_frame": 24570,
+            "_unmapped_timestamp_sec": 819.0176200000001,
+            "narration_text": "#C C pulls his hand off the waist",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 821.2646866666666,
+            "timestamp_frame": 24638,
+            "_unmapped_timestamp_sec": 821.26802,
+            "narration_text": "#C C  picks a bottle",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 821.2646866666666,
+            "timestamp_frame": 24638,
+            "_unmapped_timestamp_sec": 821.26802,
+            "narration_text": "#C C  bends",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 821.6317466666667,
+            "timestamp_frame": 24649,
+            "_unmapped_timestamp_sec": 821.63508,
+            "narration_text": "#C C stands up",
+            "annotation_uid": "64eed16e-9ace-4040-bd6b-bbfa4ce1bb47"
+        },
+        {
+            "timestamp_sec": 824.9862166666667,
+            "timestamp_frame": 24750,
+            "_unmapped_timestamp_sec": 824.98955,
+            "narration_text": "#C C drinks water.",
+            "annotation_uid": "621c1f31-b266-427f-8d33-58564c0af9f4"
+        },
+        {
+            "timestamp_sec": 828.5662866666667,
+            "timestamp_frame": 24857,
+            "_unmapped_timestamp_sec": 828.56962,
+            "narration_text": "#C C closes the bottle.",
+            "annotation_uid": "621c1f31-b266-427f-8d33-58564c0af9f4"
+        },
+        {
+            "timestamp_sec": 831.7482366666667,
+            "timestamp_frame": 24952,
+            "_unmapped_timestamp_sec": 831.75157,
+            "narration_text": "C C places the bottle on a fridge.",
+            "annotation_uid": "621c1f31-b266-427f-8d33-58564c0af9f4"
+        },
+        {
+            "timestamp_sec": 835.2315266666667,
+            "timestamp_frame": 25057,
+            "_unmapped_timestamp_sec": 835.23486,
+            "narration_text": "#C C moves the nail gun.",
+            "annotation_uid": "621c1f31-b266-427f-8d33-58564c0af9f4"
+        },
+        {
+            "timestamp_sec": 834.8108666666667,
+            "timestamp_frame": 25044,
+            "_unmapped_timestamp_sec": 834.8142,
+            "narration_text": "#C C kneels down.",
+            "annotation_uid": "621c1f31-b266-427f-8d33-58564c0af9f4"
+        },
+        {
+            "timestamp_sec": 837.2147966666666,
+            "timestamp_frame": 25116,
+            "_unmapped_timestamp_sec": 837.21813,
+            "narration_text": "#C C pics a piece of timber.",
+            "annotation_uid": "621c1f31-b266-427f-8d33-58564c0af9f4"
+        },
+        {
+            "timestamp_sec": 839.2780866666667,
+            "timestamp_frame": 25178,
+            "_unmapped_timestamp_sec": 839.28142,
+            "narration_text": "#C C aligns the timber on the wall.",
+            "annotation_uid": "621c1f31-b266-427f-8d33-58564c0af9f4"
+        }
+    ]
+}

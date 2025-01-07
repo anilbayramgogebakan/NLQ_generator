@@ -1,0 +1,767 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 602.7099533333334,
+            "timestamp_frame": 18081,
+            "_unmapped_timestamp_sec": 602.70662,
+            "narration_text": "#C C opens a container",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 606.9792033333333,
+            "timestamp_frame": 18209,
+            "_unmapped_timestamp_sec": 606.97587,
+            "narration_text": "#C C opens a container",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 609.2950233333333,
+            "timestamp_frame": 18279,
+            "_unmapped_timestamp_sec": 609.29169,
+            "narration_text": "#C C siphons a liquid from the container",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 613.4712533333334,
+            "timestamp_frame": 18404,
+            "_unmapped_timestamp_sec": 613.46792,
+            "narration_text": "#C C injects liquid into the test tube",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 617.6076433333333,
+            "timestamp_frame": 18528,
+            "_unmapped_timestamp_sec": 617.6043099999999,
+            "narration_text": "#C C closes a container",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 622.5421233333334,
+            "timestamp_frame": 18676,
+            "_unmapped_timestamp_sec": 622.5387900000001,
+            "narration_text": "#C C holds a liquid bottle",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 631.4518533333334,
+            "timestamp_frame": 18944,
+            "_unmapped_timestamp_sec": 631.44852,
+            "narration_text": "#C C swings a syringe holder",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 634.9149233333334,
+            "timestamp_frame": 19047,
+            "_unmapped_timestamp_sec": 634.91159,
+            "narration_text": "#C C twists a syringe ",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 643.8479233333334,
+            "timestamp_frame": 19315,
+            "_unmapped_timestamp_sec": 643.84459,
+            "narration_text": "#C C picks a test tube",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 645.8081033333333,
+            "timestamp_frame": 19374,
+            "_unmapped_timestamp_sec": 645.80477,
+            "narration_text": "#C C walks in the building",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 649.3908633333333,
+            "timestamp_frame": 19482,
+            "_unmapped_timestamp_sec": 649.38753,
+            "narration_text": "#C C opens a fridge",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 653.2382033333333,
+            "timestamp_frame": 19597,
+            "_unmapped_timestamp_sec": 653.23487,
+            "narration_text": "#C C picks a test tube",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 656.0242533333334,
+            "timestamp_frame": 19681,
+            "_unmapped_timestamp_sec": 656.02092,
+            "narration_text": "#C C walks around the laboratory",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 665.2003133333333,
+            "timestamp_frame": 19956,
+            "_unmapped_timestamp_sec": 665.1969799999999,
+            "narration_text": "#C C siphons a liquid from the test tube",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 667.5683733333333,
+            "timestamp_frame": 20027,
+            "_unmapped_timestamp_sec": 667.56504,
+            "narration_text": "#C C puts the test tube in the rack",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 670.9500033333334,
+            "timestamp_frame": 20129,
+            "_unmapped_timestamp_sec": 670.94667,
+            "narration_text": "#C C injects liquid into a test tube",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 673.0685433333333,
+            "timestamp_frame": 20192,
+            "_unmapped_timestamp_sec": 673.06521,
+            "narration_text": "#C C puts the test tube in the container",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 675.9585633333334,
+            "timestamp_frame": 20279,
+            "_unmapped_timestamp_sec": 675.95523,
+            "narration_text": "#C C holds a test tube",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 678.4460833333333,
+            "timestamp_frame": 20353,
+            "_unmapped_timestamp_sec": 678.4427499999999,
+            "narration_text": "#C C walks around the laboratory room",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 681.5016433333333,
+            "timestamp_frame": 20445,
+            "_unmapped_timestamp_sec": 681.49831,
+            "narration_text": "#C C looks at the test tube",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 684.0535533333333,
+            "timestamp_frame": 20522,
+            "_unmapped_timestamp_sec": 684.05022,
+            "narration_text": "#C C puts the test tube in the fridge",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 685.3247733333333,
+            "timestamp_frame": 20560,
+            "_unmapped_timestamp_sec": 685.3214399999999,
+            "narration_text": "#C C closes the fridge",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 687.7950133333334,
+            "timestamp_frame": 20634,
+            "_unmapped_timestamp_sec": 687.79168,
+            "narration_text": "#C C walks around the laboratory room",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 690.9374133333333,
+            "timestamp_frame": 20728,
+            "_unmapped_timestamp_sec": 690.93408,
+            "narration_text": "#C C holds the liquid bottle",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 694.3620433333333,
+            "timestamp_frame": 20831,
+            "_unmapped_timestamp_sec": 694.35871,
+            "narration_text": "#C C touches the ice cubes",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 700.8009333333333,
+            "timestamp_frame": 21024,
+            "_unmapped_timestamp_sec": 700.7976,
+            "narration_text": "#C C lifts the syringe ",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 702.9675233333334,
+            "timestamp_frame": 21089,
+            "_unmapped_timestamp_sec": 702.96419,
+            "narration_text": "#C C twists the syringe ",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 708.9355933333334,
+            "timestamp_frame": 21268,
+            "_unmapped_timestamp_sec": 708.93226,
+            "narration_text": "#C C twists the syringe ",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 723.3348533333333,
+            "timestamp_frame": 21700,
+            "_unmapped_timestamp_sec": 723.33152,
+            "narration_text": "#C C opens a liquid bottle",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 726.0460933333334,
+            "timestamp_frame": 21781,
+            "_unmapped_timestamp_sec": 726.04276,
+            "narration_text": "#C C siphons the liquid from the bottle",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 728.7735133333333,
+            "timestamp_frame": 21863,
+            "_unmapped_timestamp_sec": 728.77018,
+            "narration_text": "#C C holds a test tube",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 731.2472533333333,
+            "timestamp_frame": 21937,
+            "_unmapped_timestamp_sec": 731.24392,
+            "narration_text": "#C C injects the liquid into a test tube",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 734.3658633333333,
+            "timestamp_frame": 22031,
+            "_unmapped_timestamp_sec": 734.36253,
+            "narration_text": "#C C puts the test tube in the container",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 737.3406833333333,
+            "timestamp_frame": 22120,
+            "_unmapped_timestamp_sec": 737.33735,
+            "narration_text": "#C C puts the bottle on the shelf",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 739.7084733333334,
+            "timestamp_frame": 22191,
+            "_unmapped_timestamp_sec": 739.70514,
+            "narration_text": "#C C opens a test tube",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 742.9880433333333,
+            "timestamp_frame": 22290,
+            "_unmapped_timestamp_sec": 742.98471,
+            "narration_text": "#C C twists the syringe",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 748.6265133333334,
+            "timestamp_frame": 22459,
+            "_unmapped_timestamp_sec": 748.62318,
+            "narration_text": "#C C siphons the liquid from the bottle",
+            "annotation_uid": "611eb804-a86f-4c50-a4d8-302d75becf0f"
+        },
+        {
+            "timestamp_sec": 600.3671733333333,
+            "timestamp_frame": 18011,
+            "_unmapped_timestamp_sec": 600.36384,
+            "narration_text": "#C C takes a box",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 601.5983033333333,
+            "timestamp_frame": 18048,
+            "_unmapped_timestamp_sec": 601.59497,
+            "narration_text": "#C C opens the box",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 603.5193533333334,
+            "timestamp_frame": 18106,
+            "_unmapped_timestamp_sec": 603.51602,
+            "narration_text": "#C C inserts dropper in the micropipette",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 604.7921233333334,
+            "timestamp_frame": 18144,
+            "_unmapped_timestamp_sec": 604.7887900000001,
+            "narration_text": "#C C picks a plastic tin from the shelf",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 606.1201133333334,
+            "timestamp_frame": 18184,
+            "_unmapped_timestamp_sec": 606.1167800000001,
+            "narration_text": "#C C opens the tin",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 608.9601833333334,
+            "timestamp_frame": 18269,
+            "_unmapped_timestamp_sec": 608.95685,
+            "narration_text": "#C C sucks the solution in the tin",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 605.3238933333333,
+            "timestamp_frame": 18160,
+            "_unmapped_timestamp_sec": 605.32056,
+            "narration_text": "#C C places micropipette on the counter top",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 607.8938433333333,
+            "timestamp_frame": 18237,
+            "_unmapped_timestamp_sec": 607.89051,
+            "narration_text": "#C C picks micropipette from counter top",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 611.0771933333333,
+            "timestamp_frame": 18332,
+            "_unmapped_timestamp_sec": 611.07386,
+            "narration_text": "#C C places tin on counter top",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 612.0063033333333,
+            "timestamp_frame": 18360,
+            "_unmapped_timestamp_sec": 612.00297,
+            "narration_text": "#C C picks test tube from rack",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 613.5503333333334,
+            "timestamp_frame": 18407,
+            "_unmapped_timestamp_sec": 613.547,
+            "narration_text": "#C C puts solution in test tube",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 614.5111733333333,
+            "timestamp_frame": 18435,
+            "_unmapped_timestamp_sec": 614.50784,
+            "narration_text": "#C C throws dropper in the plastic tin",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 615.5252733333333,
+            "timestamp_frame": 18466,
+            "_unmapped_timestamp_sec": 615.52194,
+            "narration_text": "#C C places micropipette on the counter top",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 616.7512333333333,
+            "timestamp_frame": 18503,
+            "_unmapped_timestamp_sec": 616.7479,
+            "narration_text": "#C C picks tin top",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 617.4379533333333,
+            "timestamp_frame": 18523,
+            "_unmapped_timestamp_sec": 617.43462,
+            "narration_text": "#C C closes the tin",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 620.1732233333333,
+            "timestamp_frame": 18605,
+            "_unmapped_timestamp_sec": 620.16989,
+            "narration_text": "#C C places tin on the shelf",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 622.0922533333334,
+            "timestamp_frame": 18663,
+            "_unmapped_timestamp_sec": 622.08892,
+            "narration_text": "#C C picks bottles from the shelf",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 624.1306733333333,
+            "timestamp_frame": 18724,
+            "_unmapped_timestamp_sec": 624.12734,
+            "narration_text": "#C C places bottles on the counter top",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 628.7330733333333,
+            "timestamp_frame": 18862,
+            "_unmapped_timestamp_sec": 628.72974,
+            "narration_text": "#C C takes a micropipette from the pipette holder",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 634.3626033333334,
+            "timestamp_frame": 19031,
+            "_unmapped_timestamp_sec": 634.35927,
+            "narration_text": "#C C adjusts the micropipette",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 643.6821533333333,
+            "timestamp_frame": 19310,
+            "_unmapped_timestamp_sec": 643.67882,
+            "narration_text": "#C C inserts dropper in the micropipette",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 644.6273633333333,
+            "timestamp_frame": 19339,
+            "_unmapped_timestamp_sec": 644.62403,
+            "narration_text": "#C C walks away",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 648.8345733333333,
+            "timestamp_frame": 19465,
+            "_unmapped_timestamp_sec": 648.83124,
+            "narration_text": "#C C opens the fridge door",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 652.6819733333333,
+            "timestamp_frame": 19580,
+            "_unmapped_timestamp_sec": 652.67864,
+            "narration_text": "#C C picks a test tube with solution from the fridge",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 654.2020333333334,
+            "timestamp_frame": 19626,
+            "_unmapped_timestamp_sec": 654.1987,
+            "narration_text": "#C C closes the fridge door",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 655.3117533333333,
+            "timestamp_frame": 19659,
+            "_unmapped_timestamp_sec": 655.30842,
+            "narration_text": "#C C walks back",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 655.4210433333333,
+            "timestamp_frame": 19663,
+            "_unmapped_timestamp_sec": 655.4177099999999,
+            "narration_text": "#C C shakes the solution",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 658.0540633333334,
+            "timestamp_frame": 19742,
+            "_unmapped_timestamp_sec": 658.05073,
+            "narration_text": "#C C checks the solution",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 661.3446633333333,
+            "timestamp_frame": 19840,
+            "_unmapped_timestamp_sec": 661.34133,
+            "narration_text": "#C C takes off the lid of test tube",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 664.7307433333333,
+            "timestamp_frame": 19942,
+            "_unmapped_timestamp_sec": 664.72741,
+            "narration_text": "#C C sucks solution",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 667.1330033333334,
+            "timestamp_frame": 20014,
+            "_unmapped_timestamp_sec": 667.12967,
+            "narration_text": "#C C places test tube with solution in the ice cube tray",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 667.8657733333333,
+            "timestamp_frame": 20036,
+            "_unmapped_timestamp_sec": 667.86244,
+            "narration_text": "#C C picks test tube from rack",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 668.5760733333334,
+            "timestamp_frame": 20057,
+            "_unmapped_timestamp_sec": 668.5727400000001,
+            "narration_text": "#C C opens lid of test tube",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 670.2563833333334,
+            "timestamp_frame": 20108,
+            "_unmapped_timestamp_sec": 670.25305,
+            "narration_text": "#C C puts solution in test tube",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 671.8614833333334,
+            "timestamp_frame": 20156,
+            "_unmapped_timestamp_sec": 671.85815,
+            "narration_text": "#C C closes lid of test tube",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 672.6324633333334,
+            "timestamp_frame": 20179,
+            "_unmapped_timestamp_sec": 672.62913,
+            "narration_text": "#C C places test tube in the ice cube tray",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 673.7932133333334,
+            "timestamp_frame": 20214,
+            "_unmapped_timestamp_sec": 673.78988,
+            "narration_text": "#C C throws dropper in the plastic tin",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 675.0799533333334,
+            "timestamp_frame": 20252,
+            "_unmapped_timestamp_sec": 675.07662,
+            "narration_text": "#C C picks test tube with solution",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 675.3448033333333,
+            "timestamp_frame": 20260,
+            "_unmapped_timestamp_sec": 675.34147,
+            "narration_text": "#C C places micropipette on the counter top",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 675.8326833333333,
+            "timestamp_frame": 20275,
+            "_unmapped_timestamp_sec": 675.82935,
+            "narration_text": "#C C picks test tube lid ",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 677.2056933333333,
+            "timestamp_frame": 20316,
+            "_unmapped_timestamp_sec": 677.20236,
+            "narration_text": "#C C closes test tube",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 677.2056933333333,
+            "timestamp_frame": 20316,
+            "_unmapped_timestamp_sec": 677.20236,
+            "narration_text": "#C C walks towards the fridge",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 682.4690233333333,
+            "timestamp_frame": 20474,
+            "_unmapped_timestamp_sec": 682.46569,
+            "narration_text": "#C C opens fridge door",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 683.8529733333334,
+            "timestamp_frame": 20516,
+            "_unmapped_timestamp_sec": 683.84964,
+            "narration_text": "#C C places test tube in fridge",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 684.6936833333333,
+            "timestamp_frame": 20541,
+            "_unmapped_timestamp_sec": 684.69035,
+            "narration_text": "#C C closes fridge",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 685.8641833333334,
+            "timestamp_frame": 20576,
+            "_unmapped_timestamp_sec": 685.86085,
+            "narration_text": "#C C walks back",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 690.2167033333333,
+            "timestamp_frame": 20707,
+            "_unmapped_timestamp_sec": 690.2133699999999,
+            "narration_text": "#C C pushes the bottle",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 691.3273033333334,
+            "timestamp_frame": 20740,
+            "_unmapped_timestamp_sec": 691.32397,
+            "narration_text": "#C C distributes ice cubes",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 697.7578033333333,
+            "timestamp_frame": 20933,
+            "_unmapped_timestamp_sec": 697.75447,
+            "narration_text": "#C C lifts test tube",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 698.1953633333333,
+            "timestamp_frame": 20946,
+            "_unmapped_timestamp_sec": 698.1920299999999,
+            "narration_text": "#C C places test tube back in ice cube tray",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 700.0637233333333,
+            "timestamp_frame": 21002,
+            "_unmapped_timestamp_sec": 700.06039,
+            "narration_text": "#C C picks micropipette",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 702.3138933333333,
+            "timestamp_frame": 21069,
+            "_unmapped_timestamp_sec": 702.31056,
+            "narration_text": "#C C adjusts micropipette",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 720.7934233333333,
+            "timestamp_frame": 21624,
+            "_unmapped_timestamp_sec": 720.79009,
+            "narration_text": "#C C inserts dropper in the micropipette",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 722.4404333333333,
+            "timestamp_frame": 21673,
+            "_unmapped_timestamp_sec": 722.4371,
+            "narration_text": "#C C picks bottle with solution from counter top",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 723.5039933333334,
+            "timestamp_frame": 21705,
+            "_unmapped_timestamp_sec": 723.50066,
+            "narration_text": "#C C opens the bottle top",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 724.7115833333334,
+            "timestamp_frame": 21741,
+            "_unmapped_timestamp_sec": 724.70825,
+            "narration_text": "#C C places bottle top on tray",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 725.6712933333333,
+            "timestamp_frame": 21770,
+            "_unmapped_timestamp_sec": 725.66796,
+            "narration_text": "#C C sucks solution",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 726.7482133333333,
+            "timestamp_frame": 21802,
+            "_unmapped_timestamp_sec": 726.74488,
+            "narration_text": "#C C places bottle on counter top",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 728.1169433333333,
+            "timestamp_frame": 21844,
+            "_unmapped_timestamp_sec": 728.11361,
+            "narration_text": "#C C picks test tube from ice cube tray",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 729.7868833333333,
+            "timestamp_frame": 21894,
+            "_unmapped_timestamp_sec": 729.78355,
+            "narration_text": "#C C opens test tube lid",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 730.6820433333334,
+            "timestamp_frame": 21920,
+            "_unmapped_timestamp_sec": 730.67871,
+            "narration_text": "#C C puts solution in the test tube",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 732.7620633333333,
+            "timestamp_frame": 21983,
+            "_unmapped_timestamp_sec": 732.75873,
+            "narration_text": "#C C throws dropper in plastic tin",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 733.9567033333333,
+            "timestamp_frame": 22019,
+            "_unmapped_timestamp_sec": 733.95337,
+            "narration_text": "#C C places test tube in ice cube tray",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 734.2522333333334,
+            "timestamp_frame": 22028,
+            "_unmapped_timestamp_sec": 734.2489,
+            "narration_text": "#C C places micropipette on the counter top",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 734.9896433333333,
+            "timestamp_frame": 22050,
+            "_unmapped_timestamp_sec": 734.98631,
+            "narration_text": "#C C hold bottle top",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 735.3507533333334,
+            "timestamp_frame": 22061,
+            "_unmapped_timestamp_sec": 735.34742,
+            "narration_text": "#C C closes bottle with bottle top",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 736.9979433333333,
+            "timestamp_frame": 22110,
+            "_unmapped_timestamp_sec": 736.99461,
+            "narration_text": "#C C places bottle on the shelf",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 738.9716233333334,
+            "timestamp_frame": 22169,
+            "_unmapped_timestamp_sec": 738.96829,
+            "narration_text": "#C C opens the bottle top",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 740.3073233333333,
+            "timestamp_frame": 22209,
+            "_unmapped_timestamp_sec": 740.30399,
+            "narration_text": "#C C inserts dropper in the micropipette",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 741.4658433333334,
+            "timestamp_frame": 22244,
+            "_unmapped_timestamp_sec": 741.4625100000001,
+            "narration_text": "#C C adjusts micropipette",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 748.3213033333334,
+            "timestamp_frame": 22450,
+            "_unmapped_timestamp_sec": 748.3179700000001,
+            "narration_text": "#C C sucks solution",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        },
+        {
+            "timestamp_sec": 749.2972533333334,
+            "timestamp_frame": 22479,
+            "_unmapped_timestamp_sec": 749.2939200000001,
+            "narration_text": "C C closes bottle with bottle top",
+            "annotation_uid": "664e67fd-965e-4195-941d-e96de58f1516"
+        }
+    ]
+}

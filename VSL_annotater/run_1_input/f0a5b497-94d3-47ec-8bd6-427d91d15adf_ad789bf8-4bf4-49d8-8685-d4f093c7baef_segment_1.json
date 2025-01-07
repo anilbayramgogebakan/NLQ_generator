@@ -1,0 +1,739 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 635.93958,
+            "timestamp_frame": 19078,
+            "_unmapped_timestamp_sec": 635.93958,
+            "narration_text": "#C C turns off the saw with his right gloved hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 638.79086,
+            "timestamp_frame": 19164,
+            "_unmapped_timestamp_sec": 638.79086,
+            "narration_text": "#C C drops the saw on the ground  with his gloved left hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 645.28228,
+            "timestamp_frame": 19358,
+            "_unmapped_timestamp_sec": 645.28228,
+            "narration_text": "#O The man X hands C a chisel.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 645.77815,
+            "timestamp_frame": 19373,
+            "_unmapped_timestamp_sec": 645.77815,
+            "narration_text": "#C C transfers the chisel from his right gloved hand to his left gloved hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 646.33291,
+            "timestamp_frame": 19390,
+            "_unmapped_timestamp_sec": 646.33291,
+            "narration_text": "#O The man X hands C a hammer.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 647.85491,
+            "timestamp_frame": 19436,
+            "_unmapped_timestamp_sec": 647.85491,
+            "narration_text": "#C C transfers the chisel from his left gloved hands to his right gloved hands.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 647.33922,
+            "timestamp_frame": 19420,
+            "_unmapped_timestamp_sec": 647.33922,
+            "narration_text": "#C C drops the hammer on the platform with ",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 648.63808,
+            "timestamp_frame": 19459,
+            "_unmapped_timestamp_sec": 648.63808,
+            "narration_text": "#C C looses the chain of the bike with the chisel in his right gloved hands.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 654.98757,
+            "timestamp_frame": 19650,
+            "_unmapped_timestamp_sec": 654.98757,
+            "narration_text": "#O The man X drops a packet of chain on the platform with his right hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 655.74193,
+            "timestamp_frame": 19672,
+            "_unmapped_timestamp_sec": 655.74193,
+            "narration_text": "#C C hits the chain of the bike with the chisel in his right gloved hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 657.20555,
+            "timestamp_frame": 19716,
+            "_unmapped_timestamp_sec": 657.20555,
+            "narration_text": "#C C removes a pin from the chain with his right gloved hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 659.7906399999999,
+            "timestamp_frame": 19794,
+            "_unmapped_timestamp_sec": 659.7906399999999,
+            "narration_text": "#C C holds the pin with his gloved hands.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 660.7957,
+            "timestamp_frame": 19824,
+            "_unmapped_timestamp_sec": 660.7957,
+            "narration_text": "#C C places the pin on the chain with his gloved right hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 662.59831,
+            "timestamp_frame": 19878,
+            "_unmapped_timestamp_sec": 662.59831,
+            "narration_text": "#C C looses the chain with his gloved left hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 666.10051,
+            "timestamp_frame": 19983,
+            "_unmapped_timestamp_sec": 666.10051,
+            "narration_text": "#C C picks the packet from the platform with his right gloved hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 666.7906399999999,
+            "timestamp_frame": 20004,
+            "_unmapped_timestamp_sec": 666.7906399999999,
+            "narration_text": "#C C transfers the packet from his right gloved hand to his left gloved hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 667.44577,
+            "timestamp_frame": 20023,
+            "_unmapped_timestamp_sec": 667.44577,
+            "narration_text": "#C C picks the chisel from the platform with his right gloved hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 668.68866,
+            "timestamp_frame": 20061,
+            "_unmapped_timestamp_sec": 668.68866,
+            "narration_text": "#C C opens the packet of chain with the chisel in his right gloved hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 672.78314,
+            "timestamp_frame": 20183,
+            "_unmapped_timestamp_sec": 672.78314,
+            "narration_text": "#C C drops the chisel on the platform with his right gloved hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 676.23397,
+            "timestamp_frame": 20287,
+            "_unmapped_timestamp_sec": 676.23397,
+            "narration_text": "#C C moves the hammer on the platform with his right gloved hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 678.25431,
+            "timestamp_frame": 20348,
+            "_unmapped_timestamp_sec": 678.25431,
+            "narration_text": "#C C places the packet of chain on the platform with his gloved hands.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 680.06753,
+            "timestamp_frame": 20402,
+            "_unmapped_timestamp_sec": 680.06753,
+            "narration_text": "#C C opens the packet of chain with his gloved hands.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 681.62304,
+            "timestamp_frame": 20449,
+            "_unmapped_timestamp_sec": 681.62304,
+            "narration_text": "#C C lifts the chain with his right gloved hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 688.64858,
+            "timestamp_frame": 20659,
+            "_unmapped_timestamp_sec": 688.64858,
+            "narration_text": "#C C fixes the chain on the bike with his gloved hands.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 691.52995,
+            "timestamp_frame": 20746,
+            "_unmapped_timestamp_sec": 691.52995,
+            "narration_text": "#C C removes the pin of the chain with his gloved right hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 692.1031800000001,
+            "timestamp_frame": 20763,
+            "_unmapped_timestamp_sec": 692.1031800000001,
+            "narration_text": "#C C drops the pin on the platform with his gloved right hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 693.26809,
+            "timestamp_frame": 20798,
+            "_unmapped_timestamp_sec": 693.26809,
+            "narration_text": "#C C picks a pack of pin with his left gloved hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 695.39,
+            "timestamp_frame": 20862,
+            "_unmapped_timestamp_sec": 695.39,
+            "narration_text": "#C C picks the chisel on the platform with his gloved right hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 696.98137,
+            "timestamp_frame": 20909,
+            "_unmapped_timestamp_sec": 696.98137,
+            "narration_text": "#C C opens the pack of pin with the chisel in his right gloved hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 706.44678,
+            "timestamp_frame": 21193,
+            "_unmapped_timestamp_sec": 706.44678,
+            "narration_text": "#C C interacts with the man X.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 710.37021,
+            "timestamp_frame": 21311,
+            "_unmapped_timestamp_sec": 710.37021,
+            "narration_text": "#C C drops the chisel on the platform with his right gloved hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 711.1783800000001,
+            "timestamp_frame": 21335,
+            "_unmapped_timestamp_sec": 711.1783800000001,
+            "narration_text": "#C C opens the pack of pin with his gloved hands.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 720.83754,
+            "timestamp_frame": 21625,
+            "_unmapped_timestamp_sec": 720.83754,
+            "narration_text": "#C C drops the pack of pin on the platform with his left gloved hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 722.11441,
+            "timestamp_frame": 21663,
+            "_unmapped_timestamp_sec": 722.11441,
+            "narration_text": "#C C fixes the pin on the chain with his right gloved hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 718.53936,
+            "timestamp_frame": 21556,
+            "_unmapped_timestamp_sec": 718.53936,
+            "narration_text": "#C C removes one pin from the pack of pin with his gloved right hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 724.2686699999999,
+            "timestamp_frame": 21728,
+            "_unmapped_timestamp_sec": 724.2686699999999,
+            "narration_text": "#C C picks the chain from the platform with his right gloved hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 725.98483,
+            "timestamp_frame": 21780,
+            "_unmapped_timestamp_sec": 725.98483,
+            "narration_text": "#C C fixes the chain on the bike with his gloved hands.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 728.79051,
+            "timestamp_frame": 21864,
+            "_unmapped_timestamp_sec": 728.79051,
+            "narration_text": "#C C picks the chain with his left gloved hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 730.04429,
+            "timestamp_frame": 21901,
+            "_unmapped_timestamp_sec": 730.04429,
+            "narration_text": "#C C pulls the chain with his right gloved hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 731.4467500000001,
+            "timestamp_frame": 21943,
+            "_unmapped_timestamp_sec": 731.4467500000001,
+            "narration_text": "#C C rolls the chain with his right gloved hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 731.4467500000001,
+            "timestamp_frame": 21943,
+            "_unmapped_timestamp_sec": 731.4467500000001,
+            "narration_text": "#C C pulls the chain with his left gloved hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 738.15704,
+            "timestamp_frame": 22145,
+            "_unmapped_timestamp_sec": 738.15704,
+            "narration_text": "#C C pulls the chain with his gloved hands.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 739.1978,
+            "timestamp_frame": 22176,
+            "_unmapped_timestamp_sec": 739.1978,
+            "narration_text": "#C C rolls the chain with his right gloved hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 741.28685,
+            "timestamp_frame": 22239,
+            "_unmapped_timestamp_sec": 741.28685,
+            "narration_text": "#C C pulls the chain with his right gloved hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 744.44098,
+            "timestamp_frame": 22333,
+            "_unmapped_timestamp_sec": 744.44098,
+            "narration_text": "#C C removes the chain with his gloved right hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 745.25017,
+            "timestamp_frame": 22358,
+            "_unmapped_timestamp_sec": 745.25017,
+            "narration_text": "#C C rolls the chain with his right gloved hand.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 748.55103,
+            "timestamp_frame": 22457,
+            "_unmapped_timestamp_sec": 748.55103,
+            "narration_text": "#C C fixes the chain with his gloved hands.",
+            "annotation_uid": "92bc8061-9512-4bdc-8eff-999f6511f3a2"
+        },
+        {
+            "timestamp_sec": 639.32575,
+            "timestamp_frame": 19180,
+            "_unmapped_timestamp_sec": 639.32575,
+            "narration_text": "#C C puts down the grinder",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 643.26959,
+            "timestamp_frame": 19298,
+            "_unmapped_timestamp_sec": 643.26959,
+            "narration_text": "#O A man X walks beside the motor cycle",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 644.75686,
+            "timestamp_frame": 19343,
+            "_unmapped_timestamp_sec": 644.75686,
+            "narration_text": "#C C holds the tire",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 645.51817,
+            "timestamp_frame": 19366,
+            "_unmapped_timestamp_sec": 645.51817,
+            "narration_text": "#O A man X gives C the screw driver",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 645.96608,
+            "timestamp_frame": 19379,
+            "_unmapped_timestamp_sec": 645.96608,
+            "narration_text": "#C C holds the screw driver with the other hand",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 646.51031,
+            "timestamp_frame": 19395,
+            "_unmapped_timestamp_sec": 646.51031,
+            "narration_text": "#O A man X gives C the hammer",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 647.78994,
+            "timestamp_frame": 19434,
+            "_unmapped_timestamp_sec": 647.78994,
+            "narration_text": "#C C puts down the hammer",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 648.18218,
+            "timestamp_frame": 19445,
+            "_unmapped_timestamp_sec": 648.18218,
+            "narration_text": "#O A man X walks away from the motor cycle",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 648.07466,
+            "timestamp_frame": 19442,
+            "_unmapped_timestamp_sec": 648.07466,
+            "narration_text": "#C C holds the screw driver with the other hand",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 648.46498,
+            "timestamp_frame": 19454,
+            "_unmapped_timestamp_sec": 648.46498,
+            "narration_text": "#C C puts his hand on the motor cycle",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 650.57764,
+            "timestamp_frame": 19517,
+            "_unmapped_timestamp_sec": 650.57764,
+            "narration_text": "#C C puts the screw driver on the chain",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 654.99098,
+            "timestamp_frame": 19650,
+            "_unmapped_timestamp_sec": 654.99098,
+            "narration_text": "#O A man X puts down the box beside the motor cycle",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 654.04875,
+            "timestamp_frame": 19621,
+            "_unmapped_timestamp_sec": 654.04875,
+            "narration_text": "#C C removes the metal",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 655.72819,
+            "timestamp_frame": 19672,
+            "_unmapped_timestamp_sec": 655.72819,
+            "narration_text": "#C C hits the chain with the screw driver",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 657.67167,
+            "timestamp_frame": 19730,
+            "_unmapped_timestamp_sec": 657.67167,
+            "narration_text": "#C C holds the chain",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 658.42526,
+            "timestamp_frame": 19753,
+            "_unmapped_timestamp_sec": 658.42526,
+            "narration_text": "#C C holds the metal",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 660.08173,
+            "timestamp_frame": 19802,
+            "_unmapped_timestamp_sec": 660.08173,
+            "narration_text": "#C C holds the metal with both hands",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 661.44188,
+            "timestamp_frame": 19843,
+            "_unmapped_timestamp_sec": 661.44188,
+            "narration_text": "#C C fits the metal on the chain",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 663.39287,
+            "timestamp_frame": 19902,
+            "_unmapped_timestamp_sec": 663.39287,
+            "narration_text": "#C C holds the chain",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 664.54507,
+            "timestamp_frame": 19936,
+            "_unmapped_timestamp_sec": 664.54507,
+            "narration_text": "#C C holds the metal with both hands",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 666.40848,
+            "timestamp_frame": 19992,
+            "_unmapped_timestamp_sec": 666.40848,
+            "narration_text": "#C C picks the box",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 667.11912,
+            "timestamp_frame": 20014,
+            "_unmapped_timestamp_sec": 667.11912,
+            "narration_text": "#C C holds the box with the other hand",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 667.83881,
+            "timestamp_frame": 20035,
+            "_unmapped_timestamp_sec": 667.83881,
+            "narration_text": "#C C picks the screw driver",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 670.33545,
+            "timestamp_frame": 20110,
+            "_unmapped_timestamp_sec": 670.33545,
+            "narration_text": "#C C opens the box",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 673.1210599999999,
+            "timestamp_frame": 20194,
+            "_unmapped_timestamp_sec": 673.1210599999999,
+            "narration_text": "#C C puts down the screw driver",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 673.96838,
+            "timestamp_frame": 20219,
+            "_unmapped_timestamp_sec": 673.96838,
+            "narration_text": "#C C holds the box",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 674.39148,
+            "timestamp_frame": 20232,
+            "_unmapped_timestamp_sec": 674.39148,
+            "narration_text": "#C C removes a paper from the box",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 674.69404,
+            "timestamp_frame": 20241,
+            "_unmapped_timestamp_sec": 674.69404,
+            "narration_text": "#C C throws the box",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 676.50083,
+            "timestamp_frame": 20295,
+            "_unmapped_timestamp_sec": 676.50083,
+            "narration_text": "#C C moves the hammer",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 677.9723799999999,
+            "timestamp_frame": 20339,
+            "_unmapped_timestamp_sec": 677.9723799999999,
+            "narration_text": "#C C holds the paper with both hands",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 679.13984,
+            "timestamp_frame": 20374,
+            "_unmapped_timestamp_sec": 679.13984,
+            "narration_text": "#C C unwraps the paper",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 682.2749,
+            "timestamp_frame": 20468,
+            "_unmapped_timestamp_sec": 682.2749,
+            "narration_text": "#C C holds the chain",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 684.88483,
+            "timestamp_frame": 20547,
+            "_unmapped_timestamp_sec": 684.88483,
+            "narration_text": "#C C lifts the chain",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 686.33264,
+            "timestamp_frame": 20590,
+            "_unmapped_timestamp_sec": 686.33264,
+            "narration_text": "#C C puts down the chain",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 689.03577,
+            "timestamp_frame": 20671,
+            "_unmapped_timestamp_sec": 689.03577,
+            "narration_text": "#C C holds the chain on the motor cycle",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 691.58137,
+            "timestamp_frame": 20747,
+            "_unmapped_timestamp_sec": 691.58137,
+            "narration_text": "#C C removes the metal from the chain",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 692.2609,
+            "timestamp_frame": 20768,
+            "_unmapped_timestamp_sec": 692.2609,
+            "narration_text": "#C C drops the metal",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 693.35668,
+            "timestamp_frame": 20801,
+            "_unmapped_timestamp_sec": 693.35668,
+            "narration_text": "#C C picks the plastic paper",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 694.10532,
+            "timestamp_frame": 20823,
+            "_unmapped_timestamp_sec": 694.10532,
+            "narration_text": "#C C holds the plastic  paper",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 695.4727399999999,
+            "timestamp_frame": 20864,
+            "_unmapped_timestamp_sec": 695.4727399999999,
+            "narration_text": "#C C picks the screw driver",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 697.6476,
+            "timestamp_frame": 20929,
+            "_unmapped_timestamp_sec": 697.6476,
+            "narration_text": "#C C tears the plastic paper with the screw driver",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 706.65687,
+            "timestamp_frame": 21200,
+            "_unmapped_timestamp_sec": 706.65687,
+            "narration_text": "#O A man X stands on the entrance of the workshop",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 707.37761,
+            "timestamp_frame": 21221,
+            "_unmapped_timestamp_sec": 707.37761,
+            "narration_text": "#C C points on the other side",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 708.20131,
+            "timestamp_frame": 21246,
+            "_unmapped_timestamp_sec": 708.20131,
+            "narration_text": "#C C gestures with his finger",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 710.58,
+            "timestamp_frame": 21317,
+            "_unmapped_timestamp_sec": 710.58,
+            "narration_text": "#C C puts down the screw driver",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 712.93963,
+            "timestamp_frame": 21388,
+            "_unmapped_timestamp_sec": 712.93963,
+            "narration_text": "#C C looks at man X",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 715.10664,
+            "timestamp_frame": 21453,
+            "_unmapped_timestamp_sec": 715.10664,
+            "narration_text": "#C C tears the plastic paper",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 718.97943,
+            "timestamp_frame": 21569,
+            "_unmapped_timestamp_sec": 718.97943,
+            "narration_text": "#C C removes the metal from the plastic paper",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 720.2574500000001,
+            "timestamp_frame": 21608,
+            "_unmapped_timestamp_sec": 720.2574500000001,
+            "narration_text": "#C C holds the metal",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 721.20067,
+            "timestamp_frame": 21636,
+            "_unmapped_timestamp_sec": 721.20067,
+            "narration_text": "#C C puts down the plastic paper",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 723.0885900000001,
+            "timestamp_frame": 21693,
+            "_unmapped_timestamp_sec": 723.0885900000001,
+            "narration_text": "#C C attaches the metal to the chain",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 723.68794,
+            "timestamp_frame": 21711,
+            "_unmapped_timestamp_sec": 723.68794,
+            "narration_text": "#C C gestures with his finger",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 724.59256,
+            "timestamp_frame": 21738,
+            "_unmapped_timestamp_sec": 724.59256,
+            "narration_text": "#C C picks the chain",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 726.47587,
+            "timestamp_frame": 21794,
+            "_unmapped_timestamp_sec": 726.47587,
+            "narration_text": "#C C attaches the chains together",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 729.15512,
+            "timestamp_frame": 21875,
+            "_unmapped_timestamp_sec": 729.15512,
+            "narration_text": "#C C holds the chain",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 729.7379,
+            "timestamp_frame": 21892,
+            "_unmapped_timestamp_sec": 729.7379,
+            "narration_text": "#C C pulls the chain",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 744.59218,
+            "timestamp_frame": 22338,
+            "_unmapped_timestamp_sec": 744.59218,
+            "narration_text": "#C C detaches the chain",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        },
+        {
+            "timestamp_sec": 748.60779,
+            "timestamp_frame": 22458,
+            "_unmapped_timestamp_sec": 748.60779,
+            "narration_text": "#C C holds the chain together",
+            "annotation_uid": "328b8447-e58c-4df6-a8e5-1131a1d7e306"
+        }
+    ]
+}

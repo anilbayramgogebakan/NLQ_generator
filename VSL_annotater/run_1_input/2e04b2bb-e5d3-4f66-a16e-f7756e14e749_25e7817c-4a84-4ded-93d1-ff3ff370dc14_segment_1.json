@@ -1,0 +1,795 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 1772.22015,
+            "timestamp_frame": 53167,
+            "_unmapped_timestamp_sec": 1772.2101499999999,
+            "narration_text": "#C C Turns left",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1773.53685,
+            "timestamp_frame": 53206,
+            "_unmapped_timestamp_sec": 1773.52685,
+            "narration_text": "#C C Walks to the right",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1779.49567,
+            "timestamp_frame": 53385,
+            "_unmapped_timestamp_sec": 1779.48567,
+            "narration_text": "#C C Puts #unsure on the table",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1780.71231,
+            "timestamp_frame": 53421,
+            "_unmapped_timestamp_sec": 1780.7023100000001,
+            "narration_text": "#C C Collects the test tubes from the table",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1785.29821,
+            "timestamp_frame": 53559,
+            "_unmapped_timestamp_sec": 1785.28821,
+            "narration_text": "#C C Turns a round",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1787.88148,
+            "timestamp_frame": 53636,
+            "_unmapped_timestamp_sec": 1787.87148,
+            "narration_text": "#C C Opens the container",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1788.49651,
+            "timestamp_frame": 53655,
+            "_unmapped_timestamp_sec": 1788.48651,
+            "narration_text": "#C C Throws the test tube into container",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1789.2133,
+            "timestamp_frame": 53676,
+            "_unmapped_timestamp_sec": 1789.2033000000001,
+            "narration_text": "#C C Closes the lid of the container ",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1792.0392200000001,
+            "timestamp_frame": 53761,
+            "_unmapped_timestamp_sec": 1792.02922,
+            "narration_text": "#C C Puts the test tube to the rack",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1793.03835,
+            "timestamp_frame": 53791,
+            "_unmapped_timestamp_sec": 1793.02835,
+            "narration_text": "#C C Touches #unsure",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1794.15403,
+            "timestamp_frame": 53825,
+            "_unmapped_timestamp_sec": 1794.14403,
+            "narration_text": "#C C Holds a box",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1798.15346,
+            "timestamp_frame": 53945,
+            "_unmapped_timestamp_sec": 1798.14346,
+            "narration_text": "#C C Puts the pen into pen holder",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1800.32855,
+            "timestamp_frame": 54010,
+            "_unmapped_timestamp_sec": 1800.31855,
+            "narration_text": "#C C Picks the syringe pipette from the table",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1800.8861299999999,
+            "timestamp_frame": 54027,
+            "_unmapped_timestamp_sec": 1800.87613,
+            "narration_text": "#C C Looks at the syringe pipette",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1801.69364,
+            "timestamp_frame": 54051,
+            "_unmapped_timestamp_sec": 1801.68364,
+            "narration_text": "#C C holds the syringes on both hands",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1803.81921,
+            "timestamp_frame": 54115,
+            "_unmapped_timestamp_sec": 1803.80921,
+            "narration_text": "#C C puts the syringes on the table",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1804.92334,
+            "timestamp_frame": 54148,
+            "_unmapped_timestamp_sec": 1804.91334,
+            "narration_text": "#C C Picks the syringes from the table",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1806.73937,
+            "timestamp_frame": 54202,
+            "_unmapped_timestamp_sec": 1806.72937,
+            "narration_text": "#C C Puts the syringes on syringe holder",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1812.09948,
+            "timestamp_frame": 54363,
+            "_unmapped_timestamp_sec": 1812.08948,
+            "narration_text": "#C C Picks the syringes from the table",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1809.37814,
+            "timestamp_frame": 54281,
+            "_unmapped_timestamp_sec": 1809.36814,
+            "narration_text": "#C C Looks at the syringe",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1810.95391,
+            "timestamp_frame": 54329,
+            "_unmapped_timestamp_sec": 1810.94391,
+            "narration_text": "#C C Puts the syringes on syringe holder",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1815.57618,
+            "timestamp_frame": 54467,
+            "_unmapped_timestamp_sec": 1815.56618,
+            "narration_text": "#C C Adjusts the syringe",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1825.98206,
+            "timestamp_frame": 54779,
+            "_unmapped_timestamp_sec": 1825.97206,
+            "narration_text": "#C C Touches the rack",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1827.06978,
+            "timestamp_frame": 54812,
+            "_unmapped_timestamp_sec": 1827.05978,
+            "narration_text": "#C C Picks # unsure",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1828.66255,
+            "timestamp_frame": 54860,
+            "_unmapped_timestamp_sec": 1828.65255,
+            "narration_text": "#C C Fixes #unsure to #unsure",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1833.29324,
+            "timestamp_frame": 54999,
+            "_unmapped_timestamp_sec": 1833.28324,
+            "narration_text": "#C C Touches the box",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1835.59003,
+            "timestamp_frame": 55068,
+            "_unmapped_timestamp_sec": 1835.58003,
+            "narration_text": "#C C Picks the box from the table",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1836.71725,
+            "timestamp_frame": 55102,
+            "_unmapped_timestamp_sec": 1836.70725,
+            "narration_text": "#C C Picks #unsure from the table",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1838.0506599999999,
+            "timestamp_frame": 55142,
+            "_unmapped_timestamp_sec": 1838.0406600000001,
+            "narration_text": "#C C Closes the lid of a container",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1839.4145800000001,
+            "timestamp_frame": 55182,
+            "_unmapped_timestamp_sec": 1839.40458,
+            "narration_text": "#C C Walks",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1842.27676,
+            "timestamp_frame": 55268,
+            "_unmapped_timestamp_sec": 1842.26676,
+            "narration_text": "#C C Turns to the left",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1843.9887899999999,
+            "timestamp_frame": 55320,
+            "_unmapped_timestamp_sec": 1843.9787900000001,
+            "narration_text": "#C C Opens the dustbin",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1844.4037,
+            "timestamp_frame": 55332,
+            "_unmapped_timestamp_sec": 1844.3937,
+            "narration_text": "#C C Throws #unsure in the dustbin",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1844.72341,
+            "timestamp_frame": 55342,
+            "_unmapped_timestamp_sec": 1844.71341,
+            "narration_text": "#C C Closes the dustbin",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1845.08589,
+            "timestamp_frame": 55353,
+            "_unmapped_timestamp_sec": 1845.07589,
+            "narration_text": "#C C Turns to the left",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1850.2056,
+            "timestamp_frame": 55506,
+            "_unmapped_timestamp_sec": 1850.1956,
+            "narration_text": "#C C Picks the box",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1855.41354,
+            "timestamp_frame": 55662,
+            "_unmapped_timestamp_sec": 1855.40354,
+            "narration_text": "#C C walks",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1856.8024,
+            "timestamp_frame": 55704,
+            "_unmapped_timestamp_sec": 1856.7924,
+            "narration_text": "#C C Turns to the left",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1859.0017,
+            "timestamp_frame": 55770,
+            "_unmapped_timestamp_sec": 1858.9917,
+            "narration_text": "#C C Puts the box on top of other box",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1860.88188,
+            "timestamp_frame": 55826,
+            "_unmapped_timestamp_sec": 1860.87188,
+            "narration_text": "#C C Turns a round",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1869.04923,
+            "timestamp_frame": 56071,
+            "_unmapped_timestamp_sec": 1869.03923,
+            "narration_text": "#C C Holds the rack",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1869.73621,
+            "timestamp_frame": 56092,
+            "_unmapped_timestamp_sec": 1869.72621,
+            "narration_text": "#C C Touches a box",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1870.7449299999998,
+            "timestamp_frame": 56122,
+            "_unmapped_timestamp_sec": 1870.73493,
+            "narration_text": "#C C Carries the rack",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1872.09536,
+            "timestamp_frame": 56163,
+            "_unmapped_timestamp_sec": 1872.08536,
+            "narration_text": "#C C Picks a box",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1877.19077,
+            "timestamp_frame": 56316,
+            "_unmapped_timestamp_sec": 1877.18077,
+            "narration_text": "#C C walks to the left",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1880.61674,
+            "timestamp_frame": 56419,
+            "_unmapped_timestamp_sec": 1880.60674,
+            "narration_text": "#C C Pours #unsure on the sink",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1885.20188,
+            "timestamp_frame": 56556,
+            "_unmapped_timestamp_sec": 1885.19188,
+            "narration_text": "Walks to the left",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1883.09137,
+            "timestamp_frame": 56493,
+            "_unmapped_timestamp_sec": 1883.0813699999999,
+            "narration_text": "#C C Turns a round",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1889.29117,
+            "timestamp_frame": 56679,
+            "_unmapped_timestamp_sec": 1889.28117,
+            "narration_text": "#C C Puts the container on the shelf",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1891.92988,
+            "timestamp_frame": 56758,
+            "_unmapped_timestamp_sec": 1891.91988,
+            "narration_text": "#C C moves the pen on the table",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1895.74931,
+            "timestamp_frame": 56872,
+            "_unmapped_timestamp_sec": 1895.73931,
+            "narration_text": "#C C Picks the syringe from the table",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1897.38827,
+            "timestamp_frame": 56922,
+            "_unmapped_timestamp_sec": 1897.37827,
+            "narration_text": "#C C Throws the syringe on the table",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1898.44261,
+            "timestamp_frame": 56953,
+            "_unmapped_timestamp_sec": 1898.43261,
+            "narration_text": "#C C Picks the syringe pipette",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1898.88777,
+            "timestamp_frame": 56967,
+            "_unmapped_timestamp_sec": 1898.87777,
+            "narration_text": "#C C looks at the syringe",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1900.07151,
+            "timestamp_frame": 57002,
+            "_unmapped_timestamp_sec": 1900.06151,
+            "narration_text": "#C C Adjusts the syringe",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1904.34488,
+            "timestamp_frame": 57130,
+            "_unmapped_timestamp_sec": 1904.3348799999999,
+            "narration_text": "#C C Looks at the syringe",
+            "annotation_uid": "b9868edc-3e58-412e-8966-c5b212998150"
+        },
+        {
+            "timestamp_sec": 1907.19801,
+            "timestamp_frame": 57216,
+            "_unmapped_timestamp_sec": 1907.18801,
+            "narration_text": "#C C hangs the syringe on a syringe rank",
+            "annotation_uid": "0ca309f2-85f4-4a90-b682-360f1ac070b7"
+        },
+        {
+            "timestamp_sec": 1908.1634199999999,
+            "timestamp_frame": 57245,
+            "_unmapped_timestamp_sec": 1908.15342,
+            "narration_text": "#C C stares a round",
+            "annotation_uid": "0ca309f2-85f4-4a90-b682-360f1ac070b7"
+        },
+        {
+            "timestamp_sec": 1909.47119,
+            "timestamp_frame": 57284,
+            "_unmapped_timestamp_sec": 1909.46119,
+            "narration_text": "#C C walks a round",
+            "annotation_uid": "0ca309f2-85f4-4a90-b682-360f1ac070b7"
+        },
+        {
+            "timestamp_sec": 1777.63984,
+            "timestamp_frame": 53329,
+            "_unmapped_timestamp_sec": 1777.62984,
+            "narration_text": "#C C closes the well plate lid",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1779.27377,
+            "timestamp_frame": 53378,
+            "_unmapped_timestamp_sec": 1779.26377,
+            "narration_text": "#C C puts aside the well plate ",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1782.03498,
+            "timestamp_frame": 53461,
+            "_unmapped_timestamp_sec": 1782.02498,
+            "narration_text": "#C C picks some eppendorf tube on the table",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1785.05628,
+            "timestamp_frame": 53552,
+            "_unmapped_timestamp_sec": 1785.04628,
+            "narration_text": "#C C picks an eppendorf tube from the black bowl",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1785.52334,
+            "timestamp_frame": 53566,
+            "_unmapped_timestamp_sec": 1785.51334,
+            "narration_text": "#C C walks",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1788.45081,
+            "timestamp_frame": 53654,
+            "_unmapped_timestamp_sec": 1788.44081,
+            "narration_text": "#C C throws the eppendorf tubes in the dustbin",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1790.16355,
+            "timestamp_frame": 53705,
+            "_unmapped_timestamp_sec": 1790.15355,
+            "narration_text": "#C C walks",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1791.69571,
+            "timestamp_frame": 53751,
+            "_unmapped_timestamp_sec": 1791.68571,
+            "narration_text": "#C C places one of the eppendorf tube in the rack",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1792.922,
+            "timestamp_frame": 53788,
+            "_unmapped_timestamp_sec": 1792.912,
+            "narration_text": "#C C mixes up the eppendorf tube in the black bowl",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1794.30812,
+            "timestamp_frame": 53829,
+            "_unmapped_timestamp_sec": 1794.29812,
+            "narration_text": "#C C holds a box",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1796.076,
+            "timestamp_frame": 53882,
+            "_unmapped_timestamp_sec": 1796.066,
+            "narration_text": "#C C picks some pens on the table",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1798.17142,
+            "timestamp_frame": 53945,
+            "_unmapped_timestamp_sec": 1798.16142,
+            "narration_text": "#C C places the pens in a tin",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1800.2039,
+            "timestamp_frame": 54006,
+            "_unmapped_timestamp_sec": 1800.1939,
+            "narration_text": "#C C holds a syringe",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1801.42393,
+            "timestamp_frame": 54043,
+            "_unmapped_timestamp_sec": 1801.41393,
+            "narration_text": "#C C looks at the syringe",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1802.0832,
+            "timestamp_frame": 54062,
+            "_unmapped_timestamp_sec": 1802.0732,
+            "narration_text": "#C C picks another syringe",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1802.0832,
+            "timestamp_frame": 54062,
+            "_unmapped_timestamp_sec": 1802.0732,
+            "narration_text": "#C C puts down the syringe",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1802.8709,
+            "timestamp_frame": 54086,
+            "_unmapped_timestamp_sec": 1802.8609,
+            "narration_text": "#C C looks at the syringe",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1804.00912,
+            "timestamp_frame": 54120,
+            "_unmapped_timestamp_sec": 1803.99912,
+            "narration_text": "#C C places the syringe on the table",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1805.42959,
+            "timestamp_frame": 54163,
+            "_unmapped_timestamp_sec": 1805.41959,
+            "narration_text": "#C C picks another syringe",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1808.00586,
+            "timestamp_frame": 54240,
+            "_unmapped_timestamp_sec": 1807.99586,
+            "narration_text": "#C C places the syringes in the syringe organizer",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1809.17237,
+            "timestamp_frame": 54275,
+            "_unmapped_timestamp_sec": 1809.16237,
+            "narration_text": "#C C looks at a syringe at hand",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1810.81773,
+            "timestamp_frame": 54325,
+            "_unmapped_timestamp_sec": 1810.80773,
+            "narration_text": "#C C places the syringes in the syringe organizer",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1812.17271,
+            "timestamp_frame": 54365,
+            "_unmapped_timestamp_sec": 1812.16271,
+            "narration_text": "#C C picks a syringe on the table",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1814.73796,
+            "timestamp_frame": 54442,
+            "_unmapped_timestamp_sec": 1814.72796,
+            "narration_text": "#C C reads the book",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1816.27038,
+            "timestamp_frame": 54488,
+            "_unmapped_timestamp_sec": 1816.26038,
+            "narration_text": "#C C opens the syringe",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1823.6057799999999,
+            "timestamp_frame": 54708,
+            "_unmapped_timestamp_sec": 1823.59578,
+            "narration_text": "#C C places the syringes on the table",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1829.04896,
+            "timestamp_frame": 54871,
+            "_unmapped_timestamp_sec": 1829.03896,
+            "narration_text": "#C C arranges some equipment's on the table",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1835.40087,
+            "timestamp_frame": 55062,
+            "_unmapped_timestamp_sec": 1835.39087,
+            "narration_text": "#C C picks a test tube rack",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1836.487,
+            "timestamp_frame": 55095,
+            "_unmapped_timestamp_sec": 1836.477,
+            "narration_text": "#C C picks a well plate",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1838.8345,
+            "timestamp_frame": 55165,
+            "_unmapped_timestamp_sec": 1838.8245,
+            "narration_text": "#C C closes a plastic box on the table",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1840.13395,
+            "timestamp_frame": 55204,
+            "_unmapped_timestamp_sec": 1840.12395,
+            "narration_text": "#C C walks",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1844.52354,
+            "timestamp_frame": 55336,
+            "_unmapped_timestamp_sec": 1844.51354,
+            "narration_text": "#C C throws the well plate and test tube rack in the bin",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1846.14346,
+            "timestamp_frame": 55384,
+            "_unmapped_timestamp_sec": 1846.13346,
+            "narration_text": "#C C walks",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1851.4578999999999,
+            "timestamp_frame": 55544,
+            "_unmapped_timestamp_sec": 1851.4479000000001,
+            "narration_text": "#C C moves box",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1853.3638,
+            "timestamp_frame": 55601,
+            "_unmapped_timestamp_sec": 1853.3538,
+            "narration_text": "#C C walks",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1859.80312,
+            "timestamp_frame": 55794,
+            "_unmapped_timestamp_sec": 1859.79312,
+            "narration_text": "#C C places box o the shelf",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1862.21592,
+            "timestamp_frame": 55866,
+            "_unmapped_timestamp_sec": 1862.2059199999999,
+            "narration_text": "#C C walks",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1871.0764100000001,
+            "timestamp_frame": 56132,
+            "_unmapped_timestamp_sec": 1871.06641,
+            "narration_text": "#C C arranges equipment's on the table",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1874.5749700000001,
+            "timestamp_frame": 56237,
+            "_unmapped_timestamp_sec": 1874.56497,
+            "narration_text": "#C C walks",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1874.5749700000001,
+            "timestamp_frame": 56237,
+            "_unmapped_timestamp_sec": 1874.56497,
+            "narration_text": "#C C picks the black bowl",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1880.99999,
+            "timestamp_frame": 56430,
+            "_unmapped_timestamp_sec": 1880.98999,
+            "narration_text": "#C C pours the eppendorf tubes in the sink",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1883.21394,
+            "timestamp_frame": 56496,
+            "_unmapped_timestamp_sec": 1883.2039399999999,
+            "narration_text": "#C C walks",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1889.25577,
+            "timestamp_frame": 56678,
+            "_unmapped_timestamp_sec": 1889.24577,
+            "narration_text": "#C C places the black bowl on the shelf",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1894.35675,
+            "timestamp_frame": 56831,
+            "_unmapped_timestamp_sec": 1894.34675,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1892.21642,
+            "timestamp_frame": 56766,
+            "_unmapped_timestamp_sec": 1892.20642,
+            "narration_text": "#C C moves the pen",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1895.92855,
+            "timestamp_frame": 56878,
+            "_unmapped_timestamp_sec": 1895.9185499999999,
+            "narration_text": "#C C holds the syringe",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1896.60491,
+            "timestamp_frame": 56898,
+            "_unmapped_timestamp_sec": 1896.59491,
+            "narration_text": "#C C looks at the syringe ",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1897.95956,
+            "timestamp_frame": 56939,
+            "_unmapped_timestamp_sec": 1897.94956,
+            "narration_text": "#C C places the syringe on the table",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1898.71694,
+            "timestamp_frame": 56962,
+            "_unmapped_timestamp_sec": 1898.70694,
+            "narration_text": "#C C picks another syringe",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1900.69297,
+            "timestamp_frame": 57021,
+            "_unmapped_timestamp_sec": 1900.68297,
+            "narration_text": "#C C closes the syringe",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1904.5152600000001,
+            "timestamp_frame": 57135,
+            "_unmapped_timestamp_sec": 1904.50526,
+            "narration_text": "#C C picks another syringe",
+            "annotation_uid": "db6c7929-9932-4476-a2f4-a02e8d9536e5"
+        },
+        {
+            "timestamp_sec": 1907.06647,
+            "timestamp_frame": 57212,
+            "_unmapped_timestamp_sec": 1907.05647,
+            "narration_text": "#C C places syringe on the syringe holder",
+            "annotation_uid": "188ac956-0323-4659-a99d-30f537ad1d9f"
+        },
+        {
+            "timestamp_sec": 1908.90156,
+            "timestamp_frame": 57267,
+            "_unmapped_timestamp_sec": 1908.89156,
+            "narration_text": "#C C walks",
+            "annotation_uid": "188ac956-0323-4659-a99d-30f537ad1d9f"
+        },
+        {
+            "timestamp_sec": 1918.24791,
+            "timestamp_frame": 57547,
+            "_unmapped_timestamp_sec": 1918.23791,
+            "narration_text": "#C C looks at the eppendorf thermomixer",
+            "annotation_uid": "188ac956-0323-4659-a99d-30f537ad1d9f"
+        }
+    ]
+}

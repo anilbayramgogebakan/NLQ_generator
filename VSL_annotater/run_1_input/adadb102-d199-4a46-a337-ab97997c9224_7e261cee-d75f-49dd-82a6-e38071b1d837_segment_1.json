@@ -1,0 +1,844 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 1083.7690386,
+            "timestamp_frame": 32512,
+            "_unmapped_timestamp_sec": 1083.74801,
+            "narration_text": "#C C walks around.",
+            "annotation_uid": "cd17fafe-cd04-439f-be5b-32b09ee3f6ee"
+        },
+        {
+            "timestamp_sec": 1087.2147985999998,
+            "timestamp_frame": 32616,
+            "_unmapped_timestamp_sec": 1087.1937699999999,
+            "narration_text": "#O person Y puts the items in a shopping basket.",
+            "annotation_uid": "cd17fafe-cd04-439f-be5b-32b09ee3f6ee"
+        },
+        {
+            "timestamp_sec": 1087.3361186,
+            "timestamp_frame": 32619,
+            "_unmapped_timestamp_sec": 1087.31509,
+            "narration_text": "#C C puts the card in the shopping basket.",
+            "annotation_uid": "cd17fafe-cd04-439f-be5b-32b09ee3f6ee"
+        },
+        {
+            "timestamp_sec": 1089.5962186,
+            "timestamp_frame": 32687,
+            "_unmapped_timestamp_sec": 1089.57519,
+            "narration_text": "#C C arranges shopping in the basket.",
+            "annotation_uid": "cd17fafe-cd04-439f-be5b-32b09ee3f6ee"
+        },
+        {
+            "timestamp_sec": 1090.6657685999999,
+            "timestamp_frame": 32719,
+            "_unmapped_timestamp_sec": 1090.64474,
+            "narration_text": "#O person Y turns.",
+            "annotation_uid": "cd17fafe-cd04-439f-be5b-32b09ee3f6ee"
+        },
+        {
+            "timestamp_sec": 1094.4683785999998,
+            "timestamp_frame": 32833,
+            "_unmapped_timestamp_sec": 1094.44735,
+            "narration_text": "#O person Y calculates items for person X.",
+            "annotation_uid": "cd17fafe-cd04-439f-be5b-32b09ee3f6ee"
+        },
+        {
+            "timestamp_sec": 1095.7542686,
+            "timestamp_frame": 32872,
+            "_unmapped_timestamp_sec": 1095.73324,
+            "narration_text": "#C C holds the card.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1097.0393886,
+            "timestamp_frame": 32911,
+            "_unmapped_timestamp_sec": 1097.01836,
+            "narration_text": "#O person Y calculates items for person X.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1098.6762085999999,
+            "timestamp_frame": 32960,
+            "_unmapped_timestamp_sec": 1098.65518,
+            "narration_text": "#O person X talks with C.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1100.1692885999998,
+            "timestamp_frame": 33004,
+            "_unmapped_timestamp_sec": 1100.14826,
+            "narration_text": "#C C turns around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1103.7052985999999,
+            "timestamp_frame": 33111,
+            "_unmapped_timestamp_sec": 1103.68427,
+            "narration_text": "#O person Y calculates shopping for person X.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1104.7340986,
+            "timestamp_frame": 33141,
+            "_unmapped_timestamp_sec": 1104.71307,
+            "narration_text": "#O person X gestures.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1106.1373886,
+            "timestamp_frame": 33183,
+            "_unmapped_timestamp_sec": 1106.11636,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1110.2869586,
+            "timestamp_frame": 33308,
+            "_unmapped_timestamp_sec": 1110.26593,
+            "narration_text": "#O person Y puts the items in the shopping bag.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1110.8132985999998,
+            "timestamp_frame": 33324,
+            "_unmapped_timestamp_sec": 1110.79227,
+            "narration_text": "#O person Y takes more items.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1111.1182886,
+            "timestamp_frame": 33333,
+            "_unmapped_timestamp_sec": 1111.09726,
+            "narration_text": "#O person Y calculates items.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1112.1645285999998,
+            "timestamp_frame": 33364,
+            "_unmapped_timestamp_sec": 1112.1435,
+            "narration_text": "#O person X talks with C.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1113.1962686,
+            "timestamp_frame": 33395,
+            "_unmapped_timestamp_sec": 1113.17524,
+            "narration_text": "#O person X holds a polythene bag.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1112.9147286,
+            "timestamp_frame": 33387,
+            "_unmapped_timestamp_sec": 1112.8937,
+            "narration_text": "#O person F sits near the counter.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1113.8411985999999,
+            "timestamp_frame": 33415,
+            "_unmapped_timestamp_sec": 1113.82017,
+            "narration_text": "#C C points at some some snacks in a cupboard.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1114.6301386,
+            "timestamp_frame": 33438,
+            "_unmapped_timestamp_sec": 1114.60911,
+            "narration_text": "#C C turns around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1115.2616185999998,
+            "timestamp_frame": 33457,
+            "_unmapped_timestamp_sec": 1115.2405899999999,
+            "narration_text": "#O person X holds money",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1115.2616185999998,
+            "timestamp_frame": 33457,
+            "_unmapped_timestamp_sec": 1115.2405899999999,
+            "narration_text": "#O person X talks with C.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1115.5612085999999,
+            "timestamp_frame": 33466,
+            "_unmapped_timestamp_sec": 1115.54018,
+            "narration_text": "#O person Y calculates items for X.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1116.0681186,
+            "timestamp_frame": 33481,
+            "_unmapped_timestamp_sec": 1116.04709,
+            "narration_text": "#O person Y takes an item.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1116.4542786,
+            "timestamp_frame": 33493,
+            "_unmapped_timestamp_sec": 1116.43325,
+            "narration_text": "#C C turns around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1117.6807385999998,
+            "timestamp_frame": 33530,
+            "_unmapped_timestamp_sec": 1117.65971,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1118.8238786,
+            "timestamp_frame": 33564,
+            "_unmapped_timestamp_sec": 1118.80285,
+            "narration_text": "#O person X talks with C.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1119.9187585999998,
+            "timestamp_frame": 33597,
+            "_unmapped_timestamp_sec": 1119.89773,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1121.3351685999999,
+            "timestamp_frame": 33639,
+            "_unmapped_timestamp_sec": 1121.31414,
+            "narration_text": "#O person Y looks around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1122.1035286,
+            "timestamp_frame": 33662,
+            "_unmapped_timestamp_sec": 1122.0825,
+            "narration_text": "#O person Y points at some bottles on the counter.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1122.1035286,
+            "timestamp_frame": 33662,
+            "_unmapped_timestamp_sec": 1122.0825,
+            "narration_text": "#O person X points at some bottles.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1123.4072786,
+            "timestamp_frame": 33702,
+            "_unmapped_timestamp_sec": 1123.38625,
+            "narration_text": "#O person F looks around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1125.3330185999998,
+            "timestamp_frame": 33759,
+            "_unmapped_timestamp_sec": 1125.31199,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1124.1251785999998,
+            "timestamp_frame": 33723,
+            "_unmapped_timestamp_sec": 1124.10415,
+            "narration_text": "#O person Y touches item on the counter.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1124.6544786,
+            "timestamp_frame": 33739,
+            "_unmapped_timestamp_sec": 1124.63345,
+            "narration_text": "#O person F scrolls on the phone.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1128.2172686,
+            "timestamp_frame": 33846,
+            "_unmapped_timestamp_sec": 1128.19624,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1131.2310286,
+            "timestamp_frame": 33936,
+            "_unmapped_timestamp_sec": 1131.21,
+            "narration_text": "#O person Y calculates items for person X.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1135.2283386,
+            "timestamp_frame": 34056,
+            "_unmapped_timestamp_sec": 1135.20731,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1136.9133086,
+            "timestamp_frame": 34107,
+            "_unmapped_timestamp_sec": 1136.89228,
+            "narration_text": "#C C walks around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1145.7413485999998,
+            "timestamp_frame": 34372,
+            "_unmapped_timestamp_sec": 1145.72032,
+            "narration_text": "#C C looks in a fridge of beverages.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1147.5707585999999,
+            "timestamp_frame": 34426,
+            "_unmapped_timestamp_sec": 1147.54973,
+            "narration_text": "#C C turns around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1148.6017286,
+            "timestamp_frame": 34457,
+            "_unmapped_timestamp_sec": 1148.5807,
+            "narration_text": "#O person X puts a phone in the trouser pocket.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1149.2038885999998,
+            "timestamp_frame": 34475,
+            "_unmapped_timestamp_sec": 1149.18286,
+            "narration_text": "#O person Y takes item on the counter.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1149.5152985999998,
+            "timestamp_frame": 34485,
+            "_unmapped_timestamp_sec": 1149.49427,
+            "narration_text": "#O person Y calculates items for person X.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1150.8666286,
+            "timestamp_frame": 34525,
+            "_unmapped_timestamp_sec": 1150.8456,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1155.7867486,
+            "timestamp_frame": 34673,
+            "_unmapped_timestamp_sec": 1155.76572,
+            "narration_text": "#C C walks around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1157.2901385999999,
+            "timestamp_frame": 34718,
+            "_unmapped_timestamp_sec": 1157.26911,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1160.4910086,
+            "timestamp_frame": 34814,
+            "_unmapped_timestamp_sec": 1160.46998,
+            "narration_text": "#O person Y puts items in the shopping bag.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1159.3039085999999,
+            "timestamp_frame": 34778,
+            "_unmapped_timestamp_sec": 1159.28288,
+            "narration_text": "#O person X counts money.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1160.0778985999998,
+            "timestamp_frame": 34802,
+            "_unmapped_timestamp_sec": 1160.05687,
+            "narration_text": "#O person X puts money on the counter.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1160.7781685999998,
+            "timestamp_frame": 34823,
+            "_unmapped_timestamp_sec": 1160.75714,
+            "narration_text": "#O person X puts more money on the counter.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1161.5679286,
+            "timestamp_frame": 34846,
+            "_unmapped_timestamp_sec": 1161.5469,
+            "narration_text": "#O person Y turns.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1161.9601486,
+            "timestamp_frame": 34858,
+            "_unmapped_timestamp_sec": 1161.93912,
+            "narration_text": "#O person X puts money on the counter.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1163.0413586,
+            "timestamp_frame": 34891,
+            "_unmapped_timestamp_sec": 1163.02033,
+            "narration_text": "#O person Y leans hands on the counter.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1162.8775686,
+            "timestamp_frame": 34886,
+            "_unmapped_timestamp_sec": 1162.85654,
+            "narration_text": "#O person X puts money on the counter.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1163.4376786,
+            "timestamp_frame": 34902,
+            "_unmapped_timestamp_sec": 1163.4166500000001,
+            "narration_text": "#O person X holds the money on the counter.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1163.6536786,
+            "timestamp_frame": 34909,
+            "_unmapped_timestamp_sec": 1163.63265,
+            "narration_text": "#O person X removes hand from the money.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1164.3372385999999,
+            "timestamp_frame": 34929,
+            "_unmapped_timestamp_sec": 1164.31621,
+            "narration_text": "#O person Y takes the money.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1167.3612386,
+            "timestamp_frame": 35020,
+            "_unmapped_timestamp_sec": 1167.34021,
+            "narration_text": "#O person Y counts the money.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1168.6567186,
+            "timestamp_frame": 35059,
+            "_unmapped_timestamp_sec": 1168.63569,
+            "narration_text": "#O person X talks with C and person Y.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1169.6409285999998,
+            "timestamp_frame": 35089,
+            "_unmapped_timestamp_sec": 1169.6199,
+            "narration_text": "#O person Y counts the money.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1171.5185086,
+            "timestamp_frame": 35145,
+            "_unmapped_timestamp_sec": 1171.49748,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1173.4208385999998,
+            "timestamp_frame": 35202,
+            "_unmapped_timestamp_sec": 1173.39981,
+            "narration_text": "#O person Y counts the money.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1165.2738686,
+            "timestamp_frame": 34958,
+            "_unmapped_timestamp_sec": 1165.25284,
+            "narration_text": "#O person X leans hands on the counter.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1174.1249885999998,
+            "timestamp_frame": 35223,
+            "_unmapped_timestamp_sec": 1174.10396,
+            "narration_text": "#C C counts money.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1178.1635786,
+            "timestamp_frame": 35344,
+            "_unmapped_timestamp_sec": 1178.14255,
+            "narration_text": "#O person Y puts money in the cashbox.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1176.0205786,
+            "timestamp_frame": 35280,
+            "_unmapped_timestamp_sec": 1175.99955,
+            "narration_text": "#O person X takes more money from C.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1179.6039486,
+            "timestamp_frame": 35387,
+            "_unmapped_timestamp_sec": 1179.58292,
+            "narration_text": "#O person X gives person Y the money.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1181.0913885999998,
+            "timestamp_frame": 35432,
+            "_unmapped_timestamp_sec": 1181.07036,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1184.0314486,
+            "timestamp_frame": 35520,
+            "_unmapped_timestamp_sec": 1184.01042,
+            "narration_text": "#Operson Y puts money in the cashbox.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1185.9442686,
+            "timestamp_frame": 35578,
+            "_unmapped_timestamp_sec": 1185.92324,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1188.9144886,
+            "timestamp_frame": 35667,
+            "_unmapped_timestamp_sec": 1188.89346,
+            "narration_text": "#O person Y turns money on her hands.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1189.5789186,
+            "timestamp_frame": 35687,
+            "_unmapped_timestamp_sec": 1189.55789,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1192.1724285999999,
+            "timestamp_frame": 35765,
+            "_unmapped_timestamp_sec": 1192.1514,
+            "narration_text": "#O person Y puts money in the cashbox.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1196.1538486,
+            "timestamp_frame": 35884,
+            "_unmapped_timestamp_sec": 1196.13282,
+            "narration_text": "#O person Y turns.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1198.8158885999999,
+            "timestamp_frame": 35964,
+            "_unmapped_timestamp_sec": 1198.79486,
+            "narration_text": "#O person Y turns.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1198.8158885999999,
+            "timestamp_frame": 35964,
+            "_unmapped_timestamp_sec": 1198.79486,
+            "narration_text": "#O person Y touches hair.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1199.8377586,
+            "timestamp_frame": 35995,
+            "_unmapped_timestamp_sec": 1199.81673,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1199.5910185999999,
+            "timestamp_frame": 35987,
+            "_unmapped_timestamp_sec": 1199.56999,
+            "narration_text": "#O person Y touches the cashbox.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1202.9042186,
+            "timestamp_frame": 36086,
+            "_unmapped_timestamp_sec": 1202.88319,
+            "narration_text": "#O person Y looks at person X.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1204.1961986,
+            "timestamp_frame": 36125,
+            "_unmapped_timestamp_sec": 1204.17517,
+            "narration_text": "#O person F stands up.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1204.4027786,
+            "timestamp_frame": 36131,
+            "_unmapped_timestamp_sec": 1204.38175,
+            "narration_text": "#O person F walks around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1203.9786186,
+            "timestamp_frame": 36119,
+            "_unmapped_timestamp_sec": 1203.95759,
+            "narration_text": "#O person Y looks around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1203.2219186,
+            "timestamp_frame": 36096,
+            "_unmapped_timestamp_sec": 1203.20089,
+            "narration_text": "#O person Y arranges items on the counter.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1204.7579586,
+            "timestamp_frame": 36142,
+            "_unmapped_timestamp_sec": 1204.73693,
+            "narration_text": "#O person Y turns.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1205.8226685999998,
+            "timestamp_frame": 36174,
+            "_unmapped_timestamp_sec": 1205.80164,
+            "narration_text": "#O person Y bends.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1205.6626185999999,
+            "timestamp_frame": 36169,
+            "_unmapped_timestamp_sec": 1205.64159,
+            "narration_text": "#C C moves the shopping basket.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1206.5186686,
+            "timestamp_frame": 36195,
+            "_unmapped_timestamp_sec": 1206.49764,
+            "narration_text": "#O person Y takes a shopping bag.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1206.4815586,
+            "timestamp_frame": 36194,
+            "_unmapped_timestamp_sec": 1206.46053,
+            "narration_text": "#O person Y stands up.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1206.2101186,
+            "timestamp_frame": 36186,
+            "_unmapped_timestamp_sec": 1206.18909,
+            "narration_text": "#O person F holds shopping bag for person X.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1209.8794785999999,
+            "timestamp_frame": 36296,
+            "_unmapped_timestamp_sec": 1209.85845,
+            "narration_text": "#O person F takes the shopping bag.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1208.3655586,
+            "timestamp_frame": 36250,
+            "_unmapped_timestamp_sec": 1208.34453,
+            "narration_text": "#O person Y opens the other shopping bag.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1209.9008686,
+            "timestamp_frame": 36296,
+            "_unmapped_timestamp_sec": 1209.87984,
+            "narration_text": "#C C moves the shopping basket.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1211.0278686,
+            "timestamp_frame": 36330,
+            "_unmapped_timestamp_sec": 1211.00684,
+            "narration_text": "#O person F puts the shopping bag on the floor.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1210.9173486,
+            "timestamp_frame": 36327,
+            "_unmapped_timestamp_sec": 1210.89632,
+            "narration_text": "#O person Y puts the shopping bag on the counter.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1212.1774386,
+            "timestamp_frame": 36365,
+            "_unmapped_timestamp_sec": 1212.15641,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1214.9635586,
+            "timestamp_frame": 36448,
+            "_unmapped_timestamp_sec": 1214.94253,
+            "narration_text": "#O person Y takes items in the shopping basket.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1216.4613686,
+            "timestamp_frame": 36493,
+            "_unmapped_timestamp_sec": 1216.44034,
+            "narration_text": "#O person Y calculates items for person C.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1216.4620086,
+            "timestamp_frame": 36493,
+            "_unmapped_timestamp_sec": 1216.44098,
+            "narration_text": "#C C holds the shopping list.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1217.1969686,
+            "timestamp_frame": 36515,
+            "_unmapped_timestamp_sec": 1217.17594,
+            "narration_text": "#C C puts the shopping list on the counter.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1218.8401886,
+            "timestamp_frame": 36565,
+            "_unmapped_timestamp_sec": 1218.81916,
+            "narration_text": "#O person Y puts the item in the shopping bag.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1221.6913186,
+            "timestamp_frame": 36650,
+            "_unmapped_timestamp_sec": 1221.67029,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1222.7440485999998,
+            "timestamp_frame": 36682,
+            "_unmapped_timestamp_sec": 1222.72302,
+            "narration_text": "#O person Y  takes more items.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1223.2882685999998,
+            "timestamp_frame": 36698,
+            "_unmapped_timestamp_sec": 1223.26724,
+            "narration_text": "#O person F puts items in the shopping bag.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1223.6632785999998,
+            "timestamp_frame": 36709,
+            "_unmapped_timestamp_sec": 1223.6422499999999,
+            "narration_text": "#O person Y talks with C.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1229.2830185999999,
+            "timestamp_frame": 36878,
+            "_unmapped_timestamp_sec": 1229.26199,
+            "narration_text": "#O person Y talks with C.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1230.5563886,
+            "timestamp_frame": 36916,
+            "_unmapped_timestamp_sec": 1230.53536,
+            "narration_text": "#O person F turns.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1231.5422586,
+            "timestamp_frame": 36946,
+            "_unmapped_timestamp_sec": 1231.52123,
+            "narration_text": "#O person F holds a seat.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1233.1765985999998,
+            "timestamp_frame": 36995,
+            "_unmapped_timestamp_sec": 1233.15557,
+            "narration_text": "#O person F sits down.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1233.0294786,
+            "timestamp_frame": 36990,
+            "_unmapped_timestamp_sec": 1233.00845,
+            "narration_text": "#O person Y puts items in the shopping bag.",
+            "annotation_uid": "588b2d83-14bc-4c0c-8329-e6281756a054"
+        },
+        {
+            "timestamp_sec": 1086.9003986,
+            "timestamp_frame": 32606,
+            "_unmapped_timestamp_sec": 1086.87937,
+            "narration_text": "#o woman y put items in the bags",
+            "annotation_uid": "aa64db69-4f04-47d6-ab36-62801c36b95d"
+        },
+        {
+            "timestamp_sec": 1090.6718486,
+            "timestamp_frame": 32720,
+            "_unmapped_timestamp_sec": 1090.65082,
+            "narration_text": "#c c touches #unsure",
+            "annotation_uid": "aa64db69-4f04-47d6-ab36-62801c36b95d"
+        },
+        {
+            "timestamp_sec": 1095.3710386,
+            "timestamp_frame": 32861,
+            "_unmapped_timestamp_sec": 1095.35001,
+            "narration_text": "#C C picks the shopping card.",
+            "annotation_uid": "ce39b381-4f1a-4d08-a871-6e9bc164c691"
+        },
+        {
+            "timestamp_sec": 1096.3387586,
+            "timestamp_frame": 32890,
+            "_unmapped_timestamp_sec": 1096.31773,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "ce39b381-4f1a-4d08-a871-6e9bc164c691"
+        },
+        {
+            "timestamp_sec": 1113.9232086,
+            "timestamp_frame": 33417,
+            "_unmapped_timestamp_sec": 1113.90218,
+            "narration_text": "#C C points the finger towards the cakes in the fridge.",
+            "annotation_uid": "ce39b381-4f1a-4d08-a871-6e9bc164c691"
+        },
+        {
+            "timestamp_sec": 1123.1438686,
+            "timestamp_frame": 33694,
+            "_unmapped_timestamp_sec": 1123.12284,
+            "narration_text": "#C C points the finger towards the mikes on the table.",
+            "annotation_uid": "ce39b381-4f1a-4d08-a871-6e9bc164c691"
+        },
+        {
+            "timestamp_sec": 1136.2786486,
+            "timestamp_frame": 34088,
+            "_unmapped_timestamp_sec": 1136.25762,
+            "narration_text": "#C C moves around.",
+            "annotation_uid": "ce39b381-4f1a-4d08-a871-6e9bc164c691"
+        },
+        {
+            "timestamp_sec": 1214.1588886,
+            "timestamp_frame": 36424,
+            "_unmapped_timestamp_sec": 1214.13786,
+            "narration_text": "#C C picks the Fresh flower.",
+            "annotation_uid": "ce39b381-4f1a-4d08-a871-6e9bc164c691"
+        },
+        {
+            "timestamp_sec": 1215.6619386,
+            "timestamp_frame": 36469,
+            "_unmapped_timestamp_sec": 1215.64091,
+            "narration_text": "#O female A packs the bought items.",
+            "annotation_uid": "ce39b381-4f1a-4d08-a871-6e9bc164c691"
+        }
+    ]
+}

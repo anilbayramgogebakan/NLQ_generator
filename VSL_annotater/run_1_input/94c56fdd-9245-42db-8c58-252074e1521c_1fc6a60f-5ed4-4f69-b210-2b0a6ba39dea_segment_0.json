@@ -1,0 +1,823 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 2430.0743786000003,
+            "timestamp_frame": 72902,
+            "_unmapped_timestamp_sec": 2430.05335,
+            "narration_text": "#O a woman X places the game on the table",
+            "annotation_uid": "130533d6-2f54-40c1-b311-bbf57ee9ddc1"
+        },
+        {
+            "timestamp_sec": 2430.4291786000003,
+            "timestamp_frame": 72912,
+            "_unmapped_timestamp_sec": 2430.40815,
+            "narration_text": "#C C converses with a woman X ",
+            "annotation_uid": "130533d6-2f54-40c1-b311-bbf57ee9ddc1"
+        },
+        {
+            "timestamp_sec": 2435.5567986,
+            "timestamp_frame": 73066,
+            "_unmapped_timestamp_sec": 2435.53577,
+            "narration_text": "#O a woman X looks at the game",
+            "annotation_uid": "130533d6-2f54-40c1-b311-bbf57ee9ddc1"
+        },
+        {
+            "timestamp_sec": 2437.2813586,
+            "timestamp_frame": 73118,
+            "_unmapped_timestamp_sec": 2437.26033,
+            "narration_text": "#C C converses with a woman X ",
+            "annotation_uid": "130533d6-2f54-40c1-b311-bbf57ee9ddc1"
+        },
+        {
+            "timestamp_sec": 2441.1791086000003,
+            "timestamp_frame": 73235,
+            "_unmapped_timestamp_sec": 2441.15808,
+            "narration_text": "#O a woman X picks a box",
+            "annotation_uid": "130533d6-2f54-40c1-b311-bbf57ee9ddc1"
+        },
+        {
+            "timestamp_sec": 2441.9316686,
+            "timestamp_frame": 73257,
+            "_unmapped_timestamp_sec": 2441.91064,
+            "narration_text": "#C C picks the box",
+            "annotation_uid": "130533d6-2f54-40c1-b311-bbf57ee9ddc1"
+        },
+        {
+            "timestamp_sec": 2443.0124986,
+            "timestamp_frame": 73290,
+            "_unmapped_timestamp_sec": 2442.99147,
+            "narration_text": "#C C converses with a woman X ",
+            "annotation_uid": "130533d6-2f54-40c1-b311-bbf57ee9ddc1"
+        },
+        {
+            "timestamp_sec": 2444.3610886,
+            "timestamp_frame": 73330,
+            "_unmapped_timestamp_sec": 2444.34006,
+            "narration_text": "#O a woman X picks instruction paper",
+            "annotation_uid": "130533d6-2f54-40c1-b311-bbf57ee9ddc1"
+        },
+        {
+            "timestamp_sec": 2445.5981286,
+            "timestamp_frame": 73367,
+            "_unmapped_timestamp_sec": 2445.5771,
+            "narration_text": "#C C picks the instruction paper",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2446.9790986000003,
+            "timestamp_frame": 73409,
+            "_unmapped_timestamp_sec": 2446.95807,
+            "narration_text": "#O a woman X picks a pawn ",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2447.9662686,
+            "timestamp_frame": 73438,
+            "_unmapped_timestamp_sec": 2447.94524,
+            "narration_text": "#O a woman X checks the pawn ",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2453.1818986000003,
+            "timestamp_frame": 73595,
+            "_unmapped_timestamp_sec": 2453.16087,
+            "narration_text": "#C C converses with a woman X ",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2456.5854886,
+            "timestamp_frame": 73697,
+            "_unmapped_timestamp_sec": 2456.56446,
+            "narration_text": "#O a woman X picks pawns",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2457.9940786,
+            "timestamp_frame": 73739,
+            "_unmapped_timestamp_sec": 2457.97305,
+            "narration_text": "#C C converses with a woman X ",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2459.4230086000002,
+            "timestamp_frame": 73782,
+            "_unmapped_timestamp_sec": 2459.40198,
+            "narration_text": "#O a woman X places the pawns on the board",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2460.7113886,
+            "timestamp_frame": 73821,
+            "_unmapped_timestamp_sec": 2460.69036,
+            "narration_text": "#C C converses with a woman X ",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2466.8148886000004,
+            "timestamp_frame": 74004,
+            "_unmapped_timestamp_sec": 2466.79386,
+            "narration_text": "#O a woman X places the pawns on the board",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2468.0736986,
+            "timestamp_frame": 74042,
+            "_unmapped_timestamp_sec": 2468.05267,
+            "narration_text": "#C C converses with a woman X ",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2468.9826786000003,
+            "timestamp_frame": 74069,
+            "_unmapped_timestamp_sec": 2468.96165,
+            "narration_text": "#O a woman X moves the pawns on the board",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2470.2319686,
+            "timestamp_frame": 74106,
+            "_unmapped_timestamp_sec": 2470.21094,
+            "narration_text": "#C C converses with a woman X ",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2470.9397586,
+            "timestamp_frame": 74128,
+            "_unmapped_timestamp_sec": 2470.91873,
+            "narration_text": "#O a woman X moves a box",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2472.3956086000003,
+            "timestamp_frame": 74171,
+            "_unmapped_timestamp_sec": 2472.37458,
+            "narration_text": "#C C converses with a woman X ",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2474.5215586,
+            "timestamp_frame": 74235,
+            "_unmapped_timestamp_sec": 2474.50053,
+            "narration_text": "#O a woman X moves the pawns on the board",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2475.7020586000003,
+            "timestamp_frame": 74270,
+            "_unmapped_timestamp_sec": 2475.68103,
+            "narration_text": "#C C converses with a woman X ",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2476.2492186,
+            "timestamp_frame": 74287,
+            "_unmapped_timestamp_sec": 2476.22819,
+            "narration_text": "#O a woman X picks pawns",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2476.3677386,
+            "timestamp_frame": 74290,
+            "_unmapped_timestamp_sec": 2476.34671,
+            "narration_text": "#O a woman X places the pawns on the board",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2478.6899886,
+            "timestamp_frame": 74360,
+            "_unmapped_timestamp_sec": 2478.66896,
+            "narration_text": "#C C converses with a woman X ",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2479.4039186,
+            "timestamp_frame": 74381,
+            "_unmapped_timestamp_sec": 2479.38289,
+            "narration_text": "#O a woman X places the pawns on the board",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2480.8976586000003,
+            "timestamp_frame": 74426,
+            "_unmapped_timestamp_sec": 2480.87663,
+            "narration_text": "#O a woman X picks pawns",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2481.9325486000002,
+            "timestamp_frame": 74457,
+            "_unmapped_timestamp_sec": 2481.91152,
+            "narration_text": "#O a woman X places the pawns on the board",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2482.7375586000003,
+            "timestamp_frame": 74481,
+            "_unmapped_timestamp_sec": 2482.71653,
+            "narration_text": "#C C converses with a woman X ",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2483.1142086,
+            "timestamp_frame": 74493,
+            "_unmapped_timestamp_sec": 2483.09318,
+            "narration_text": "#O a woman X moves the pawns on the board",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2484.3190986,
+            "timestamp_frame": 74529,
+            "_unmapped_timestamp_sec": 2484.29807,
+            "narration_text": "#O a woman X picks pawns",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2486.2040386000003,
+            "timestamp_frame": 74585,
+            "_unmapped_timestamp_sec": 2486.18301,
+            "narration_text": "#O a woman X places the pawns on the board",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2486.5220186,
+            "timestamp_frame": 74595,
+            "_unmapped_timestamp_sec": 2486.50099,
+            "narration_text": "#C C converses with a woman X ",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2487.2881586000003,
+            "timestamp_frame": 74618,
+            "_unmapped_timestamp_sec": 2487.26713,
+            "narration_text": "#O a woman X places a pawn on her hand",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2488.0596986,
+            "timestamp_frame": 74641,
+            "_unmapped_timestamp_sec": 2488.03867,
+            "narration_text": "#O a woman X picks pawns",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2489.5747586,
+            "timestamp_frame": 74687,
+            "_unmapped_timestamp_sec": 2489.55373,
+            "narration_text": "#O a woman X holds the pawns",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2512.8566086,
+            "timestamp_frame": 75385,
+            "_unmapped_timestamp_sec": 2512.83558,
+            "narration_text": "#C C converses with a woman X ",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2514.9138286,
+            "timestamp_frame": 75447,
+            "_unmapped_timestamp_sec": 2514.8928,
+            "narration_text": "#O a woman X scratches her neck",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2515.5701586,
+            "timestamp_frame": 75466,
+            "_unmapped_timestamp_sec": 2515.54913,
+            "narration_text": "#C C converses with a woman X ",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2517.8779186,
+            "timestamp_frame": 75536,
+            "_unmapped_timestamp_sec": 2517.85689,
+            "narration_text": "#O a woman X holds the pawns",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2527.1442486,
+            "timestamp_frame": 75814,
+            "_unmapped_timestamp_sec": 2527.12322,
+            "narration_text": "#O a woman X places the pawns on the board",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2529.4575186,
+            "timestamp_frame": 75883,
+            "_unmapped_timestamp_sec": 2529.43649,
+            "narration_text": "#C C places the pawns on the board",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2531.2349186,
+            "timestamp_frame": 75936,
+            "_unmapped_timestamp_sec": 2531.21389,
+            "narration_text": "#O a woman X moves her hair",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2532.4818686000003,
+            "timestamp_frame": 75974,
+            "_unmapped_timestamp_sec": 2532.46084,
+            "narration_text": "#C C looks around the table",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2533.7098486,
+            "timestamp_frame": 76011,
+            "_unmapped_timestamp_sec": 2533.68882,
+            "narration_text": "#O a woman X touches her hair",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2534.7219086,
+            "timestamp_frame": 76041,
+            "_unmapped_timestamp_sec": 2534.70088,
+            "narration_text": "#O a woman X claps her hands",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2535.6263386,
+            "timestamp_frame": 76068,
+            "_unmapped_timestamp_sec": 2535.60531,
+            "narration_text": "#C C places the pawns on the board",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2536.4486286,
+            "timestamp_frame": 76093,
+            "_unmapped_timestamp_sec": 2536.4276,
+            "narration_text": "#C C converses with a woman X ",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2545.3620686,
+            "timestamp_frame": 76360,
+            "_unmapped_timestamp_sec": 2545.34104,
+            "narration_text": "#C C holds an instruction paper",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2546.5297186000003,
+            "timestamp_frame": 76395,
+            "_unmapped_timestamp_sec": 2546.50869,
+            "narration_text": "#O a woman X scratches her hands",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2548.5538786,
+            "timestamp_frame": 76456,
+            "_unmapped_timestamp_sec": 2548.53285,
+            "narration_text": "#C C reads the instruction paper",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2554.2085886,
+            "timestamp_frame": 76626,
+            "_unmapped_timestamp_sec": 2554.18756,
+            "narration_text": "#C C converses with a woman X ",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2555.6993286,
+            "timestamp_frame": 76670,
+            "_unmapped_timestamp_sec": 2555.6783,
+            "narration_text": "#O a woman X picks a card",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2557.4282986000003,
+            "timestamp_frame": 76722,
+            "_unmapped_timestamp_sec": 2557.40727,
+            "narration_text": "#O a woman X reads a card",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2558.2560086000003,
+            "timestamp_frame": 76747,
+            "_unmapped_timestamp_sec": 2558.23498,
+            "narration_text": "#C C converses with a woman X ",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2560.7251686,
+            "timestamp_frame": 76821,
+            "_unmapped_timestamp_sec": 2560.70414,
+            "narration_text": "#O a woman X reads a card",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2563.1662686,
+            "timestamp_frame": 76894,
+            "_unmapped_timestamp_sec": 2563.14524,
+            "narration_text": "#C C converses with a woman X ",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2566.7738886,
+            "timestamp_frame": 77003,
+            "_unmapped_timestamp_sec": 2566.75286,
+            "narration_text": "#O a woman X moves a pawn on the board",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2567.5208086000002,
+            "timestamp_frame": 77025,
+            "_unmapped_timestamp_sec": 2567.49978,
+            "narration_text": "#C C converses with a woman X ",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2572.7215986,
+            "timestamp_frame": 77181,
+            "_unmapped_timestamp_sec": 2572.70057,
+            "narration_text": "#O a woman X moves a pawn on the board",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2576.8543386,
+            "timestamp_frame": 77305,
+            "_unmapped_timestamp_sec": 2576.83331,
+            "narration_text": "#C C converses with a woman X ",
+            "annotation_uid": "ba67b566-3a79-4f08-bbe4-b9d8e38ca6ab"
+        },
+        {
+            "timestamp_sec": 2430.4996586,
+            "timestamp_frame": 72914,
+            "_unmapped_timestamp_sec": 2430.47863,
+            "narration_text": "#O person W moves the coloured paper on the table",
+            "annotation_uid": "0cdb674e-31f8-4058-8807-9703547a087e"
+        },
+        {
+            "timestamp_sec": 2432.8906486,
+            "timestamp_frame": 72986,
+            "_unmapped_timestamp_sec": 2432.86962,
+            "narration_text": "#O person W picks the box",
+            "annotation_uid": "0cdb674e-31f8-4058-8807-9703547a087e"
+        },
+        {
+            "timestamp_sec": 2441.3899386000003,
+            "timestamp_frame": 73241,
+            "_unmapped_timestamp_sec": 2441.36891,
+            "narration_text": "#C C moves the hand on the table",
+            "annotation_uid": "0cdb674e-31f8-4058-8807-9703547a087e"
+        },
+        {
+            "timestamp_sec": 2440.8659386,
+            "timestamp_frame": 73225,
+            "_unmapped_timestamp_sec": 2440.84491,
+            "narration_text": "#O person W puts the box on the table",
+            "annotation_uid": "0cdb674e-31f8-4058-8807-9703547a087e"
+        },
+        {
+            "timestamp_sec": 2443.6321286,
+            "timestamp_frame": 73308,
+            "_unmapped_timestamp_sec": 2443.6111,
+            "narration_text": "#O person W gives the paper to the camera wearer",
+            "annotation_uid": "0cdb674e-31f8-4058-8807-9703547a087e"
+        },
+        {
+            "timestamp_sec": 2445.7974286000003,
+            "timestamp_frame": 73373,
+            "_unmapped_timestamp_sec": 2445.7764,
+            "narration_text": "#C C takes the paper from the lady",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2447.6188986,
+            "timestamp_frame": 73428,
+            "_unmapped_timestamp_sec": 2447.59787,
+            "narration_text": "#O person B takes the blue rubber",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2447.9189886,
+            "timestamp_frame": 73437,
+            "_unmapped_timestamp_sec": 2447.89796,
+            "narration_text": "#O person B holds the rubber",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2449.6182486000002,
+            "timestamp_frame": 73488,
+            "_unmapped_timestamp_sec": 2449.59722,
+            "narration_text": "#O person B puts on the rubber on the hand",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2452.9235486000002,
+            "timestamp_frame": 73587,
+            "_unmapped_timestamp_sec": 2452.90252,
+            "narration_text": "#C C holds the paper",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2454.2475186,
+            "timestamp_frame": 73627,
+            "_unmapped_timestamp_sec": 2454.22649,
+            "narration_text": "#O person B turns the paper on the hand",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2456.4637886,
+            "timestamp_frame": 73693,
+            "_unmapped_timestamp_sec": 2456.44276,
+            "narration_text": "#O person B puts the blue rubber down",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2459.4985186000004,
+            "timestamp_frame": 73784,
+            "_unmapped_timestamp_sec": 2459.47749,
+            "narration_text": "#O person B arranges the rubbers on the table",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2463.0234886000003,
+            "timestamp_frame": 73890,
+            "_unmapped_timestamp_sec": 2463.00246,
+            "narration_text": "#C C moves the hand on the table",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2471.2304386,
+            "timestamp_frame": 74136,
+            "_unmapped_timestamp_sec": 2471.20941,
+            "narration_text": "#O person B moves the hand to #unsure",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2472.5312086000004,
+            "timestamp_frame": 74175,
+            "_unmapped_timestamp_sec": 2472.51018,
+            "narration_text": "#O person B touches the paper",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2474.2647986,
+            "timestamp_frame": 74227,
+            "_unmapped_timestamp_sec": 2474.24377,
+            "narration_text": "#O person B moves the hand on the blue rubbers",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2475.5961986,
+            "timestamp_frame": 74267,
+            "_unmapped_timestamp_sec": 2475.57517,
+            "narration_text": "#O person B moves the hand on the table",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2482.9203386,
+            "timestamp_frame": 74487,
+            "_unmapped_timestamp_sec": 2482.89931,
+            "narration_text": "#C C moves the book down",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2484.2311186,
+            "timestamp_frame": 74526,
+            "_unmapped_timestamp_sec": 2484.21009,
+            "narration_text": "#O person B picks the #unsure on the ground",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2485.8985586000003,
+            "timestamp_frame": 74576,
+            "_unmapped_timestamp_sec": 2485.87753,
+            "narration_text": "#O person B puts the #unsure on the table",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2487.5281386,
+            "timestamp_frame": 74625,
+            "_unmapped_timestamp_sec": 2487.50711,
+            "narration_text": "#O person B puts the #unsure on the hand",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2488.8918086000003,
+            "timestamp_frame": 74666,
+            "_unmapped_timestamp_sec": 2488.87078,
+            "narration_text": "#O person B puts the yellow rubber on the hand",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2488.3511386,
+            "timestamp_frame": 74650,
+            "_unmapped_timestamp_sec": 2488.33011,
+            "narration_text": "#O person B takes the rubber",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2490.7241586,
+            "timestamp_frame": 74721,
+            "_unmapped_timestamp_sec": 2490.70313,
+            "narration_text": "#O person B holds the yellow rubber on the hand",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2493.8231386,
+            "timestamp_frame": 74814,
+            "_unmapped_timestamp_sec": 2493.80211,
+            "narration_text": "#O person B moves the head",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2495.0920886000004,
+            "timestamp_frame": 74852,
+            "_unmapped_timestamp_sec": 2495.07106,
+            "narration_text": "#O person B touches the yellow rubber",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2497.5943486,
+            "timestamp_frame": 74927,
+            "_unmapped_timestamp_sec": 2497.57332,
+            "narration_text": "#O person B moves the rubber on the hand",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2514.8910986,
+            "timestamp_frame": 75446,
+            "_unmapped_timestamp_sec": 2514.87007,
+            "narration_text": "#O person B moves the hand to chin",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2516.2913886,
+            "timestamp_frame": 75488,
+            "_unmapped_timestamp_sec": 2516.27036,
+            "narration_text": "#O person B touches the rubber",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2519.0209886000002,
+            "timestamp_frame": 75570,
+            "_unmapped_timestamp_sec": 2518.99996,
+            "narration_text": "#O person B moves the rubber on the hand",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2527.0380386,
+            "timestamp_frame": 75811,
+            "_unmapped_timestamp_sec": 2527.01701,
+            "narration_text": "#O person B puts the yellow rubber on the table",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2529.3728286,
+            "timestamp_frame": 75881,
+            "_unmapped_timestamp_sec": 2529.3518,
+            "narration_text": "#O person B moves the hand to the face",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2529.3682886,
+            "timestamp_frame": 75880,
+            "_unmapped_timestamp_sec": 2529.34726,
+            "narration_text": "#C C moves the hand on the table",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2531.7906986000003,
+            "timestamp_frame": 75953,
+            "_unmapped_timestamp_sec": 2531.76967,
+            "narration_text": "#O person B touches the hair",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2534.3992186,
+            "timestamp_frame": 76031,
+            "_unmapped_timestamp_sec": 2534.37819,
+            "narration_text": "#O person B claps the hand",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2535.3329486000002,
+            "timestamp_frame": 76059,
+            "_unmapped_timestamp_sec": 2535.31192,
+            "narration_text": "#C C moves the hand on the table",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2536.5359886,
+            "timestamp_frame": 76095,
+            "_unmapped_timestamp_sec": 2536.51496,
+            "narration_text": "#C C removes the hand from the table",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2539.9702786000003,
+            "timestamp_frame": 76198,
+            "_unmapped_timestamp_sec": 2539.94925,
+            "narration_text": "#O person B turns the head",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2540.9734486,
+            "timestamp_frame": 76229,
+            "_unmapped_timestamp_sec": 2540.95242,
+            "narration_text": "#O person B touches the mouth",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2544.9292186000002,
+            "timestamp_frame": 76347,
+            "_unmapped_timestamp_sec": 2544.90819,
+            "narration_text": "#C C moves the paper on the table",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2547.0611886,
+            "timestamp_frame": 76411,
+            "_unmapped_timestamp_sec": 2547.04016,
+            "narration_text": "#O person B turns the hand",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2548.0481686000003,
+            "timestamp_frame": 76441,
+            "_unmapped_timestamp_sec": 2548.02714,
+            "narration_text": "#O person D walks to the window",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2549.5626886,
+            "timestamp_frame": 76486,
+            "_unmapped_timestamp_sec": 2549.54166,
+            "narration_text": "#O person B moves the hand",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2553.9528886000003,
+            "timestamp_frame": 76618,
+            "_unmapped_timestamp_sec": 2553.93186,
+            "narration_text": "#O person B picks the card",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2556.8964186000003,
+            "timestamp_frame": 76706,
+            "_unmapped_timestamp_sec": 2556.87539,
+            "narration_text": "#O person B holds the card",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2556.9865186,
+            "timestamp_frame": 76709,
+            "_unmapped_timestamp_sec": 2556.96549,
+            "narration_text": "#O person D moves the leg",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2563.1553986,
+            "timestamp_frame": 76894,
+            "_unmapped_timestamp_sec": 2563.1343699999998,
+            "narration_text": "#O person B touches the sweater",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2564.4889586,
+            "timestamp_frame": 76934,
+            "_unmapped_timestamp_sec": 2564.46793,
+            "narration_text": "#O person B turns the card",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2567.0885786000003,
+            "timestamp_frame": 77012,
+            "_unmapped_timestamp_sec": 2567.06755,
+            "narration_text": "#O person B moves the blue rubber on the table",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2573.7177986,
+            "timestamp_frame": 77211,
+            "_unmapped_timestamp_sec": 2573.69677,
+            "narration_text": "#O person D turns at the stand",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2577.6055686,
+            "timestamp_frame": 77328,
+            "_unmapped_timestamp_sec": 2577.58454,
+            "narration_text": "#O person D puts #unsure down",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2576.9652786,
+            "timestamp_frame": 77308,
+            "_unmapped_timestamp_sec": 2576.94425,
+            "narration_text": "#O person D touches the #unsure tin",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        },
+        {
+            "timestamp_sec": 2579.2985186,
+            "timestamp_frame": 77378,
+            "_unmapped_timestamp_sec": 2579.27749,
+            "narration_text": "#O person D steps on #unsure on the floor",
+            "annotation_uid": "86af1056-744c-4738-ab8f-01bdcea2464e"
+        }
+    ]
+}

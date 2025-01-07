@@ -1,0 +1,830 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 560.17475,
+            "timestamp_frame": 16805,
+            "_unmapped_timestamp_sec": 560.17475,
+            "narration_text": "#O dog X plays with dog Y",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 576.5955,
+            "timestamp_frame": 17298,
+            "_unmapped_timestamp_sec": 576.5955,
+            "narration_text": "#C C walks towards a pantry",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 580.13815,
+            "timestamp_frame": 17404,
+            "_unmapped_timestamp_sec": 580.13815,
+            "narration_text": "#C C turns on the pantry light. #unsure",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 582.85787,
+            "timestamp_frame": 17486,
+            "_unmapped_timestamp_sec": 582.85787,
+            "narration_text": "#C C picks a pack of cereal from a shelf. #unsure",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 585.10032,
+            "timestamp_frame": 17553,
+            "_unmapped_timestamp_sec": 585.10032,
+            "narration_text": "#C C drops the pack of cereal on the shelf. #unsure",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 586.5964,
+            "timestamp_frame": 17598,
+            "_unmapped_timestamp_sec": 586.5964,
+            "narration_text": "#C C holds a box of cereal",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 590.06925,
+            "timestamp_frame": 17702,
+            "_unmapped_timestamp_sec": 590.06925,
+            "narration_text": "#C C picks another box of cereal from the bottom of the shelf.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 593.27152,
+            "timestamp_frame": 17798,
+            "_unmapped_timestamp_sec": 593.27152,
+            "narration_text": "#C C drops the box of cereal on the middle section of the shelf.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 595.01121,
+            "timestamp_frame": 17850,
+            "_unmapped_timestamp_sec": 595.01121,
+            "narration_text": "#O dog X walks into the pantry.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 594.91297,
+            "timestamp_frame": 17847,
+            "_unmapped_timestamp_sec": 594.91297,
+            "narration_text": "#C C picks the box of cereal from the middle section of the shelf",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 598.37055,
+            "timestamp_frame": 17951,
+            "_unmapped_timestamp_sec": 598.37055,
+            "narration_text": "#C C drops the box of cereal on the floor.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 600.70736,
+            "timestamp_frame": 18021,
+            "_unmapped_timestamp_sec": 600.70736,
+            "narration_text": "#C C picks a box of cereal bar.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 599.8575599999999,
+            "timestamp_frame": 17996,
+            "_unmapped_timestamp_sec": 599.85756,
+            "narration_text": "#O dog X walks out of the pantry.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 605.65269,
+            "timestamp_frame": 18170,
+            "_unmapped_timestamp_sec": 605.65269,
+            "narration_text": "#C C walks out of the pantry.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 606.8925899999999,
+            "timestamp_frame": 18207,
+            "_unmapped_timestamp_sec": 606.89259,
+            "narration_text": "#O a flatmate T hold a shirt.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 612.49713,
+            "timestamp_frame": 18375,
+            "_unmapped_timestamp_sec": 612.49713,
+            "narration_text": "#C C drops the box of cereal bars on the kitchen counter.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 614.76251,
+            "timestamp_frame": 18443,
+            "_unmapped_timestamp_sec": 614.76251,
+            "narration_text": "#C C operates on his phone",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 610.39458,
+            "timestamp_frame": 18312,
+            "_unmapped_timestamp_sec": 610.39458,
+            "narration_text": "#C C walks past flatmate T.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 613.21973,
+            "timestamp_frame": 18397,
+            "_unmapped_timestamp_sec": 613.21973,
+            "narration_text": "#C C picks up his phone from the kitchen counter. #unsure",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 616.49028,
+            "timestamp_frame": 18495,
+            "_unmapped_timestamp_sec": 616.49028,
+            "narration_text": "#O flatmate T puts on his shirt",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 616.63816,
+            "timestamp_frame": 18499,
+            "_unmapped_timestamp_sec": 616.63816,
+            "narration_text": "#O dog Y picks up a toy from the floor with its mouth",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 618.9119900000001,
+            "timestamp_frame": 18567,
+            "_unmapped_timestamp_sec": 618.9119900000001,
+            "narration_text": "#C C passes his phone to flatmate T .",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 621.93524,
+            "timestamp_frame": 18658,
+            "_unmapped_timestamp_sec": 621.93524,
+            "narration_text": "#C C picks the box of cereal bars from the kitchen counter",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 627.1445,
+            "timestamp_frame": 18814,
+            "_unmapped_timestamp_sec": 627.1445,
+            "narration_text": "#C C drops the box of cereal bar on a table.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 635.66068,
+            "timestamp_frame": 19070,
+            "_unmapped_timestamp_sec": 635.66068,
+            "narration_text": "#C C picks a jumper from the table.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 636.417,
+            "timestamp_frame": 19093,
+            "_unmapped_timestamp_sec": 636.417,
+            "narration_text": "#C C throws the jumper on a chair.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 627.35515,
+            "timestamp_frame": 18821,
+            "_unmapped_timestamp_sec": 627.35515,
+            "narration_text": "#O flatmate T wipes his face with his shirt",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 637.1475800000001,
+            "timestamp_frame": 19114,
+            "_unmapped_timestamp_sec": 637.1475800000001,
+            "narration_text": "#C C drops a pack of cereal bar on the table. #unsure",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 637.75034,
+            "timestamp_frame": 19133,
+            "_unmapped_timestamp_sec": 637.75034,
+            "narration_text": "#C C picks up another pack of cereal bar from the table.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 638.73357,
+            "timestamp_frame": 19162,
+            "_unmapped_timestamp_sec": 638.73357,
+            "narration_text": "#C C drops the pack of cereal bar into the box of cereal bars on the table",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 641.03109,
+            "timestamp_frame": 19231,
+            "_unmapped_timestamp_sec": 641.03109,
+            "narration_text": "#C C flips the pack of cereal bar on the table.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 643.15354,
+            "timestamp_frame": 19295,
+            "_unmapped_timestamp_sec": 643.15354,
+            "narration_text": "#C C picks a pack of cereal bar from the box of cereal bars",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 644.8378299999999,
+            "timestamp_frame": 19345,
+            "_unmapped_timestamp_sec": 644.8378299999999,
+            "narration_text": "#C C drops the pack of cereal bar in the box of cereal bars.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 646.60596,
+            "timestamp_frame": 19398,
+            "_unmapped_timestamp_sec": 646.60596,
+            "narration_text": "#C C picks up two packs of cereal bar from the table.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 649.1322299999999,
+            "timestamp_frame": 19474,
+            "_unmapped_timestamp_sec": 649.13223,
+            "narration_text": "#C C drops the packs of cereal bar into the box of cereal bars.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 652.52982,
+            "timestamp_frame": 19576,
+            "_unmapped_timestamp_sec": 652.52982,
+            "narration_text": "#C C picks up two packs of cereal bar from the table..",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 656.03932,
+            "timestamp_frame": 19681,
+            "_unmapped_timestamp_sec": 656.03932,
+            "narration_text": "#C C drops one of the packs of cereal bar into the box of cereal bars.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 657.02129,
+            "timestamp_frame": 19711,
+            "_unmapped_timestamp_sec": 657.02129,
+            "narration_text": "#C C drops the other pack of cereal bar on the table.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 658.01753,
+            "timestamp_frame": 19741,
+            "_unmapped_timestamp_sec": 658.01753,
+            "narration_text": "#C C picks up three packs of cereal bar from the table..",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 661.74706,
+            "timestamp_frame": 19852,
+            "_unmapped_timestamp_sec": 661.74706,
+            "narration_text": "#C C drops one of the packs of cereal bar into the box of cereal bars.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 664.00978,
+            "timestamp_frame": 19920,
+            "_unmapped_timestamp_sec": 664.00978,
+            "narration_text": "#C C picks up another pack of cereal bar from the table.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 664.42244,
+            "timestamp_frame": 19933,
+            "_unmapped_timestamp_sec": 664.42244,
+            "narration_text": "#C C drops the other pack of cereal bar into the box of cereal bars",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 665.23964,
+            "timestamp_frame": 19957,
+            "_unmapped_timestamp_sec": 665.23964,
+            "narration_text": "#C C drops the pack of cereal bar on the table.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 667.04326,
+            "timestamp_frame": 20011,
+            "_unmapped_timestamp_sec": 667.04326,
+            "narration_text": "#C C picks up another pack of cereal bar",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 667.83178,
+            "timestamp_frame": 20035,
+            "_unmapped_timestamp_sec": 667.83178,
+            "narration_text": "#C C drops the pack of cereal bar on the table.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 670.11991,
+            "timestamp_frame": 20104,
+            "_unmapped_timestamp_sec": 670.11991,
+            "narration_text": "#O flatmate T drops the phone on the table.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 669.5328,
+            "timestamp_frame": 20086,
+            "_unmapped_timestamp_sec": 669.5328,
+            "narration_text": "#C C picks up a pack of biscuit from the table.#unsure",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 671.9268,
+            "timestamp_frame": 20158,
+            "_unmapped_timestamp_sec": 671.9268,
+            "narration_text": "#C C picks up packs of cereal bar from the table.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 672.53193,
+            "timestamp_frame": 20176,
+            "_unmapped_timestamp_sec": 672.53193,
+            "narration_text": "#C C drops the packs of cereal bars into the box of cereal bars",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 674.1183599999999,
+            "timestamp_frame": 20224,
+            "_unmapped_timestamp_sec": 674.1183599999999,
+            "narration_text": "#C C drops the pack of biscuit on the table.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 683.379,
+            "timestamp_frame": 20501,
+            "_unmapped_timestamp_sec": 683.379,
+            "narration_text": "#C C arranges packs of biscuits on the table.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 686.4322999999999,
+            "timestamp_frame": 20593,
+            "_unmapped_timestamp_sec": 686.4322999999999,
+            "narration_text": "#C C drops packs of cereal bars into the box of cereal bar.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 685.9825,
+            "timestamp_frame": 20579,
+            "_unmapped_timestamp_sec": 685.9825,
+            "narration_text": "#C C drops a pack of cereal bar into the box of cereal bars.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 687.774,
+            "timestamp_frame": 20633,
+            "_unmapped_timestamp_sec": 687.774,
+            "narration_text": "#C C picks up a pack of biscuit from the table.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 688.5886800000001,
+            "timestamp_frame": 20658,
+            "_unmapped_timestamp_sec": 688.5886800000001,
+            "narration_text": "#C C drops the pack of biscuit on the table.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 689.22343,
+            "timestamp_frame": 20677,
+            "_unmapped_timestamp_sec": 689.22343,
+            "narration_text": "#C C picks up another pack of biscuit from the table.",
+            "annotation_uid": "e3e31b03-8b67-4ba3-9c15-26571084f46b"
+        },
+        {
+            "timestamp_sec": 541.7793899999999,
+            "timestamp_frame": 16253,
+            "_unmapped_timestamp_sec": 541.7793899999999,
+            "narration_text": "#C C stares the phone ",
+            "annotation_uid": "f94fe88c-129b-4151-890a-2044f9f1df51"
+        },
+        {
+            "timestamp_sec": 544.75729,
+            "timestamp_frame": 16343,
+            "_unmapped_timestamp_sec": 544.75729,
+            "narration_text": "#C C taps the phone ",
+            "annotation_uid": "f94fe88c-129b-4151-890a-2044f9f1df51"
+        },
+        {
+            "timestamp_sec": 547.1617699999999,
+            "timestamp_frame": 16415,
+            "_unmapped_timestamp_sec": 547.1617699999999,
+            "narration_text": "#C C stares the phone ",
+            "annotation_uid": "f94fe88c-129b-4151-890a-2044f9f1df51"
+        },
+        {
+            "timestamp_sec": 548.6798699999999,
+            "timestamp_frame": 16460,
+            "_unmapped_timestamp_sec": 548.6798699999999,
+            "narration_text": "#C C taps the phone ",
+            "annotation_uid": "f94fe88c-129b-4151-890a-2044f9f1df51"
+        },
+        {
+            "timestamp_sec": 551.16515,
+            "timestamp_frame": 16535,
+            "_unmapped_timestamp_sec": 551.16515,
+            "narration_text": "#C C stares the phone ",
+            "annotation_uid": "f94fe88c-129b-4151-890a-2044f9f1df51"
+        },
+        {
+            "timestamp_sec": 554.39363,
+            "timestamp_frame": 16632,
+            "_unmapped_timestamp_sec": 554.39363,
+            "narration_text": "#C C taps the phone ",
+            "annotation_uid": "f94fe88c-129b-4151-890a-2044f9f1df51"
+        },
+        {
+            "timestamp_sec": 559.41084,
+            "timestamp_frame": 16782,
+            "_unmapped_timestamp_sec": 559.41084,
+            "narration_text": "#C C walks around the room",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 575.6049800000001,
+            "timestamp_frame": 17268,
+            "_unmapped_timestamp_sec": 575.60498,
+            "narration_text": "#C C walks towards another room",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 584.39895,
+            "timestamp_frame": 17532,
+            "_unmapped_timestamp_sec": 584.39895,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 585.05443,
+            "timestamp_frame": 17552,
+            "_unmapped_timestamp_sec": 585.05443,
+            "narration_text": "#C C puts #unsure on the shelf",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 587.49105,
+            "timestamp_frame": 17625,
+            "_unmapped_timestamp_sec": 587.49105,
+            "narration_text": "#O A man Y opens the door",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 588.84979,
+            "timestamp_frame": 17665,
+            "_unmapped_timestamp_sec": 588.84979,
+            "narration_text": "#C C turns around the room",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 592.49233,
+            "timestamp_frame": 17775,
+            "_unmapped_timestamp_sec": 592.49233,
+            "narration_text": "#C C puts #unsure on the shelf",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 594.7649,
+            "timestamp_frame": 17843,
+            "_unmapped_timestamp_sec": 594.7649,
+            "narration_text": "#C C picks a box of cereal",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 596.7374199999999,
+            "timestamp_frame": 17902,
+            "_unmapped_timestamp_sec": 596.73742,
+            "narration_text": "#C C puts the box of cereal on the floor",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 600.67866,
+            "timestamp_frame": 18020,
+            "_unmapped_timestamp_sec": 600.67866,
+            "narration_text": "#C C picks a box ",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 604.32188,
+            "timestamp_frame": 18130,
+            "_unmapped_timestamp_sec": 604.32188,
+            "narration_text": "#C C puts #unsure in the box",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 604.82961,
+            "timestamp_frame": 18145,
+            "_unmapped_timestamp_sec": 604.82961,
+            "narration_text": "#C C walks towards another room",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 606.79189,
+            "timestamp_frame": 18204,
+            "_unmapped_timestamp_sec": 606.79189,
+            "narration_text": "#O A man Y wears a shirt",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 610.93437,
+            "timestamp_frame": 18328,
+            "_unmapped_timestamp_sec": 610.93437,
+            "narration_text": "#C C walks past a man Y",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 612.64661,
+            "timestamp_frame": 18379,
+            "_unmapped_timestamp_sec": 612.64661,
+            "narration_text": "#C C puts the box on the kitchen area",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 613.97272,
+            "timestamp_frame": 18419,
+            "_unmapped_timestamp_sec": 613.97272,
+            "narration_text": "#C C operates his phone",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 615.50983,
+            "timestamp_frame": 18465,
+            "_unmapped_timestamp_sec": 615.50983,
+            "narration_text": "#C C walks around the room",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 619.66725,
+            "timestamp_frame": 18590,
+            "_unmapped_timestamp_sec": 619.66725,
+            "narration_text": "#O A man Y holds his head",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 620.87402,
+            "timestamp_frame": 18626,
+            "_unmapped_timestamp_sec": 620.87402,
+            "narration_text": "#C C walks around the room",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 622.0268,
+            "timestamp_frame": 18661,
+            "_unmapped_timestamp_sec": 622.0268,
+            "narration_text": "#C C picks the box",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 623.23465,
+            "timestamp_frame": 18697,
+            "_unmapped_timestamp_sec": 623.23465,
+            "narration_text": "#O A man Y wipes his face with a shirt",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 626.68154,
+            "timestamp_frame": 18800,
+            "_unmapped_timestamp_sec": 626.68154,
+            "narration_text": "#C C puts the box on the table",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 631.9850799999999,
+            "timestamp_frame": 18960,
+            "_unmapped_timestamp_sec": 631.98508,
+            "narration_text": "#O A man Y operates the phone",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 635.99236,
+            "timestamp_frame": 19080,
+            "_unmapped_timestamp_sec": 635.99236,
+            "narration_text": "#C C picks up the cloth",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 636.77176,
+            "timestamp_frame": 19103,
+            "_unmapped_timestamp_sec": 636.77176,
+            "narration_text": "#C C puts the cloth on the chair",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 637.47137,
+            "timestamp_frame": 19124,
+            "_unmapped_timestamp_sec": 637.47137,
+            "narration_text": "#C C drops #unsure on the table",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 638.98155,
+            "timestamp_frame": 19169,
+            "_unmapped_timestamp_sec": 638.98155,
+            "narration_text": "#C C puts #unsure in the box",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 639.98001,
+            "timestamp_frame": 19199,
+            "_unmapped_timestamp_sec": 639.98001,
+            "narration_text": "#C C puts #unsure on the table",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 640.66144,
+            "timestamp_frame": 19220,
+            "_unmapped_timestamp_sec": 640.66144,
+            "narration_text": "#C C moves #unsure",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 643.86163,
+            "timestamp_frame": 19316,
+            "_unmapped_timestamp_sec": 643.86163,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 646.69291,
+            "timestamp_frame": 19401,
+            "_unmapped_timestamp_sec": 646.69291,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 650.0523499999999,
+            "timestamp_frame": 19502,
+            "_unmapped_timestamp_sec": 650.05235,
+            "narration_text": "#C C puts #unsure in the box",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 653.4310800000001,
+            "timestamp_frame": 19603,
+            "_unmapped_timestamp_sec": 653.43108,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 656.1071,
+            "timestamp_frame": 19683,
+            "_unmapped_timestamp_sec": 656.1071,
+            "narration_text": "#C C puts #unsure in the box",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 656.98614,
+            "timestamp_frame": 19710,
+            "_unmapped_timestamp_sec": 656.98614,
+            "narration_text": "#C C puts #unsure on the table",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 658.65329,
+            "timestamp_frame": 19760,
+            "_unmapped_timestamp_sec": 658.65329,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 661.88067,
+            "timestamp_frame": 19856,
+            "_unmapped_timestamp_sec": 661.88067,
+            "narration_text": "#C C puts #unsure in the box",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 663.66135,
+            "timestamp_frame": 19910,
+            "_unmapped_timestamp_sec": 663.66135,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 664.48312,
+            "timestamp_frame": 19934,
+            "_unmapped_timestamp_sec": 664.48312,
+            "narration_text": "#C C puts #unsure in the box",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 665.6610900000001,
+            "timestamp_frame": 19970,
+            "_unmapped_timestamp_sec": 665.6610900000001,
+            "narration_text": "#C C puts #unsure on the table",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 667.02643,
+            "timestamp_frame": 20011,
+            "_unmapped_timestamp_sec": 667.02643,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 668.12249,
+            "timestamp_frame": 20044,
+            "_unmapped_timestamp_sec": 668.12249,
+            "narration_text": "#C C puts #unsure on the table",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 670.0263600000001,
+            "timestamp_frame": 20101,
+            "_unmapped_timestamp_sec": 670.0263600000001,
+            "narration_text": "#O A man Y puts the phone on the table",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 670.63255,
+            "timestamp_frame": 20119,
+            "_unmapped_timestamp_sec": 670.63255,
+            "narration_text": "#C C puts #unsure on the table",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 673.08354,
+            "timestamp_frame": 20193,
+            "_unmapped_timestamp_sec": 673.08354,
+            "narration_text": "#C C puts #unsure in the box",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 674.48757,
+            "timestamp_frame": 20235,
+            "_unmapped_timestamp_sec": 674.48757,
+            "narration_text": "#C C puts #unsure on the table",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 675.65258,
+            "timestamp_frame": 20270,
+            "_unmapped_timestamp_sec": 675.65258,
+            "narration_text": "#C C puts #unsure in the box",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 676.46327,
+            "timestamp_frame": 20294,
+            "_unmapped_timestamp_sec": 676.46327,
+            "narration_text": "#C C puts #unsure on the table",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 678.34016,
+            "timestamp_frame": 20350,
+            "_unmapped_timestamp_sec": 678.34016,
+            "narration_text": "#C C puts #unsure in the box",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 679.52606,
+            "timestamp_frame": 20386,
+            "_unmapped_timestamp_sec": 679.52606,
+            "narration_text": "#C C puts #unsure on the table",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 680.5288,
+            "timestamp_frame": 20416,
+            "_unmapped_timestamp_sec": 680.5288,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 682.31147,
+            "timestamp_frame": 20469,
+            "_unmapped_timestamp_sec": 682.31147,
+            "narration_text": "#C C puts #unsure on the table",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 684.14151,
+            "timestamp_frame": 20524,
+            "_unmapped_timestamp_sec": 684.14151,
+            "narration_text": "#C C moves the carrier bag",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 686.01221,
+            "timestamp_frame": 20580,
+            "_unmapped_timestamp_sec": 686.01221,
+            "narration_text": "#C C puts #unsure in the box",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 688.46005,
+            "timestamp_frame": 20654,
+            "_unmapped_timestamp_sec": 688.46005,
+            "narration_text": "#C C puts #unsure on the table",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        },
+        {
+            "timestamp_sec": 689.29794,
+            "timestamp_frame": 20679,
+            "_unmapped_timestamp_sec": 689.29794,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "390ef17e-48a7-462e-9db4-c33c0f0e9159"
+        }
+    ]
+}

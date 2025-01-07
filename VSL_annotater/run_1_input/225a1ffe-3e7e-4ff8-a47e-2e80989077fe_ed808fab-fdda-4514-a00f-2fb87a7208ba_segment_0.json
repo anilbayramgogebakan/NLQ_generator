@@ -1,0 +1,802 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 452.24399,
+            "timestamp_frame": 13567,
+            "_unmapped_timestamp_sec": 452.24399,
+            "narration_text": "#C C puts the bolt in his right hand into the handle bar clamp in his left hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 454.10744,
+            "timestamp_frame": 13623,
+            "_unmapped_timestamp_sec": 454.10744,
+            "narration_text": "#C C holds the clutch cable with his right hand. #Unsure",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 455.3591,
+            "timestamp_frame": 13661,
+            "_unmapped_timestamp_sec": 455.3591,
+            "narration_text": "#C C screws the bolt in the handle bar clamp on the handle bar with his left hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 461.11151,
+            "timestamp_frame": 13833,
+            "_unmapped_timestamp_sec": 461.11151,
+            "narration_text": "#C C picks the bolt from the tool table with his right hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 461.74127,
+            "timestamp_frame": 13852,
+            "_unmapped_timestamp_sec": 461.74127,
+            "narration_text": "#C C moves the bolt in his right hand to his left hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 462.79465,
+            "timestamp_frame": 13884,
+            "_unmapped_timestamp_sec": 462.79465,
+            "narration_text": "#C C screws the bolt into the handle bar clamp on the handle bar with his left hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 468.28483,
+            "timestamp_frame": 14049,
+            "_unmapped_timestamp_sec": 468.28483,
+            "narration_text": "#C C walks towards a tool wall. #Unsure",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 471.39206,
+            "timestamp_frame": 14142,
+            "_unmapped_timestamp_sec": 471.39206,
+            "narration_text": "#C C picks a t-spanner from the tool wall with his left hand. #Unsure",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 471.64389,
+            "timestamp_frame": 14149,
+            "_unmapped_timestamp_sec": 471.64389,
+            "narration_text": "#C C throws the t-spanner in his left hand to his right hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 473.2558,
+            "timestamp_frame": 14198,
+            "_unmapped_timestamp_sec": 473.2558,
+            "narration_text": "#C C walks towards the motorbike.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 474.11572,
+            "timestamp_frame": 14223,
+            "_unmapped_timestamp_sec": 474.11572,
+            "narration_text": "#C C moves the t-spanner in his right hand to his left hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 475.57135,
+            "timestamp_frame": 14267,
+            "_unmapped_timestamp_sec": 475.57135,
+            "narration_text": "#C C holds the throttle grip with his right hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 476.8053,
+            "timestamp_frame": 14304,
+            "_unmapped_timestamp_sec": 476.8053,
+            "narration_text": "#C C holds the handle bar with his left hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 477.50336,
+            "timestamp_frame": 14325,
+            "_unmapped_timestamp_sec": 477.50336,
+            "narration_text": "#C C lifts the handle bar with both hands.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 487.28361,
+            "timestamp_frame": 14619,
+            "_unmapped_timestamp_sec": 487.28361,
+            "narration_text": "#C C tightens the bolt in the handle bar clamp on the handle bar with the t-spanner in his left hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 490.69951000000003,
+            "timestamp_frame": 14721,
+            "_unmapped_timestamp_sec": 490.69951000000003,
+            "narration_text": "#C C tightens the bolt in the handle bar clamp on the handle bar with the t-spanner in his left hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 492.79942,
+            "timestamp_frame": 14784,
+            "_unmapped_timestamp_sec": 492.79942,
+            "narration_text": "#C C tightens the bolt in the handle bar clamp on the handle bar with the t-spanner in both hands.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 495.63888,
+            "timestamp_frame": 14869,
+            "_unmapped_timestamp_sec": 495.63888,
+            "narration_text": "#C C picks bolts from the tool table with his right hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 496.96757,
+            "timestamp_frame": 14909,
+            "_unmapped_timestamp_sec": 496.96757,
+            "narration_text": "#C C raises the nylon on the tool table with his left hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 497.93541,
+            "timestamp_frame": 14938,
+            "_unmapped_timestamp_sec": 497.93541,
+            "narration_text": "#C C picks the handle bar clamp from the tool table with his right hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 498.72383,
+            "timestamp_frame": 14962,
+            "_unmapped_timestamp_sec": 498.72383,
+            "narration_text": "#C C holds the handle bar clamp with both hands.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 508.48042,
+            "timestamp_frame": 15254,
+            "_unmapped_timestamp_sec": 508.48042,
+            "narration_text": "#C C puts the bolt in his right hand in to the handle bar clamp in his left hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 509.07578,
+            "timestamp_frame": 15272,
+            "_unmapped_timestamp_sec": 509.07578,
+            "narration_text": "#C C holds the handle bar clamp with the bolt in his right hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 510.57239000000004,
+            "timestamp_frame": 15317,
+            "_unmapped_timestamp_sec": 510.57239000000004,
+            "narration_text": "#C C screws the bolt in the handle bar clamp on the handle bar with his right hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 512.15753,
+            "timestamp_frame": 15365,
+            "_unmapped_timestamp_sec": 512.15753,
+            "narration_text": "#C C screws the bolt into the handle bar clamp on the handle bar with his right hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 515.28291,
+            "timestamp_frame": 15458,
+            "_unmapped_timestamp_sec": 515.28291,
+            "narration_text": "#C C tightens the bolt in the handle bar clamp on the handle bar with the t-spanner in his left hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 515.97031,
+            "timestamp_frame": 15479,
+            "_unmapped_timestamp_sec": 515.97031,
+            "narration_text": "#C C tightens the bolt in the handle bar clamp on the handle bar with the t-spanner in both hands.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 518.70194,
+            "timestamp_frame": 15561,
+            "_unmapped_timestamp_sec": 518.70194,
+            "narration_text": "#C C tightens the bolt in the handle bar clamp on the handle bar with the t-spanner in both hands.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 522.18791,
+            "timestamp_frame": 15666,
+            "_unmapped_timestamp_sec": 522.18791,
+            "narration_text": "#C C holds the throttle grip with his right hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 522.8697500000001,
+            "timestamp_frame": 15686,
+            "_unmapped_timestamp_sec": 522.8697500000001,
+            "narration_text": "#C C holds the handle bar with his left hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 523.26588,
+            "timestamp_frame": 15698,
+            "_unmapped_timestamp_sec": 523.26588,
+            "narration_text": "#C C adjusts the handle bar with both hands.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 526.07362,
+            "timestamp_frame": 15782,
+            "_unmapped_timestamp_sec": 526.07362,
+            "narration_text": "#C C moves the t-spanner in his left hand to his right hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 527.20939,
+            "timestamp_frame": 15816,
+            "_unmapped_timestamp_sec": 527.20939,
+            "narration_text": "#C C twists the throttle grip with both hands.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 531.4076600000001,
+            "timestamp_frame": 15942,
+            "_unmapped_timestamp_sec": 531.4076600000001,
+            "narration_text": "#C C drops the t-spanner in his right hand on the tool table.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 532.5870246666667,
+            "timestamp_frame": 15978,
+            "_unmapped_timestamp_sec": 532.58735,
+            "narration_text": "#C C picks the screwdriver on the tool table with his right hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 534.8316246666667,
+            "timestamp_frame": 16045,
+            "_unmapped_timestamp_sec": 534.83195,
+            "narration_text": "#C C holds the clutch lever with his right hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 535.3530546666667,
+            "timestamp_frame": 16061,
+            "_unmapped_timestamp_sec": 535.35338,
+            "narration_text": "#C C holds a mirror with his left hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 549.5448746666667,
+            "timestamp_frame": 16486,
+            "_unmapped_timestamp_sec": 549.5452,
+            "narration_text": "#C C fixes a switch on the handle bar with both hands.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 554.3982346666667,
+            "timestamp_frame": 16632,
+            "_unmapped_timestamp_sec": 554.39856,
+            "narration_text": "#C C holds the clutch lever with his right hand.",
+            "annotation_uid": "3cadd328-782a-456d-acc0-a21f5440d8bf"
+        },
+        {
+            "timestamp_sec": 563.4496566666667,
+            "timestamp_frame": 16903,
+            "_unmapped_timestamp_sec": 563.45299,
+            "narration_text": "#C C holds a mirror of the motorbike with his left hand.",
+            "annotation_uid": "8644fa99-f1a3-4964-9cd3-2ed375f689b7"
+        },
+        {
+            "timestamp_sec": 564.3770866666666,
+            "timestamp_frame": 16931,
+            "_unmapped_timestamp_sec": 564.38042,
+            "narration_text": "#C C drops the screwdriver in his right hand on a tool table.",
+            "annotation_uid": "8644fa99-f1a3-4964-9cd3-2ed375f689b7"
+        },
+        {
+            "timestamp_sec": 565.2748266666666,
+            "timestamp_frame": 16958,
+            "_unmapped_timestamp_sec": 565.27816,
+            "narration_text": "#C C picks a mirror holder on the tool table with his right hand. #Unsure",
+            "annotation_uid": "8644fa99-f1a3-4964-9cd3-2ed375f689b7"
+        },
+        {
+            "timestamp_sec": 567.3909866666667,
+            "timestamp_frame": 17022,
+            "_unmapped_timestamp_sec": 567.39432,
+            "narration_text": "#C C moves the mirror holder in his right hand to his left hand. #Unsure",
+            "annotation_uid": "8644fa99-f1a3-4964-9cd3-2ed375f689b7"
+        },
+        {
+            "timestamp_sec": 568.1088666666667,
+            "timestamp_frame": 17043,
+            "_unmapped_timestamp_sec": 568.1122,
+            "narration_text": "#C C fixes a bolt in the mirror holder with his right hand. #Unsure",
+            "annotation_uid": "8644fa99-f1a3-4964-9cd3-2ed375f689b7"
+        },
+        {
+            "timestamp_sec": 569.7313466666667,
+            "timestamp_frame": 17092,
+            "_unmapped_timestamp_sec": 569.73468,
+            "narration_text": "#C C holds the clutch lever in his right hand.",
+            "annotation_uid": "8644fa99-f1a3-4964-9cd3-2ed375f689b7"
+        },
+        {
+            "timestamp_sec": 571.8816166666667,
+            "timestamp_frame": 17156,
+            "_unmapped_timestamp_sec": 571.88495,
+            "narration_text": "#C C fixes the the mirror holder on the handle bar with both hands. #Unsure",
+            "annotation_uid": "8644fa99-f1a3-4964-9cd3-2ed375f689b7"
+        },
+        {
+            "timestamp_sec": 580.7513266666667,
+            "timestamp_frame": 17423,
+            "_unmapped_timestamp_sec": 580.7546600000001,
+            "narration_text": "#C C tightens the bolt on the mirror holder with his left hand. #Unsure  ",
+            "annotation_uid": "8644fa99-f1a3-4964-9cd3-2ed375f689b7"
+        },
+        {
+            "timestamp_sec": 592.1720066666667,
+            "timestamp_frame": 17765,
+            "_unmapped_timestamp_sec": 592.17534,
+            "narration_text": "#C C touches his right pocket with his right hand.",
+            "annotation_uid": "8644fa99-f1a3-4964-9cd3-2ed375f689b7"
+        },
+        {
+            "timestamp_sec": 593.3454166666667,
+            "timestamp_frame": 17800,
+            "_unmapped_timestamp_sec": 593.34875,
+            "narration_text": "#C C picks the screwdriver on the tool table with his right hand.",
+            "annotation_uid": "8644fa99-f1a3-4964-9cd3-2ed375f689b7"
+        },
+        {
+            "timestamp_sec": 594.7194066666667,
+            "timestamp_frame": 17842,
+            "_unmapped_timestamp_sec": 594.72274,
+            "narration_text": "#C C loosens a bolt of the throttle grip with the screwdriver in his right hand.",
+            "annotation_uid": "8644fa99-f1a3-4964-9cd3-2ed375f689b7"
+        },
+        {
+            "timestamp_sec": 594.6998866666667,
+            "timestamp_frame": 17841,
+            "_unmapped_timestamp_sec": 594.70322,
+            "narration_text": "#C C holds a throttle grip in his left hand.",
+            "annotation_uid": "8644fa99-f1a3-4964-9cd3-2ed375f689b7"
+        },
+        {
+            "timestamp_sec": 450.86987999999997,
+            "timestamp_frame": 13526,
+            "_unmapped_timestamp_sec": 450.86987999999997,
+            "narration_text": "#C C looks at the bolt washer on the hand ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 452.40553,
+            "timestamp_frame": 13572,
+            "_unmapped_timestamp_sec": 452.40553,
+            "narration_text": "#C C puts a bolt in the bolt washer ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 453.04575,
+            "timestamp_frame": 13591,
+            "_unmapped_timestamp_sec": 453.04575,
+            "narration_text": "#C C moves towards the table ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 454.44191,
+            "timestamp_frame": 13633,
+            "_unmapped_timestamp_sec": 454.44191,
+            "narration_text": "#C C buts a bolt in the motorbike ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 456.23652000000004,
+            "timestamp_frame": 13687,
+            "_unmapped_timestamp_sec": 456.23652000000004,
+            "narration_text": "#C C adjusts a bolt in the motorbike with hands ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 460.29821000000004,
+            "timestamp_frame": 13809,
+            "_unmapped_timestamp_sec": 460.29821000000004,
+            "narration_text": "#C C moves towards the table ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 460.89547,
+            "timestamp_frame": 13827,
+            "_unmapped_timestamp_sec": 460.89547,
+            "narration_text": "#C C picks bolt on the table ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 461.73892,
+            "timestamp_frame": 13852,
+            "_unmapped_timestamp_sec": 461.73892,
+            "narration_text": "#C C moves towards the motorbike ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 461.59122,
+            "timestamp_frame": 13848,
+            "_unmapped_timestamp_sec": 461.59122,
+            "narration_text": "#C C passes the bolt from the left to the right hand ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 462.83196,
+            "timestamp_frame": 13885,
+            "_unmapped_timestamp_sec": 462.83196,
+            "narration_text": "#C C adjusts a bolt in the motorbike with his hand ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 468.01597000000004,
+            "timestamp_frame": 14040,
+            "_unmapped_timestamp_sec": 468.01597000000004,
+            "narration_text": "#C C walks around the workshop ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 471.16957,
+            "timestamp_frame": 14135,
+            "_unmapped_timestamp_sec": 471.16957,
+            "narration_text": "#C C picks a t spanner from the wall ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 471.76093000000003,
+            "timestamp_frame": 14153,
+            "_unmapped_timestamp_sec": 471.76093000000003,
+            "narration_text": "#C C throws a t spanner from the left to the right hand ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 472.72257,
+            "timestamp_frame": 14182,
+            "_unmapped_timestamp_sec": 472.72257,
+            "narration_text": "#C C walks around the workshop ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 474.2972,
+            "timestamp_frame": 14229,
+            "_unmapped_timestamp_sec": 474.2972,
+            "narration_text": "#C C passes the t spanner from the right to the left hand ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 475.40639999999996,
+            "timestamp_frame": 14262,
+            "_unmapped_timestamp_sec": 475.40639999999996,
+            "narration_text": "#C C holds the motorbike handles ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 476.42652,
+            "timestamp_frame": 14293,
+            "_unmapped_timestamp_sec": 476.42652,
+            "narration_text": "#C C adjusts the motorbike handle ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 484.63703,
+            "timestamp_frame": 14539,
+            "_unmapped_timestamp_sec": 484.63703,
+            "narration_text": "#C C looks around the motorbike handles ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 486.95358,
+            "timestamp_frame": 14609,
+            "_unmapped_timestamp_sec": 486.95358,
+            "narration_text": "#C C adjusts a bolt with a t spanner ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 492.79906,
+            "timestamp_frame": 14784,
+            "_unmapped_timestamp_sec": 492.79906,
+            "narration_text": "#C C turns the t spanner with both hands ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 494.11577,
+            "timestamp_frame": 14823,
+            "_unmapped_timestamp_sec": 494.11577,
+            "narration_text": "#C C moves towards the table ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 495.20406,
+            "timestamp_frame": 14856,
+            "_unmapped_timestamp_sec": 495.20406,
+            "narration_text": "#C C picks bolts on the table ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 497.05682,
+            "timestamp_frame": 14912,
+            "_unmapped_timestamp_sec": 497.05682,
+            "narration_text": "#C C lifts a polythene bag on the table ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 497.98468,
+            "timestamp_frame": 14940,
+            "_unmapped_timestamp_sec": 497.98468,
+            "narration_text": "#C C picks a bolt washer on the table ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 498.56226000000004,
+            "timestamp_frame": 14957,
+            "_unmapped_timestamp_sec": 498.56226000000004,
+            "narration_text": "#C C turns towards the motorbike ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 499.08697,
+            "timestamp_frame": 14973,
+            "_unmapped_timestamp_sec": 499.08697,
+            "narration_text": "#C C stares at the bolt washer on the hand ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 508.77503,
+            "timestamp_frame": 15263,
+            "_unmapped_timestamp_sec": 508.77503,
+            "narration_text": "#C C puts a bolt in the bolt washer ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 510.0085,
+            "timestamp_frame": 15300,
+            "_unmapped_timestamp_sec": 510.0085,
+            "narration_text": "#C C puts the bolt washer on the motorbike handle ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 511.02039,
+            "timestamp_frame": 15331,
+            "_unmapped_timestamp_sec": 511.02039,
+            "narration_text": "#C C adjusts a bolt with his hand ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 512.18236,
+            "timestamp_frame": 15365,
+            "_unmapped_timestamp_sec": 512.18236,
+            "narration_text": "#C C puts a bolt in the bolt washer ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 513.6604600000001,
+            "timestamp_frame": 15410,
+            "_unmapped_timestamp_sec": 513.6604600000001,
+            "narration_text": "#C C looks around the workshop ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 515.11333,
+            "timestamp_frame": 15453,
+            "_unmapped_timestamp_sec": 515.11333,
+            "narration_text": "#C C adjusts a bolt with the t spanner ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 522.21664,
+            "timestamp_frame": 15666,
+            "_unmapped_timestamp_sec": 522.21664,
+            "narration_text": "#C C holds the motorbike handle with the right hand ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 523.10877,
+            "timestamp_frame": 15693,
+            "_unmapped_timestamp_sec": 523.10877,
+            "narration_text": "#C C adjusts the motorbike handle ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 525.93567,
+            "timestamp_frame": 15778,
+            "_unmapped_timestamp_sec": 525.93567,
+            "narration_text": "#C C passes the t spanner from the left to the right hand",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 526.97884,
+            "timestamp_frame": 15809,
+            "_unmapped_timestamp_sec": 526.97884,
+            "narration_text": "#C C adjusts the throttle handle grip ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 530.72392,
+            "timestamp_frame": 15922,
+            "_unmapped_timestamp_sec": 530.72392,
+            "narration_text": "#C C moves towards the table ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 531.91086,
+            "timestamp_frame": 15957,
+            "_unmapped_timestamp_sec": 531.91086,
+            "narration_text": "#C C puts a t spanner at the table ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 532.5538746666667,
+            "timestamp_frame": 15977,
+            "_unmapped_timestamp_sec": 532.5542,
+            "narration_text": "#C C picks a screw driver ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 533.0357846666667,
+            "timestamp_frame": 15991,
+            "_unmapped_timestamp_sec": 533.03611,
+            "narration_text": "#C C turns towards the motorbike ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 535.0979046666668,
+            "timestamp_frame": 16053,
+            "_unmapped_timestamp_sec": 535.0982300000001,
+            "narration_text": "#C C turns the clutch lever on the hand",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 538.6180846666667,
+            "timestamp_frame": 16159,
+            "_unmapped_timestamp_sec": 538.61841,
+            "narration_text": "#C C touches the motorbike handle with the left hand ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 541.3477846666667,
+            "timestamp_frame": 16240,
+            "_unmapped_timestamp_sec": 541.34811,
+            "narration_text": "#C C fixes the clutch lever on the handle ",
+            "annotation_uid": "f73046fd-4b47-4e48-8ac7-1958d079dad2"
+        },
+        {
+            "timestamp_sec": 562.5276166666666,
+            "timestamp_frame": 16876,
+            "_unmapped_timestamp_sec": 562.53095,
+            "narration_text": "#C C looks at the motorbike switch gear ",
+            "annotation_uid": "23e4da58-664a-4d9e-9370-ddf9b909b7ca"
+        },
+        {
+            "timestamp_sec": 563.2917766666667,
+            "timestamp_frame": 16899,
+            "_unmapped_timestamp_sec": 563.29511,
+            "narration_text": "#C C holds the motorbike side mirror handle on the left hand ",
+            "annotation_uid": "23e4da58-664a-4d9e-9370-ddf9b909b7ca"
+        },
+        {
+            "timestamp_sec": 563.6851566666667,
+            "timestamp_frame": 16911,
+            "_unmapped_timestamp_sec": 563.68849,
+            "narration_text": "#C C turns towards a table ",
+            "annotation_uid": "23e4da58-664a-4d9e-9370-ddf9b909b7ca"
+        },
+        {
+            "timestamp_sec": 564.7633966666667,
+            "timestamp_frame": 16943,
+            "_unmapped_timestamp_sec": 564.76673,
+            "narration_text": "#C C puts a screw driver on the table ",
+            "annotation_uid": "23e4da58-664a-4d9e-9370-ddf9b909b7ca"
+        },
+        {
+            "timestamp_sec": 565.6506966666667,
+            "timestamp_frame": 16970,
+            "_unmapped_timestamp_sec": 565.65403,
+            "narration_text": "#C C picks a motorbike throttle lock ",
+            "annotation_uid": "23e4da58-664a-4d9e-9370-ddf9b909b7ca"
+        },
+        {
+            "timestamp_sec": 566.5329266666666,
+            "timestamp_frame": 16996,
+            "_unmapped_timestamp_sec": 566.53626,
+            "narration_text": "#C C turns towards the motorbike ",
+            "annotation_uid": "23e4da58-664a-4d9e-9370-ddf9b909b7ca"
+        },
+        {
+            "timestamp_sec": 567.2312066666667,
+            "timestamp_frame": 17017,
+            "_unmapped_timestamp_sec": 567.23454,
+            "narration_text": "#C C puts a screw on the throttle lock ",
+            "annotation_uid": "23e4da58-664a-4d9e-9370-ddf9b909b7ca"
+        },
+        {
+            "timestamp_sec": 569.0327266666667,
+            "timestamp_frame": 17071,
+            "_unmapped_timestamp_sec": 569.03606,
+            "narration_text": "#C C looks outside the workshop entrance ",
+            "annotation_uid": "23e4da58-664a-4d9e-9370-ddf9b909b7ca"
+        },
+        {
+            "timestamp_sec": 570.1776066666666,
+            "timestamp_frame": 17105,
+            "_unmapped_timestamp_sec": 570.18094,
+            "narration_text": "#C C holds a motorbike throttle lock on the left hand ",
+            "annotation_uid": "23e4da58-664a-4d9e-9370-ddf9b909b7ca"
+        },
+        {
+            "timestamp_sec": 571.7681966666667,
+            "timestamp_frame": 17153,
+            "_unmapped_timestamp_sec": 571.77153,
+            "narration_text": "#C C fixes the motorbike throttle lock on the  motorbike handle ",
+            "annotation_uid": "23e4da58-664a-4d9e-9370-ddf9b909b7ca"
+        },
+        {
+            "timestamp_sec": 575.4478466666667,
+            "timestamp_frame": 17263,
+            "_unmapped_timestamp_sec": 575.45118,
+            "narration_text": "#C C adjusts the screw on the motorbike handle ",
+            "annotation_uid": "23e4da58-664a-4d9e-9370-ddf9b909b7ca"
+        },
+        {
+            "timestamp_sec": 578.6625066666667,
+            "timestamp_frame": 17360,
+            "_unmapped_timestamp_sec": 578.66584,
+            "narration_text": "#C C fixes the motorbike throttle lock on the  motorbike handle ",
+            "annotation_uid": "23e4da58-664a-4d9e-9370-ddf9b909b7ca"
+        },
+        {
+            "timestamp_sec": 582.7769266666667,
+            "timestamp_frame": 17483,
+            "_unmapped_timestamp_sec": 582.78026,
+            "narration_text": "#C C adjusts the screw on the throttle handle by hand ",
+            "annotation_uid": "23e4da58-664a-4d9e-9370-ddf9b909b7ca"
+        },
+        {
+            "timestamp_sec": 586.6521066666667,
+            "timestamp_frame": 17600,
+            "_unmapped_timestamp_sec": 586.65544,
+            "narration_text": "#C C looks around the motorbike handle ",
+            "annotation_uid": "23e4da58-664a-4d9e-9370-ddf9b909b7ca"
+        },
+        {
+            "timestamp_sec": 592.1457366666667,
+            "timestamp_frame": 17764,
+            "_unmapped_timestamp_sec": 592.14907,
+            "narration_text": "#C C turns around ",
+            "annotation_uid": "23e4da58-664a-4d9e-9370-ddf9b909b7ca"
+        },
+        {
+            "timestamp_sec": 592.8656266666667,
+            "timestamp_frame": 17786,
+            "_unmapped_timestamp_sec": 592.86896,
+            "narration_text": "#C C touches his pocket ",
+            "annotation_uid": "23e4da58-664a-4d9e-9370-ddf9b909b7ca"
+        },
+        {
+            "timestamp_sec": 593.3617366666667,
+            "timestamp_frame": 17801,
+            "_unmapped_timestamp_sec": 593.3650700000001,
+            "narration_text": "#C C picks a screw driver on the table ",
+            "annotation_uid": "23e4da58-664a-4d9e-9370-ddf9b909b7ca"
+        },
+        {
+            "timestamp_sec": 593.9815166666667,
+            "timestamp_frame": 17819,
+            "_unmapped_timestamp_sec": 593.98485,
+            "narration_text": "#C C turns towards the motorbike ",
+            "annotation_uid": "23e4da58-664a-4d9e-9370-ddf9b909b7ca"
+        },
+        {
+            "timestamp_sec": 594.8589466666667,
+            "timestamp_frame": 17846,
+            "_unmapped_timestamp_sec": 594.86228,
+            "narration_text": "#C C adjusts a screw with a screw driver ",
+            "annotation_uid": "23e4da58-664a-4d9e-9370-ddf9b909b7ca"
+        },
+        {
+            "timestamp_sec": 595.9974166666667,
+            "timestamp_frame": 17880,
+            "_unmapped_timestamp_sec": 596.00075,
+            "narration_text": "#C C looks around the motorbike ",
+            "annotation_uid": "23e4da58-664a-4d9e-9370-ddf9b909b7ca"
+        }
+    ]
+}

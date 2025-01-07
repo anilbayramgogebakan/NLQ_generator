@@ -1,0 +1,746 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 270.5078886,
+            "timestamp_frame": 8115,
+            "_unmapped_timestamp_sec": 270.48686,
+            "narration_text": "#C C takes meat from nylon with hand",
+            "annotation_uid": "b1693865-3bc4-4d80-aeca-b2517ab9bd9b"
+        },
+        {
+            "timestamp_sec": 274.99364860000003,
+            "timestamp_frame": 8249,
+            "_unmapped_timestamp_sec": 274.97262,
+            "narration_text": "#C C puts meat into pan",
+            "annotation_uid": "b1693865-3bc4-4d80-aeca-b2517ab9bd9b"
+        },
+        {
+            "timestamp_sec": 287.73927860000003,
+            "timestamp_frame": 8632,
+            "_unmapped_timestamp_sec": 287.71825,
+            "narration_text": "#C C takes nylon from the counter",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 288.53218860000004,
+            "timestamp_frame": 8655,
+            "_unmapped_timestamp_sec": 288.51116,
+            "narration_text": "#C C throws down nylon",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 289.7766886,
+            "timestamp_frame": 8693,
+            "_unmapped_timestamp_sec": 289.75566,
+            "narration_text": "#C C picks up fork",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 290.61749860000003,
+            "timestamp_frame": 8718,
+            "_unmapped_timestamp_sec": 290.59647,
+            "narration_text": "#C C stirs meat with fork",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 290.7440386,
+            "timestamp_frame": 8722,
+            "_unmapped_timestamp_sec": 290.72301,
+            "narration_text": "#C C grabs filter plate",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 293.96038860000004,
+            "timestamp_frame": 8818,
+            "_unmapped_timestamp_sec": 293.93936,
+            "narration_text": "#C C puts meat from pan into filter plate",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 300.38212860000004,
+            "timestamp_frame": 9011,
+            "_unmapped_timestamp_sec": 300.3611,
+            "narration_text": "#C C drops filter plate in sink",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 300.40828860000005,
+            "timestamp_frame": 9012,
+            "_unmapped_timestamp_sec": 300.38726,
+            "narration_text": "#C C drops fork on cutting board",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 300.9802086,
+            "timestamp_frame": 9029,
+            "_unmapped_timestamp_sec": 300.95918,
+            "narration_text": "#C C takes a nylon containing meat on counter",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 303.2540086,
+            "timestamp_frame": 9097,
+            "_unmapped_timestamp_sec": 303.23298,
+            "narration_text": "#C C drops nylon of meat back to the counter",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 303.88118860000003,
+            "timestamp_frame": 9116,
+            "_unmapped_timestamp_sec": 303.86016,
+            "narration_text": "#C C opens the nylon",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 307.6178386,
+            "timestamp_frame": 9228,
+            "_unmapped_timestamp_sec": 307.59681,
+            "narration_text": "#C C takes out meat from the nylon with hand",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 314.4500486,
+            "timestamp_frame": 9433,
+            "_unmapped_timestamp_sec": 314.42902,
+            "narration_text": "#C C puts meat into pan",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 327.52002860000005,
+            "timestamp_frame": 9825,
+            "_unmapped_timestamp_sec": 327.499,
+            "narration_text": "#C C picks up fork from cutting board",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 328.7134686,
+            "timestamp_frame": 9861,
+            "_unmapped_timestamp_sec": 328.69244,
+            "narration_text": "#C C stirs the meat",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 330.7985686,
+            "timestamp_frame": 9923,
+            "_unmapped_timestamp_sec": 330.77754,
+            "narration_text": "#C C grabs filter plate",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 335.7965886,
+            "timestamp_frame": 10073,
+            "_unmapped_timestamp_sec": 335.77556,
+            "narration_text": "#C C puts meat from pan into filter plate",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 337.10835860000003,
+            "timestamp_frame": 10113,
+            "_unmapped_timestamp_sec": 337.08733,
+            "narration_text": "#C C drops filter plate in sink",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 365.9661186,
+            "timestamp_frame": 10978,
+            "_unmapped_timestamp_sec": 365.94509,
+            "narration_text": "#C C puts empty pack into a nylon on the floor",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 370.02588860000003,
+            "timestamp_frame": 11100,
+            "_unmapped_timestamp_sec": 370.00486,
+            "narration_text": "#C C picks up fork from cutting board",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 370.1449486,
+            "timestamp_frame": 11104,
+            "_unmapped_timestamp_sec": 370.12392,
+            "narration_text": "#C C grabs filter plate",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 374.58410860000004,
+            "timestamp_frame": 11237,
+            "_unmapped_timestamp_sec": 374.56308,
+            "narration_text": "#C C puts meat from pan into filter plate",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 394.5693086,
+            "timestamp_frame": 11836,
+            "_unmapped_timestamp_sec": 394.54828,
+            "narration_text": "#C C turns off the cooker",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 396.1462186,
+            "timestamp_frame": 11884,
+            "_unmapped_timestamp_sec": 396.12519,
+            "narration_text": "#C C drops filter plate in sink",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 397.3837886,
+            "timestamp_frame": 11921,
+            "_unmapped_timestamp_sec": 397.36276,
+            "narration_text": "#C C picks up knife from counter",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 397.89928860000003,
+            "timestamp_frame": 11936,
+            "_unmapped_timestamp_sec": 397.87826,
+            "narration_text": "#C C moves cutting board",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 398.6688786,
+            "timestamp_frame": 11959,
+            "_unmapped_timestamp_sec": 398.64785,
+            "narration_text": "#C C places knife on cutting board",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 400.41533860000004,
+            "timestamp_frame": 12012,
+            "_unmapped_timestamp_sec": 400.39431,
+            "narration_text": "#C C grabs filter plate",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 402.9208386,
+            "timestamp_frame": 12087,
+            "_unmapped_timestamp_sec": 402.89981,
+            "narration_text": "#C C shakes filter plate",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 405.30739860000006,
+            "timestamp_frame": 12159,
+            "_unmapped_timestamp_sec": 405.28637000000003,
+            "narration_text": "#C C stirs meat in filter plate with fork",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 413.96058860000005,
+            "timestamp_frame": 12418,
+            "_unmapped_timestamp_sec": 413.93956000000003,
+            "narration_text": "#C C washes onions inside plate",
+            "annotation_uid": "902de281-128d-4af6-abd5-c3b76395f511"
+        },
+        {
+            "timestamp_sec": 270.08563860000004,
+            "timestamp_frame": 8102,
+            "_unmapped_timestamp_sec": 270.06461,
+            "narration_text": "#C C puts the fork on the chopping board.",
+            "annotation_uid": "7e180397-43c3-4a76-bbe4-bf0d19949ba5"
+        },
+        {
+            "timestamp_sec": 270.74571860000003,
+            "timestamp_frame": 8122,
+            "_unmapped_timestamp_sec": 270.72469,
+            "narration_text": "#C C picks up the meat.",
+            "annotation_uid": "7e180397-43c3-4a76-bbe4-bf0d19949ba5"
+        },
+        {
+            "timestamp_sec": 274.78457860000003,
+            "timestamp_frame": 8243,
+            "_unmapped_timestamp_sec": 274.76355,
+            "narration_text": "#C C puts the meat in water.",
+            "annotation_uid": "7e180397-43c3-4a76-bbe4-bf0d19949ba5"
+        },
+        {
+            "timestamp_sec": 275.60866860000004,
+            "timestamp_frame": 8268,
+            "_unmapped_timestamp_sec": 275.58764,
+            "narration_text": "#C C picks up the meat.",
+            "annotation_uid": "7e180397-43c3-4a76-bbe4-bf0d19949ba5"
+        },
+        {
+            "timestamp_sec": 276.9490286,
+            "timestamp_frame": 8308,
+            "_unmapped_timestamp_sec": 276.928,
+            "narration_text": "#C C puts the meat in water.",
+            "annotation_uid": "7e180397-43c3-4a76-bbe4-bf0d19949ba5"
+        },
+        {
+            "timestamp_sec": 280.5970386,
+            "timestamp_frame": 8417,
+            "_unmapped_timestamp_sec": 280.57601,
+            "narration_text": "#C C picks up the meat.",
+            "annotation_uid": "7e180397-43c3-4a76-bbe4-bf0d19949ba5"
+        },
+        {
+            "timestamp_sec": 282.5634886,
+            "timestamp_frame": 8476,
+            "_unmapped_timestamp_sec": 282.54246,
+            "narration_text": "#C C puts the meat in water.",
+            "annotation_uid": "7e180397-43c3-4a76-bbe4-bf0d19949ba5"
+        },
+        {
+            "timestamp_sec": 283.2799886,
+            "timestamp_frame": 8498,
+            "_unmapped_timestamp_sec": 283.25896,
+            "narration_text": "#C C picks up the meat.",
+            "annotation_uid": "7e180397-43c3-4a76-bbe4-bf0d19949ba5"
+        },
+        {
+            "timestamp_sec": 287.1588286,
+            "timestamp_frame": 8614,
+            "_unmapped_timestamp_sec": 287.13779999999997,
+            "narration_text": "#C puts the meat in skillet ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 287.77833860000004,
+            "timestamp_frame": 8633,
+            "_unmapped_timestamp_sec": 287.75731,
+            "narration_text": "#C C picks nylon paper on countertop ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 288.8179586,
+            "timestamp_frame": 8664,
+            "_unmapped_timestamp_sec": 288.79693,
+            "narration_text": "#C C puts the paper in bin ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 289.8119886,
+            "timestamp_frame": 8694,
+            "_unmapped_timestamp_sec": 289.79096,
+            "narration_text": "#C C picks fork spoon on chopping board ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 290.69737860000004,
+            "timestamp_frame": 8720,
+            "_unmapped_timestamp_sec": 290.67635,
+            "narration_text": "#C C stirs meat in skillet with the spoon ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 292.08910860000003,
+            "timestamp_frame": 8762,
+            "_unmapped_timestamp_sec": 292.06808,
+            "narration_text": "#C C picks mesh strainer in sink with boiled meat ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 293.7584186,
+            "timestamp_frame": 8812,
+            "_unmapped_timestamp_sec": 293.73739,
+            "narration_text": "#C C puts meat pieces in skillet in mesh strainer",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 299.9225786,
+            "timestamp_frame": 8997,
+            "_unmapped_timestamp_sec": 299.90155,
+            "narration_text": "#C C returns mesh strainer in sink ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 300.4195586,
+            "timestamp_frame": 9012,
+            "_unmapped_timestamp_sec": 300.39853,
+            "narration_text": "#C C places fork on chopping board ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 301.14464860000004,
+            "timestamp_frame": 9034,
+            "_unmapped_timestamp_sec": 301.12362,
+            "narration_text": "#C C picks paper with meat pieces on countertop ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 301.30411860000004,
+            "timestamp_frame": 9038,
+            "_unmapped_timestamp_sec": 301.28309,
+            "narration_text": "#C C turns the paper ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 302.6593586,
+            "timestamp_frame": 9079,
+            "_unmapped_timestamp_sec": 302.63833,
+            "narration_text": "#C C unfolds the paper ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 303.4285186,
+            "timestamp_frame": 9102,
+            "_unmapped_timestamp_sec": 303.40749,
+            "narration_text": "#C C drops paper back on countertop ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 303.8782286,
+            "timestamp_frame": 9116,
+            "_unmapped_timestamp_sec": 303.8572,
+            "narration_text": "#C C unfolds the paper ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 307.13809860000003,
+            "timestamp_frame": 9214,
+            "_unmapped_timestamp_sec": 307.11707,
+            "narration_text": "#C C picks meat piece from the paper ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 309.66391860000004,
+            "timestamp_frame": 9289,
+            "_unmapped_timestamp_sec": 309.64289,
+            "narration_text": "#C C unfolds the meat ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 314.1829386,
+            "timestamp_frame": 9425,
+            "_unmapped_timestamp_sec": 314.16191,
+            "narration_text": "#C C puts meat in skillet ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 314.9183186,
+            "timestamp_frame": 9447,
+            "_unmapped_timestamp_sec": 314.89729,
+            "narration_text": "#C C picks another meat piece ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 318.7855586,
+            "timestamp_frame": 9563,
+            "_unmapped_timestamp_sec": 318.76453,
+            "narration_text": "#C C puts meat in skillet ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 319.4012086,
+            "timestamp_frame": 9581,
+            "_unmapped_timestamp_sec": 319.38018,
+            "narration_text": "#C C picks meat piece \n",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 320.9062986,
+            "timestamp_frame": 9627,
+            "_unmapped_timestamp_sec": 320.88527,
+            "narration_text": "#C C unfolds the meat ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 326.3362586,
+            "timestamp_frame": 9789,
+            "_unmapped_timestamp_sec": 326.31523,
+            "narration_text": "#C C puts meat in skillet ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 327.5733186,
+            "timestamp_frame": 9827,
+            "_unmapped_timestamp_sec": 327.55228999999997,
+            "narration_text": "#C C picks fork ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 328.33471860000003,
+            "timestamp_frame": 9849,
+            "_unmapped_timestamp_sec": 328.31369,
+            "narration_text": "#C C stirs meat in skillet with the fork ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 330.8802486,
+            "timestamp_frame": 9926,
+            "_unmapped_timestamp_sec": 330.85922,
+            "narration_text": "#C C picks mesh strainer with boiled meat ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 334.5074286,
+            "timestamp_frame": 10035,
+            "_unmapped_timestamp_sec": 334.4864,
+            "narration_text": "#C C puts meat in skillet inside the strainer ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 336.8952886,
+            "timestamp_frame": 10106,
+            "_unmapped_timestamp_sec": 336.87426,
+            "narration_text": "#C C places fork on chopping board ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 337.12354860000005,
+            "timestamp_frame": 10113,
+            "_unmapped_timestamp_sec": 337.10252,
+            "narration_text": "#C C returns strainer with meat in sink ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 338.00885860000005,
+            "timestamp_frame": 10140,
+            "_unmapped_timestamp_sec": 337.98783000000003,
+            "narration_text": "#C C picks meat piece on countertop \n",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 340.1784586,
+            "timestamp_frame": 10205,
+            "_unmapped_timestamp_sec": 340.15743,
+            "narration_text": "#C C unfolds the meat ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 344.09297860000004,
+            "timestamp_frame": 10322,
+            "_unmapped_timestamp_sec": 344.07195,
+            "narration_text": "#C C puts meat in skillet ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 344.7270586,
+            "timestamp_frame": 10341,
+            "_unmapped_timestamp_sec": 344.70603,
+            "narration_text": "#C C picks another meat piece ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 344.00951860000004,
+            "timestamp_frame": 10320,
+            "_unmapped_timestamp_sec": 343.98849,
+            "narration_text": "#C C puts the piece in skillet ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 347.0964086,
+            "timestamp_frame": 10412,
+            "_unmapped_timestamp_sec": 347.07538,
+            "narration_text": "#C C puts the piece in skillet ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 348.23227860000003,
+            "timestamp_frame": 10446,
+            "_unmapped_timestamp_sec": 348.21125,
+            "narration_text": "#C C picks another meat piece ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 349.9105286,
+            "timestamp_frame": 10497,
+            "_unmapped_timestamp_sec": 349.8895,
+            "narration_text": "#C C unfolds the meat ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 354.7609986,
+            "timestamp_frame": 10642,
+            "_unmapped_timestamp_sec": 354.73996999999997,
+            "narration_text": "#C C breaks the meat into two ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 355.6123086,
+            "timestamp_frame": 10668,
+            "_unmapped_timestamp_sec": 355.59128,
+            "narration_text": "#C C puts one piece in skillet ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 356.3172986,
+            "timestamp_frame": 10689,
+            "_unmapped_timestamp_sec": 356.29627,
+            "narration_text": "#C C shifts other piece to right hand ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 357.30668860000003,
+            "timestamp_frame": 10719,
+            "_unmapped_timestamp_sec": 357.28566,
+            "narration_text": "#C C puts the piece in skillet ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 357.5312286,
+            "timestamp_frame": 10725,
+            "_unmapped_timestamp_sec": 357.5102,
+            "narration_text": "#C C picks meat piece on countertop ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 358.6747586,
+            "timestamp_frame": 10760,
+            "_unmapped_timestamp_sec": 358.65373,
+            "narration_text": "#C C unfolds the piece ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 359.5008186,
+            "timestamp_frame": 10784,
+            "_unmapped_timestamp_sec": 359.47979,
+            "narration_text": "#C C breaks the piece into two ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 360.02842860000004,
+            "timestamp_frame": 10800,
+            "_unmapped_timestamp_sec": 360.0074,
+            "narration_text": "#C C puts one piece in skillet ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 360.8236686,
+            "timestamp_frame": 10824,
+            "_unmapped_timestamp_sec": 360.80264,
+            "narration_text": "#C C unfolds the other piece ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 365.26097860000004,
+            "timestamp_frame": 10957,
+            "_unmapped_timestamp_sec": 365.23995,
+            "narration_text": "#C C puts piece in skillet ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 366.0835286,
+            "timestamp_frame": 10982,
+            "_unmapped_timestamp_sec": 366.0625,
+            "narration_text": "#C C picks nylon paper on countertop ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 368.16657860000004,
+            "timestamp_frame": 11044,
+            "_unmapped_timestamp_sec": 368.14555,
+            "narration_text": "#C C puts paper in bag bin ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 370.0973786,
+            "timestamp_frame": 11102,
+            "_unmapped_timestamp_sec": 370.07635,
+            "narration_text": "#C C picks fork on chopping board ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 370.00228860000004,
+            "timestamp_frame": 11099,
+            "_unmapped_timestamp_sec": 369.98126,
+            "narration_text": "#C C picks mesh strainer with meat ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 370.7981786,
+            "timestamp_frame": 11123,
+            "_unmapped_timestamp_sec": 370.77715,
+            "narration_text": "#C C stirs meat in skillet with the fork ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 374.7951486,
+            "timestamp_frame": 11243,
+            "_unmapped_timestamp_sec": 374.77412,
+            "narration_text": "#C C puts meat in skillet inside the strainer using the fork ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 394.8612686,
+            "timestamp_frame": 11845,
+            "_unmapped_timestamp_sec": 394.84024,
+            "narration_text": "#C C turns cooker knob ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 396.19010860000003,
+            "timestamp_frame": 11885,
+            "_unmapped_timestamp_sec": 396.16908,
+            "narration_text": "#C C places strainer with meat in the sink ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 397.6996586,
+            "timestamp_frame": 11930,
+            "_unmapped_timestamp_sec": 397.67863,
+            "narration_text": "#C C picks knife and chopping board on countertop ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 398.6909686,
+            "timestamp_frame": 11960,
+            "_unmapped_timestamp_sec": 398.66994,
+            "narration_text": "#C C places knife on chopping board ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 399.3565886,
+            "timestamp_frame": 11980,
+            "_unmapped_timestamp_sec": 399.33556,
+            "narration_text": "#C C points strainer with meat in sink ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 400.57658860000004,
+            "timestamp_frame": 12017,
+            "_unmapped_timestamp_sec": 400.55556,
+            "narration_text": "#C C picks the strainer ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 401.44199860000003,
+            "timestamp_frame": 12043,
+            "_unmapped_timestamp_sec": 401.42097,
+            "narration_text": "#C C takes fork in the strainer ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 402.4127786,
+            "timestamp_frame": 12072,
+            "_unmapped_timestamp_sec": 402.39175,
+            "narration_text": "#C C stirs meat ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 403.11242860000004,
+            "timestamp_frame": 12093,
+            "_unmapped_timestamp_sec": 403.0914,
+            "narration_text": "#C C shakes the strainer ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 405.56978860000004,
+            "timestamp_frame": 12166,
+            "_unmapped_timestamp_sec": 405.54876,
+            "narration_text": "#C C stirs meat ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 410.1563986,
+            "timestamp_frame": 12304,
+            "_unmapped_timestamp_sec": 410.13536999999997,
+            "narration_text": "#C C shakes the strainer ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 412.7658286,
+            "timestamp_frame": 12382,
+            "_unmapped_timestamp_sec": 412.7448,
+            "narration_text": "#C C places strainer in sink ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        },
+        {
+            "timestamp_sec": 413.95318860000003,
+            "timestamp_frame": 12418,
+            "_unmapped_timestamp_sec": 413.93216,
+            "narration_text": "#C C washes onions in bowl in the sink ",
+            "annotation_uid": "d6115eb0-54dc-474f-8597-e439f7001320"
+        }
+    ]
+}

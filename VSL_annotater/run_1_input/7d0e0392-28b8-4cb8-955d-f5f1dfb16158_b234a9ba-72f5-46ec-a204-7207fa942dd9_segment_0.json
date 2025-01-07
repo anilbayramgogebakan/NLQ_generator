@@ -1,0 +1,907 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 0.495,
+            "timestamp_frame": 15,
+            "_unmapped_timestamp_sec": 0.495,
+            "narration_text": "#C C rubs his nose with his right hand. #unsure",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 0.86336,
+            "timestamp_frame": 26,
+            "_unmapped_timestamp_sec": 0.86336,
+            "narration_text": "#C C walks towards a mower. ",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 1.63926,
+            "timestamp_frame": 49,
+            "_unmapped_timestamp_sec": 1.63926,
+            "narration_text": "#C C holds the mower. ",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 3.74097,
+            "timestamp_frame": 112,
+            "_unmapped_timestamp_sec": 3.74097,
+            "narration_text": "#C C presses a button on the mower. ",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 9.09631,
+            "timestamp_frame": 273,
+            "_unmapped_timestamp_sec": 9.09631,
+            "narration_text": "#C C walks away from the mower. ",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 12.4961,
+            "timestamp_frame": 375,
+            "_unmapped_timestamp_sec": 12.4961,
+            "narration_text": "#C c touches his pocket. #unsure",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 13.58001,
+            "timestamp_frame": 407,
+            "_unmapped_timestamp_sec": 13.58001,
+            "narration_text": "#C C walks to a tool bench. ",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 16.272,
+            "timestamp_frame": 488,
+            "_unmapped_timestamp_sec": 16.272,
+            "narration_text": "#C C picks a screwdriver, a plier  and a clamp. #unsure",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 18.20436,
+            "timestamp_frame": 546,
+            "_unmapped_timestamp_sec": 18.20436,
+            "narration_text": "#C C walks back to the the mower. ",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 22.53836,
+            "timestamp_frame": 676,
+            "_unmapped_timestamp_sec": 22.53836,
+            "narration_text": "#C C tightens a crew with the plier on the mower. #unsure",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 31.81198,
+            "timestamp_frame": 954,
+            "_unmapped_timestamp_sec": 31.81198,
+            "narration_text": "#C C drops the plier. ",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 33.04454,
+            "timestamp_frame": 991,
+            "_unmapped_timestamp_sec": 33.04454,
+            "narration_text": "#C C adjusts the wrench in his hand. #unsure",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 35.50839,
+            "timestamp_frame": 1065,
+            "_unmapped_timestamp_sec": 35.50839,
+            "narration_text": "#C C fixes the wrench in the mower. #unsure",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 38.00889,
+            "timestamp_frame": 1140,
+            "_unmapped_timestamp_sec": 38.00889,
+            "narration_text": "#C C detaches the handle of  the wrench #unsure\n",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 41.37653,
+            "timestamp_frame": 1241,
+            "_unmapped_timestamp_sec": 41.37653,
+            "narration_text": "#C C looses the screw in the mower. #unsure",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 48.2347,
+            "timestamp_frame": 1447,
+            "_unmapped_timestamp_sec": 48.2347,
+            "narration_text": "#C C passes the wrench to his left hand. #unsure",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 49.22295,
+            "timestamp_frame": 1477,
+            "_unmapped_timestamp_sec": 49.22295,
+            "narration_text": "#C C picks the plug on the floor.",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 52.48817,
+            "timestamp_frame": 1575,
+            "_unmapped_timestamp_sec": 52.48817,
+            "narration_text": "#C C throws the plug in the dustbin.",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 53.39889,
+            "timestamp_frame": 1602,
+            "_unmapped_timestamp_sec": 53.39889,
+            "narration_text": "#C C opens a locker.",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 55.48471,
+            "timestamp_frame": 1665,
+            "_unmapped_timestamp_sec": 55.48471,
+            "narration_text": "#C C picks another plug.",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 58.97975,
+            "timestamp_frame": 1769,
+            "_unmapped_timestamp_sec": 58.97975,
+            "narration_text": "#C C closes the locker",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 61.07519,
+            "timestamp_frame": 1832,
+            "_unmapped_timestamp_sec": 61.07519,
+            "narration_text": "#C C unpacks the plug.",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 67.09354,
+            "timestamp_frame": 2013,
+            "_unmapped_timestamp_sec": 67.09354,
+            "narration_text": "#C C drops the pack of the plug",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 69.16833,
+            "timestamp_frame": 2075,
+            "_unmapped_timestamp_sec": 69.16833,
+            "narration_text": "#C C drops the wrench. #unsure",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 73.01653,
+            "timestamp_frame": 2190,
+            "_unmapped_timestamp_sec": 73.01653,
+            "narration_text": "#C C fixes the plug in the mower. ",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 82.59848,
+            "timestamp_frame": 2478,
+            "_unmapped_timestamp_sec": 82.59848,
+            "narration_text": "#C C picks the wrench from the floor. ",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 83.3507,
+            "timestamp_frame": 2501,
+            "_unmapped_timestamp_sec": 83.3507,
+            "narration_text": "#C C screws the plug in the mower.",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 90.87511,
+            "timestamp_frame": 2726,
+            "_unmapped_timestamp_sec": 90.87511,
+            "narration_text": "#C C attaches the wrench to the handle. #unsure",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 100.37907,
+            "timestamp_frame": 3011,
+            "_unmapped_timestamp_sec": 100.37907,
+            "narration_text": "#C C continues to screw the plug in the mower.",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 104.26511,
+            "timestamp_frame": 3128,
+            "_unmapped_timestamp_sec": 104.26511,
+            "narration_text": "#C C drops the wrench in the floor. #unsure",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 106.07502,
+            "timestamp_frame": 3182,
+            "_unmapped_timestamp_sec": 106.07502,
+            "narration_text": "#C C presses the plug in he mower.",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 108.30328,
+            "timestamp_frame": 3249,
+            "_unmapped_timestamp_sec": 108.30328,
+            "narration_text": "#C C moves the plier",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 109.45883,
+            "timestamp_frame": 3284,
+            "_unmapped_timestamp_sec": 109.45883,
+            "narration_text": "#C C picks the pack of the plug.",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 110.71669,
+            "timestamp_frame": 3322,
+            "_unmapped_timestamp_sec": 110.71669,
+            "narration_text": "#C C drops the pack of the plug on the mower.",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 113.463,
+            "timestamp_frame": 3404,
+            "_unmapped_timestamp_sec": 113.463,
+            "narration_text": "#C C opens a gauge pump. #unsure",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 116.31304,
+            "timestamp_frame": 3489,
+            "_unmapped_timestamp_sec": 116.31304,
+            "narration_text": "#C C picks a napkin. ",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 116.82131,
+            "timestamp_frame": 3505,
+            "_unmapped_timestamp_sec": 116.82131,
+            "narration_text": "#C C cleans the gauge pump. #unsure",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 120.05033,
+            "timestamp_frame": 3602,
+            "_unmapped_timestamp_sec": 120.05033,
+            "narration_text": "#C C fixes the gauge pump in the mower. #unsure",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 129.22918,
+            "timestamp_frame": 3877,
+            "_unmapped_timestamp_sec": 129.22918,
+            "narration_text": "#C C drops the napkin.",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 129.82077,
+            "timestamp_frame": 3895,
+            "_unmapped_timestamp_sec": 129.82077,
+            "narration_text": "#C C picks a plastic bottle. #unsure",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 130.46453,
+            "timestamp_frame": 3914,
+            "_unmapped_timestamp_sec": 130.46453,
+            "narration_text": "#C C picks a mower blades. ",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 142.38012,
+            "timestamp_frame": 4271,
+            "_unmapped_timestamp_sec": 142.38012,
+            "narration_text": "#C C drops the blade in a bucket.",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 146.28021,
+            "timestamp_frame": 4388,
+            "_unmapped_timestamp_sec": 146.28021,
+            "narration_text": "#C C cuts  a paper tag on the mower.",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 149.82615,
+            "timestamp_frame": 4495,
+            "_unmapped_timestamp_sec": 149.82615,
+            "narration_text": "#C C walks to the work bench.",
+            "annotation_uid": "d6e46ce8-a621-45ed-80e4-d2e4d4a5d2fd"
+        },
+        {
+            "timestamp_sec": 0.0,
+            "timestamp_frame": 0,
+            "_unmapped_timestamp_sec": 0.0,
+            "narration_text": "#C C walks around the workshop",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 0.52291,
+            "timestamp_frame": 16,
+            "_unmapped_timestamp_sec": 0.52291,
+            "narration_text": "#C C wipes #unsure with his hand ",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 1.67992,
+            "timestamp_frame": 50,
+            "_unmapped_timestamp_sec": 1.67992,
+            "narration_text": "#C C holds a lawn mower",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 2.49588,
+            "timestamp_frame": 75,
+            "_unmapped_timestamp_sec": 2.49588,
+            "narration_text": "#C C walks beside the lawn mower",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 3.59701,
+            "timestamp_frame": 108,
+            "_unmapped_timestamp_sec": 3.59701,
+            "narration_text": "#C C holds the lawn mower with both hands",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 4.62672,
+            "timestamp_frame": 139,
+            "_unmapped_timestamp_sec": 4.62672,
+            "narration_text": "#C C presses the power button",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 5.49512,
+            "timestamp_frame": 165,
+            "_unmapped_timestamp_sec": 5.49512,
+            "narration_text": "#C C pulls his hand off the power button",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 6.20598,
+            "timestamp_frame": 186,
+            "_unmapped_timestamp_sec": 6.20598,
+            "narration_text": "#C C holds the lawn mower with both hands",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 7.09435,
+            "timestamp_frame": 213,
+            "_unmapped_timestamp_sec": 7.09435,
+            "narration_text": "#C C pulls his hand off the lawn mower handle",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 8.40527,
+            "timestamp_frame": 252,
+            "_unmapped_timestamp_sec": 8.40527,
+            "narration_text": "#C C drops the lawn mower handle",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 8.83593,
+            "timestamp_frame": 265,
+            "_unmapped_timestamp_sec": 8.83593,
+            "narration_text": "#C C walks away from the lawn mower",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 16.37009,
+            "timestamp_frame": 491,
+            "_unmapped_timestamp_sec": 16.37009,
+            "narration_text": "#C C picks up a ratchet handle",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 16.37009,
+            "timestamp_frame": 491,
+            "_unmapped_timestamp_sec": 16.37009,
+            "narration_text": "#C C picks up a pliers",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 18.26644,
+            "timestamp_frame": 548,
+            "_unmapped_timestamp_sec": 18.26644,
+            "narration_text": "#C C switches the pliers to the other hand",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 18.91434,
+            "timestamp_frame": 567,
+            "_unmapped_timestamp_sec": 18.91434,
+            "narration_text": "#C C switches ratchet handle to the  other hand",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 18.26644,
+            "timestamp_frame": 548,
+            "_unmapped_timestamp_sec": 18.26644,
+            "narration_text": "#C C walks around the workshop",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 19.17018,
+            "timestamp_frame": 575,
+            "_unmapped_timestamp_sec": 19.17018,
+            "narration_text": "#C C walks around the workshop",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 20.22599,
+            "timestamp_frame": 607,
+            "_unmapped_timestamp_sec": 20.22599,
+            "narration_text": "#C C holds ratchet  handle with both hands",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 21.32114,
+            "timestamp_frame": 640,
+            "_unmapped_timestamp_sec": 21.32114,
+            "narration_text": "#C C switches the pliers to the other hand",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 22.54371,
+            "timestamp_frame": 676,
+            "_unmapped_timestamp_sec": 22.54371,
+            "narration_text": "#C C bends",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 22.81893,
+            "timestamp_frame": 685,
+            "_unmapped_timestamp_sec": 22.81893,
+            "narration_text": "#C C cuts #unsure with a pliers",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 31.55066,
+            "timestamp_frame": 947,
+            "_unmapped_timestamp_sec": 31.55066,
+            "narration_text": "#C C pulls the pliers off #unsure",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 32.14231,
+            "timestamp_frame": 964,
+            "_unmapped_timestamp_sec": 32.14231,
+            "narration_text": "#C C drops the pliers on the floor",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 32.83861,
+            "timestamp_frame": 985,
+            "_unmapped_timestamp_sec": 32.83861,
+            "narration_text": "#C C pulls the ratchet handle",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 35.11506,
+            "timestamp_frame": 1053,
+            "_unmapped_timestamp_sec": 35.11506,
+            "narration_text": "#C C puts  ratchet handle  in  the lawn mower",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 37.70228,
+            "timestamp_frame": 1131,
+            "_unmapped_timestamp_sec": 37.70228,
+            "narration_text": "#C C pulls a socket wrench off the ratchet handle",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 40.52107,
+            "timestamp_frame": 1216,
+            "_unmapped_timestamp_sec": 40.52107,
+            "narration_text": "#C C loosens a nut  with a ratchet",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 47.25722,
+            "timestamp_frame": 1418,
+            "_unmapped_timestamp_sec": 47.25722,
+            "narration_text": "#C C removes the nut off  the lawn mower",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 48.36805,
+            "timestamp_frame": 1451,
+            "_unmapped_timestamp_sec": 48.36805,
+            "narration_text": "#C C switches ratchet handle to the  other hand",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 49.41714,
+            "timestamp_frame": 1483,
+            "_unmapped_timestamp_sec": 49.41714,
+            "narration_text": "#C C picks up a nut",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 50.08855,
+            "timestamp_frame": 1503,
+            "_unmapped_timestamp_sec": 50.08855,
+            "narration_text": "#C C checks the nut",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 52.01663,
+            "timestamp_frame": 1560,
+            "_unmapped_timestamp_sec": 52.01663,
+            "narration_text": "#C C throws the nut in the bucket",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 53.32797,
+            "timestamp_frame": 1600,
+            "_unmapped_timestamp_sec": 53.32797,
+            "narration_text": "#C C opens  a cabinet",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 55.30397,
+            "timestamp_frame": 1659,
+            "_unmapped_timestamp_sec": 55.30397,
+            "narration_text": "#C C picks a box",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 59.62097,
+            "timestamp_frame": 1789,
+            "_unmapped_timestamp_sec": 59.62097,
+            "narration_text": "#C C closes the cabinet",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 61.36901,
+            "timestamp_frame": 1841,
+            "_unmapped_timestamp_sec": 61.36901,
+            "narration_text": "#C C opens the box",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 61.96053,
+            "timestamp_frame": 1859,
+            "_unmapped_timestamp_sec": 61.96053,
+            "narration_text": "#C C removes the nut from the box",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 65.24949,
+            "timestamp_frame": 1957,
+            "_unmapped_timestamp_sec": 65.24949,
+            "narration_text": "#C C covers the box",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 66.75213,
+            "timestamp_frame": 2003,
+            "_unmapped_timestamp_sec": 66.75213,
+            "narration_text": "#C C sits on a chair",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 67.15846,
+            "timestamp_frame": 2015,
+            "_unmapped_timestamp_sec": 67.15846,
+            "narration_text": "#C C drops the box on the floor",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 69.25259,
+            "timestamp_frame": 2078,
+            "_unmapped_timestamp_sec": 69.25259,
+            "narration_text": "#C C puts the ratchet handle on the floor",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 70.21134,
+            "timestamp_frame": 2106,
+            "_unmapped_timestamp_sec": 70.21134,
+            "narration_text": "#C C holds a nut with his hand",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 70.56765,
+            "timestamp_frame": 2117,
+            "_unmapped_timestamp_sec": 70.56765,
+            "narration_text": "#C C  switches the ratchet handle to the hand",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 70.94348,
+            "timestamp_frame": 2128,
+            "_unmapped_timestamp_sec": 70.94348,
+            "narration_text": "#C C wipes #unsure with his hand",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 73.58962,
+            "timestamp_frame": 2208,
+            "_unmapped_timestamp_sec": 73.58962,
+            "narration_text": "#C C fixes the nut on the lawn mower",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 81.09847,
+            "timestamp_frame": 2433,
+            "_unmapped_timestamp_sec": 81.09847,
+            "narration_text": "#C C pulls his hand off the nut",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 81.64204,
+            "timestamp_frame": 2449,
+            "_unmapped_timestamp_sec": 81.64204,
+            "narration_text": "#C C picks up a ratchet handle",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 83.78641,
+            "timestamp_frame": 2514,
+            "_unmapped_timestamp_sec": 83.78641,
+            "narration_text": "#C C tightens the nut with a  ratchet handle",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 89.26339,
+            "timestamp_frame": 2678,
+            "_unmapped_timestamp_sec": 89.26339,
+            "narration_text": "#C C pulls his hand off  a  ratchet handle",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 90.6001,
+            "timestamp_frame": 2718,
+            "_unmapped_timestamp_sec": 90.6001,
+            "narration_text": "#C C picks up a socket wrench",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 92.72617,
+            "timestamp_frame": 2782,
+            "_unmapped_timestamp_sec": 92.72617,
+            "narration_text": "#C C attaches the socket wrench to the ratchet handle",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 96.48789,
+            "timestamp_frame": 2895,
+            "_unmapped_timestamp_sec": 96.48789,
+            "narration_text": "#C C tightens the nut with a  ratchet handle",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 103.23946,
+            "timestamp_frame": 3097,
+            "_unmapped_timestamp_sec": 103.23946,
+            "narration_text": "#C C pulls the ratchet handle off the nut",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 103.54324,
+            "timestamp_frame": 3106,
+            "_unmapped_timestamp_sec": 103.54324,
+            "narration_text": "#C C folds the ratchet ",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 104.52774,
+            "timestamp_frame": 3136,
+            "_unmapped_timestamp_sec": 104.52774,
+            "narration_text": "#C C puts the ratchet on the floor",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 104.87992,
+            "timestamp_frame": 3146,
+            "_unmapped_timestamp_sec": 104.87992,
+            "narration_text": "#C C loosens #unsure with his hand",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 105.28016,
+            "timestamp_frame": 3158,
+            "_unmapped_timestamp_sec": 105.28016,
+            "narration_text": "#C C holds a lawn mower handle",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 107.73311,
+            "timestamp_frame": 3232,
+            "_unmapped_timestamp_sec": 107.73311,
+            "narration_text": "#C C pulls his hand off  #unsure",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 107.73311,
+            "timestamp_frame": 3232,
+            "_unmapped_timestamp_sec": 107.73311,
+            "narration_text": "#C C pulls his hand off  lawn mower handle",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 108.48515,
+            "timestamp_frame": 3255,
+            "_unmapped_timestamp_sec": 108.48515,
+            "narration_text": "#C C picks up a  box",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 110.45594,
+            "timestamp_frame": 3314,
+            "_unmapped_timestamp_sec": 110.45594,
+            "narration_text": "#C C puts the box on the metal",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 111.64308,
+            "timestamp_frame": 3349,
+            "_unmapped_timestamp_sec": 111.64308,
+            "narration_text": "#C C holds the engine",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 113.8743,
+            "timestamp_frame": 3416,
+            "_unmapped_timestamp_sec": 113.8743,
+            "narration_text": "#C C opens the fuel tank",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 115.92924,
+            "timestamp_frame": 3478,
+            "_unmapped_timestamp_sec": 115.92924,
+            "narration_text": "#C C picks up a cloth",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 117.21799,
+            "timestamp_frame": 3517,
+            "_unmapped_timestamp_sec": 117.21799,
+            "narration_text": "#C C wipes the straw with a towel",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 120.61001,
+            "timestamp_frame": 3618,
+            "_unmapped_timestamp_sec": 120.61001,
+            "narration_text": "#C C checks the fuel with the straw",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 126.9899,
+            "timestamp_frame": 3810,
+            "_unmapped_timestamp_sec": 126.9899,
+            "narration_text": "#C C covers the fuel tank with a lid",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 128.88008,
+            "timestamp_frame": 3866,
+            "_unmapped_timestamp_sec": 128.88008,
+            "narration_text": "#C C switches the towel to the other hand",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 129.24309,
+            "timestamp_frame": 3877,
+            "_unmapped_timestamp_sec": 129.24309,
+            "narration_text": "#C C throws the towel on the metal",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 129.55364,
+            "timestamp_frame": 3887,
+            "_unmapped_timestamp_sec": 129.55364,
+            "narration_text": "#C C picks up a plastic wrapper",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 130.55584,
+            "timestamp_frame": 3917,
+            "_unmapped_timestamp_sec": 130.55584,
+            "narration_text": "#C C picks up a box",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 131.29556,
+            "timestamp_frame": 3939,
+            "_unmapped_timestamp_sec": 131.29556,
+            "narration_text": "#C C switches the box to the other hand",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 132.23409,
+            "timestamp_frame": 3967,
+            "_unmapped_timestamp_sec": 132.23409,
+            "narration_text": "#C C picks up a metal",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 134.34493,
+            "timestamp_frame": 4030,
+            "_unmapped_timestamp_sec": 134.34493,
+            "narration_text": "#C C holds the metal with both hands",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 134.64497,
+            "timestamp_frame": 4039,
+            "_unmapped_timestamp_sec": 134.64497,
+            "narration_text": "#C C opens the metal",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 137.64719,
+            "timestamp_frame": 4129,
+            "_unmapped_timestamp_sec": 137.64719,
+            "narration_text": "#C C joins the metal",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 139.14157,
+            "timestamp_frame": 4174,
+            "_unmapped_timestamp_sec": 139.14157,
+            "narration_text": "#C C holds the metal with both hands",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 142.04888,
+            "timestamp_frame": 4261,
+            "_unmapped_timestamp_sec": 142.04888,
+            "narration_text": "#C C throws the metal in a bucket",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 144.1966,
+            "timestamp_frame": 4326,
+            "_unmapped_timestamp_sec": 144.1966,
+            "narration_text": "#C C holds a wrapper with both hands",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 144.48261,
+            "timestamp_frame": 4334,
+            "_unmapped_timestamp_sec": 144.48261,
+            "narration_text": "#C C walks along the lawn mower",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 146.53997,
+            "timestamp_frame": 4396,
+            "_unmapped_timestamp_sec": 146.53997,
+            "narration_text": "#C C holds a tag with both hands",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 147.37963,
+            "timestamp_frame": 4421,
+            "_unmapped_timestamp_sec": 147.37963,
+            "narration_text": "#C C separates the tags",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 147.67938,
+            "timestamp_frame": 4430,
+            "_unmapped_timestamp_sec": 147.67938,
+            "narration_text": "#C C pulls the tag",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 148.49884,
+            "timestamp_frame": 4455,
+            "_unmapped_timestamp_sec": 148.49884,
+            "narration_text": "#C C holds the tag with both hands",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        },
+        {
+            "timestamp_sec": 149.60173,
+            "timestamp_frame": 4488,
+            "_unmapped_timestamp_sec": 149.60173,
+            "narration_text": "#C C walks around the workshop",
+            "annotation_uid": "219cbe9c-a1d8-47e1-b9f8-5af707eba40c"
+        }
+    ]
+}

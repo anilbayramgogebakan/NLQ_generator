@@ -1,0 +1,1019 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 1500.7658000000001,
+            "timestamp_frame": 45023,
+            "_unmapped_timestamp_sec": 1500.7658000000001,
+            "narration_text": "#O man D throws the ball to man B",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1502.31641,
+            "timestamp_frame": 45069,
+            "_unmapped_timestamp_sec": 1502.31641,
+            "narration_text": "#O man B throws the ball to man D",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1503.77733,
+            "timestamp_frame": 45113,
+            "_unmapped_timestamp_sec": 1503.77733,
+            "narration_text": "#O man D makes a basket",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1504.8728,
+            "timestamp_frame": 45146,
+            "_unmapped_timestamp_sec": 1504.8728,
+            "narration_text": "#O man A holds the ball",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1506.3090200000001,
+            "timestamp_frame": 45189,
+            "_unmapped_timestamp_sec": 1506.30902,
+            "narration_text": "#C C holds the ball",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1506.3090200000001,
+            "timestamp_frame": 45189,
+            "_unmapped_timestamp_sec": 1506.30902,
+            "narration_text": "#O man A throws the ball to C",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1516.3858599999999,
+            "timestamp_frame": 45492,
+            "_unmapped_timestamp_sec": 1516.38586,
+            "narration_text": "#O man F gets in the court",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1524.09865,
+            "timestamp_frame": 45723,
+            "_unmapped_timestamp_sec": 1524.09865,
+            "narration_text": "#C C gets out of the court",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1526.77135,
+            "timestamp_frame": 45803,
+            "_unmapped_timestamp_sec": 1526.77135,
+            "narration_text": "#C C watches basketball game ",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1524.09865,
+            "timestamp_frame": 45723,
+            "_unmapped_timestamp_sec": 1524.09865,
+            "narration_text": "#C C throws the ball to man A",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1527.20544,
+            "timestamp_frame": 45816,
+            "_unmapped_timestamp_sec": 1527.20544,
+            "narration_text": "#O man A throws the ball to man B",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1527.7586900000001,
+            "timestamp_frame": 45833,
+            "_unmapped_timestamp_sec": 1527.7586900000001,
+            "narration_text": "#O man B holds the ball",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1529.95407,
+            "timestamp_frame": 45899,
+            "_unmapped_timestamp_sec": 1529.95407,
+            "narration_text": "#O man B throws the ball to man A",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1532.21331,
+            "timestamp_frame": 45966,
+            "_unmapped_timestamp_sec": 1532.21331,
+            "narration_text": "#O man A throws the ball to man B",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1534.37561,
+            "timestamp_frame": 46031,
+            "_unmapped_timestamp_sec": 1534.37561,
+            "narration_text": "#O man B throws the ball to man D",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1538.29845,
+            "timestamp_frame": 46149,
+            "_unmapped_timestamp_sec": 1538.29845,
+            "narration_text": "#O man D throws the ball to man B",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1540.15954,
+            "timestamp_frame": 46205,
+            "_unmapped_timestamp_sec": 1540.15954,
+            "narration_text": "#O man B throws the ball to man F",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1541.33652,
+            "timestamp_frame": 46240,
+            "_unmapped_timestamp_sec": 1541.33652,
+            "narration_text": "#O man F throws the ball to man B",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1542.96079,
+            "timestamp_frame": 46289,
+            "_unmapped_timestamp_sec": 1542.96079,
+            "narration_text": "#O man B dribbles the ball",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1546.69703,
+            "timestamp_frame": 46401,
+            "_unmapped_timestamp_sec": 1546.69703,
+            "narration_text": "#O man A dribbles the ball",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1547.83715,
+            "timestamp_frame": 46435,
+            "_unmapped_timestamp_sec": 1547.83715,
+            "narration_text": "#O man A throws the ball to man F",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1548.95676,
+            "timestamp_frame": 46469,
+            "_unmapped_timestamp_sec": 1548.95676,
+            "narration_text": "#O man F dribble the ball",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1553.8084800000001,
+            "timestamp_frame": 46614,
+            "_unmapped_timestamp_sec": 1553.80848,
+            "narration_text": "#O man F throws the ball to man A",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1555.0089600000001,
+            "timestamp_frame": 46650,
+            "_unmapped_timestamp_sec": 1555.0089600000001,
+            "narration_text": "#O man A throws the ball to man F",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1556.45301,
+            "timestamp_frame": 46694,
+            "_unmapped_timestamp_sec": 1556.45301,
+            "narration_text": "#O man F makes a basket",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1557.33391,
+            "timestamp_frame": 46720,
+            "_unmapped_timestamp_sec": 1557.33391,
+            "narration_text": "#O man B holds a ball",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1560.87733,
+            "timestamp_frame": 46826,
+            "_unmapped_timestamp_sec": 1560.87733,
+            "narration_text": "#O man B throws the ball to man F",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1563.62863,
+            "timestamp_frame": 46909,
+            "_unmapped_timestamp_sec": 1563.62863,
+            "narration_text": "#O man F throws the ball to man D",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1564.50893,
+            "timestamp_frame": 46935,
+            "_unmapped_timestamp_sec": 1564.50893,
+            "narration_text": "#O man D throws the ball to man F",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1565.59791,
+            "timestamp_frame": 46968,
+            "_unmapped_timestamp_sec": 1565.59791,
+            "narration_text": "#O man F dribbles the ball",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1574.9804,
+            "timestamp_frame": 47249,
+            "_unmapped_timestamp_sec": 1574.9804,
+            "narration_text": "#O man F throws the ball to man A",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1576.6433200000001,
+            "timestamp_frame": 47299,
+            "_unmapped_timestamp_sec": 1576.64332,
+            "narration_text": "#O man A throws the ball on the ring",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1577.55961,
+            "timestamp_frame": 47327,
+            "_unmapped_timestamp_sec": 1577.55961,
+            "narration_text": "#O man B picks the ball",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1578.67076,
+            "timestamp_frame": 47360,
+            "_unmapped_timestamp_sec": 1578.67076,
+            "narration_text": "#O man B dribbles the ball",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1585.21619,
+            "timestamp_frame": 47556,
+            "_unmapped_timestamp_sec": 1585.21619,
+            "narration_text": "#O man B throws the ball to man D",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1587.77078,
+            "timestamp_frame": 47633,
+            "_unmapped_timestamp_sec": 1587.77078,
+            "narration_text": "#O man D throws the ball on the ring ",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1588.68066,
+            "timestamp_frame": 47660,
+            "_unmapped_timestamp_sec": 1588.68066,
+            "narration_text": "#O man F touches the ball",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1589.48074,
+            "timestamp_frame": 47684,
+            "_unmapped_timestamp_sec": 1589.48074,
+            "narration_text": "#O man A dribbles the ball",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1592.06522,
+            "timestamp_frame": 47762,
+            "_unmapped_timestamp_sec": 1592.06522,
+            "narration_text": "#O man A throws the ball to man F",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1593.37883,
+            "timestamp_frame": 47801,
+            "_unmapped_timestamp_sec": 1593.37883,
+            "narration_text": "#O man F dribble the ball",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1595.20281,
+            "timestamp_frame": 47856,
+            "_unmapped_timestamp_sec": 1595.20281,
+            "narration_text": "#O man F throws the ball on the ring",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1597.28339,
+            "timestamp_frame": 47919,
+            "_unmapped_timestamp_sec": 1597.28339,
+            "narration_text": "#O man D dribbles the ball",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1602.01902,
+            "timestamp_frame": 48061,
+            "_unmapped_timestamp_sec": 1602.01902,
+            "narration_text": "#O man D throws the ball on the ring",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1603.7070800000001,
+            "timestamp_frame": 48111,
+            "_unmapped_timestamp_sec": 1603.70708,
+            "narration_text": "#O man A dribble the ball",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1606.3544,
+            "timestamp_frame": 48191,
+            "_unmapped_timestamp_sec": 1606.3544,
+            "narration_text": "#O man A throws the ball to man B",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1607.4228699999999,
+            "timestamp_frame": 48223,
+            "_unmapped_timestamp_sec": 1607.4228699999999,
+            "narration_text": "#O man B holds the ball",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1608.06266,
+            "timestamp_frame": 48242,
+            "_unmapped_timestamp_sec": 1608.06266,
+            "narration_text": "#O man B throws the ball to man D",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1610.13353,
+            "timestamp_frame": 48304,
+            "_unmapped_timestamp_sec": 1610.13353,
+            "narration_text": "#O man D dribbles the ball",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1612.8837800000001,
+            "timestamp_frame": 48387,
+            "_unmapped_timestamp_sec": 1612.8837800000001,
+            "narration_text": "#O man D makes a basket",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1617.3310900000001,
+            "timestamp_frame": 48520,
+            "_unmapped_timestamp_sec": 1617.3310900000001,
+            "narration_text": "#O man A walks",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1619.1080200000001,
+            "timestamp_frame": 48573,
+            "_unmapped_timestamp_sec": 1619.1080200000001,
+            "narration_text": "#O man F talks to man A",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1617.3310900000001,
+            "timestamp_frame": 48520,
+            "_unmapped_timestamp_sec": 1617.3310900000001,
+            "narration_text": "#O man A holds the ball",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1624.19518,
+            "timestamp_frame": 48726,
+            "_unmapped_timestamp_sec": 1624.19518,
+            "narration_text": "#O man A throws the ball to man B",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1627.54629,
+            "timestamp_frame": 48826,
+            "_unmapped_timestamp_sec": 1627.54629,
+            "narration_text": "#O man B dribbles the ball",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1633.49878,
+            "timestamp_frame": 49005,
+            "_unmapped_timestamp_sec": 1633.49878,
+            "narration_text": "#O man B throws the ball on the ring ",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1634.13041,
+            "timestamp_frame": 49024,
+            "_unmapped_timestamp_sec": 1634.13041,
+            "narration_text": "#O man B picks the ball",
+            "annotation_uid": "17066772-82f8-4724-8565-ee93bc0e4827"
+        },
+        {
+            "timestamp_sec": 1646.90443,
+            "timestamp_frame": 49407,
+            "_unmapped_timestamp_sec": 1646.90443,
+            "narration_text": "#C C walks",
+            "annotation_uid": "516808af-564b-4ed3-bcd3-57ea90a60362"
+        },
+        {
+            "timestamp_sec": 1646.90443,
+            "timestamp_frame": 49407,
+            "_unmapped_timestamp_sec": 1646.90443,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "516808af-564b-4ed3-bcd3-57ea90a60362"
+        },
+        {
+            "timestamp_sec": 1500.57015,
+            "timestamp_frame": 45017,
+            "_unmapped_timestamp_sec": 1500.57015,
+            "narration_text": "#O man Z throws the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1501.08328,
+            "timestamp_frame": 45032,
+            "_unmapped_timestamp_sec": 1501.08328,
+            "narration_text": "#O man Y picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1501.64439,
+            "timestamp_frame": 45049,
+            "_unmapped_timestamp_sec": 1501.64439,
+            "narration_text": "#O man Y throws the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1502.40347,
+            "timestamp_frame": 45072,
+            "_unmapped_timestamp_sec": 1502.40347,
+            "narration_text": "#O man Z picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1503.1907099999999,
+            "timestamp_frame": 45096,
+            "_unmapped_timestamp_sec": 1503.19071,
+            "narration_text": "#O man Z throws the ball in the hoop",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1504.6346899999999,
+            "timestamp_frame": 45139,
+            "_unmapped_timestamp_sec": 1504.63469,
+            "narration_text": "#O man X picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1506.20044,
+            "timestamp_frame": 45186,
+            "_unmapped_timestamp_sec": 1506.20044,
+            "narration_text": "#O man X throws the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1506.47012,
+            "timestamp_frame": 45194,
+            "_unmapped_timestamp_sec": 1506.47012,
+            "narration_text": "#C C picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1516.71127,
+            "timestamp_frame": 45501,
+            "_unmapped_timestamp_sec": 1516.71127,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1523.51254,
+            "timestamp_frame": 45705,
+            "_unmapped_timestamp_sec": 1523.51254,
+            "narration_text": "#C C throws the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1524.41749,
+            "timestamp_frame": 45733,
+            "_unmapped_timestamp_sec": 1524.41749,
+            "narration_text": "#O man X picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1525.6664,
+            "timestamp_frame": 45770,
+            "_unmapped_timestamp_sec": 1525.6664,
+            "narration_text": "#O man X throws the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1527.39399,
+            "timestamp_frame": 45822,
+            "_unmapped_timestamp_sec": 1527.39399,
+            "narration_text": "#O man Y picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1529.5833400000001,
+            "timestamp_frame": 45888,
+            "_unmapped_timestamp_sec": 1529.58334,
+            "narration_text": "#O man Y throws the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1530.54413,
+            "timestamp_frame": 45916,
+            "_unmapped_timestamp_sec": 1530.54413,
+            "narration_text": "#O man X picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1531.85939,
+            "timestamp_frame": 45956,
+            "_unmapped_timestamp_sec": 1531.85939,
+            "narration_text": "#O man X throws the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1532.51533,
+            "timestamp_frame": 45975,
+            "_unmapped_timestamp_sec": 1532.51533,
+            "narration_text": "#O man Y picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1533.77388,
+            "timestamp_frame": 46013,
+            "_unmapped_timestamp_sec": 1533.77388,
+            "narration_text": "#O man Y throws the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1534.31755,
+            "timestamp_frame": 46030,
+            "_unmapped_timestamp_sec": 1534.31755,
+            "narration_text": "#O man Z picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1537.6462999999999,
+            "timestamp_frame": 46129,
+            "_unmapped_timestamp_sec": 1537.6462999999999,
+            "narration_text": "#O man Z throws the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1538.87054,
+            "timestamp_frame": 46166,
+            "_unmapped_timestamp_sec": 1538.87054,
+            "narration_text": "#O man Y picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1539.44268,
+            "timestamp_frame": 46183,
+            "_unmapped_timestamp_sec": 1539.44268,
+            "narration_text": "#O man Y throws the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1540.43461,
+            "timestamp_frame": 46213,
+            "_unmapped_timestamp_sec": 1540.43461,
+            "narration_text": "#O man W picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1541.2060099999999,
+            "timestamp_frame": 46236,
+            "_unmapped_timestamp_sec": 1541.2060099999999,
+            "narration_text": "#O man W throws the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1541.88957,
+            "timestamp_frame": 46257,
+            "_unmapped_timestamp_sec": 1541.88957,
+            "narration_text": "#O man Y picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1542.29029,
+            "timestamp_frame": 46269,
+            "_unmapped_timestamp_sec": 1542.29029,
+            "narration_text": "#O man Y dribbles",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1545.90336,
+            "timestamp_frame": 46377,
+            "_unmapped_timestamp_sec": 1545.90336,
+            "narration_text": "#O man Y drops the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1546.59301,
+            "timestamp_frame": 46398,
+            "_unmapped_timestamp_sec": 1546.59301,
+            "narration_text": "#O man X picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1547.30852,
+            "timestamp_frame": 46419,
+            "_unmapped_timestamp_sec": 1547.30852,
+            "narration_text": "#O man X throws the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1547.72688,
+            "timestamp_frame": 46432,
+            "_unmapped_timestamp_sec": 1547.72688,
+            "narration_text": "#O man W picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1548.41322,
+            "timestamp_frame": 46452,
+            "_unmapped_timestamp_sec": 1548.41322,
+            "narration_text": "#O man W dribbles",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1552.48949,
+            "timestamp_frame": 46575,
+            "_unmapped_timestamp_sec": 1552.48949,
+            "narration_text": "#O man Z shields",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1553.71841,
+            "timestamp_frame": 46612,
+            "_unmapped_timestamp_sec": 1553.71841,
+            "narration_text": "#O man W throws the ball to X",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1554.1019099999999,
+            "timestamp_frame": 46623,
+            "_unmapped_timestamp_sec": 1554.10191,
+            "narration_text": "#O man X throws to W",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1555.69427,
+            "timestamp_frame": 46671,
+            "_unmapped_timestamp_sec": 1555.69427,
+            "narration_text": "#O man W throws the ball in the hoop",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1557.22291,
+            "timestamp_frame": 46717,
+            "_unmapped_timestamp_sec": 1557.22291,
+            "narration_text": "#O man Y picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1558.81899,
+            "timestamp_frame": 46765,
+            "_unmapped_timestamp_sec": 1558.81899,
+            "narration_text": "#O man Y drops the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1560.97134,
+            "timestamp_frame": 46829,
+            "_unmapped_timestamp_sec": 1560.97134,
+            "narration_text": "#O man W picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1563.37706,
+            "timestamp_frame": 46901,
+            "_unmapped_timestamp_sec": 1563.37706,
+            "narration_text": "#O man W throws the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1564.1120700000001,
+            "timestamp_frame": 46923,
+            "_unmapped_timestamp_sec": 1564.11207,
+            "narration_text": "#O man Z picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1564.27248,
+            "timestamp_frame": 46928,
+            "_unmapped_timestamp_sec": 1564.27248,
+            "narration_text": "#O man Z throws the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1564.89246,
+            "timestamp_frame": 46947,
+            "_unmapped_timestamp_sec": 1564.89246,
+            "narration_text": "#O man W picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1565.3053,
+            "timestamp_frame": 46959,
+            "_unmapped_timestamp_sec": 1565.3053,
+            "narration_text": "#O man W dribbles",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1567.3931400000001,
+            "timestamp_frame": 47022,
+            "_unmapped_timestamp_sec": 1567.39314,
+            "narration_text": "#O man Z shields",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1574.70526,
+            "timestamp_frame": 47241,
+            "_unmapped_timestamp_sec": 1574.70526,
+            "narration_text": "#O man W throw the ball to X",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1575.2269999999999,
+            "timestamp_frame": 47257,
+            "_unmapped_timestamp_sec": 1575.227,
+            "narration_text": "#O man X picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1575.50639,
+            "timestamp_frame": 47265,
+            "_unmapped_timestamp_sec": 1575.50639,
+            "narration_text": "#O man Z throws the ball in the hoop",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1577.33862,
+            "timestamp_frame": 47320,
+            "_unmapped_timestamp_sec": 1577.33862,
+            "narration_text": "#O man Y picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1577.7737200000001,
+            "timestamp_frame": 47333,
+            "_unmapped_timestamp_sec": 1577.77372,
+            "narration_text": "#O man X shields",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1578.04503,
+            "timestamp_frame": 47341,
+            "_unmapped_timestamp_sec": 1578.04503,
+            "narration_text": "#O man Y dribbles",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1584.89519,
+            "timestamp_frame": 47547,
+            "_unmapped_timestamp_sec": 1584.89519,
+            "narration_text": "#O man Y throws the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1585.9503300000001,
+            "timestamp_frame": 47579,
+            "_unmapped_timestamp_sec": 1585.9503300000001,
+            "narration_text": "#O man Z picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1586.56381,
+            "timestamp_frame": 47597,
+            "_unmapped_timestamp_sec": 1586.56381,
+            "narration_text": "#O man Z throws the ball in the hoop",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1588.16249,
+            "timestamp_frame": 47645,
+            "_unmapped_timestamp_sec": 1588.16249,
+            "narration_text": "#O man Y taps the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1589.39913,
+            "timestamp_frame": 47682,
+            "_unmapped_timestamp_sec": 1589.39913,
+            "narration_text": "#O man X dribbles",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1590.63419,
+            "timestamp_frame": 47719,
+            "_unmapped_timestamp_sec": 1590.63419,
+            "narration_text": "#O man Z shields",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1591.4094599999999,
+            "timestamp_frame": 47742,
+            "_unmapped_timestamp_sec": 1591.40946,
+            "narration_text": "#O man X throws the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1592.46479,
+            "timestamp_frame": 47774,
+            "_unmapped_timestamp_sec": 1592.46479,
+            "narration_text": "#O man W picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1592.96331,
+            "timestamp_frame": 47789,
+            "_unmapped_timestamp_sec": 1592.96331,
+            "narration_text": "#O man W dribbles",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1594.34771,
+            "timestamp_frame": 47830,
+            "_unmapped_timestamp_sec": 1594.34771,
+            "narration_text": "#O man y shields",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1594.70677,
+            "timestamp_frame": 47841,
+            "_unmapped_timestamp_sec": 1594.70677,
+            "narration_text": "#O man W throws the ball in the hoop",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1596.23387,
+            "timestamp_frame": 47887,
+            "_unmapped_timestamp_sec": 1596.23387,
+            "narration_text": "#O man Y picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1597.06604,
+            "timestamp_frame": 47912,
+            "_unmapped_timestamp_sec": 1597.06604,
+            "narration_text": "#O man Z dribbles",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1600.92185,
+            "timestamp_frame": 48028,
+            "_unmapped_timestamp_sec": 1600.92185,
+            "narration_text": "#O man Z throws the ball in the hoop",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1603.67335,
+            "timestamp_frame": 48110,
+            "_unmapped_timestamp_sec": 1603.67335,
+            "narration_text": "#O man X picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1604.26083,
+            "timestamp_frame": 48128,
+            "_unmapped_timestamp_sec": 1604.26083,
+            "narration_text": "#O man X dribbles",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1605.80504,
+            "timestamp_frame": 48174,
+            "_unmapped_timestamp_sec": 1605.80504,
+            "narration_text": "#O man X throws the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1606.91697,
+            "timestamp_frame": 48208,
+            "_unmapped_timestamp_sec": 1606.91697,
+            "narration_text": "#O man Y picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1607.60836,
+            "timestamp_frame": 48228,
+            "_unmapped_timestamp_sec": 1607.60836,
+            "narration_text": "#O man Y throws the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1608.20067,
+            "timestamp_frame": 48246,
+            "_unmapped_timestamp_sec": 1608.20067,
+            "narration_text": "#O man Z picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1608.4096,
+            "timestamp_frame": 48252,
+            "_unmapped_timestamp_sec": 1608.4096,
+            "narration_text": "#O man X shields",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1608.92281,
+            "timestamp_frame": 48268,
+            "_unmapped_timestamp_sec": 1608.92281,
+            "narration_text": "#O man Z dribbles",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1611.7543,
+            "timestamp_frame": 48353,
+            "_unmapped_timestamp_sec": 1611.7543,
+            "narration_text": "#O man Z throws the ball in the hoop",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1616.13036,
+            "timestamp_frame": 48484,
+            "_unmapped_timestamp_sec": 1616.13036,
+            "narration_text": "#O man X picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1619.00206,
+            "timestamp_frame": 48570,
+            "_unmapped_timestamp_sec": 1619.00206,
+            "narration_text": "#O man X talks to W",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1623.8828899999999,
+            "timestamp_frame": 48716,
+            "_unmapped_timestamp_sec": 1623.8828899999999,
+            "narration_text": "#O man X throws the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1624.63716,
+            "timestamp_frame": 48739,
+            "_unmapped_timestamp_sec": 1624.63716,
+            "narration_text": "#O man Y picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1627.3736,
+            "timestamp_frame": 48821,
+            "_unmapped_timestamp_sec": 1627.3736,
+            "narration_text": "#O man Y dribbles",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1633.05744,
+            "timestamp_frame": 48992,
+            "_unmapped_timestamp_sec": 1633.05744,
+            "narration_text": "#O man Y throws the ball in the hoop",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1634.24917,
+            "timestamp_frame": 49027,
+            "_unmapped_timestamp_sec": 1634.24917,
+            "narration_text": "#O man Y picks the ball",
+            "annotation_uid": "56920ce5-de8c-4656-8f53-f278c912cc8c"
+        },
+        {
+            "timestamp_sec": 1635.07597,
+            "timestamp_frame": 49052,
+            "_unmapped_timestamp_sec": 1635.07597,
+            "narration_text": "#O man Y dribbles the ball",
+            "annotation_uid": "8b500a7a-818e-4104-9095-2c606157cf00"
+        },
+        {
+            "timestamp_sec": 1635.65137,
+            "timestamp_frame": 49070,
+            "_unmapped_timestamp_sec": 1635.65137,
+            "narration_text": "#O man X shields",
+            "annotation_uid": "8b500a7a-818e-4104-9095-2c606157cf00"
+        },
+        {
+            "timestamp_sec": 1637.01196,
+            "timestamp_frame": 49110,
+            "_unmapped_timestamp_sec": 1637.01196,
+            "narration_text": "#O man Y picks the ball",
+            "annotation_uid": "8b500a7a-818e-4104-9095-2c606157cf00"
+        },
+        {
+            "timestamp_sec": 1637.16489,
+            "timestamp_frame": 49115,
+            "_unmapped_timestamp_sec": 1637.16489,
+            "narration_text": "#O man Y throws the ball",
+            "annotation_uid": "8b500a7a-818e-4104-9095-2c606157cf00"
+        },
+        {
+            "timestamp_sec": 1637.86755,
+            "timestamp_frame": 49136,
+            "_unmapped_timestamp_sec": 1637.86755,
+            "narration_text": "#O man Z picks the ball",
+            "annotation_uid": "8b500a7a-818e-4104-9095-2c606157cf00"
+        },
+        {
+            "timestamp_sec": 1638.38512,
+            "timestamp_frame": 49152,
+            "_unmapped_timestamp_sec": 1638.38512,
+            "narration_text": "#O man Z dribbles the ball",
+            "annotation_uid": "8b500a7a-818e-4104-9095-2c606157cf00"
+        },
+        {
+            "timestamp_sec": 1643.23414,
+            "timestamp_frame": 49297,
+            "_unmapped_timestamp_sec": 1643.23414,
+            "narration_text": "#O man X picks the ball",
+            "annotation_uid": "8b500a7a-818e-4104-9095-2c606157cf00"
+        }
+    ]
+}

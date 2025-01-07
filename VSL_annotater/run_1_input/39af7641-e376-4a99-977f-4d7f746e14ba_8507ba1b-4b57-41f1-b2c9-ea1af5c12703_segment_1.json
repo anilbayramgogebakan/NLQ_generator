@@ -1,0 +1,704 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 1411.3897585999998,
+            "timestamp_frame": 42341,
+            "_unmapped_timestamp_sec": 1411.36873,
+            "narration_text": "#O person X puts a card on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1412.8314085999998,
+            "timestamp_frame": 42384,
+            "_unmapped_timestamp_sec": 1412.81038,
+            "narration_text": "#O person X counts the spaces on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1413.9858986,
+            "timestamp_frame": 42419,
+            "_unmapped_timestamp_sec": 1413.96487,
+            "narration_text": "#O person X moves a pawn on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1416.1710785999999,
+            "timestamp_frame": 42485,
+            "_unmapped_timestamp_sec": 1416.15005,
+            "narration_text": "#O person X lifts up a pawn from the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1416.9101185999998,
+            "timestamp_frame": 42507,
+            "_unmapped_timestamp_sec": 1416.88909,
+            "narration_text": "#O person X puts a pawn on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1417.6467486,
+            "timestamp_frame": 42529,
+            "_unmapped_timestamp_sec": 1417.62572,
+            "narration_text": "#C C picks a card on the board ",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1424.9269786,
+            "timestamp_frame": 42747,
+            "_unmapped_timestamp_sec": 1424.90595,
+            "narration_text": "#C C takes a paper from the box",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1427.0461386,
+            "timestamp_frame": 42811,
+            "_unmapped_timestamp_sec": 1427.02511,
+            "narration_text": "#C C reads the paper",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1451.1158985999998,
+            "timestamp_frame": 43533,
+            "_unmapped_timestamp_sec": 1451.09487,
+            "narration_text": "#C C puts the paper in the box",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1452.0050586,
+            "timestamp_frame": 43560,
+            "_unmapped_timestamp_sec": 1451.98403,
+            "narration_text": "#C C adjusts the camera",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1459.0621886,
+            "timestamp_frame": 43771,
+            "_unmapped_timestamp_sec": 1459.04116,
+            "narration_text": "#C C puts a card on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1459.4706285999998,
+            "timestamp_frame": 43783,
+            "_unmapped_timestamp_sec": 1459.4496,
+            "narration_text": "#C C moves a pawn on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1461.3383285999998,
+            "timestamp_frame": 43840,
+            "_unmapped_timestamp_sec": 1461.3173,
+            "narration_text": "#O person X picks a card on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1462.9615185999999,
+            "timestamp_frame": 43888,
+            "_unmapped_timestamp_sec": 1462.94049,
+            "narration_text": "#O person X puts a card on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1469.1348686,
+            "timestamp_frame": 44073,
+            "_unmapped_timestamp_sec": 1469.11384,
+            "narration_text": "#O person X moves a pawn on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1471.9432385999999,
+            "timestamp_frame": 44158,
+            "_unmapped_timestamp_sec": 1471.92221,
+            "narration_text": "#C C picks a card on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1473.5985985999998,
+            "timestamp_frame": 44207,
+            "_unmapped_timestamp_sec": 1473.57757,
+            "narration_text": "#C C puts a card on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1475.4558186,
+            "timestamp_frame": 44263,
+            "_unmapped_timestamp_sec": 1475.43479,
+            "narration_text": "#C C moves a pawn on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1478.6330486,
+            "timestamp_frame": 44358,
+            "_unmapped_timestamp_sec": 1478.61202,
+            "narration_text": "#O person X picks a card on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1481.2756286,
+            "timestamp_frame": 44438,
+            "_unmapped_timestamp_sec": 1481.2546,
+            "narration_text": "#O person X puts a card on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1482.8676085999998,
+            "timestamp_frame": 44485,
+            "_unmapped_timestamp_sec": 1482.84658,
+            "narration_text": "#O person X counts the spaces on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1484.8216986,
+            "timestamp_frame": 44544,
+            "_unmapped_timestamp_sec": 1484.80067,
+            "narration_text": "#O person X moves a pawn on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1487.2970286,
+            "timestamp_frame": 44618,
+            "_unmapped_timestamp_sec": 1487.276,
+            "narration_text": "#C C picks a card on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1488.8063186,
+            "timestamp_frame": 44664,
+            "_unmapped_timestamp_sec": 1488.78529,
+            "narration_text": "#C C puts a card on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1494.3774686,
+            "timestamp_frame": 44831,
+            "_unmapped_timestamp_sec": 1494.35644,
+            "narration_text": "#O person X picks a card on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1496.0973086,
+            "timestamp_frame": 44882,
+            "_unmapped_timestamp_sec": 1496.07628,
+            "narration_text": "#O person X puts a card on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1497.7939385999998,
+            "timestamp_frame": 44933,
+            "_unmapped_timestamp_sec": 1497.77291,
+            "narration_text": "#O person X moves a pawn on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1500.8034086,
+            "timestamp_frame": 45023,
+            "_unmapped_timestamp_sec": 1500.78238,
+            "narration_text": "#C C picks a card on the board ",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1502.8560585999999,
+            "timestamp_frame": 45085,
+            "_unmapped_timestamp_sec": 1502.83503,
+            "narration_text": "#C C puts a card on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1505.9501085999998,
+            "timestamp_frame": 45178,
+            "_unmapped_timestamp_sec": 1505.9290799999999,
+            "narration_text": "#C C moves a pawn on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1508.9124586,
+            "timestamp_frame": 45267,
+            "_unmapped_timestamp_sec": 1508.8914300000001,
+            "narration_text": "#O person X picks a card on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1511.2137785999998,
+            "timestamp_frame": 45336,
+            "_unmapped_timestamp_sec": 1511.19275,
+            "narration_text": "#O person X puts a card on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1512.6109185999999,
+            "timestamp_frame": 45378,
+            "_unmapped_timestamp_sec": 1512.58989,
+            "narration_text": "#O person X aligns the cards",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1516.8292385999998,
+            "timestamp_frame": 45504,
+            "_unmapped_timestamp_sec": 1516.80821,
+            "narration_text": "#O person X picks up the pawns",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1519.8548085999998,
+            "timestamp_frame": 45595,
+            "_unmapped_timestamp_sec": 1519.83378,
+            "narration_text": "#O person X puts the pawns on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1521.7379686,
+            "timestamp_frame": 45652,
+            "_unmapped_timestamp_sec": 1521.71694,
+            "narration_text": "#C C picks a card on the board ",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1522.8070386,
+            "timestamp_frame": 45684,
+            "_unmapped_timestamp_sec": 1522.78601,
+            "narration_text": "#C C puts a card on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1530.0417186,
+            "timestamp_frame": 45901,
+            "_unmapped_timestamp_sec": 1530.02069,
+            "narration_text": "#C C moves a pawn on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1531.1859686,
+            "timestamp_frame": 45935,
+            "_unmapped_timestamp_sec": 1531.1649400000001,
+            "narration_text": "#C C lifts up a pawn from the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1531.8121386,
+            "timestamp_frame": 45954,
+            "_unmapped_timestamp_sec": 1531.7911100000001,
+            "narration_text": "#C C puts a pawn on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1533.4811585999998,
+            "timestamp_frame": 46004,
+            "_unmapped_timestamp_sec": 1533.46013,
+            "narration_text": "#O person X pushes a pawn",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1534.2933486,
+            "timestamp_frame": 46028,
+            "_unmapped_timestamp_sec": 1534.27232,
+            "narration_text": "#O person X picks a card on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1535.8004885999999,
+            "timestamp_frame": 46073,
+            "_unmapped_timestamp_sec": 1535.77946,
+            "narration_text": "#O person X puts a card on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1538.4849485999998,
+            "timestamp_frame": 46154,
+            "_unmapped_timestamp_sec": 1538.46392,
+            "narration_text": "#O person X moves a pawn on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1540.6987385999998,
+            "timestamp_frame": 46220,
+            "_unmapped_timestamp_sec": 1540.67771,
+            "narration_text": "#C C picks a card on the board ",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1542.0039986,
+            "timestamp_frame": 46259,
+            "_unmapped_timestamp_sec": 1541.98297,
+            "narration_text": "#C C puts a card on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1547.0448886,
+            "timestamp_frame": 46411,
+            "_unmapped_timestamp_sec": 1547.02386,
+            "narration_text": "#C C counts spaces on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1551.1385486,
+            "timestamp_frame": 46534,
+            "_unmapped_timestamp_sec": 1551.11752,
+            "narration_text": "#C C moves a pawn on the board",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1553.4306385999998,
+            "timestamp_frame": 46602,
+            "_unmapped_timestamp_sec": 1553.40961,
+            "narration_text": "#O person X takes a cup of coffee from the table",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1555.4286385999999,
+            "timestamp_frame": 46662,
+            "_unmapped_timestamp_sec": 1555.40761,
+            "narration_text": "#C C takes a cup of coffee from the table",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1557.0892786,
+            "timestamp_frame": 46712,
+            "_unmapped_timestamp_sec": 1557.06825,
+            "narration_text": "#C C sips a cup of coffee",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1559.1565386,
+            "timestamp_frame": 46774,
+            "_unmapped_timestamp_sec": 1559.13551,
+            "narration_text": "#C C puts a cup of coffee on the table",
+            "annotation_uid": "d10fb7eb-fc96-46a8-b5a6-5705ba53c8d4"
+        },
+        {
+            "timestamp_sec": 1411.3245786,
+            "timestamp_frame": 42339,
+            "_unmapped_timestamp_sec": 1411.30355,
+            "narration_text": "#O lady Y puts the card on the board",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1413.1775785999998,
+            "timestamp_frame": 42395,
+            "_unmapped_timestamp_sec": 1413.15655,
+            "narration_text": "#O lady Y counts on the board",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1414.4047386,
+            "timestamp_frame": 42432,
+            "_unmapped_timestamp_sec": 1414.38371,
+            "narration_text": "#O lady Y plays the board game",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1416.1743185999999,
+            "timestamp_frame": 42485,
+            "_unmapped_timestamp_sec": 1416.15329,
+            "narration_text": "#O lady Y removes the clipart on the board",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1419.1434086,
+            "timestamp_frame": 42574,
+            "_unmapped_timestamp_sec": 1419.12238,
+            "narration_text": "#C C interacts with lady Y ",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1425.1941585999998,
+            "timestamp_frame": 42755,
+            "_unmapped_timestamp_sec": 1425.17313,
+            "narration_text": "#C C picks a piece of paper from the box",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1426.7998486,
+            "timestamp_frame": 42803,
+            "_unmapped_timestamp_sec": 1426.77882,
+            "narration_text": "#C C checks a piece of paper",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1431.0412385999998,
+            "timestamp_frame": 42931,
+            "_unmapped_timestamp_sec": 1431.02021,
+            "narration_text": "#C C reads a piece of paper",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1450.6036986,
+            "timestamp_frame": 43517,
+            "_unmapped_timestamp_sec": 1450.58267,
+            "narration_text": "#O lady Y interacts with C",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1458.9964386,
+            "timestamp_frame": 43769,
+            "_unmapped_timestamp_sec": 1458.97541,
+            "narration_text": "#C C throws the card on the board",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1460.2503586,
+            "timestamp_frame": 43807,
+            "_unmapped_timestamp_sec": 1460.2293300000001,
+            "narration_text": "#C C plays the board game",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1461.9055286,
+            "timestamp_frame": 43857,
+            "_unmapped_timestamp_sec": 1461.8845000000001,
+            "narration_text": "#O lady Y turns the card",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1463.0373186,
+            "timestamp_frame": 43890,
+            "_unmapped_timestamp_sec": 1463.01629,
+            "narration_text": "#O lady Y puts the card on the board",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1465.2241986,
+            "timestamp_frame": 43956,
+            "_unmapped_timestamp_sec": 1465.20317,
+            "narration_text": "#O lady Y plays the board game",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1472.5153685999999,
+            "timestamp_frame": 44175,
+            "_unmapped_timestamp_sec": 1472.49434,
+            "narration_text": "#C C turns the card",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1473.7343586,
+            "timestamp_frame": 44211,
+            "_unmapped_timestamp_sec": 1473.71333,
+            "narration_text": "#C C puts the card on the board",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1475.5620986,
+            "timestamp_frame": 44266,
+            "_unmapped_timestamp_sec": 1475.54107,
+            "narration_text": "#C C plays the board game",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1478.5739085999999,
+            "timestamp_frame": 44357,
+            "_unmapped_timestamp_sec": 1478.55288,
+            "narration_text": "#O lady Y turns the card",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1480.4136586,
+            "timestamp_frame": 44412,
+            "_unmapped_timestamp_sec": 1480.39263,
+            "narration_text": "#O lady Y checks the card",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1481.4012086,
+            "timestamp_frame": 44441,
+            "_unmapped_timestamp_sec": 1481.38018,
+            "narration_text": "#O lady Y puts the card on the board",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1484.0388785999999,
+            "timestamp_frame": 44521,
+            "_unmapped_timestamp_sec": 1484.01785,
+            "narration_text": "#O lady Y counts the board",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1485.5133885999999,
+            "timestamp_frame": 44565,
+            "_unmapped_timestamp_sec": 1485.49236,
+            "narration_text": "#O lady Y plays the board game",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1487.6825586,
+            "timestamp_frame": 44630,
+            "_unmapped_timestamp_sec": 1487.66153,
+            "narration_text": "#C C turns the card",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1488.3842785999998,
+            "timestamp_frame": 44651,
+            "_unmapped_timestamp_sec": 1488.3632499999999,
+            "narration_text": "#C C puts the card on the board",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1495.1300485999998,
+            "timestamp_frame": 44853,
+            "_unmapped_timestamp_sec": 1495.1090199999999,
+            "narration_text": "#O lady Y turns the card",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1496.1757386,
+            "timestamp_frame": 44885,
+            "_unmapped_timestamp_sec": 1496.15471,
+            "narration_text": "#O lady Y puts the card on the board",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1498.3674886,
+            "timestamp_frame": 44950,
+            "_unmapped_timestamp_sec": 1498.34646,
+            "narration_text": "#O lady Y plays the board game",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1500.9925686,
+            "timestamp_frame": 45029,
+            "_unmapped_timestamp_sec": 1500.97154,
+            "narration_text": "#C C turns the card",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1502.9586086,
+            "timestamp_frame": 45088,
+            "_unmapped_timestamp_sec": 1502.93758,
+            "narration_text": "#C C puts the card on the board",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1506.2708086,
+            "timestamp_frame": 45187,
+            "_unmapped_timestamp_sec": 1506.24978,
+            "narration_text": "#C C plays the board game",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1509.1903485999999,
+            "timestamp_frame": 45275,
+            "_unmapped_timestamp_sec": 1509.16932,
+            "narration_text": "#O lady Y turns the card",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1511.7050186,
+            "timestamp_frame": 45351,
+            "_unmapped_timestamp_sec": 1511.68399,
+            "narration_text": "#O lady Y puts the card on the board",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1512.8635385999999,
+            "timestamp_frame": 45385,
+            "_unmapped_timestamp_sec": 1512.84251,
+            "narration_text": "#O lady Y arranges the cards",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1517.3234885999998,
+            "timestamp_frame": 45519,
+            "_unmapped_timestamp_sec": 1517.3024599999999,
+            "narration_text": "#O lady Y plays the board game",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1521.9687285999998,
+            "timestamp_frame": 45658,
+            "_unmapped_timestamp_sec": 1521.9477,
+            "narration_text": "#C C turns the card",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1522.6578485999999,
+            "timestamp_frame": 45679,
+            "_unmapped_timestamp_sec": 1522.63682,
+            "narration_text": "#C C puts the card on the board",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1525.0798186,
+            "timestamp_frame": 45752,
+            "_unmapped_timestamp_sec": 1525.05879,
+            "narration_text": "#C C plays the board game",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1533.7909785999998,
+            "timestamp_frame": 46013,
+            "_unmapped_timestamp_sec": 1533.7699499999999,
+            "narration_text": "#O lady Y touches the clipart",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1534.4959586,
+            "timestamp_frame": 46034,
+            "_unmapped_timestamp_sec": 1534.47493,
+            "narration_text": "#O lady Y turns the card",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1535.8752485999998,
+            "timestamp_frame": 46076,
+            "_unmapped_timestamp_sec": 1535.85422,
+            "narration_text": "#O lady Y puts the card on the board",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1538.6124986,
+            "timestamp_frame": 46158,
+            "_unmapped_timestamp_sec": 1538.59147,
+            "narration_text": "#O lady Y plays the board game",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1540.8364485999998,
+            "timestamp_frame": 46224,
+            "_unmapped_timestamp_sec": 1540.81542,
+            "narration_text": "#C C turns the card",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1547.4055085999998,
+            "timestamp_frame": 46422,
+            "_unmapped_timestamp_sec": 1547.38448,
+            "narration_text": "#C C counts the board",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1551.2409486,
+            "timestamp_frame": 46537,
+            "_unmapped_timestamp_sec": 1551.21992,
+            "narration_text": "#C C plays the board game",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1553.4380786,
+            "timestamp_frame": 46603,
+            "_unmapped_timestamp_sec": 1553.41705,
+            "narration_text": "#O lady Y picks a cup of coffee",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1555.0138886,
+            "timestamp_frame": 46650,
+            "_unmapped_timestamp_sec": 1554.99286,
+            "narration_text": "#C C picks a cup of coffee",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1557.2115185999999,
+            "timestamp_frame": 46716,
+            "_unmapped_timestamp_sec": 1557.19049,
+            "narration_text": "#C C drinks a cup of coffee",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        },
+        {
+            "timestamp_sec": 1559.3712985999998,
+            "timestamp_frame": 46781,
+            "_unmapped_timestamp_sec": 1559.35027,
+            "narration_text": "#O lady Y interacted with C ",
+            "annotation_uid": "dc5842e7-a8f2-4b9a-a290-1bdb6a9a11b7"
+        }
+    ]
+}

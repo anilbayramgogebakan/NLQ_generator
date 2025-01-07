@@ -1,0 +1,718 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 451.5488909546634,
+            "timestamp_frame": 13546,
+            "_unmapped_timestamp_sec": 451.56992,
+            "narration_text": "#C C takes the lid ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 452.6289109546634,
+            "timestamp_frame": 13578,
+            "_unmapped_timestamp_sec": 452.64994,
+            "narration_text": "#C C washes the sink ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 459.15577095466335,
+            "timestamp_frame": 13774,
+            "_unmapped_timestamp_sec": 459.17679999999996,
+            "narration_text": "#C C takes the towel ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 459.7501809546634,
+            "timestamp_frame": 13792,
+            "_unmapped_timestamp_sec": 459.77121,
+            "narration_text": "#C C wipes the hand with the towel ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 461.6432809546634,
+            "timestamp_frame": 13849,
+            "_unmapped_timestamp_sec": 461.66431,
+            "narration_text": "#C C hangs towel on the metal rod ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 463.5200009546634,
+            "timestamp_frame": 13905,
+            "_unmapped_timestamp_sec": 463.54103,
+            "narration_text": "#C C walks around the house ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 467.1486209546634,
+            "timestamp_frame": 14014,
+            "_unmapped_timestamp_sec": 467.16965,
+            "narration_text": "#C C puts coffee in a cup ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 476.2623909546634,
+            "timestamp_frame": 14287,
+            "_unmapped_timestamp_sec": 476.28342,
+            "narration_text": "#C C puts jug on the table ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 477.35355095466343,
+            "timestamp_frame": 14320,
+            "_unmapped_timestamp_sec": 477.37458000000004,
+            "narration_text": "#C C opens the lid ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 478.88492095466336,
+            "timestamp_frame": 14366,
+            "_unmapped_timestamp_sec": 478.90594999999996,
+            "narration_text": "#C C pours coffee in the jug ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 483.5619209546634,
+            "timestamp_frame": 14506,
+            "_unmapped_timestamp_sec": 483.58295,
+            "narration_text": "#C C closes the lid ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 484.93136095466343,
+            "timestamp_frame": 14547,
+            "_unmapped_timestamp_sec": 484.95239000000004,
+            "narration_text": "#C C takes a cup ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 486.3599409546634,
+            "timestamp_frame": 14590,
+            "_unmapped_timestamp_sec": 486.38097,
+            "narration_text": "#C C walks around the house ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 488.3172209546634,
+            "timestamp_frame": 14649,
+            "_unmapped_timestamp_sec": 488.33825,
+            "narration_text": "#C C puts cup on the table ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 490.0271909546634,
+            "timestamp_frame": 14700,
+            "_unmapped_timestamp_sec": 490.04822,
+            "narration_text": "#C C takes #unsure from the table ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 494.0806909546634,
+            "timestamp_frame": 14822,
+            "_unmapped_timestamp_sec": 494.10172,
+            "narration_text": "#C C walks around the house ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 498.8971109546634,
+            "timestamp_frame": 14966,
+            "_unmapped_timestamp_sec": 498.91814,
+            "narration_text": "#C C opens the fridge ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 500.5023009546634,
+            "timestamp_frame": 15014,
+            "_unmapped_timestamp_sec": 500.52333,
+            "narration_text": "#C C takes a polythene paper ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 505.4259709546634,
+            "timestamp_frame": 15162,
+            "_unmapped_timestamp_sec": 505.447,
+            "narration_text": "#C C opens the fridge ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 501.7062409546634,
+            "timestamp_frame": 15051,
+            "_unmapped_timestamp_sec": 501.72727,
+            "narration_text": "#C C closes the fridge ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 502.2665909546634,
+            "timestamp_frame": 15067,
+            "_unmapped_timestamp_sec": 502.28762,
+            "narration_text": "#C C folds the polythene paper ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 505.8825009546634,
+            "timestamp_frame": 15176,
+            "_unmapped_timestamp_sec": 505.90353,
+            "narration_text": "#C C puts polythene paper in the fridge ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 507.2585009546634,
+            "timestamp_frame": 15217,
+            "_unmapped_timestamp_sec": 507.27953,
+            "narration_text": "#C C closes the fridge ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 509.4031409546634,
+            "timestamp_frame": 15281,
+            "_unmapped_timestamp_sec": 509.42417,
+            "narration_text": "#C C walks around the house ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 510.38321095466335,
+            "timestamp_frame": 15311,
+            "_unmapped_timestamp_sec": 510.40423999999996,
+            "narration_text": "#C C touches the box ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 514.0138409546634,
+            "timestamp_frame": 15420,
+            "_unmapped_timestamp_sec": 514.03487,
+            "narration_text": "#C C takes  polythene paper from the chair ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 515.4871109546634,
+            "timestamp_frame": 15464,
+            "_unmapped_timestamp_sec": 515.50814,
+            "narration_text": "#C C looks around the house ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 521.8711909546633,
+            "timestamp_frame": 15656,
+            "_unmapped_timestamp_sec": 521.89222,
+            "narration_text": "#C C walks around the house ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 522.9683409546634,
+            "timestamp_frame": 15688,
+            "_unmapped_timestamp_sec": 522.98937,
+            "narration_text": "#C C takes book and a phone ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 523.9673809546633,
+            "timestamp_frame": 15718,
+            "_unmapped_timestamp_sec": 523.9884099999999,
+            "narration_text": "#C C walks around the house ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 526.6679009546634,
+            "timestamp_frame": 15799,
+            "_unmapped_timestamp_sec": 526.68893,
+            "narration_text": "#C C puts phone on the table ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 528.2535509546634,
+            "timestamp_frame": 15847,
+            "_unmapped_timestamp_sec": 528.27458,
+            "narration_text": "#C C sits on a chair ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 529.2639309546634,
+            "timestamp_frame": 15877,
+            "_unmapped_timestamp_sec": 529.28496,
+            "narration_text": "#C C puts book on the table ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 536.8446742879967,
+            "timestamp_frame": 16105,
+            "_unmapped_timestamp_sec": 537.39539,
+            "narration_text": "#C C takes a book ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 539.3670542879967,
+            "timestamp_frame": 16180,
+            "_unmapped_timestamp_sec": 539.91777,
+            "narration_text": "#C C puts book on the table ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 540.7191042879966,
+            "timestamp_frame": 16221,
+            "_unmapped_timestamp_sec": 541.26982,
+            "narration_text": "#C C drinks tea",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 544.2310542879967,
+            "timestamp_frame": 16326,
+            "_unmapped_timestamp_sec": 544.78177,
+            "narration_text": "#C C puts cup on the table ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 545.0128242879966,
+            "timestamp_frame": 16350,
+            "_unmapped_timestamp_sec": 545.56354,
+            "narration_text": "#C C takes chocolate from the table ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 546.6711342879967,
+            "timestamp_frame": 16400,
+            "_unmapped_timestamp_sec": 547.22185,
+            "narration_text": "#C C open the chocolate ",
+            "annotation_uid": "e20c6d63-fd63-47af-bb5c-56c89abd3453"
+        },
+        {
+            "timestamp_sec": 560.5567442879967,
+            "timestamp_frame": 16816,
+            "_unmapped_timestamp_sec": 561.10444,
+            "narration_text": "#C C puts chocolate on the paper ",
+            "annotation_uid": "fc3e8339-7205-4433-b937-736a44b1b333"
+        },
+        {
+            "timestamp_sec": 562.3860842879967,
+            "timestamp_frame": 16871,
+            "_unmapped_timestamp_sec": 562.93378,
+            "narration_text": "#C C drinks tea",
+            "annotation_uid": "fc3e8339-7205-4433-b937-736a44b1b333"
+        },
+        {
+            "timestamp_sec": 566.2977542879968,
+            "timestamp_frame": 16988,
+            "_unmapped_timestamp_sec": 566.84545,
+            "narration_text": "#C C puts tea on the table ",
+            "annotation_uid": "fc3e8339-7205-4433-b937-736a44b1b333"
+        },
+        {
+            "timestamp_sec": 568.6954142879968,
+            "timestamp_frame": 17060,
+            "_unmapped_timestamp_sec": 569.24311,
+            "narration_text": "#C C pulls chocolate aside ",
+            "annotation_uid": "fc3e8339-7205-4433-b937-736a44b1b333"
+        },
+        {
+            "timestamp_sec": 571.7076642879967,
+            "timestamp_frame": 17151,
+            "_unmapped_timestamp_sec": 572.25536,
+            "narration_text": "#C C takes a book",
+            "annotation_uid": "fc3e8339-7205-4433-b937-736a44b1b333"
+        },
+        {
+            "timestamp_sec": 573.8620342879967,
+            "timestamp_frame": 17215,
+            "_unmapped_timestamp_sec": 574.40973,
+            "narration_text": "#C C opens a book",
+            "annotation_uid": "fc3e8339-7205-4433-b937-736a44b1b333"
+        },
+        {
+            "timestamp_sec": 574.7877142879968,
+            "timestamp_frame": 17243,
+            "_unmapped_timestamp_sec": 575.33541,
+            "narration_text": "#C C reads a book",
+            "annotation_uid": "fc3e8339-7205-4433-b937-736a44b1b333"
+        },
+        {
+            "timestamp_sec": 580.8782342879967,
+            "timestamp_frame": 17426,
+            "_unmapped_timestamp_sec": 581.42593,
+            "narration_text": "#C C puts a book on the table ",
+            "annotation_uid": "fc3e8339-7205-4433-b937-736a44b1b333"
+        },
+        {
+            "timestamp_sec": 584.6401042879968,
+            "timestamp_frame": 17539,
+            "_unmapped_timestamp_sec": 585.1878,
+            "narration_text": "#C C drinks tea",
+            "annotation_uid": "fc3e8339-7205-4433-b937-736a44b1b333"
+        },
+        {
+            "timestamp_sec": 590.3783042879968,
+            "timestamp_frame": 17711,
+            "_unmapped_timestamp_sec": 590.926,
+            "narration_text": "#C C puts tea",
+            "annotation_uid": "fc3e8339-7205-4433-b937-736a44b1b333"
+        },
+        {
+            "timestamp_sec": 592.3932442879967,
+            "timestamp_frame": 17771,
+            "_unmapped_timestamp_sec": 592.94094,
+            "narration_text": "#C C takes a chocolate ",
+            "annotation_uid": "fc3e8339-7205-4433-b937-736a44b1b333"
+        },
+        {
+            "timestamp_sec": 594.4197842879968,
+            "timestamp_frame": 17832,
+            "_unmapped_timestamp_sec": 594.96748,
+            "narration_text": "#C C eats chocolate ",
+            "annotation_uid": "fc3e8339-7205-4433-b937-736a44b1b333"
+        },
+        {
+            "timestamp_sec": 598.9187742879967,
+            "timestamp_frame": 17967,
+            "_unmapped_timestamp_sec": 599.46647,
+            "narration_text": "#C C puts chocolate on the paper ",
+            "annotation_uid": "fc3e8339-7205-4433-b937-736a44b1b333"
+        },
+        {
+            "timestamp_sec": 450.2009909546634,
+            "timestamp_frame": 13505,
+            "_unmapped_timestamp_sec": 450.22202,
+            "narration_text": "#C C washes the sink",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 451.7197309546634,
+            "timestamp_frame": 13551,
+            "_unmapped_timestamp_sec": 451.74076,
+            "narration_text": "#C C takes the lid of tin",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 453.2283309546634,
+            "timestamp_frame": 13596,
+            "_unmapped_timestamp_sec": 453.24936,
+            "narration_text": "#C C washes the sink",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 460.23218095466336,
+            "timestamp_frame": 13806,
+            "_unmapped_timestamp_sec": 460.25320999999997,
+            "narration_text": "#C C lapping hands",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 461.8693209546634,
+            "timestamp_frame": 13855,
+            "_unmapped_timestamp_sec": 461.89035,
+            "narration_text": "#C C puts the towel down",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 464.5204309546634,
+            "timestamp_frame": 13935,
+            "_unmapped_timestamp_sec": 464.54146000000003,
+            "narration_text": "#C C looks background",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 465.52599095466337,
+            "timestamp_frame": 13965,
+            "_unmapped_timestamp_sec": 465.54702,
+            "narration_text": "#C C walks",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 467.6884909546634,
+            "timestamp_frame": 14030,
+            "_unmapped_timestamp_sec": 467.70952,
+            "narration_text": "#C C touches kettle",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 469.14421095466344,
+            "timestamp_frame": 14074,
+            "_unmapped_timestamp_sec": 469.16524000000004,
+            "narration_text": "#C C pours water to the cup",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 475.88505095466337,
+            "timestamp_frame": 14276,
+            "_unmapped_timestamp_sec": 475.90608,
+            "narration_text": "#C C puts down kettle",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 478.0972509546634,
+            "timestamp_frame": 14342,
+            "_unmapped_timestamp_sec": 478.11828,
+            "narration_text": "#C C opens kettle",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 480.2223109546634,
+            "timestamp_frame": 14406,
+            "_unmapped_timestamp_sec": 480.24334,
+            "narration_text": "#C C pours the water to cup",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 486.85988095466337,
+            "timestamp_frame": 14605,
+            "_unmapped_timestamp_sec": 486.88091,
+            "narration_text": "#C C walks",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 488.1828209546634,
+            "timestamp_frame": 14645,
+            "_unmapped_timestamp_sec": 488.20385,
+            "narration_text": "#C C laps the table\n",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 490.5986309546634,
+            "timestamp_frame": 14717,
+            "_unmapped_timestamp_sec": 490.61966,
+            "narration_text": "#C C arranges table",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 494.68328095466336,
+            "timestamp_frame": 14840,
+            "_unmapped_timestamp_sec": 494.70430999999996,
+            "narration_text": "#C C walks",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 499.5883509546634,
+            "timestamp_frame": 14987,
+            "_unmapped_timestamp_sec": 499.60938,
+            "narration_text": "#C C opens the fridge",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 501.7552709546634,
+            "timestamp_frame": 15052,
+            "_unmapped_timestamp_sec": 501.7763,
+            "narration_text": "#C C takes #unsure from fridge",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 505.3152709546634,
+            "timestamp_frame": 15159,
+            "_unmapped_timestamp_sec": 505.3363,
+            "narration_text": "#C C returns # unsure to fridge",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 507.9595209546634,
+            "timestamp_frame": 15238,
+            "_unmapped_timestamp_sec": 507.98055,
+            "narration_text": "#C C closes fridge",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 509.7474209546634,
+            "timestamp_frame": 15292,
+            "_unmapped_timestamp_sec": 509.76845000000003,
+            "narration_text": "#C C walks",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 511.5740009546634,
+            "timestamp_frame": 15347,
+            "_unmapped_timestamp_sec": 511.59503,
+            "narration_text": "#C C touches milk bottle",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 513.1449309546634,
+            "timestamp_frame": 15394,
+            "_unmapped_timestamp_sec": 513.16596,
+            "narration_text": "#C C walks",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 514.8808709546635,
+            "timestamp_frame": 15446,
+            "_unmapped_timestamp_sec": 514.9019000000001,
+            "narration_text": "# C C takes paper bag from a chair",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 521.0840709546634,
+            "timestamp_frame": 15632,
+            "_unmapped_timestamp_sec": 521.1051,
+            "narration_text": "#C C looks background",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 523.2051709546635,
+            "timestamp_frame": 15696,
+            "_unmapped_timestamp_sec": 523.2262000000001,
+            "narration_text": "#C C touches phone and book",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 526.4948709546634,
+            "timestamp_frame": 15794,
+            "_unmapped_timestamp_sec": 526.5159,
+            "narration_text": "#C C drops the phone on the table",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 528.9678509546634,
+            "timestamp_frame": 15868,
+            "_unmapped_timestamp_sec": 528.98888,
+            "narration_text": "#C C sits down",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 530.2295009546634,
+            "timestamp_frame": 15906,
+            "_unmapped_timestamp_sec": 530.25053,
+            "narration_text": "#C C drops the book on the table",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 537.4581542879966,
+            "timestamp_frame": 16123,
+            "_unmapped_timestamp_sec": 538.00887,
+            "narration_text": "#C C touches a book",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 540.5372442879967,
+            "timestamp_frame": 16215,
+            "_unmapped_timestamp_sec": 541.0879600000001,
+            "narration_text": "#C C drops the book on the table",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 541.4880742879967,
+            "timestamp_frame": 16244,
+            "_unmapped_timestamp_sec": 542.0387900000001,
+            "narration_text": "#C C drinks tea",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 544.2425742879967,
+            "timestamp_frame": 16327,
+            "_unmapped_timestamp_sec": 544.7932900000001,
+            "narration_text": "#C C puts tea on the table",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 545.5078542879966,
+            "timestamp_frame": 16365,
+            "_unmapped_timestamp_sec": 546.0585699999999,
+            "narration_text": "#C C takes chocolate",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 548.2483942879966,
+            "timestamp_frame": 16447,
+            "_unmapped_timestamp_sec": 548.7991099999999,
+            "narration_text": "#C C opens chocolate",
+            "annotation_uid": "04d26f6d-ba8c-4816-b84b-065ccd978a8c"
+        },
+        {
+            "timestamp_sec": 555.2360142879968,
+            "timestamp_frame": 16656,
+            "_unmapped_timestamp_sec": 555.78371,
+            "narration_text": "#C C eats the chocolate",
+            "annotation_uid": "3f713762-bfe0-4960-b81b-e20cd3f6da2f"
+        },
+        {
+            "timestamp_sec": 561.1862042879967,
+            "timestamp_frame": 16835,
+            "_unmapped_timestamp_sec": 561.7339,
+            "narration_text": "#C C puts the chocolate on the table",
+            "annotation_uid": "3f713762-bfe0-4960-b81b-e20cd3f6da2f"
+        },
+        {
+            "timestamp_sec": 562.4442042879967,
+            "timestamp_frame": 16873,
+            "_unmapped_timestamp_sec": 562.9919,
+            "narration_text": "#C C drinks tea",
+            "annotation_uid": "3f713762-bfe0-4960-b81b-e20cd3f6da2f"
+        },
+        {
+            "timestamp_sec": 563.4908442879968,
+            "timestamp_frame": 16904,
+            "_unmapped_timestamp_sec": 564.03854,
+            "narration_text": "#C C drinks tea",
+            "annotation_uid": "3f713762-bfe0-4960-b81b-e20cd3f6da2f"
+        },
+        {
+            "timestamp_sec": 566.1776342879967,
+            "timestamp_frame": 16985,
+            "_unmapped_timestamp_sec": 566.72533,
+            "narration_text": "#C C drinks tea",
+            "annotation_uid": "3f713762-bfe0-4960-b81b-e20cd3f6da2f"
+        },
+        {
+            "timestamp_sec": 569.5900742879968,
+            "timestamp_frame": 17087,
+            "_unmapped_timestamp_sec": 570.13777,
+            "narration_text": "#C C touches book ",
+            "annotation_uid": "3f713762-bfe0-4960-b81b-e20cd3f6da2f"
+        },
+        {
+            "timestamp_sec": 572.7804142879968,
+            "timestamp_frame": 17183,
+            "_unmapped_timestamp_sec": 573.32811,
+            "narration_text": "#C C holds a book",
+            "annotation_uid": "3f713762-bfe0-4960-b81b-e20cd3f6da2f"
+        },
+        {
+            "timestamp_sec": 573.9549342879967,
+            "timestamp_frame": 17218,
+            "_unmapped_timestamp_sec": 574.50263,
+            "narration_text": "#C C opens a book",
+            "annotation_uid": "3f713762-bfe0-4960-b81b-e20cd3f6da2f"
+        },
+        {
+            "timestamp_sec": 581.2949042879967,
+            "timestamp_frame": 17438,
+            "_unmapped_timestamp_sec": 581.8426,
+            "narration_text": "#C C puts the book on a table",
+            "annotation_uid": "3f713762-bfe0-4960-b81b-e20cd3f6da2f"
+        },
+        {
+            "timestamp_sec": 582.6398742879968,
+            "timestamp_frame": 17479,
+            "_unmapped_timestamp_sec": 583.18757,
+            "narration_text": "#C C holds the book with right hand",
+            "annotation_uid": "3f713762-bfe0-4960-b81b-e20cd3f6da2f"
+        },
+        {
+            "timestamp_sec": 586.2040742879967,
+            "timestamp_frame": 17585,
+            "_unmapped_timestamp_sec": 586.75177,
+            "narration_text": "#C C drinks tea",
+            "annotation_uid": "3f713762-bfe0-4960-b81b-e20cd3f6da2f"
+        },
+        {
+            "timestamp_sec": 590.5682742879967,
+            "timestamp_frame": 17716,
+            "_unmapped_timestamp_sec": 591.11597,
+            "narration_text": "#C C drinks tea",
+            "annotation_uid": "3f713762-bfe0-4960-b81b-e20cd3f6da2f"
+        },
+        {
+            "timestamp_sec": 592.5659842879968,
+            "timestamp_frame": 17776,
+            "_unmapped_timestamp_sec": 593.11368,
+            "narration_text": "#C C takes the chocolate",
+            "annotation_uid": "3f713762-bfe0-4960-b81b-e20cd3f6da2f"
+        },
+        {
+            "timestamp_sec": 594.5728042879967,
+            "timestamp_frame": 17837,
+            "_unmapped_timestamp_sec": 595.1205,
+            "narration_text": "#C C eats chocolate",
+            "annotation_uid": "3f713762-bfe0-4960-b81b-e20cd3f6da2f"
+        },
+        {
+            "timestamp_sec": 598.9819142879967,
+            "timestamp_frame": 17969,
+            "_unmapped_timestamp_sec": 599.52961,
+            "narration_text": "#C C puts the chocolate on the table",
+            "annotation_uid": "3f713762-bfe0-4960-b81b-e20cd3f6da2f"
+        }
+    ]
+}

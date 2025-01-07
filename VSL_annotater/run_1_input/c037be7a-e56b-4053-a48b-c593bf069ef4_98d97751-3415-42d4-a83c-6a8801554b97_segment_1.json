@@ -1,0 +1,879 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 151.67211,
+            "timestamp_frame": 4550,
+            "_unmapped_timestamp_sec": 151.67211,
+            "narration_text": "#O a dog X stands beside the motorcycle.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 152.74524,
+            "timestamp_frame": 4582,
+            "_unmapped_timestamp_sec": 152.74524,
+            "narration_text": "#O the dog X walks away.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 155.50865,
+            "timestamp_frame": 4665,
+            "_unmapped_timestamp_sec": 155.50865,
+            "narration_text": "#C C touches the bolt with his left hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 156.01986,
+            "timestamp_frame": 4681,
+            "_unmapped_timestamp_sec": 156.01986,
+            "narration_text": "#C C drops the tubular wrench on the ground with his right hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 156.55748,
+            "timestamp_frame": 4697,
+            "_unmapped_timestamp_sec": 156.55748,
+            "narration_text": "#C C picks another tubular wrench from the ground with his right hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 157.34618,
+            "timestamp_frame": 4720,
+            "_unmapped_timestamp_sec": 157.34618,
+            "narration_text": "#C C fastens another bolt on the motorcycle with the tubular wrench with both hands.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 161.90816,
+            "timestamp_frame": 4857,
+            "_unmapped_timestamp_sec": 161.90816,
+            "narration_text": "#C C picks some bolts from the ground with his left hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 161.90541,
+            "timestamp_frame": 4857,
+            "_unmapped_timestamp_sec": 161.90541,
+            "narration_text": "#C C drops the tubular wrench on the ground with his right hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 162.4515,
+            "timestamp_frame": 4874,
+            "_unmapped_timestamp_sec": 162.4515,
+            "narration_text": "#C C picks the first piece of cloth from the ground with his right hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 163.40302,
+            "timestamp_frame": 4902,
+            "_unmapped_timestamp_sec": 163.40302,
+            "narration_text": "#C C wipes a bolt with the piece of cloth.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 164.48789,
+            "timestamp_frame": 4935,
+            "_unmapped_timestamp_sec": 164.48789,
+            "narration_text": "#C C picks the adjustable wrench from the ground with his right hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 164.63143,
+            "timestamp_frame": 4939,
+            "_unmapped_timestamp_sec": 164.63143,
+            "narration_text": "#C C picks the first tubular wrench with his left hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 165.79406,
+            "timestamp_frame": 4974,
+            "_unmapped_timestamp_sec": 165.79406,
+            "narration_text": "#C C holds the adjustable wrench with his left hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 166.70886,
+            "timestamp_frame": 5001,
+            "_unmapped_timestamp_sec": 166.70886,
+            "narration_text": "#C C picks the second tubular wrench with his right hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 167.30776,
+            "timestamp_frame": 5019,
+            "_unmapped_timestamp_sec": 167.30776,
+            "narration_text": "#C C holds the second tubular wrench with his left hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 168.20106,
+            "timestamp_frame": 5046,
+            "_unmapped_timestamp_sec": 168.20106,
+            "narration_text": "#C C picks the second piece of cloth with his right hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 168.81025,
+            "timestamp_frame": 5064,
+            "_unmapped_timestamp_sec": 168.81025,
+            "narration_text": "#C C holds the second piece of cloth with his left hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 171.41367,
+            "timestamp_frame": 5142,
+            "_unmapped_timestamp_sec": 171.41367,
+            "narration_text": "#C C moves the bottle of liquid from the stool to the ground with his right hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 172.76152,
+            "timestamp_frame": 5183,
+            "_unmapped_timestamp_sec": 172.76152,
+            "narration_text": "#C C moves the stool with his right hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 173.71278,
+            "timestamp_frame": 5211,
+            "_unmapped_timestamp_sec": 173.71278,
+            "narration_text": "#C C sits on the stool.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 174.62934,
+            "timestamp_frame": 5239,
+            "_unmapped_timestamp_sec": 174.62934,
+            "narration_text": "#C C holds the pieces of cloth with his right hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 175.00807,
+            "timestamp_frame": 5250,
+            "_unmapped_timestamp_sec": 175.00807,
+            "narration_text": "#C C drops the pieces of cloth on the ground.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 175.83691,
+            "timestamp_frame": 5275,
+            "_unmapped_timestamp_sec": 175.83691,
+            "narration_text": "#C C drops the tubular wrenches on the ground with his left hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 176.36711,
+            "timestamp_frame": 5291,
+            "_unmapped_timestamp_sec": 176.36711,
+            "narration_text": "#C C holds the adjustable wrench with his right hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 177.09427,
+            "timestamp_frame": 5313,
+            "_unmapped_timestamp_sec": 177.09427,
+            "narration_text": "#C C holds a second drum brake with his left hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 177.8937,
+            "timestamp_frame": 5337,
+            "_unmapped_timestamp_sec": 177.8937,
+            "narration_text": "#C C drops the adjustable wrench on the ground.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 178.70583,
+            "timestamp_frame": 5361,
+            "_unmapped_timestamp_sec": 178.70583,
+            "narration_text": "#C C holds the drum brake with both hands.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 182.73241,
+            "timestamp_frame": 5482,
+            "_unmapped_timestamp_sec": 182.73241,
+            "narration_text": "#O a man X pushes a motorcycle by.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 185.02839,
+            "timestamp_frame": 5551,
+            "_unmapped_timestamp_sec": 185.02839,
+            "narration_text": "#O the dog X walks by C.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 189.96946,
+            "timestamp_frame": 5699,
+            "_unmapped_timestamp_sec": 189.96946,
+            "narration_text": "#C C holds the drum brake with his right hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 190.66243,
+            "timestamp_frame": 5720,
+            "_unmapped_timestamp_sec": 190.66243,
+            "narration_text": "#C C moves the bottle of liquid on the ground with his left hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 191.92177,
+            "timestamp_frame": 5758,
+            "_unmapped_timestamp_sec": 191.92177,
+            "narration_text": "#C C holds the drum brake with his left hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 193.42,
+            "timestamp_frame": 5803,
+            "_unmapped_timestamp_sec": 193.42,
+            "narration_text": "#C C separates the drum brake with both hands.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 194.93283,
+            "timestamp_frame": 5848,
+            "_unmapped_timestamp_sec": 194.93283,
+            "narration_text": "#C C drops a part of the drum brake on the ground with his right hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 195.74379,
+            "timestamp_frame": 5872,
+            "_unmapped_timestamp_sec": 195.74379,
+            "narration_text": "#C C picks the adjustable wrench from the ground with his right hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 199.89919,
+            "timestamp_frame": 5997,
+            "_unmapped_timestamp_sec": 199.89919,
+            "narration_text": "#C C presses the drum brake together with the adjustable wrench. ",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 223.45305,
+            "timestamp_frame": 6704,
+            "_unmapped_timestamp_sec": 223.45305,
+            "narration_text": "#C C drops the adjustable wrench on the ground.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 224.21364,
+            "timestamp_frame": 6726,
+            "_unmapped_timestamp_sec": 224.21364,
+            "narration_text": "#C C picks the first piece of cloth from the ground with his right hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 225.16532,
+            "timestamp_frame": 6755,
+            "_unmapped_timestamp_sec": 225.16532,
+            "narration_text": "#C C cleans the drum brake with the piece of cloth.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 233.47428,
+            "timestamp_frame": 7004,
+            "_unmapped_timestamp_sec": 233.47428,
+            "narration_text": "#C C wipes his left hand with the piece of cloth.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 234.89387,
+            "timestamp_frame": 7047,
+            "_unmapped_timestamp_sec": 234.89387,
+            "narration_text": "#C C holds the brake drum with his left hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 236.61171,
+            "timestamp_frame": 7098,
+            "_unmapped_timestamp_sec": 236.61171,
+            "narration_text": "#C C cleans the drum brake with the piece of cloth.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 260.1919,
+            "timestamp_frame": 7806,
+            "_unmapped_timestamp_sec": 260.1919,
+            "narration_text": "#C C picks the part of the drum brake from the ground with his left hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 261.62023,
+            "timestamp_frame": 7849,
+            "_unmapped_timestamp_sec": 261.62023,
+            "narration_text": "#C C holds the part of the drum brake with his right hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 262.29428,
+            "timestamp_frame": 7869,
+            "_unmapped_timestamp_sec": 262.29428,
+            "narration_text": "#C C holds the other part of the drum brake with his left hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 263.53452,
+            "timestamp_frame": 7906,
+            "_unmapped_timestamp_sec": 263.53452,
+            "narration_text": "#C C attaches the drum brake parts together with both hands.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 266.85815,
+            "timestamp_frame": 8006,
+            "_unmapped_timestamp_sec": 266.85815,
+            "narration_text": "#C C picks another brake pad from the ground with his right hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 268.69103,
+            "timestamp_frame": 8061,
+            "_unmapped_timestamp_sec": 268.69103,
+            "narration_text": "#C C places the brake pad on his left leg.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 269.87031,
+            "timestamp_frame": 8096,
+            "_unmapped_timestamp_sec": 269.87031,
+            "narration_text": "#C C picks another brake pad from the ground with his right hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 266.51581,
+            "timestamp_frame": 7995,
+            "_unmapped_timestamp_sec": 266.51581,
+            "narration_text": "#C C holds the drum brake with his left hand.",
+            "annotation_uid": "0af277e7-33b7-4644-a6de-f32441c1ee75"
+        },
+        {
+            "timestamp_sec": 270.92056,
+            "timestamp_frame": 8128,
+            "_unmapped_timestamp_sec": 270.92056,
+            "narration_text": "#C C takes a chip from the floor",
+            "annotation_uid": "d6c4429d-9d01-452c-a45d-af65466faf75"
+        },
+        {
+            "timestamp_sec": 273.10855,
+            "timestamp_frame": 8193,
+            "_unmapped_timestamp_sec": 273.10855,
+            "narration_text": "#C C places the chip in the caliper",
+            "annotation_uid": "d6c4429d-9d01-452c-a45d-af65466faf75"
+        },
+        {
+            "timestamp_sec": 274.2739,
+            "timestamp_frame": 8228,
+            "_unmapped_timestamp_sec": 274.2739,
+            "narration_text": "#C C picks a chip from his lap",
+            "annotation_uid": "d6c4429d-9d01-452c-a45d-af65466faf75"
+        },
+        {
+            "timestamp_sec": 275.39521,
+            "timestamp_frame": 8262,
+            "_unmapped_timestamp_sec": 275.39521,
+            "narration_text": "#C C places the chip in the caliper",
+            "annotation_uid": "d6c4429d-9d01-452c-a45d-af65466faf75"
+        },
+        {
+            "timestamp_sec": 279.17705,
+            "timestamp_frame": 8375,
+            "_unmapped_timestamp_sec": 279.17705,
+            "narration_text": "#C C touches the tire on the floor",
+            "annotation_uid": "d6c4429d-9d01-452c-a45d-af65466faf75"
+        },
+        {
+            "timestamp_sec": 281.01825,
+            "timestamp_frame": 8431,
+            "_unmapped_timestamp_sec": 281.01825,
+            "narration_text": "#C C holds the caliper",
+            "annotation_uid": "d6c4429d-9d01-452c-a45d-af65466faf75"
+        },
+        {
+            "timestamp_sec": 282.16269,
+            "timestamp_frame": 8465,
+            "_unmapped_timestamp_sec": 282.16269,
+            "narration_text": "#C C moves a tissue on the floor",
+            "annotation_uid": "d6c4429d-9d01-452c-a45d-af65466faf75"
+        },
+        {
+            "timestamp_sec": 283.60215,
+            "timestamp_frame": 8508,
+            "_unmapped_timestamp_sec": 283.60215,
+            "narration_text": "#C C picks up a bolt from the floor",
+            "annotation_uid": "d6c4429d-9d01-452c-a45d-af65466faf75"
+        },
+        {
+            "timestamp_sec": 288.6101,
+            "timestamp_frame": 8658,
+            "_unmapped_timestamp_sec": 288.6101,
+            "narration_text": "#C C puts the bolt into the caliper",
+            "annotation_uid": "d6c4429d-9d01-452c-a45d-af65466faf75"
+        },
+        {
+            "timestamp_sec": 290.11944,
+            "timestamp_frame": 8704,
+            "_unmapped_timestamp_sec": 290.11944,
+            "narration_text": "#C C screws the bolt into the caliper with hand",
+            "annotation_uid": "d6c4429d-9d01-452c-a45d-af65466faf75"
+        },
+        {
+            "timestamp_sec": 295.71037,
+            "timestamp_frame": 8871,
+            "_unmapped_timestamp_sec": 295.71037,
+            "narration_text": "#C C takes a piece of tissue the floor",
+            "annotation_uid": "d6c4429d-9d01-452c-a45d-af65466faf75"
+        },
+        {
+            "timestamp_sec": 296.18092,
+            "timestamp_frame": 8885,
+            "_unmapped_timestamp_sec": 296.18092,
+            "narration_text": "#C C cleans the caliper",
+            "annotation_uid": "d6c4429d-9d01-452c-a45d-af65466faf75"
+        },
+        {
+            "timestamp_sec": 297.22001,
+            "timestamp_frame": 8917,
+            "_unmapped_timestamp_sec": 297.22001,
+            "narration_text": "#C C drops the tissue on the floor",
+            "annotation_uid": "d6c4429d-9d01-452c-a45d-af65466faf75"
+        },
+        {
+            "timestamp_sec": 298.06242,
+            "timestamp_frame": 8942,
+            "_unmapped_timestamp_sec": 298.06242,
+            "narration_text": "#C C picks up a bolt from the floor",
+            "annotation_uid": "d6c4429d-9d01-452c-a45d-af65466faf75"
+        },
+        {
+            "timestamp_sec": 299.56569,
+            "timestamp_frame": 8987,
+            "_unmapped_timestamp_sec": 299.56569,
+            "narration_text": "#C C attaches the caliper to the motorcycle tire with the bolt",
+            "annotation_uid": "d6c4429d-9d01-452c-a45d-af65466faf75"
+        },
+        {
+            "timestamp_sec": 155.86296,
+            "timestamp_frame": 4676,
+            "_unmapped_timestamp_sec": 155.86296,
+            "narration_text": "#C C inspects the nut",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 156.69498,
+            "timestamp_frame": 4701,
+            "_unmapped_timestamp_sec": 156.69498,
+            "narration_text": "#C C picks a t-spanner",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 156.28333,
+            "timestamp_frame": 4688,
+            "_unmapped_timestamp_sec": 156.28333,
+            "narration_text": "#C C places t-spanner on the floor",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 157.91861,
+            "timestamp_frame": 4738,
+            "_unmapped_timestamp_sec": 157.91861,
+            "narration_text": "#C C tightens the nut",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 161.81576,
+            "timestamp_frame": 4854,
+            "_unmapped_timestamp_sec": 161.81576,
+            "narration_text": "#C C places t-spanner on the floor",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 162.48727,
+            "timestamp_frame": 4875,
+            "_unmapped_timestamp_sec": 162.48727,
+            "narration_text": "#C C picks a nut",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 164.75477,
+            "timestamp_frame": 4943,
+            "_unmapped_timestamp_sec": 164.75477,
+            "narration_text": "#C C picks t-spanner from the floor",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 168.15634,
+            "timestamp_frame": 5045,
+            "_unmapped_timestamp_sec": 168.15634,
+            "narration_text": "#C C picks a paper",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 165.71878,
+            "timestamp_frame": 4972,
+            "_unmapped_timestamp_sec": 165.71878,
+            "narration_text": "#C C holds the pliers",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 168.80435,
+            "timestamp_frame": 5064,
+            "_unmapped_timestamp_sec": 168.80435,
+            "narration_text": "#C C holds the paper",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 169.54877,
+            "timestamp_frame": 5086,
+            "_unmapped_timestamp_sec": 169.54877,
+            "narration_text": "#C C stands up",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 171.38416,
+            "timestamp_frame": 5142,
+            "_unmapped_timestamp_sec": 171.38416,
+            "narration_text": "#C C picks a bottle",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 172.25746,
+            "timestamp_frame": 5168,
+            "_unmapped_timestamp_sec": 172.25746,
+            "narration_text": "#C C places the bottle down",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 172.87297,
+            "timestamp_frame": 5186,
+            "_unmapped_timestamp_sec": 172.87297,
+            "narration_text": "#C C moves the stool",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 173.904,
+            "timestamp_frame": 5217,
+            "_unmapped_timestamp_sec": 173.904,
+            "narration_text": "#C C stares at the bike",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 175.10033,
+            "timestamp_frame": 5253,
+            "_unmapped_timestamp_sec": 175.10033,
+            "narration_text": "#C C places paper down",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 175.6677,
+            "timestamp_frame": 5270,
+            "_unmapped_timestamp_sec": 175.6677,
+            "narration_text": "#C C places the t-spanner on the floor",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 177.61144,
+            "timestamp_frame": 5328,
+            "_unmapped_timestamp_sec": 177.61144,
+            "narration_text": "#C C holds bike brakes",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 177.93189,
+            "timestamp_frame": 5338,
+            "_unmapped_timestamp_sec": 177.93189,
+            "narration_text": "#C C places pliers on the floor",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 178.78972,
+            "timestamp_frame": 5364,
+            "_unmapped_timestamp_sec": 178.78972,
+            "narration_text": "#C C inspects the bike brakes",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 181.32421,
+            "timestamp_frame": 5440,
+            "_unmapped_timestamp_sec": 181.32421,
+            "narration_text": "#C C stares at the bike",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 182.23388,
+            "timestamp_frame": 5467,
+            "_unmapped_timestamp_sec": 182.23388,
+            "narration_text": "#C C stares at the exit",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 184.44134,
+            "timestamp_frame": 5533,
+            "_unmapped_timestamp_sec": 184.44134,
+            "narration_text": "#C C inspects the bike brakes",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 190.46369,
+            "timestamp_frame": 5714,
+            "_unmapped_timestamp_sec": 190.46369,
+            "narration_text": "#C C moves the bottle aside",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 192.4193,
+            "timestamp_frame": 5773,
+            "_unmapped_timestamp_sec": 192.4193,
+            "narration_text": "#C C pulls the bike brakes",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 195.08133,
+            "timestamp_frame": 5852,
+            "_unmapped_timestamp_sec": 195.08133,
+            "narration_text": "#C C places brake part on the floor",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 195.88735,
+            "timestamp_frame": 5877,
+            "_unmapped_timestamp_sec": 195.88735,
+            "narration_text": "#C C picks a pliers",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 199.48102,
+            "timestamp_frame": 5984,
+            "_unmapped_timestamp_sec": 199.48102,
+            "narration_text": "#C C fixes bike brakes",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 205.60383,
+            "timestamp_frame": 6168,
+            "_unmapped_timestamp_sec": 205.60383,
+            "narration_text": "#C C stares at the bike",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 207.47647,
+            "timestamp_frame": 6224,
+            "_unmapped_timestamp_sec": 207.47647,
+            "narration_text": "#C C fixes bike brakes",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 215.71606,
+            "timestamp_frame": 6471,
+            "_unmapped_timestamp_sec": 215.71606,
+            "narration_text": "#C C stares at the pliers",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 217.40757,
+            "timestamp_frame": 6522,
+            "_unmapped_timestamp_sec": 217.40757,
+            "narration_text": "#C C fixes bike brakes",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 223.70404,
+            "timestamp_frame": 6711,
+            "_unmapped_timestamp_sec": 223.70404,
+            "narration_text": "#C C places pliers on the floor",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 224.20754,
+            "timestamp_frame": 6726,
+            "_unmapped_timestamp_sec": 224.20754,
+            "narration_text": "#C C picks a paper ",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 225.13413,
+            "timestamp_frame": 6754,
+            "_unmapped_timestamp_sec": 225.13413,
+            "narration_text": "#C C wipes the bike brakes",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 233.25557,
+            "timestamp_frame": 6998,
+            "_unmapped_timestamp_sec": 233.25557,
+            "narration_text": "#C C wipes his gloves with the paper",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 234.95085,
+            "timestamp_frame": 7049,
+            "_unmapped_timestamp_sec": 234.95085,
+            "narration_text": "#C C holds bike brakes",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 236.18274,
+            "timestamp_frame": 7085,
+            "_unmapped_timestamp_sec": 236.18274,
+            "narration_text": "#C C wipes the bike brakes",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 259.41488,
+            "timestamp_frame": 7782,
+            "_unmapped_timestamp_sec": 259.41488,
+            "narration_text": "#C C wipes his gloves with the paper",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 259.9825,
+            "timestamp_frame": 7799,
+            "_unmapped_timestamp_sec": 259.9825,
+            "narration_text": "#C C picks brake part from the floor",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 260.76675,
+            "timestamp_frame": 7823,
+            "_unmapped_timestamp_sec": 260.76675,
+            "narration_text": "#C C inspects the brake part",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 262.1587,
+            "timestamp_frame": 7865,
+            "_unmapped_timestamp_sec": 262.1587,
+            "narration_text": "#C C holds the bike brake",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 262.98203,
+            "timestamp_frame": 7889,
+            "_unmapped_timestamp_sec": 262.98203,
+            "narration_text": "#C C fixes the brake part",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 267.07899,
+            "timestamp_frame": 8012,
+            "_unmapped_timestamp_sec": 267.07899,
+            "narration_text": "#C C picks the brake pad",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 268.97441,
+            "timestamp_frame": 8069,
+            "_unmapped_timestamp_sec": 268.97441,
+            "narration_text": "#C C places the brake pad on his lap",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 269.67896,
+            "timestamp_frame": 8090,
+            "_unmapped_timestamp_sec": 269.67896,
+            "narration_text": "#C C picks the brake pad",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 272.35398,
+            "timestamp_frame": 8171,
+            "_unmapped_timestamp_sec": 272.35398,
+            "narration_text": "#C C fixes brake pad on the bike",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 274.07358,
+            "timestamp_frame": 8222,
+            "_unmapped_timestamp_sec": 274.07358,
+            "narration_text": "#C C picks brake pad from his lap",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 275.20108,
+            "timestamp_frame": 8256,
+            "_unmapped_timestamp_sec": 275.20108,
+            "narration_text": "#C C fixes brake pad on the bike",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 278.6721,
+            "timestamp_frame": 8360,
+            "_unmapped_timestamp_sec": 278.6721,
+            "narration_text": "#C C picks a nut",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 280.72597,
+            "timestamp_frame": 8422,
+            "_unmapped_timestamp_sec": 280.72597,
+            "narration_text": "#C C fixes the nut",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 282.40094,
+            "timestamp_frame": 8472,
+            "_unmapped_timestamp_sec": 282.40094,
+            "narration_text": "#C C moves the paper aside",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 283.60162,
+            "timestamp_frame": 8508,
+            "_unmapped_timestamp_sec": 283.60162,
+            "narration_text": "#C C picks a nut",
+            "annotation_uid": "a95c02e5-1220-44ba-97f8-dba73f15a956"
+        },
+        {
+            "timestamp_sec": 290.20826,
+            "timestamp_frame": 8706,
+            "_unmapped_timestamp_sec": 290.20826,
+            "narration_text": "#C C fixes a bolt in a brake caliper",
+            "annotation_uid": "d13b64c1-1544-4d49-bfd2-212230d55573"
+        },
+        {
+            "timestamp_sec": 292.38735,
+            "timestamp_frame": 8772,
+            "_unmapped_timestamp_sec": 292.38735,
+            "narration_text": "#C C lowers his hands",
+            "annotation_uid": "d13b64c1-1544-4d49-bfd2-212230d55573"
+        },
+        {
+            "timestamp_sec": 295.09082,
+            "timestamp_frame": 8853,
+            "_unmapped_timestamp_sec": 295.09082,
+            "narration_text": "#C C picks a tissue",
+            "annotation_uid": "d13b64c1-1544-4d49-bfd2-212230d55573"
+        },
+        {
+            "timestamp_sec": 296.3995,
+            "timestamp_frame": 8892,
+            "_unmapped_timestamp_sec": 296.3995,
+            "narration_text": "#C C wipes a brake caliper",
+            "annotation_uid": "d13b64c1-1544-4d49-bfd2-212230d55573"
+        },
+        {
+            "timestamp_sec": 297.00807,
+            "timestamp_frame": 8910,
+            "_unmapped_timestamp_sec": 297.00807,
+            "narration_text": "#C C drops a tissue on the floor",
+            "annotation_uid": "d13b64c1-1544-4d49-bfd2-212230d55573"
+        },
+        {
+            "timestamp_sec": 298.39702,
+            "timestamp_frame": 8952,
+            "_unmapped_timestamp_sec": 298.39702,
+            "narration_text": "#C C picks a bolt",
+            "annotation_uid": "d13b64c1-1544-4d49-bfd2-212230d55573"
+        },
+        {
+            "timestamp_sec": 299.72451,
+            "timestamp_frame": 8992,
+            "_unmapped_timestamp_sec": 299.72451,
+            "narration_text": "#C C fixes a bolt in a brake caliper",
+            "annotation_uid": "d13b64c1-1544-4d49-bfd2-212230d55573"
+        }
+    ]
+}

@@ -1,0 +1,858 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 949.3144586,
+            "timestamp_frame": 28479,
+            "_unmapped_timestamp_sec": 949.29343,
+            "narration_text": "#C C walks around the store ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 950.1032286000001,
+            "timestamp_frame": 28502,
+            "_unmapped_timestamp_sec": 950.0822000000001,
+            "narration_text": "#O lady B stands in the store",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 957.1682386,
+            "timestamp_frame": 28714,
+            "_unmapped_timestamp_sec": 957.14721,
+            "narration_text": "#C C places a shopping basket on the counter ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 958.5563086000001,
+            "timestamp_frame": 28756,
+            "_unmapped_timestamp_sec": 958.5352800000001,
+            "narration_text": "#O man F moves a shopping basket on the counter ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 962.4170486,
+            "timestamp_frame": 28872,
+            "_unmapped_timestamp_sec": 962.39602,
+            "narration_text": "#O man F picks a bottle of champagne on the counter",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 963.1755086000001,
+            "timestamp_frame": 28895,
+            "_unmapped_timestamp_sec": 963.15448,
+            "narration_text": "#O man F keys in a cash register machine",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 963.8656886,
+            "timestamp_frame": 28915,
+            "_unmapped_timestamp_sec": 963.84466,
+            "narration_text": "#O lady B stands at the counter  ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 965.3499486000001,
+            "timestamp_frame": 28960,
+            "_unmapped_timestamp_sec": 965.32892,
+            "narration_text": "#O lady B lifts her hand in the store ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 966.6961786,
+            "timestamp_frame": 29000,
+            "_unmapped_timestamp_sec": 966.67515,
+            "narration_text": "#C C raises her hand in the store ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 967.5471286000001,
+            "timestamp_frame": 29026,
+            "_unmapped_timestamp_sec": 967.5261,
+            "narration_text": "#O man F picks a magazine from the shopping basket on the counter",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 968.0397286,
+            "timestamp_frame": 29041,
+            "_unmapped_timestamp_sec": 968.0187,
+            "narration_text": "#O man F holds a magazine at the counter ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 968.7477186,
+            "timestamp_frame": 29062,
+            "_unmapped_timestamp_sec": 968.72669,
+            "narration_text": "#O man F places a magazine in the shopping basket on the counter",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 970.0420786000001,
+            "timestamp_frame": 29101,
+            "_unmapped_timestamp_sec": 970.0210500000001,
+            "narration_text": "#O man F lifts a shopping basket on the counter",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 971.2086386,
+            "timestamp_frame": 29136,
+            "_unmapped_timestamp_sec": 971.18761,
+            "narration_text": "#O man F stacks a shopping basket on another one at the counter",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 971.8949786000001,
+            "timestamp_frame": 29156,
+            "_unmapped_timestamp_sec": 971.87395,
+            "narration_text": "#O man F lifts a shopping basket on the counter",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 972.7128486,
+            "timestamp_frame": 29181,
+            "_unmapped_timestamp_sec": 972.69182,
+            "narration_text": "#O man F places a shopping basket on the counter",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 975.6824486,
+            "timestamp_frame": 29270,
+            "_unmapped_timestamp_sec": 975.66142,
+            "narration_text": "#O man F picks a magazine from the shopping basket on the counter",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 978.9388686000001,
+            "timestamp_frame": 29368,
+            "_unmapped_timestamp_sec": 978.9178400000001,
+            "narration_text": "#O man F picks a magazine from the shopping basket on the counter",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 979.5936586,
+            "timestamp_frame": 29387,
+            "_unmapped_timestamp_sec": 979.57263,
+            "narration_text": "#O man F keys in a cash register machine",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 981.1979986,
+            "timestamp_frame": 29435,
+            "_unmapped_timestamp_sec": 981.17697,
+            "narration_text": "#O man F places a magazine in the khaki bag on the counter",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 985.5096986,
+            "timestamp_frame": 29565,
+            "_unmapped_timestamp_sec": 985.48867,
+            "narration_text": "#O lady B holds a cloth at the counter ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 989.1745486,
+            "timestamp_frame": 29675,
+            "_unmapped_timestamp_sec": 989.15352,
+            "narration_text": "#O man F picks a container in the shopping basket ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 991.3556886,
+            "timestamp_frame": 29740,
+            "_unmapped_timestamp_sec": 991.33466,
+            "narration_text": "#O man F keys in a cash register machine",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 992.5024786,
+            "timestamp_frame": 29774,
+            "_unmapped_timestamp_sec": 992.48145,
+            "narration_text": "#O lady B stands at the counter ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 995.7837986000001,
+            "timestamp_frame": 29873,
+            "_unmapped_timestamp_sec": 995.76277,
+            "narration_text": "#O man F picks a can in the shopping basket ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 996.5982486,
+            "timestamp_frame": 29897,
+            "_unmapped_timestamp_sec": 996.57722,
+            "narration_text": "#O man F places a can on the counter  ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 997.5083086000001,
+            "timestamp_frame": 29925,
+            "_unmapped_timestamp_sec": 997.48728,
+            "narration_text": "#O man F picks a can on the counter  ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 998.4219486000001,
+            "timestamp_frame": 29952,
+            "_unmapped_timestamp_sec": 998.40092,
+            "narration_text": "#O man F puts a can in the shopping bag  ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1000.6240786,
+            "timestamp_frame": 30018,
+            "_unmapped_timestamp_sec": 1000.6030499999999,
+            "narration_text": "#O man F picks #Unsure from the shopping basket ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1002.6881886,
+            "timestamp_frame": 30080,
+            "_unmapped_timestamp_sec": 1002.66716,
+            "narration_text": "#O man F keys in a cash register machine",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1005.4396286,
+            "timestamp_frame": 30163,
+            "_unmapped_timestamp_sec": 1005.4186,
+            "narration_text": "#O lady B stands at the counter ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1012.3562086000001,
+            "timestamp_frame": 30370,
+            "_unmapped_timestamp_sec": 1012.33518,
+            "narration_text": "#O man F puts #Unsure in the shopping bag",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1018.4008786,
+            "timestamp_frame": 30551,
+            "_unmapped_timestamp_sec": 1018.37985,
+            "narration_text": "#O man F picks a packet of #Unsure from the shopping basket ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1019.6293286,
+            "timestamp_frame": 30588,
+            "_unmapped_timestamp_sec": 1019.6083,
+            "narration_text": "#O man F keys in a cash register machine",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1023.1898486,
+            "timestamp_frame": 30695,
+            "_unmapped_timestamp_sec": 1023.16882,
+            "narration_text": "#O man F puts a packet of #Unsure in the shopping bag",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1024.6178585999999,
+            "timestamp_frame": 30738,
+            "_unmapped_timestamp_sec": 1024.59683,
+            "narration_text": "#O man F picks mangoes from the shopping basket ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1026.1713886,
+            "timestamp_frame": 30785,
+            "_unmapped_timestamp_sec": 1026.15036,
+            "narration_text": "#O man F keys in a cash register machine",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1027.8184285999998,
+            "timestamp_frame": 30834,
+            "_unmapped_timestamp_sec": 1027.7974,
+            "narration_text": "#O man F puts mangoes in the shopping bag",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1032.0125586,
+            "timestamp_frame": 30960,
+            "_unmapped_timestamp_sec": 1031.99153,
+            "narration_text": "#O man F keys in a cash register machine",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1033.1179685999998,
+            "timestamp_frame": 30993,
+            "_unmapped_timestamp_sec": 1033.09694,
+            "narration_text": "#O man F puts apples in the shopping bag",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1033.1710885999998,
+            "timestamp_frame": 30995,
+            "_unmapped_timestamp_sec": 1033.15006,
+            "narration_text": "#O man F picks #Unsure from the shopping basket",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1034.6051186,
+            "timestamp_frame": 31038,
+            "_unmapped_timestamp_sec": 1034.58409,
+            "narration_text": "#O man F puts #Unsure in the shopping bag",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1037.1400786,
+            "timestamp_frame": 31114,
+            "_unmapped_timestamp_sec": 1037.11905,
+            "narration_text": "#O man F picks #Unsure from the shopping basket",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1038.8827086,
+            "timestamp_frame": 31166,
+            "_unmapped_timestamp_sec": 1038.86168,
+            "narration_text": "#O man F puts #Unsure in the shopping bag",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1041.6989586,
+            "timestamp_frame": 31250,
+            "_unmapped_timestamp_sec": 1041.67793,
+            "narration_text": "#O man F keys in a cash register machine",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1044.5786185999998,
+            "timestamp_frame": 31337,
+            "_unmapped_timestamp_sec": 1044.55759,
+            "narration_text": "#O man F moves a shopping basket on the counter",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1054.4520486,
+            "timestamp_frame": 31633,
+            "_unmapped_timestamp_sec": 1054.43102,
+            "narration_text": "#O man F stands in the counter ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1057.5774686,
+            "timestamp_frame": 31727,
+            "_unmapped_timestamp_sec": 1057.55644,
+            "narration_text": "#O man F holds a bill at the counter ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1061.6013785999999,
+            "timestamp_frame": 31847,
+            "_unmapped_timestamp_sec": 1061.58035,
+            "narration_text": "#O man F holds cash in his hands ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1071.1270485999999,
+            "timestamp_frame": 32133,
+            "_unmapped_timestamp_sec": 1071.10602,
+            "narration_text": "#O man F picks a shopping basket on the counter ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1074.1030186,
+            "timestamp_frame": 32222,
+            "_unmapped_timestamp_sec": 1074.0819900000001,
+            "narration_text": "#O man F bends at the counter ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1077.2603986,
+            "timestamp_frame": 32317,
+            "_unmapped_timestamp_sec": 1077.23937,
+            "narration_text": "#O man F puts a container in the shopping bag",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1080.6222486,
+            "timestamp_frame": 32418,
+            "_unmapped_timestamp_sec": 1080.60122,
+            "narration_text": "#O lady B picks a bottle of champagne at the counter ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1084.1148686,
+            "timestamp_frame": 32523,
+            "_unmapped_timestamp_sec": 1084.09384,
+            "narration_text": "#O lady B walks around the store ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1086.8732886,
+            "timestamp_frame": 32606,
+            "_unmapped_timestamp_sec": 1086.8522600000001,
+            "narration_text": "#C C walks around the store ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 1093.2965986,
+            "timestamp_frame": 32798,
+            "_unmapped_timestamp_sec": 1093.27557,
+            "narration_text": "#O lady B stands in the store ",
+            "annotation_uid": "d4bb1aca-fe4d-4a67-87b5-5067dae3ae07"
+        },
+        {
+            "timestamp_sec": 947.9656886,
+            "timestamp_frame": 28438,
+            "_unmapped_timestamp_sec": 947.94466,
+            "narration_text": "#O Man G walks into the convenient store",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 949.4728286000001,
+            "timestamp_frame": 28484,
+            "_unmapped_timestamp_sec": 949.4518,
+            "narration_text": "#C C stands in the queue",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 951.1924786000001,
+            "timestamp_frame": 28535,
+            "_unmapped_timestamp_sec": 951.17145,
+            "narration_text": "#O Woman D moves aside",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 952.2672186000001,
+            "timestamp_frame": 28567,
+            "_unmapped_timestamp_sec": 952.2461900000001,
+            "narration_text": "#O Cashier F talks to Woman D",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 953.6981686,
+            "timestamp_frame": 28610,
+            "_unmapped_timestamp_sec": 953.67714,
+            "narration_text": "#O Woman D talks to the Cashier F",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 956.2646086000001,
+            "timestamp_frame": 28687,
+            "_unmapped_timestamp_sec": 956.2435800000001,
+            "narration_text": "#O Cashier F talks",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 956.9347786,
+            "timestamp_frame": 28707,
+            "_unmapped_timestamp_sec": 956.9137499999999,
+            "narration_text": "#C C puts the basket on the counter",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 958.0928386,
+            "timestamp_frame": 28742,
+            "_unmapped_timestamp_sec": 958.07181,
+            "narration_text": "#O Cashier F moves the basket on the counter",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 962.2582586,
+            "timestamp_frame": 28867,
+            "_unmapped_timestamp_sec": 962.23723,
+            "narration_text": "#O Cashier F takes the bottle of juice",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 965.3462286,
+            "timestamp_frame": 28960,
+            "_unmapped_timestamp_sec": 965.3252,
+            "narration_text": "#O Woman B points",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 968.0554986000001,
+            "timestamp_frame": 29041,
+            "_unmapped_timestamp_sec": 968.03447,
+            "narration_text": "#O Cashier F holds the magazine",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 969.1641686,
+            "timestamp_frame": 29074,
+            "_unmapped_timestamp_sec": 969.14314,
+            "narration_text": "#O Cashier F puts the magazine back in the basket",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 969.5794686,
+            "timestamp_frame": 29087,
+            "_unmapped_timestamp_sec": 969.55844,
+            "narration_text": "#O Cashier F takes the basket from the counter top",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 970.9084686,
+            "timestamp_frame": 29127,
+            "_unmapped_timestamp_sec": 970.88744,
+            "narration_text": "#O Cashier F puts the basket into another basket",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 971.4762686,
+            "timestamp_frame": 29144,
+            "_unmapped_timestamp_sec": 971.45524,
+            "narration_text": "#O Cashier F moves the baskets to the other side of the counter",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 975.3312186,
+            "timestamp_frame": 29259,
+            "_unmapped_timestamp_sec": 975.31019,
+            "narration_text": "#O Woman B looks at the dress",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 976.7845986,
+            "timestamp_frame": 29303,
+            "_unmapped_timestamp_sec": 976.76357,
+            "narration_text": "#O Woman B talks",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 978.5872186,
+            "timestamp_frame": 29357,
+            "_unmapped_timestamp_sec": 978.56619,
+            "narration_text": "#O Cashier F takes the magazine",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 979.8206686,
+            "timestamp_frame": 29394,
+            "_unmapped_timestamp_sec": 979.79964,
+            "narration_text": "#O Cashier F presses the counter billing machine",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 980.8200786,
+            "timestamp_frame": 29424,
+            "_unmapped_timestamp_sec": 980.79905,
+            "narration_text": "#O Cashier F puts the magazine in the brown paper bag",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 983.7239686,
+            "timestamp_frame": 29511,
+            "_unmapped_timestamp_sec": 983.70294,
+            "narration_text": "#O Cashier F picks an item from the basket",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 985.5756686000001,
+            "timestamp_frame": 29567,
+            "_unmapped_timestamp_sec": 985.5546400000001,
+            "narration_text": "#O Woman D looks at the dress",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 989.0283486,
+            "timestamp_frame": 29670,
+            "_unmapped_timestamp_sec": 989.0073199999999,
+            "narration_text": "#O Cashier F picks a container from the basket",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 992.5820086,
+            "timestamp_frame": 29777,
+            "_unmapped_timestamp_sec": 992.56098,
+            "narration_text": "#O Woman D talks",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 995.6870586,
+            "timestamp_frame": 29870,
+            "_unmapped_timestamp_sec": 995.66603,
+            "narration_text": "#O Cashier F takes a can from the basket",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 996.1130786,
+            "timestamp_frame": 29883,
+            "_unmapped_timestamp_sec": 996.09205,
+            "narration_text": "#O Cashier F puts the can on the counter",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 997.8963586,
+            "timestamp_frame": 29936,
+            "_unmapped_timestamp_sec": 997.87533,
+            "narration_text": "#O Cashier F puts the can in the brown paper bag",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1000.2673986000001,
+            "timestamp_frame": 30007,
+            "_unmapped_timestamp_sec": 1000.2463700000001,
+            "narration_text": "#O Cashier F takes a container from the basket",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1002.2760786,
+            "timestamp_frame": 30068,
+            "_unmapped_timestamp_sec": 1002.25505,
+            "narration_text": "#O Cashier F puts the container in the brown paper bag",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1005.3145686,
+            "timestamp_frame": 30159,
+            "_unmapped_timestamp_sec": 1005.29354,
+            "narration_text": "#O Woman B talks",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1012.3768986,
+            "timestamp_frame": 30371,
+            "_unmapped_timestamp_sec": 1012.35587,
+            "narration_text": "#O Cashier F puts an item in the brown paper bag",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1013.5887186,
+            "timestamp_frame": 30407,
+            "_unmapped_timestamp_sec": 1013.56769,
+            "narration_text": "#O Cashier F talks",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1018.5349586,
+            "timestamp_frame": 30555,
+            "_unmapped_timestamp_sec": 1018.51393,
+            "narration_text": "#O Cashier F holds a box of biscuits",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1019.6288186,
+            "timestamp_frame": 30588,
+            "_unmapped_timestamp_sec": 1019.60779,
+            "narration_text": "#O Cashier F presses on the counter billing machine",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1020.1966486,
+            "timestamp_frame": 30605,
+            "_unmapped_timestamp_sec": 1020.17562,
+            "narration_text": "#O Cashier F holds a box of biscuits",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1023.2290186,
+            "timestamp_frame": 30696,
+            "_unmapped_timestamp_sec": 1023.20799,
+            "narration_text": "#O Cashier F puts his hand in the basket",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1024.1410686,
+            "timestamp_frame": 30724,
+            "_unmapped_timestamp_sec": 1024.12004,
+            "narration_text": "#O Cashier F points",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1024.5563986,
+            "timestamp_frame": 30736,
+            "_unmapped_timestamp_sec": 1024.53537,
+            "narration_text": "#O Cashier F removes fruits from the basket",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1027.2842586,
+            "timestamp_frame": 30818,
+            "_unmapped_timestamp_sec": 1027.26323,
+            "narration_text": "#O Cashier F puts the fruits in the brown paper bag",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1030.5381685999998,
+            "timestamp_frame": 30916,
+            "_unmapped_timestamp_sec": 1030.51714,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1032.0089985999998,
+            "timestamp_frame": 30960,
+            "_unmapped_timestamp_sec": 1031.98797,
+            "narration_text": "#O Cashier F holds the item in his hand",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1032.8382786,
+            "timestamp_frame": 30985,
+            "_unmapped_timestamp_sec": 1032.81725,
+            "narration_text": "#O Cashier F puts the item in the brown paper bag",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1033.1661485999998,
+            "timestamp_frame": 30994,
+            "_unmapped_timestamp_sec": 1033.14512,
+            "narration_text": "#O Cashier F takes the cakes from the basket",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1034.3398386,
+            "timestamp_frame": 31030,
+            "_unmapped_timestamp_sec": 1034.31881,
+            "narration_text": "#O Cashier F puts the cakes in the brown paper bag",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1036.9926085999998,
+            "timestamp_frame": 31109,
+            "_unmapped_timestamp_sec": 1036.97158,
+            "narration_text": "#O Cashier F takes the container from the basket",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1038.2789086,
+            "timestamp_frame": 31148,
+            "_unmapped_timestamp_sec": 1038.2578800000001,
+            "narration_text": "#O Cashier F puts the container into the brown paper bag",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1039.6006885999998,
+            "timestamp_frame": 31187,
+            "_unmapped_timestamp_sec": 1039.5796599999999,
+            "narration_text": "#O Woman D walks with the basket in her hands",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1044.1441086,
+            "timestamp_frame": 31324,
+            "_unmapped_timestamp_sec": 1044.12308,
+            "narration_text": "#O Cashier F moves the basket on the counter",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1046.2782386,
+            "timestamp_frame": 31388,
+            "_unmapped_timestamp_sec": 1046.25721,
+            "narration_text": "#O Cashier F gestures with his hands",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1047.5040686,
+            "timestamp_frame": 31424,
+            "_unmapped_timestamp_sec": 1047.48304,
+            "narration_text": "#O Cashier F talks",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1051.3739085999998,
+            "timestamp_frame": 31541,
+            "_unmapped_timestamp_sec": 1051.35288,
+            "narration_text": "#O Cashier F places hands on the counter",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1053.4106886,
+            "timestamp_frame": 31602,
+            "_unmapped_timestamp_sec": 1053.38966,
+            "narration_text": "#O Cashier F talks",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1057.4963386,
+            "timestamp_frame": 31724,
+            "_unmapped_timestamp_sec": 1057.47531,
+            "narration_text": "#O Cashier F holds the money in his left hand",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1057.9603186,
+            "timestamp_frame": 31738,
+            "_unmapped_timestamp_sec": 1057.93929,
+            "narration_text": "#O Cashier F presses the counter billing machine",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1062.4979786,
+            "timestamp_frame": 31874,
+            "_unmapped_timestamp_sec": 1062.47695,
+            "narration_text": "#O Cashier F puts the money in the compartment",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1063.6829286,
+            "timestamp_frame": 31910,
+            "_unmapped_timestamp_sec": 1063.6619,
+            "narration_text": "#O Cashier F takes the receipt from the billing machine",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1066.0500685999998,
+            "timestamp_frame": 31981,
+            "_unmapped_timestamp_sec": 1066.02904,
+            "narration_text": "#C C walks to the other side of the counter",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1069.3476285999998,
+            "timestamp_frame": 32080,
+            "_unmapped_timestamp_sec": 1069.3265999999999,
+            "narration_text": "#C C takes the paper bag from the counter",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1069.7694385999998,
+            "timestamp_frame": 32092,
+            "_unmapped_timestamp_sec": 1069.74841,
+            "narration_text": "#O Cashier F moves the baskets on the counter",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1073.7619286,
+            "timestamp_frame": 32212,
+            "_unmapped_timestamp_sec": 1073.7409,
+            "narration_text": "#O Cashier F picks the cakes ",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1076.9505285999999,
+            "timestamp_frame": 32308,
+            "_unmapped_timestamp_sec": 1076.9295,
+            "narration_text": "#O Cashier F puts the cakes in the brown paper bag",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1079.3076686,
+            "timestamp_frame": 32379,
+            "_unmapped_timestamp_sec": 1079.28664,
+            "narration_text": "#O Woman B takes the bottle of juice from the counter",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1079.7314586,
+            "timestamp_frame": 32391,
+            "_unmapped_timestamp_sec": 1079.71043,
+            "narration_text": "#O Woman B talks",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1083.2661185999998,
+            "timestamp_frame": 32497,
+            "_unmapped_timestamp_sec": 1083.24509,
+            "narration_text": "#C C walks in the convenient store",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1085.9475986,
+            "timestamp_frame": 32578,
+            "_unmapped_timestamp_sec": 1085.92657,
+            "narration_text": "#O Woman B walks convenient store",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        },
+        {
+            "timestamp_sec": 1092.9376186,
+            "timestamp_frame": 32787,
+            "_unmapped_timestamp_sec": 1092.91659,
+            "narration_text": "#O Woman B talks",
+            "annotation_uid": "b816cd73-003d-4274-8536-fa1015a2f4cd"
+        }
+    ]
+}

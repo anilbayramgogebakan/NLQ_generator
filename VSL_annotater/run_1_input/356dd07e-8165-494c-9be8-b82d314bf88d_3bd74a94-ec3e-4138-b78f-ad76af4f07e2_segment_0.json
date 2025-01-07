@@ -1,0 +1,781 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 61.8607386,
+            "timestamp_frame": 1855,
+            "_unmapped_timestamp_sec": 61.83971,
+            "narration_text": "#O man Z stands in the store",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 62.4374486,
+            "timestamp_frame": 1872,
+            "_unmapped_timestamp_sec": 62.41642,
+            "narration_text": "#O a lady J stands in the room ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 63.2549986,
+            "timestamp_frame": 1897,
+            "_unmapped_timestamp_sec": 63.23397,
+            "narration_text": "#O a man K stands in the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 69.9609686,
+            "timestamp_frame": 2098,
+            "_unmapped_timestamp_sec": 69.93994,
+            "narration_text": "#O man X stands in the store",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 73.1192186,
+            "timestamp_frame": 2193,
+            "_unmapped_timestamp_sec": 73.09819,
+            "narration_text": "#O a man Y stands in the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 74.91427859999999,
+            "timestamp_frame": 2247,
+            "_unmapped_timestamp_sec": 74.89325,
+            "narration_text": "#O man Z stands in the store",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 76.83969859999999,
+            "timestamp_frame": 2305,
+            "_unmapped_timestamp_sec": 76.81867,
+            "narration_text": "#O a man Y moves his left hand in the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 77.1605486,
+            "timestamp_frame": 2314,
+            "_unmapped_timestamp_sec": 77.13952,
+            "narration_text": "#O man X moves his right hand in the store",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 86.95183859999999,
+            "timestamp_frame": 2608,
+            "_unmapped_timestamp_sec": 86.93081,
+            "narration_text": "#O a lady B walks around the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 90.5248486,
+            "timestamp_frame": 2715,
+            "_unmapped_timestamp_sec": 90.50382,
+            "narration_text": "#O a lady J stands in the room ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 91.6061486,
+            "timestamp_frame": 2748,
+            "_unmapped_timestamp_sec": 91.58512,
+            "narration_text": "#O a man P stands in the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 94.9501986,
+            "timestamp_frame": 2848,
+            "_unmapped_timestamp_sec": 94.92917,
+            "narration_text": "#O a lady J stands in the room ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 96.15188859999999,
+            "timestamp_frame": 2884,
+            "_unmapped_timestamp_sec": 96.13086,
+            "narration_text": "#O a man K stands in the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 100.9482086,
+            "timestamp_frame": 3028,
+            "_unmapped_timestamp_sec": 100.92718,
+            "narration_text": "#O a lady B walks around the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 102.03001859999999,
+            "timestamp_frame": 3060,
+            "_unmapped_timestamp_sec": 102.00899,
+            "narration_text": "#O a lady B holds a phone in the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 102.5547486,
+            "timestamp_frame": 3076,
+            "_unmapped_timestamp_sec": 102.53372,
+            "narration_text": "#O a lady J stands in the room ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 105.3505586,
+            "timestamp_frame": 3160,
+            "_unmapped_timestamp_sec": 105.32953,
+            "narration_text": "#O a man P stands in the counter ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 107.36457859999999,
+            "timestamp_frame": 3220,
+            "_unmapped_timestamp_sec": 107.34355,
+            "narration_text": "#O a man D stands in the counter ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 109.1668086,
+            "timestamp_frame": 3274,
+            "_unmapped_timestamp_sec": 109.14578,
+            "narration_text": "#O man Z stands in the store",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 109.61878859999999,
+            "timestamp_frame": 3288,
+            "_unmapped_timestamp_sec": 109.59776,
+            "narration_text": "#O a man K stands in the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 110.80606859999999,
+            "timestamp_frame": 3324,
+            "_unmapped_timestamp_sec": 110.78504,
+            "narration_text": "#O man Z stands in the store",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 112.0065286,
+            "timestamp_frame": 3360,
+            "_unmapped_timestamp_sec": 111.9855,
+            "narration_text": "#O a man K stands in the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 116.21827859999999,
+            "timestamp_frame": 3486,
+            "_unmapped_timestamp_sec": 116.19725,
+            "narration_text": "#O a man K walks around in the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 117.50900859999999,
+            "timestamp_frame": 3525,
+            "_unmapped_timestamp_sec": 117.48798,
+            "narration_text": "#C C opens a book in the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 118.0386286,
+            "timestamp_frame": 3541,
+            "_unmapped_timestamp_sec": 118.0176,
+            "narration_text": "#O a man K walks around in the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 119.8388586,
+            "timestamp_frame": 3595,
+            "_unmapped_timestamp_sec": 119.81783,
+            "narration_text": "#C C walks around the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 122.65469859999999,
+            "timestamp_frame": 3679,
+            "_unmapped_timestamp_sec": 122.63367,
+            "narration_text": "#O a man X walks around the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 124.42609859999999,
+            "timestamp_frame": 3732,
+            "_unmapped_timestamp_sec": 124.40507,
+            "narration_text": "#O man Y shops around ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 124.07907859999999,
+            "timestamp_frame": 3722,
+            "_unmapped_timestamp_sec": 124.05805,
+            "narration_text": "#O a man X holds #Unsure in the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 125.2244886,
+            "timestamp_frame": 3756,
+            "_unmapped_timestamp_sec": 125.20346,
+            "narration_text": "#O man X holds a bottle of #Unsure with both hands in the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 126.1033786,
+            "timestamp_frame": 3782,
+            "_unmapped_timestamp_sec": 126.08235,
+            "narration_text": "#O a lady J walks around in the room ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 127.37102859999999,
+            "timestamp_frame": 3820,
+            "_unmapped_timestamp_sec": 127.35,
+            "narration_text": "#O a lady J holds disposable plates in the room on the left hand ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 127.66413859999999,
+            "timestamp_frame": 3829,
+            "_unmapped_timestamp_sec": 127.64311,
+            "narration_text": "#O a lady J picks disposable cups on the shelf with the right hand  ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 129.5720786,
+            "timestamp_frame": 3887,
+            "_unmapped_timestamp_sec": 129.55105,
+            "narration_text": "#O a lady J stands in the room ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 138.24080859999998,
+            "timestamp_frame": 4147,
+            "_unmapped_timestamp_sec": 138.21978,
+            "narration_text": "#C C stands in the room ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 138.0116286,
+            "timestamp_frame": 4140,
+            "_unmapped_timestamp_sec": 137.9906,
+            "narration_text": "#O a lady J holds disposable cups in her hands ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 139.2064986,
+            "timestamp_frame": 4176,
+            "_unmapped_timestamp_sec": 139.18547,
+            "narration_text": "#O a lady J moves her right hand in the room ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 139.9063686,
+            "timestamp_frame": 4197,
+            "_unmapped_timestamp_sec": 139.88534,
+            "narration_text": "#O a lady J holds disposable cups in her hands ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 142.6086986,
+            "timestamp_frame": 4278,
+            "_unmapped_timestamp_sec": 142.58767,
+            "narration_text": "#C C walks around the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 145.1749286,
+            "timestamp_frame": 4355,
+            "_unmapped_timestamp_sec": 145.1539,
+            "narration_text": "#O a lady J stands in the room ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 147.6360786,
+            "timestamp_frame": 4428,
+            "_unmapped_timestamp_sec": 147.61505,
+            "narration_text": "#O a man Z stands in the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 150.7249286,
+            "timestamp_frame": 4521,
+            "_unmapped_timestamp_sec": 150.7039,
+            "narration_text": "#C C walks around the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 153.4004986,
+            "timestamp_frame": 4601,
+            "_unmapped_timestamp_sec": 153.37947,
+            "narration_text": "#O a man K walks around in the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 158.5171586,
+            "timestamp_frame": 4755,
+            "_unmapped_timestamp_sec": 158.49613,
+            "narration_text": "#C C walks around the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 162.4060386,
+            "timestamp_frame": 4872,
+            "_unmapped_timestamp_sec": 162.38501,
+            "narration_text": "#O a lady B walks around the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 163.8364886,
+            "timestamp_frame": 4914,
+            "_unmapped_timestamp_sec": 163.81546,
+            "narration_text": "#C C moves a hand in the shelf ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 165.25522859999998,
+            "timestamp_frame": 4957,
+            "_unmapped_timestamp_sec": 165.2342,
+            "narration_text": "#O man X walks around the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 167.3050486,
+            "timestamp_frame": 5019,
+            "_unmapped_timestamp_sec": 167.28402,
+            "narration_text": "#C C picks a pack of Taco corn on the shelf ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 173.9328486,
+            "timestamp_frame": 5217,
+            "_unmapped_timestamp_sec": 173.91182,
+            "narration_text": "#O a lady J stands in the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 176.6815586,
+            "timestamp_frame": 5300,
+            "_unmapped_timestamp_sec": 176.66053,
+            "narration_text": "#O man Z walks around the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 179.7770586,
+            "timestamp_frame": 5393,
+            "_unmapped_timestamp_sec": 179.75603,
+            "narration_text": "#O a lady J moves her right hand in the room ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 180.4743586,
+            "timestamp_frame": 5414,
+            "_unmapped_timestamp_sec": 180.45333,
+            "narration_text": "#O man K holds a bottle of sauce on the shelf ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 183.3654786,
+            "timestamp_frame": 5500,
+            "_unmapped_timestamp_sec": 183.34445,
+            "narration_text": "#O a lady J stands in the room ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 185.4799186,
+            "timestamp_frame": 5564,
+            "_unmapped_timestamp_sec": 185.45889,
+            "narration_text": "#O man K picks a bottle of sauce on the shelf ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 188.2458986,
+            "timestamp_frame": 5647,
+            "_unmapped_timestamp_sec": 188.22487,
+            "narration_text": "#C C points a bottle of sauce on the shelf ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 190.5397486,
+            "timestamp_frame": 5716,
+            "_unmapped_timestamp_sec": 190.51872,
+            "narration_text": "#C C moves around the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 192.5978386,
+            "timestamp_frame": 5777,
+            "_unmapped_timestamp_sec": 192.57681,
+            "narration_text": "#O man K stands in the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 193.4690986,
+            "timestamp_frame": 5803,
+            "_unmapped_timestamp_sec": 193.44807,
+            "narration_text": "#O man K holds a bottle of source in the store",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 199.7456386,
+            "timestamp_frame": 5992,
+            "_unmapped_timestamp_sec": 199.72461,
+            "narration_text": "#C C stands in the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 204.3374986,
+            "timestamp_frame": 6129,
+            "_unmapped_timestamp_sec": 204.31647,
+            "narration_text": "#C C moves around the store ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 206.13756859999998,
+            "timestamp_frame": 6183,
+            "_unmapped_timestamp_sec": 206.11654,
+            "narration_text": "#O man K picks a can of beans on the shelf ",
+            "annotation_uid": "6c592260-434e-4fa5-ad32-2617f3ecbdcd"
+        },
+        {
+            "timestamp_sec": 61.4518086,
+            "timestamp_frame": 1843,
+            "_unmapped_timestamp_sec": 61.43078,
+            "narration_text": "#O Woman D lowers her left hand",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 62.2801786,
+            "timestamp_frame": 1868,
+            "_unmapped_timestamp_sec": 62.25915,
+            "narration_text": "#O Woman D talks",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 69.4813686,
+            "timestamp_frame": 2084,
+            "_unmapped_timestamp_sec": 69.46034,
+            "narration_text": "#O Man H talks",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 71.3392586,
+            "timestamp_frame": 2140,
+            "_unmapped_timestamp_sec": 71.31823,
+            "narration_text": "#O Man J scratches his chin",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 77.2717986,
+            "timestamp_frame": 2318,
+            "_unmapped_timestamp_sec": 77.25077,
+            "narration_text": "#O Man E scratches his forehead",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 77.2717986,
+            "timestamp_frame": 2318,
+            "_unmapped_timestamp_sec": 77.25077,
+            "narration_text": "#O Man H points",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 80.1840486,
+            "timestamp_frame": 2405,
+            "_unmapped_timestamp_sec": 80.16302,
+            "narration_text": "#O Man H gestures with his right hand",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 81.7298586,
+            "timestamp_frame": 2451,
+            "_unmapped_timestamp_sec": 81.70883,
+            "narration_text": "#O Man E raises his left hand",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 82.39274859999999,
+            "timestamp_frame": 2471,
+            "_unmapped_timestamp_sec": 82.37172,
+            "narration_text": "#O Man E lowers his left hand",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 83.70309859999999,
+            "timestamp_frame": 2510,
+            "_unmapped_timestamp_sec": 83.68207,
+            "narration_text": "#O Man E raises his right hand",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 84.6892486,
+            "timestamp_frame": 2540,
+            "_unmapped_timestamp_sec": 84.66822,
+            "narration_text": "#O Man E lowers his left hand",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 85.82133859999999,
+            "timestamp_frame": 2574,
+            "_unmapped_timestamp_sec": 85.80031,
+            "narration_text": "#O Man H gestures with his right hand",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 86.7960286,
+            "timestamp_frame": 2603,
+            "_unmapped_timestamp_sec": 86.775,
+            "narration_text": "#O Man E touches Man H's glasses",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 88.3122386,
+            "timestamp_frame": 2649,
+            "_unmapped_timestamp_sec": 88.29121,
+            "narration_text": "#O Woman K walks past C",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 90.2313586,
+            "timestamp_frame": 2706,
+            "_unmapped_timestamp_sec": 90.21033,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 92.01327859999999,
+            "timestamp_frame": 2760,
+            "_unmapped_timestamp_sec": 91.99225,
+            "narration_text": "#O Man L talks",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 97.64579859999999,
+            "timestamp_frame": 2929,
+            "_unmapped_timestamp_sec": 97.62477,
+            "narration_text": "#O Woman D talks",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 104.79156859999999,
+            "timestamp_frame": 3143,
+            "_unmapped_timestamp_sec": 104.77054,
+            "narration_text": "#C C walks to the counter",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 107.65379859999999,
+            "timestamp_frame": 3229,
+            "_unmapped_timestamp_sec": 107.63277,
+            "narration_text": "#O Man A takes money from the counter",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 108.30817859999999,
+            "timestamp_frame": 3249,
+            "_unmapped_timestamp_sec": 108.28715,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 111.2980886,
+            "timestamp_frame": 3338,
+            "_unmapped_timestamp_sec": 111.27706,
+            "narration_text": "#C Man M takes the money",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 115.14073859999999,
+            "timestamp_frame": 3454,
+            "_unmapped_timestamp_sec": 115.11971,
+            "narration_text": "#C Man M talks",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 117.2779886,
+            "timestamp_frame": 3518,
+            "_unmapped_timestamp_sec": 117.25696,
+            "narration_text": "#C C opens the book",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 119.9865986,
+            "timestamp_frame": 3599,
+            "_unmapped_timestamp_sec": 119.96557,
+            "narration_text": "#C C walks into the convenient store",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 121.83244859999999,
+            "timestamp_frame": 3654,
+            "_unmapped_timestamp_sec": 121.81142,
+            "narration_text": "#O Man H picks a toilet cleaner from the shelf",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 124.1113486,
+            "timestamp_frame": 3723,
+            "_unmapped_timestamp_sec": 124.09032,
+            "narration_text": "#O Man E picks an item from the shelf",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 126.2107286,
+            "timestamp_frame": 3786,
+            "_unmapped_timestamp_sec": 126.1897,
+            "narration_text": "#O Woman D picks tumblers from the shelf",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 126.36172859999999,
+            "timestamp_frame": 3790,
+            "_unmapped_timestamp_sec": 126.3407,
+            "narration_text": "#O Man E puts the item in the shopping basket",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 131.7122386,
+            "timestamp_frame": 3951,
+            "_unmapped_timestamp_sec": 131.69121,
+            "narration_text": "#O Woman D talks",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 134.15575859999998,
+            "timestamp_frame": 4024,
+            "_unmapped_timestamp_sec": 134.13473,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 138.8788186,
+            "timestamp_frame": 4166,
+            "_unmapped_timestamp_sec": 138.85779,
+            "narration_text": "#O Woman D carries the tumblers",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 153.18942859999999,
+            "timestamp_frame": 4595,
+            "_unmapped_timestamp_sec": 153.1684,
+            "narration_text": "#O Man M walks",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 153.18942859999999,
+            "timestamp_frame": 4595,
+            "_unmapped_timestamp_sec": 153.1684,
+            "narration_text": "#O Man J touches an item on the top shelf",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 156.9749286,
+            "timestamp_frame": 4709,
+            "_unmapped_timestamp_sec": 156.9539,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 162.1914086,
+            "timestamp_frame": 4865,
+            "_unmapped_timestamp_sec": 162.17038,
+            "narration_text": "#O Man E walks past C",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 164.99349859999998,
+            "timestamp_frame": 4949,
+            "_unmapped_timestamp_sec": 164.97247,
+            "narration_text": "#O Man H walks past C",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 166.60828859999998,
+            "timestamp_frame": 4998,
+            "_unmapped_timestamp_sec": 166.58726,
+            "narration_text": "#O Man M touches the box of tacos",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 167.9931686,
+            "timestamp_frame": 5039,
+            "_unmapped_timestamp_sec": 167.97214,
+            "narration_text": "#O Man M takes the box of tacos",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 172.71341859999998,
+            "timestamp_frame": 5181,
+            "_unmapped_timestamp_sec": 172.69239,
+            "narration_text": "#C C puts the taco box in the shopping basket",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 180.1117086,
+            "timestamp_frame": 5403,
+            "_unmapped_timestamp_sec": 180.09068,
+            "narration_text": "#O Man M touches the tomato sauce",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 181.21771859999998,
+            "timestamp_frame": 5436,
+            "_unmapped_timestamp_sec": 181.19669,
+            "narration_text": "#O Man M points at the green salsa sauce",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 181.6880386,
+            "timestamp_frame": 5450,
+            "_unmapped_timestamp_sec": 181.66701,
+            "narration_text": "#O Man M holds the top shelf",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 185.3006586,
+            "timestamp_frame": 5558,
+            "_unmapped_timestamp_sec": 185.27963,
+            "narration_text": "#O Man M takes the red salsa sauce",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 188.2462086,
+            "timestamp_frame": 5647,
+            "_unmapped_timestamp_sec": 188.22518,
+            "narration_text": "#C C points at the sauces",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 192.2873586,
+            "timestamp_frame": 5768,
+            "_unmapped_timestamp_sec": 192.26633,
+            "narration_text": "#O Man M holds the dollars",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 192.9803786,
+            "timestamp_frame": 5789,
+            "_unmapped_timestamp_sec": 192.95935,
+            "narration_text": "#O Man N picks soy sauce from the top shelf",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 193.6723786,
+            "timestamp_frame": 5810,
+            "_unmapped_timestamp_sec": 193.65135,
+            "narration_text": "#O Man M puts the red salsa in the basket",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 196.0739386,
+            "timestamp_frame": 5882,
+            "_unmapped_timestamp_sec": 196.05291,
+            "narration_text": "#O Man N puts the soy sauce in his basket",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 199.1082486,
+            "timestamp_frame": 5973,
+            "_unmapped_timestamp_sec": 199.08722,
+            "narration_text": "#C C points at the taco box",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        },
+        {
+            "timestamp_sec": 205.9461786,
+            "timestamp_frame": 6178,
+            "_unmapped_timestamp_sec": 205.92515,
+            "narration_text": "#O Man M picks the can of beans",
+            "annotation_uid": "99c99b19-26f8-4051-9857-b6d48490931b"
+        }
+    ]
+}

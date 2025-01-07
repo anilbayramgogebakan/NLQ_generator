@@ -1,0 +1,830 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 153.31779,
+            "timestamp_frame": 4600,
+            "_unmapped_timestamp_sec": 153.31779,
+            "narration_text": "#C C drops the cement bucket on the floor.\n",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 155.93665,
+            "timestamp_frame": 4678,
+            "_unmapped_timestamp_sec": 155.93665,
+            "narration_text": "#C C drops the piece of tile in his hand.\n",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 157.8228,
+            "timestamp_frame": 4735,
+            "_unmapped_timestamp_sec": 157.8228,
+            "narration_text": "#C C picks up a measuring tape, the square ruler and the marker from the floor.",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 160.49123,
+            "timestamp_frame": 4815,
+            "_unmapped_timestamp_sec": 160.49123,
+            "narration_text": "#C C drops the square ruler and the marker on the floor.",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 161.82977,
+            "timestamp_frame": 4855,
+            "_unmapped_timestamp_sec": 161.82977,
+            "narration_text": "#C C drops the measuring tape on the floor.",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 163.54574,
+            "timestamp_frame": 4906,
+            "_unmapped_timestamp_sec": 163.54574,
+            "narration_text": "#C C picks up a notch trowel from the floor.",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 165.60174,
+            "timestamp_frame": 4968,
+            "_unmapped_timestamp_sec": 165.60174,
+            "narration_text": "#C C scoops the cement from the bucket with the notch trowel.",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 167.15008,
+            "timestamp_frame": 5015,
+            "_unmapped_timestamp_sec": 167.15008,
+            "narration_text": "#C C cements the floor with the notch trowel.",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 168.69766,
+            "timestamp_frame": 5061,
+            "_unmapped_timestamp_sec": 168.69766,
+            "narration_text": "#C C scoops the cement from the bucket with the notch trowel.",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 170.59798,
+            "timestamp_frame": 5118,
+            "_unmapped_timestamp_sec": 170.59798,
+            "narration_text": "#C C cements the floor with the notch trowel.",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 201.62865,
+            "timestamp_frame": 6049,
+            "_unmapped_timestamp_sec": 201.62865,
+            "narration_text": "#C C cements the the piece of tile with the notch trowel.",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 215.65227,
+            "timestamp_frame": 6470,
+            "_unmapped_timestamp_sec": 215.65227,
+            "narration_text": "#C C drops  the notch trowel on the cement bucket.",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 216.62796,
+            "timestamp_frame": 6499,
+            "_unmapped_timestamp_sec": 216.62796,
+            "narration_text": "#C C carries the piece of tile from the pieces of tile on the floor.",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 221.11204,
+            "timestamp_frame": 6633,
+            "_unmapped_timestamp_sec": 221.11204,
+            "narration_text": "#C C places the piece of tile on the floor.",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 230.2678,
+            "timestamp_frame": 6908,
+            "_unmapped_timestamp_sec": 230.2678,
+            "narration_text": "#C C picks up the tile spacer clips from the carton.",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 232.02516,
+            "timestamp_frame": 6961,
+            "_unmapped_timestamp_sec": 232.02516,
+            "narration_text": "#C C drops the tile spacer clips on the floor.",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 233.24205,
+            "timestamp_frame": 6997,
+            "_unmapped_timestamp_sec": 233.24205,
+            "narration_text": "#C C fixes the clips on the tile spacer between the tile on the floor.",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 263.57136,
+            "timestamp_frame": 7907,
+            "_unmapped_timestamp_sec": 263.57136,
+            "narration_text": "#C C picks up a tile spacer from the carton.",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 264.79726,
+            "timestamp_frame": 7944,
+            "_unmapped_timestamp_sec": 264.79726,
+            "narration_text": "#C C places the tile spacer on the floor.",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 267.3535,
+            "timestamp_frame": 8021,
+            "_unmapped_timestamp_sec": 267.3535,
+            "narration_text": "#C C picks up the  notch trowel from the cement bucket.",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 270.164,
+            "timestamp_frame": 8105,
+            "_unmapped_timestamp_sec": 270.164,
+            "narration_text": "#C C lifts the tile on the floor with the notch trowel.",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 270.72398,
+            "timestamp_frame": 8122,
+            "_unmapped_timestamp_sec": 270.72398,
+            "narration_text": "#C C adjusts the tile spacer on the floor.",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 276.53726,
+            "timestamp_frame": 8296,
+            "_unmapped_timestamp_sec": 276.53726,
+            "narration_text": "#C C drops the notch trowel on the cement bucket.",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 281.1231,
+            "timestamp_frame": 8434,
+            "_unmapped_timestamp_sec": 281.1231,
+            "narration_text": "#C C picks up the measuring tape from the floor.",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 283.27102,
+            "timestamp_frame": 8498,
+            "_unmapped_timestamp_sec": 283.27102,
+            "narration_text": "#C C measures the floor with the measuring tape.",
+            "annotation_uid": "44d08ca3-d1d4-47f6-8db3-1f68701dcfcc"
+        },
+        {
+            "timestamp_sec": 290.76228,
+            "timestamp_frame": 8723,
+            "_unmapped_timestamp_sec": 290.76228,
+            "narration_text": "#C C folds the measuring tape with his left hand.",
+            "annotation_uid": "276eb537-15e2-4156-a060-f5484d55d1b2"
+        },
+        {
+            "timestamp_sec": 292.46952,
+            "timestamp_frame": 8774,
+            "_unmapped_timestamp_sec": 292.46952,
+            "narration_text": "#C C drops the measuring tape on the floor.",
+            "annotation_uid": "276eb537-15e2-4156-a060-f5484d55d1b2"
+        },
+        {
+            "timestamp_sec": 293.46482,
+            "timestamp_frame": 8804,
+            "_unmapped_timestamp_sec": 293.46482,
+            "narration_text": "#C C carries the piece of tile with his hands.",
+            "annotation_uid": "276eb537-15e2-4156-a060-f5484d55d1b2"
+        },
+        {
+            "timestamp_sec": 295.79588,
+            "timestamp_frame": 8874,
+            "_unmapped_timestamp_sec": 295.79588,
+            "narration_text": "#C C walks out of the bathroom.",
+            "annotation_uid": "276eb537-15e2-4156-a060-f5484d55d1b2"
+        },
+        {
+            "timestamp_sec": 153.44707,
+            "timestamp_frame": 4603,
+            "_unmapped_timestamp_sec": 153.44707,
+            "narration_text": "#C C puts the bucket on the floor.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 153.62303,
+            "timestamp_frame": 4609,
+            "_unmapped_timestamp_sec": 153.62303,
+            "narration_text": "#C C lifts the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 154.28208,
+            "timestamp_frame": 4628,
+            "_unmapped_timestamp_sec": 154.28208,
+            "narration_text": "#C C turns the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 155.12331,
+            "timestamp_frame": 4654,
+            "_unmapped_timestamp_sec": 155.12331,
+            "narration_text": "#C C puts the tile on top of the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 155.65849,
+            "timestamp_frame": 4670,
+            "_unmapped_timestamp_sec": 155.65849,
+            "narration_text": "#C C kneels down.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 157.53025,
+            "timestamp_frame": 4726,
+            "_unmapped_timestamp_sec": 157.53025,
+            "narration_text": "#C C picks the tape measure.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 158.48331,
+            "timestamp_frame": 4754,
+            "_unmapped_timestamp_sec": 158.48331,
+            "narration_text": "#C C lifts the triangle ruler.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 159.25477,
+            "timestamp_frame": 4778,
+            "_unmapped_timestamp_sec": 159.25477,
+            "narration_text": "#C C passes the triangle ruler to the left hand.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 160.13476,
+            "timestamp_frame": 4804,
+            "_unmapped_timestamp_sec": 160.13476,
+            "narration_text": "#C C puts the triangle ruler on the floor.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 161.28688,
+            "timestamp_frame": 4839,
+            "_unmapped_timestamp_sec": 161.28688,
+            "narration_text": "#C C passes the tape measure to the left hand.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 161.71062,
+            "timestamp_frame": 4851,
+            "_unmapped_timestamp_sec": 161.71062,
+            "narration_text": "#C C puts the tape measure on the floor.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 162.11034,
+            "timestamp_frame": 4863,
+            "_unmapped_timestamp_sec": 162.11034,
+            "narration_text": "#C C picks the plaster.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 164.30517,
+            "timestamp_frame": 4929,
+            "_unmapped_timestamp_sec": 164.30517,
+            "narration_text": "#C C lifts the bucket.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 165.51663,
+            "timestamp_frame": 4965,
+            "_unmapped_timestamp_sec": 165.51663,
+            "narration_text": "#C C scoops the tile adhesive.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 166.57578,
+            "timestamp_frame": 4997,
+            "_unmapped_timestamp_sec": 166.57578,
+            "narration_text": "#C C puts the tile adhesive on the floor.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 167.99,
+            "timestamp_frame": 5040,
+            "_unmapped_timestamp_sec": 167.99,
+            "narration_text": "#C C scoops the tile adhesive with the plaster.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 169.86612,
+            "timestamp_frame": 5096,
+            "_unmapped_timestamp_sec": 169.86612,
+            "narration_text": "#C C puts the bucket on the floor.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 170.31548,
+            "timestamp_frame": 5109,
+            "_unmapped_timestamp_sec": 170.31548,
+            "narration_text": "#C C spreads the tile adhesive on the floor.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 170.94741,
+            "timestamp_frame": 5128,
+            "_unmapped_timestamp_sec": 170.94741,
+            "narration_text": "#C C touches the floor.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 201.67184,
+            "timestamp_frame": 6050,
+            "_unmapped_timestamp_sec": 201.67184,
+            "narration_text": "#C C touches the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 201.86254,
+            "timestamp_frame": 6056,
+            "_unmapped_timestamp_sec": 201.86254,
+            "narration_text": "#C C spreads the tile adhesive  on the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 202.68411,
+            "timestamp_frame": 6081,
+            "_unmapped_timestamp_sec": 202.68411,
+            "narration_text": "#C C passes the plaster to the left hand.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 203.02745,
+            "timestamp_frame": 6091,
+            "_unmapped_timestamp_sec": 203.02745,
+            "narration_text": "#C C passes the plaster to the right hand.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 203.59325,
+            "timestamp_frame": 6108,
+            "_unmapped_timestamp_sec": 203.59325,
+            "narration_text": "#C C touches the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 203.99207,
+            "timestamp_frame": 6120,
+            "_unmapped_timestamp_sec": 203.99207,
+            "narration_text": "#C C spreads the  tile adhesive on the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 205.85812,
+            "timestamp_frame": 6176,
+            "_unmapped_timestamp_sec": 205.85812,
+            "narration_text": "#C C touches the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 206.92246,
+            "timestamp_frame": 6208,
+            "_unmapped_timestamp_sec": 206.92246,
+            "narration_text": "#C C rubs the finger on the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 207.3948,
+            "timestamp_frame": 6222,
+            "_unmapped_timestamp_sec": 207.3948,
+            "narration_text": "#C C touches the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 207.65852,
+            "timestamp_frame": 6230,
+            "_unmapped_timestamp_sec": 207.65852,
+            "narration_text": "#C C spreads the tile adhesive on the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 212.62834,
+            "timestamp_frame": 6379,
+            "_unmapped_timestamp_sec": 212.62834,
+            "narration_text": "#C C puts the hand on the lap.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 214.93721,
+            "timestamp_frame": 6448,
+            "_unmapped_timestamp_sec": 214.93721,
+            "narration_text": "#C C puts the plaster on top of the bucket.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 216.37719,
+            "timestamp_frame": 6491,
+            "_unmapped_timestamp_sec": 216.37719,
+            "narration_text": "#C C lifts the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 217.59283,
+            "timestamp_frame": 6528,
+            "_unmapped_timestamp_sec": 217.59283,
+            "narration_text": "#C C looks at the mirror.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 219.89614,
+            "timestamp_frame": 6597,
+            "_unmapped_timestamp_sec": 219.89614,
+            "narration_text": "#C C lifts the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 220.85765,
+            "timestamp_frame": 6626,
+            "_unmapped_timestamp_sec": 220.85765,
+            "narration_text": "#C C puts the tile on the floor.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 223.56907,
+            "timestamp_frame": 6707,
+            "_unmapped_timestamp_sec": 223.56907,
+            "narration_text": "#C C moves the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 225.46932,
+            "timestamp_frame": 6764,
+            "_unmapped_timestamp_sec": 225.46932,
+            "narration_text": "#C C presses the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 228.00516,
+            "timestamp_frame": 6840,
+            "_unmapped_timestamp_sec": 228.00516,
+            "narration_text": "#C C moves the hand.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 229.05832,
+            "timestamp_frame": 6872,
+            "_unmapped_timestamp_sec": 229.05832,
+            "narration_text": "#C C picks the tile clips.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 231.41375,
+            "timestamp_frame": 6942,
+            "_unmapped_timestamp_sec": 231.41375,
+            "narration_text": "#C C holds the tile clips.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 231.98917,
+            "timestamp_frame": 6960,
+            "_unmapped_timestamp_sec": 231.98917,
+            "narration_text": "#C C puts the tile clips on the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 232.47692,
+            "timestamp_frame": 6974,
+            "_unmapped_timestamp_sec": 232.47692,
+            "narration_text": "#C C moves the tile clip.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 233.45304,
+            "timestamp_frame": 7004,
+            "_unmapped_timestamp_sec": 233.45304,
+            "narration_text": "#C C puts the tile clip on the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 235.00794,
+            "timestamp_frame": 7050,
+            "_unmapped_timestamp_sec": 235.00794,
+            "narration_text": "#C C presses the tile clip.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 236.9413,
+            "timestamp_frame": 7108,
+            "_unmapped_timestamp_sec": 236.9413,
+            "narration_text": "#C C passes the tile clip to the left hand.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 237.43693,
+            "timestamp_frame": 7123,
+            "_unmapped_timestamp_sec": 237.43693,
+            "narration_text": "#C C puts the tile clip on the floor.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 237.9338,
+            "timestamp_frame": 7138,
+            "_unmapped_timestamp_sec": 237.9338,
+            "narration_text": "#C C moves the tile clip.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 238.40137,
+            "timestamp_frame": 7152,
+            "_unmapped_timestamp_sec": 238.40137,
+            "narration_text": "#C C puts the tile clip on the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 238.85788,
+            "timestamp_frame": 7166,
+            "_unmapped_timestamp_sec": 238.85788,
+            "narration_text": "#C C presses the tile clip .",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 239.12028,
+            "timestamp_frame": 7174,
+            "_unmapped_timestamp_sec": 239.12028,
+            "narration_text": "#C C touches the the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 241.86228,
+            "timestamp_frame": 7256,
+            "_unmapped_timestamp_sec": 241.86228,
+            "narration_text": "#C C touches the floor.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 242.68657,
+            "timestamp_frame": 7281,
+            "_unmapped_timestamp_sec": 242.68657,
+            "narration_text": "#C C lifts the tile clip.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 243.38362,
+            "timestamp_frame": 7302,
+            "_unmapped_timestamp_sec": 243.38362,
+            "narration_text": "#C C puts the tile clip on the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 243.98851,
+            "timestamp_frame": 7320,
+            "_unmapped_timestamp_sec": 243.98851,
+            "narration_text": "#C C touches the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 244.31827,
+            "timestamp_frame": 7330,
+            "_unmapped_timestamp_sec": 244.31827,
+            "narration_text": "#C C presses the tile clip.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 246.0854,
+            "timestamp_frame": 7383,
+            "_unmapped_timestamp_sec": 246.0854,
+            "narration_text": "#C C picks the tile clip.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 246.97524,
+            "timestamp_frame": 7409,
+            "_unmapped_timestamp_sec": 246.97524,
+            "narration_text": "#C C puts the tile clip on the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 247.71922,
+            "timestamp_frame": 7432,
+            "_unmapped_timestamp_sec": 247.71922,
+            "narration_text": "#C C presses the tile clip.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 249.22018,
+            "timestamp_frame": 7477,
+            "_unmapped_timestamp_sec": 249.22018,
+            "narration_text": "#C C picks the tile clip.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 249.71648,
+            "timestamp_frame": 7491,
+            "_unmapped_timestamp_sec": 249.71648,
+            "narration_text": "#C C touches the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 250.32685,
+            "timestamp_frame": 7510,
+            "_unmapped_timestamp_sec": 250.32685,
+            "narration_text": "#C C moves the tile clip.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 250.78293,
+            "timestamp_frame": 7523,
+            "_unmapped_timestamp_sec": 250.78293,
+            "narration_text": "#C C puts the tile clip on the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 250.98644,
+            "timestamp_frame": 7530,
+            "_unmapped_timestamp_sec": 250.98644,
+            "narration_text": "#C C presses the tile clip.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 253.02457,
+            "timestamp_frame": 7591,
+            "_unmapped_timestamp_sec": 253.02457,
+            "narration_text": "#C C presses the tile clip.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 256.11595,
+            "timestamp_frame": 7683,
+            "_unmapped_timestamp_sec": 256.11595,
+            "narration_text": "#C C moves the hands.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 260.05849,
+            "timestamp_frame": 7802,
+            "_unmapped_timestamp_sec": 260.05849,
+            "narration_text": "#C C touches the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 261.24482,
+            "timestamp_frame": 7837,
+            "_unmapped_timestamp_sec": 261.24482,
+            "narration_text": "#C C moves the hand.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 262.05399,
+            "timestamp_frame": 7862,
+            "_unmapped_timestamp_sec": 262.05399,
+            "narration_text": "#C C picks the tile clip.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 264.08702,
+            "timestamp_frame": 7923,
+            "_unmapped_timestamp_sec": 264.08702,
+            "narration_text": "#C C passes the tile clip to the right hand.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 264.46397,
+            "timestamp_frame": 7934,
+            "_unmapped_timestamp_sec": 264.46397,
+            "narration_text": "#C C puts the tile clip on the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 266.84431,
+            "timestamp_frame": 8005,
+            "_unmapped_timestamp_sec": 266.84431,
+            "narration_text": "#C C lifts the plaster.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 267.9047,
+            "timestamp_frame": 8037,
+            "_unmapped_timestamp_sec": 267.9047,
+            "narration_text": "#C C rubs the plaster on the bucket.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 269.33522,
+            "timestamp_frame": 8080,
+            "_unmapped_timestamp_sec": 269.33522,
+            "narration_text": "#C C passes the plaster to the right hand.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 269.85434,
+            "timestamp_frame": 8096,
+            "_unmapped_timestamp_sec": 269.85434,
+            "narration_text": "#C C lifts the tile with the plaster.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 271.35018,
+            "timestamp_frame": 8141,
+            "_unmapped_timestamp_sec": 271.35018,
+            "narration_text": "#C C touches the tile clip.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 272.53269,
+            "timestamp_frame": 8176,
+            "_unmapped_timestamp_sec": 272.53269,
+            "narration_text": "#C C moves the hand.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 272.9285,
+            "timestamp_frame": 8188,
+            "_unmapped_timestamp_sec": 272.9285,
+            "narration_text": "#C C moves the tile clip .",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 275.57831,
+            "timestamp_frame": 8267,
+            "_unmapped_timestamp_sec": 275.57831,
+            "narration_text": "#C C passes the plaster to the left hand.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 276.66859,
+            "timestamp_frame": 8300,
+            "_unmapped_timestamp_sec": 276.66859,
+            "narration_text": "#C C puts the plaster on top of the bucket.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 277.50414,
+            "timestamp_frame": 8325,
+            "_unmapped_timestamp_sec": 277.50414,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 279.91832,
+            "timestamp_frame": 8398,
+            "_unmapped_timestamp_sec": 279.91832,
+            "narration_text": "#C C touches the wall.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 280.78185,
+            "timestamp_frame": 8423,
+            "_unmapped_timestamp_sec": 280.78185,
+            "narration_text": "#C C picks the tape measure.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 282.19738,
+            "timestamp_frame": 8466,
+            "_unmapped_timestamp_sec": 282.19738,
+            "narration_text": "#C C passes the tape measure to the right hand.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 283.09362,
+            "timestamp_frame": 8493,
+            "_unmapped_timestamp_sec": 283.09362,
+            "narration_text": "#C C puts the tape measure on the tile.",
+            "annotation_uid": "54ad72f0-ccec-421a-9de9-c37603941831"
+        },
+        {
+            "timestamp_sec": 291.16615,
+            "timestamp_frame": 8735,
+            "_unmapped_timestamp_sec": 291.16615,
+            "narration_text": "#C C folds the ruler ",
+            "annotation_uid": "f771d366-5a84-46ac-9c9c-87918e549da3"
+        },
+        {
+            "timestamp_sec": 292.54283,
+            "timestamp_frame": 8776,
+            "_unmapped_timestamp_sec": 292.54283,
+            "narration_text": "#C C puts the ruler on the tile ",
+            "annotation_uid": "f771d366-5a84-46ac-9c9c-87918e549da3"
+        },
+        {
+            "timestamp_sec": 293.5755,
+            "timestamp_frame": 8807,
+            "_unmapped_timestamp_sec": 293.5755,
+            "narration_text": "#C C picks the tile ",
+            "annotation_uid": "f771d366-5a84-46ac-9c9c-87918e549da3"
+        },
+        {
+            "timestamp_sec": 295.0729,
+            "timestamp_frame": 8852,
+            "_unmapped_timestamp_sec": 295.0729,
+            "narration_text": "#C C stands up ",
+            "annotation_uid": "f771d366-5a84-46ac-9c9c-87918e549da3"
+        },
+        {
+            "timestamp_sec": 296.64923,
+            "timestamp_frame": 8899,
+            "_unmapped_timestamp_sec": 296.64923,
+            "narration_text": "#C C moves to the other room ",
+            "annotation_uid": "f771d366-5a84-46ac-9c9c-87918e549da3"
+        }
+    ]
+}

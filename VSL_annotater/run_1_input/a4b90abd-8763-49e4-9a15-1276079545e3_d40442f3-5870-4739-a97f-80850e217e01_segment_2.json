@@ -1,0 +1,753 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 750.8360009546634,
+            "timestamp_frame": 22524,
+            "_unmapped_timestamp_sec": 750.85703,
+            "narration_text": "#O lady X sits down ",
+            "annotation_uid": "56fa6c49-8993-46a2-b7af-24c911cf73b4"
+        },
+        {
+            "timestamp_sec": 752.3217409546634,
+            "timestamp_frame": 22569,
+            "_unmapped_timestamp_sec": 752.34277,
+            "narration_text": "#C C dialogues with lady X ",
+            "annotation_uid": "56fa6c49-8993-46a2-b7af-24c911cf73b4"
+        },
+        {
+            "timestamp_sec": 762.9728709546634,
+            "timestamp_frame": 22889,
+            "_unmapped_timestamp_sec": 762.9938999999999,
+            "narration_text": "#O lady Y cooks ",
+            "annotation_uid": "56fa6c49-8993-46a2-b7af-24c911cf73b4"
+        },
+        {
+            "timestamp_sec": 770.4884309546634,
+            "timestamp_frame": 23114,
+            "_unmapped_timestamp_sec": 770.50946,
+            "narration_text": "#C C dialogues with lady X ",
+            "annotation_uid": "56fa6c49-8993-46a2-b7af-24c911cf73b4"
+        },
+        {
+            "timestamp_sec": 775.7403409546635,
+            "timestamp_frame": 23272,
+            "_unmapped_timestamp_sec": 775.7613699999999,
+            "narration_text": "#C C picks grape from bowl",
+            "annotation_uid": "56fa6c49-8993-46a2-b7af-24c911cf73b4"
+        },
+        {
+            "timestamp_sec": 780.4332909546633,
+            "timestamp_frame": 23412,
+            "_unmapped_timestamp_sec": 780.45432,
+            "narration_text": "#C C dialogues with lady X ",
+            "annotation_uid": "56fa6c49-8993-46a2-b7af-24c911cf73b4"
+        },
+        {
+            "timestamp_sec": 785.0540009546634,
+            "timestamp_frame": 23551,
+            "_unmapped_timestamp_sec": 785.07503,
+            "narration_text": "#C C places fork on table ",
+            "annotation_uid": "56fa6c49-8993-46a2-b7af-24c911cf73b4"
+        },
+        {
+            "timestamp_sec": 787.0389109546634,
+            "timestamp_frame": 23611,
+            "_unmapped_timestamp_sec": 787.05994,
+            "narration_text": "#C C dialogues with lady X ",
+            "annotation_uid": "56fa6c49-8993-46a2-b7af-24c911cf73b4"
+        },
+        {
+            "timestamp_sec": 789.9637509546634,
+            "timestamp_frame": 23698,
+            "_unmapped_timestamp_sec": 789.98478,
+            "narration_text": "#C C looks at man T",
+            "annotation_uid": "56fa6c49-8993-46a2-b7af-24c911cf73b4"
+        },
+        {
+            "timestamp_sec": 791.7230009546633,
+            "timestamp_frame": 23751,
+            "_unmapped_timestamp_sec": 791.7440300000001,
+            "narration_text": "#O lady X dialogues with man T",
+            "annotation_uid": "56fa6c49-8993-46a2-b7af-24c911cf73b4"
+        },
+        {
+            "timestamp_sec": 793.7026809546634,
+            "timestamp_frame": 23810,
+            "_unmapped_timestamp_sec": 793.72371,
+            "narration_text": "#C C picks grape from bowl",
+            "annotation_uid": "56fa6c49-8993-46a2-b7af-24c911cf73b4"
+        },
+        {
+            "timestamp_sec": 795.9439109546634,
+            "timestamp_frame": 23878,
+            "_unmapped_timestamp_sec": 795.9649400000001,
+            "narration_text": "#C C dialogues with lady Y",
+            "annotation_uid": "56fa6c49-8993-46a2-b7af-24c911cf73b4"
+        },
+        {
+            "timestamp_sec": 798.3749209546634,
+            "timestamp_frame": 23951,
+            "_unmapped_timestamp_sec": 798.3959500000001,
+            "narration_text": "#C C dialogues with man T",
+            "annotation_uid": "56fa6c49-8993-46a2-b7af-24c911cf73b4"
+        },
+        {
+            "timestamp_sec": 800.4987809546634,
+            "timestamp_frame": 24014,
+            "_unmapped_timestamp_sec": 800.51981,
+            "narration_text": "#C C dialogues with lady X ",
+            "annotation_uid": "56fa6c49-8993-46a2-b7af-24c911cf73b4"
+        },
+        {
+            "timestamp_sec": 809.6737109546634,
+            "timestamp_frame": 24290,
+            "_unmapped_timestamp_sec": 809.69474,
+            "narration_text": "#C C dialogues with man T",
+            "annotation_uid": "56fa6c49-8993-46a2-b7af-24c911cf73b4"
+        },
+        {
+            "timestamp_sec": 809.6737109546634,
+            "timestamp_frame": 24290,
+            "_unmapped_timestamp_sec": 809.69474,
+            "narration_text": "#O man T types on keyboard ",
+            "annotation_uid": "56fa6c49-8993-46a2-b7af-24c911cf73b4"
+        },
+        {
+            "timestamp_sec": 810.8613509546634,
+            "timestamp_frame": 24325,
+            "_unmapped_timestamp_sec": 810.88238,
+            "narration_text": "#C C dialogues with lady X ",
+            "annotation_uid": "56fa6c49-8993-46a2-b7af-24c911cf73b4"
+        },
+        {
+            "timestamp_sec": 811.9603609546634,
+            "timestamp_frame": 24358,
+            "_unmapped_timestamp_sec": 811.9813899999999,
+            "narration_text": "#O lady X stands from seat",
+            "annotation_uid": "56fa6c49-8993-46a2-b7af-24c911cf73b4"
+        },
+        {
+            "timestamp_sec": 813.0204109546635,
+            "timestamp_frame": 24390,
+            "_unmapped_timestamp_sec": 813.04144,
+            "narration_text": "#C C dialogues with man T",
+            "annotation_uid": "56fa6c49-8993-46a2-b7af-24c911cf73b4"
+        },
+        {
+            "timestamp_sec": 815.8952409546634,
+            "timestamp_frame": 24476,
+            "_unmapped_timestamp_sec": 815.9162699999999,
+            "narration_text": "#O lady X walks to the kitchen",
+            "annotation_uid": "56fa6c49-8993-46a2-b7af-24c911cf73b4"
+        },
+        {
+            "timestamp_sec": 817.3744309546635,
+            "timestamp_frame": 24521,
+            "_unmapped_timestamp_sec": 817.39546,
+            "narration_text": "#O lady Y prepares spaghetti",
+            "annotation_uid": "56fa6c49-8993-46a2-b7af-24c911cf73b4"
+        },
+        {
+            "timestamp_sec": 819.7783209546634,
+            "timestamp_frame": 24593,
+            "_unmapped_timestamp_sec": 819.79935,
+            "narration_text": "#O lady X dialogues with lady Y ",
+            "annotation_uid": "56fa6c49-8993-46a2-b7af-24c911cf73b4"
+        },
+        {
+            "timestamp_sec": 823.5565709546634,
+            "timestamp_frame": 24706,
+            "_unmapped_timestamp_sec": 823.5776000000001,
+            "narration_text": "#O lady Y prepares spaghetti",
+            "annotation_uid": "56fa6c49-8993-46a2-b7af-24c911cf73b4"
+        },
+        {
+            "timestamp_sec": 826.7446009546634,
+            "timestamp_frame": 24802,
+            "_unmapped_timestamp_sec": 826.76563,
+            "narration_text": "#O woman P holds wooden spoon ",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 829.1240809546634,
+            "timestamp_frame": 24873,
+            "_unmapped_timestamp_sec": 829.14511,
+            "narration_text": "#O woman M dialogues with woman P",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 835.1214609546635,
+            "timestamp_frame": 25053,
+            "_unmapped_timestamp_sec": 835.14249,
+            "narration_text": "#C C dialogues with woman P",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 835.9195809546634,
+            "timestamp_frame": 25077,
+            "_unmapped_timestamp_sec": 835.94061,
+            "narration_text": "#O woman P picks spice ",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 836.1517109546634,
+            "timestamp_frame": 25084,
+            "_unmapped_timestamp_sec": 836.17274,
+            "narration_text": "#O woman M holds phone ",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 837.9649709546634,
+            "timestamp_frame": 25138,
+            "_unmapped_timestamp_sec": 837.986,
+            "narration_text": "#O woman M presses phone ",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 839.9532109546634,
+            "timestamp_frame": 25198,
+            "_unmapped_timestamp_sec": 839.97424,
+            "narration_text": "#O woman P puts spice in the spaghetti  ",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 841.6015209546633,
+            "timestamp_frame": 25247,
+            "_unmapped_timestamp_sec": 841.62255,
+            "narration_text": "#C C stands in the house ",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 842.3563209546634,
+            "timestamp_frame": 25270,
+            "_unmapped_timestamp_sec": 842.37735,
+            "narration_text": "#O woman M presses phone ",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 847.6568509546635,
+            "timestamp_frame": 25429,
+            "_unmapped_timestamp_sec": 847.67788,
+            "narration_text": "#O woman M dialogues with woman P",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 851.4041309546634,
+            "timestamp_frame": 25541,
+            "_unmapped_timestamp_sec": 851.42516,
+            "narration_text": "#O woman P cooks ",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 853.6350509546634,
+            "timestamp_frame": 25608,
+            "_unmapped_timestamp_sec": 853.65608,
+            "narration_text": "#C C dialogues with woman M ",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 856.7512409546634,
+            "timestamp_frame": 25702,
+            "_unmapped_timestamp_sec": 856.77227,
+            "narration_text": "#O woman M leans on the kitchen cupboard ",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 857.6350209546633,
+            "timestamp_frame": 25728,
+            "_unmapped_timestamp_sec": 857.65605,
+            "narration_text": "#O woman P cooks ",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 864.9039209546634,
+            "timestamp_frame": 25946,
+            "_unmapped_timestamp_sec": 864.92495,
+            "narration_text": "#O woman P walks in the house ",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 868.6426309546634,
+            "timestamp_frame": 26059,
+            "_unmapped_timestamp_sec": 868.66366,
+            "narration_text": "#C C walks in the house ",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 870.4054709546633,
+            "timestamp_frame": 26112,
+            "_unmapped_timestamp_sec": 870.4265,
+            "narration_text": "#O woman P bends down ",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 870.5374209546634,
+            "timestamp_frame": 26115,
+            "_unmapped_timestamp_sec": 870.55845,
+            "narration_text": "#O woman M holds phone ",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 872.0778009546634,
+            "timestamp_frame": 26162,
+            "_unmapped_timestamp_sec": 872.09883,
+            "narration_text": "#O woman M presses phone ",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 876.5594109546635,
+            "timestamp_frame": 26296,
+            "_unmapped_timestamp_sec": 876.58044,
+            "narration_text": "#C C stands in the house",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 881.5921009546635,
+            "timestamp_frame": 26447,
+            "_unmapped_timestamp_sec": 881.61313,
+            "narration_text": "#O woman M presses phone ",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 883.3067509546634,
+            "timestamp_frame": 26499,
+            "_unmapped_timestamp_sec": 883.32778,
+            "narration_text": "#O woman P stands up",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 883.8675509546633,
+            "timestamp_frame": 26515,
+            "_unmapped_timestamp_sec": 883.88858,
+            "narration_text": "#O woman P closes fridge ",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 885.5882209546634,
+            "timestamp_frame": 26567,
+            "_unmapped_timestamp_sec": 885.60925,
+            "narration_text": "#O woman P walks in the kitchen",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 891.3744409546634,
+            "timestamp_frame": 26741,
+            "_unmapped_timestamp_sec": 891.39547,
+            "narration_text": "#O woman M dialogues with woman P",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 896.5067309546635,
+            "timestamp_frame": 26895,
+            "_unmapped_timestamp_sec": 896.52776,
+            "narration_text": "#O woman M leans on the kitchen cupboard ",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 897.8764609546633,
+            "timestamp_frame": 26936,
+            "_unmapped_timestamp_sec": 897.8974900000001,
+            "narration_text": "#O woman P walks in the kitchen",
+            "annotation_uid": "dffc2b73-7083-4655-8870-2a07ff662063"
+        },
+        {
+            "timestamp_sec": 751.0939309546634,
+            "timestamp_frame": 22532,
+            "_unmapped_timestamp_sec": 751.11496,
+            "narration_text": "#O lady Y sits on the chair ",
+            "annotation_uid": "19e9b5a4-0ab9-4888-bced-caf0f7d8681c"
+        },
+        {
+            "timestamp_sec": 753.0238209546634,
+            "timestamp_frame": 22590,
+            "_unmapped_timestamp_sec": 753.04485,
+            "narration_text": "#O lady Y holds her head ",
+            "annotation_uid": "19e9b5a4-0ab9-4888-bced-caf0f7d8681c"
+        },
+        {
+            "timestamp_sec": 767.6765709546634,
+            "timestamp_frame": 23030,
+            "_unmapped_timestamp_sec": 767.6976,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "19e9b5a4-0ab9-4888-bced-caf0f7d8681c"
+        },
+        {
+            "timestamp_sec": 776.2070909546634,
+            "timestamp_frame": 23286,
+            "_unmapped_timestamp_sec": 776.22812,
+            "narration_text": "#C C takes food from the bowl ",
+            "annotation_uid": "19e9b5a4-0ab9-4888-bced-caf0f7d8681c"
+        },
+        {
+            "timestamp_sec": 779.3392809546634,
+            "timestamp_frame": 23380,
+            "_unmapped_timestamp_sec": 779.36031,
+            "narration_text": "#C C interacts with lady Y ",
+            "annotation_uid": "19e9b5a4-0ab9-4888-bced-caf0f7d8681c"
+        },
+        {
+            "timestamp_sec": 780.9389709546634,
+            "timestamp_frame": 23428,
+            "_unmapped_timestamp_sec": 780.96,
+            "narration_text": "#O lady Y holds her chin ",
+            "annotation_uid": "19e9b5a4-0ab9-4888-bced-caf0f7d8681c"
+        },
+        {
+            "timestamp_sec": 783.6483009546635,
+            "timestamp_frame": 23509,
+            "_unmapped_timestamp_sec": 783.66933,
+            "narration_text": "#O lady Y interacts with C ",
+            "annotation_uid": "19e9b5a4-0ab9-4888-bced-caf0f7d8681c"
+        },
+        {
+            "timestamp_sec": 785.9840309546634,
+            "timestamp_frame": 23579,
+            "_unmapped_timestamp_sec": 786.00506,
+            "narration_text": "#C C puts a phone on the table ",
+            "annotation_uid": "19e9b5a4-0ab9-4888-bced-caf0f7d8681c"
+        },
+        {
+            "timestamp_sec": 790.1013409546633,
+            "timestamp_frame": 23702,
+            "_unmapped_timestamp_sec": 790.12237,
+            "narration_text": "#O man Z uses a laptop ",
+            "annotation_uid": "19e9b5a4-0ab9-4888-bced-caf0f7d8681c"
+        },
+        {
+            "timestamp_sec": 793.6067909546634,
+            "timestamp_frame": 23808,
+            "_unmapped_timestamp_sec": 793.62782,
+            "narration_text": "#O lady Y talks with man Z",
+            "annotation_uid": "19e9b5a4-0ab9-4888-bced-caf0f7d8681c"
+        },
+        {
+            "timestamp_sec": 801.7816409546633,
+            "timestamp_frame": 24053,
+            "_unmapped_timestamp_sec": 801.80267,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "19e9b5a4-0ab9-4888-bced-caf0f7d8681c"
+        },
+        {
+            "timestamp_sec": 805.1675109546634,
+            "timestamp_frame": 24154,
+            "_unmapped_timestamp_sec": 805.18854,
+            "narration_text": "#O lady Y looks around ",
+            "annotation_uid": "19e9b5a4-0ab9-4888-bced-caf0f7d8681c"
+        },
+        {
+            "timestamp_sec": 811.4561609546633,
+            "timestamp_frame": 24343,
+            "_unmapped_timestamp_sec": 811.4771900000001,
+            "narration_text": "#O lady Y stands from the chair ",
+            "annotation_uid": "19e9b5a4-0ab9-4888-bced-caf0f7d8681c"
+        },
+        {
+            "timestamp_sec": 813.0515409546633,
+            "timestamp_frame": 24391,
+            "_unmapped_timestamp_sec": 813.07257,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "19e9b5a4-0ab9-4888-bced-caf0f7d8681c"
+        },
+        {
+            "timestamp_sec": 817.1979609546634,
+            "timestamp_frame": 24515,
+            "_unmapped_timestamp_sec": 817.2189900000001,
+            "narration_text": "#O lady Y walks towards lady X ",
+            "annotation_uid": "19e9b5a4-0ab9-4888-bced-caf0f7d8681c"
+        },
+        {
+            "timestamp_sec": 822.7147209546633,
+            "timestamp_frame": 24681,
+            "_unmapped_timestamp_sec": 822.73575,
+            "narration_text": "#O lady X cooks food ",
+            "annotation_uid": "19e9b5a4-0ab9-4888-bced-caf0f7d8681c"
+        },
+        {
+            "timestamp_sec": 828.0829709546633,
+            "timestamp_frame": 24842,
+            "_unmapped_timestamp_sec": 828.104,
+            "narration_text": "#C C looks around the kitchen",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 828.9615809546634,
+            "timestamp_frame": 24868,
+            "_unmapped_timestamp_sec": 828.98261,
+            "narration_text": "#O A woman X turns the lid",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 829.6680209546635,
+            "timestamp_frame": 24889,
+            "_unmapped_timestamp_sec": 829.68905,
+            "narration_text": "#O A woman X places the lid on a countertop",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 830.1425309546635,
+            "timestamp_frame": 24904,
+            "_unmapped_timestamp_sec": 830.16356,
+            "narration_text": "#O A woman Y stirs spaghetti in a frying pan",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 831.0953409546635,
+            "timestamp_frame": 24932,
+            "_unmapped_timestamp_sec": 831.11637,
+            "narration_text": "#O A woman X leans on the countertop",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 833.3444409546635,
+            "timestamp_frame": 25000,
+            "_unmapped_timestamp_sec": 833.36547,
+            "narration_text": "#O A woman Y picks #Unsure from the countertop",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 834.4917809546635,
+            "timestamp_frame": 25034,
+            "_unmapped_timestamp_sec": 834.51281,
+            "narration_text": "#O A woman Y unwraps #Unsure",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 836.1021409546634,
+            "timestamp_frame": 25082,
+            "_unmapped_timestamp_sec": 836.12317,
+            "narration_text": "#O A woman Y places a bladder on the countertop",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 836.7903809546634,
+            "timestamp_frame": 25103,
+            "_unmapped_timestamp_sec": 836.81141,
+            "narration_text": "#O A woman Y opens #Unsure",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 837.1236709546633,
+            "timestamp_frame": 25113,
+            "_unmapped_timestamp_sec": 837.1447000000001,
+            "narration_text": "#O A woman X operates a phone",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 840.1861109546634,
+            "timestamp_frame": 25205,
+            "_unmapped_timestamp_sec": 840.20714,
+            "narration_text": "#O A woman Y adds #Unsure to the spaghetti",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 841.1303509546634,
+            "timestamp_frame": 25233,
+            "_unmapped_timestamp_sec": 841.15138,
+            "narration_text": "#O A woman X operates a phone",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 842.0338809546633,
+            "timestamp_frame": 25260,
+            "_unmapped_timestamp_sec": 842.05491,
+            "narration_text": "#O A woman Y stirs spaghetti in a frying pan",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 842.5801309546634,
+            "timestamp_frame": 25277,
+            "_unmapped_timestamp_sec": 842.60116,
+            "narration_text": "#O A woman X operates a phone",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 845.0621609546633,
+            "timestamp_frame": 25351,
+            "_unmapped_timestamp_sec": 845.0831900000001,
+            "narration_text": "#O A woman Y adds #Unsure to the spaghetti",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 846.5025909546634,
+            "timestamp_frame": 25394,
+            "_unmapped_timestamp_sec": 846.52362,
+            "narration_text": "#O A woman Y touches the wooden spoon with her right hand",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 848.0970309546634,
+            "timestamp_frame": 25442,
+            "_unmapped_timestamp_sec": 848.11806,
+            "narration_text": "#O A woman Y places #Unsure on a countertop",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 849.3311309546634,
+            "timestamp_frame": 25479,
+            "_unmapped_timestamp_sec": 849.35216,
+            "narration_text": "#O A woman X stares at the phone",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 849.9406609546634,
+            "timestamp_frame": 25498,
+            "_unmapped_timestamp_sec": 849.96169,
+            "narration_text": "#O A woman Y stirs spaghetti in a frying pan",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 850.6468009546634,
+            "timestamp_frame": 25519,
+            "_unmapped_timestamp_sec": 850.66783,
+            "narration_text": "#O A woman X stares at the phone",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 852.0862309546634,
+            "timestamp_frame": 25562,
+            "_unmapped_timestamp_sec": 852.10726,
+            "narration_text": "#O A woman Y stirs spaghetti in a frying pan",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 852.7387109546635,
+            "timestamp_frame": 25582,
+            "_unmapped_timestamp_sec": 852.75974,
+            "narration_text": "#O A woman X turns off the phone light",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 853.2646609546634,
+            "timestamp_frame": 25597,
+            "_unmapped_timestamp_sec": 853.28569,
+            "narration_text": "#O A woman X lowers her hands",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 853.4035309546634,
+            "timestamp_frame": 25601,
+            "_unmapped_timestamp_sec": 853.42456,
+            "narration_text": "#O A woman Y stirs spaghetti in a frying pan",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 856.6018509546634,
+            "timestamp_frame": 25697,
+            "_unmapped_timestamp_sec": 856.62288,
+            "narration_text": "#O A woman X leans on the countertop",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 857.3534709546634,
+            "timestamp_frame": 25720,
+            "_unmapped_timestamp_sec": 857.3745,
+            "narration_text": "#O A woman Y stirs spaghetti in a frying pan",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 864.1041209546634,
+            "timestamp_frame": 25922,
+            "_unmapped_timestamp_sec": 864.12515,
+            "narration_text": "#O A woman Y places a fork and wooden spoon on the frying pan",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 864.9305009546633,
+            "timestamp_frame": 25947,
+            "_unmapped_timestamp_sec": 864.95153,
+            "narration_text": "#O A woman Y turns to the left",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 865.2517009546634,
+            "timestamp_frame": 25957,
+            "_unmapped_timestamp_sec": 865.27273,
+            "narration_text": "#O A woman Y walks forward",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 867.6091109546634,
+            "timestamp_frame": 26028,
+            "_unmapped_timestamp_sec": 867.63014,
+            "narration_text": "#C C looks around the room",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 871.2861509546634,
+            "timestamp_frame": 26138,
+            "_unmapped_timestamp_sec": 871.30718,
+            "narration_text": "#O A woman X operates a phone",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 883.1651809546634,
+            "timestamp_frame": 26494,
+            "_unmapped_timestamp_sec": 883.18621,
+            "narration_text": "#O A woman Y stands",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 884.0039809546633,
+            "timestamp_frame": 26519,
+            "_unmapped_timestamp_sec": 884.02501,
+            "narration_text": "#O A woman Y closes the fridge door",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 885.2236609546634,
+            "timestamp_frame": 26556,
+            "_unmapped_timestamp_sec": 885.24469,
+            "narration_text": "#O A woman X operates a phone",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 885.9837609546635,
+            "timestamp_frame": 26579,
+            "_unmapped_timestamp_sec": 886.00479,
+            "narration_text": "#O A woman Y walks past X",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 888.3662409546635,
+            "timestamp_frame": 26650,
+            "_unmapped_timestamp_sec": 888.38727,
+            "narration_text": "#O A woman X touches her hair",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 889.8567809546635,
+            "timestamp_frame": 26695,
+            "_unmapped_timestamp_sec": 889.87781,
+            "narration_text": "#O A woman X stares at the phone",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 893.5044909546634,
+            "timestamp_frame": 26805,
+            "_unmapped_timestamp_sec": 893.52552,
+            "narration_text": "#C C looks at X",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 890.5715809546634,
+            "timestamp_frame": 26717,
+            "_unmapped_timestamp_sec": 890.59261,
+            "narration_text": "#C C looks at Y",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 895.8676709546634,
+            "timestamp_frame": 26875,
+            "_unmapped_timestamp_sec": 895.8887,
+            "narration_text": "#O A woman X leans on the countertop",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        },
+        {
+            "timestamp_sec": 897.8204309546634,
+            "timestamp_frame": 26934,
+            "_unmapped_timestamp_sec": 897.84146,
+            "narration_text": "#O A woman Y walks to the cooker",
+            "annotation_uid": "263a261c-5987-4f89-a631-850950480074"
+        }
+    ]
+}

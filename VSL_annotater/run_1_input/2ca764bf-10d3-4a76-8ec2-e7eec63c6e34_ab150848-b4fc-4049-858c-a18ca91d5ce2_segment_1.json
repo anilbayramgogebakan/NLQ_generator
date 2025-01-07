@@ -1,0 +1,963 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 998.6776386458333,
+            "timestamp_frame": 29960,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks the wires",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 999.0234486458334,
+            "timestamp_frame": 29970,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks the scissors",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 999.6113786458334,
+            "timestamp_frame": 29988,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks the drilling machine",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1000.5563986458333,
+            "timestamp_frame": 30016,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts scissors on the table",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1001.2735086458333,
+            "timestamp_frame": 30038,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts a drilling machine on the table",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1003.6387686458334,
+            "timestamp_frame": 30109,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C stands up",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1007.1596286458333,
+            "timestamp_frame": 30214,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C walks in the room",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1009.8814986458333,
+            "timestamp_frame": 30296,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C opens the meter box",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1011.0169186458334,
+            "timestamp_frame": 30330,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C switches off the meter box",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1014.4548586458334,
+            "timestamp_frame": 30433,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C closes the meter box",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1015.5759086458334,
+            "timestamp_frame": 30467,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C presses the meter box",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1017.4807186458333,
+            "timestamp_frame": 30524,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C walks in the room",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1019.4246986458334,
+            "timestamp_frame": 30582,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C presses #unsure",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1030.1519686458332,
+            "timestamp_frame": 30904,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C walks in the room",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1032.4286286458332,
+            "timestamp_frame": 30972,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns off the meter box",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1035.2689986458333,
+            "timestamp_frame": 31057,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C walks in the room",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1036.5794386458333,
+            "timestamp_frame": 31097,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C holds the cable",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1038.6540986458333,
+            "timestamp_frame": 31159,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C touches the polythene paper",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1038.6740986458333,
+            "timestamp_frame": 31160,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1040.7261886458334,
+            "timestamp_frame": 31221,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1041.7581986458333,
+            "timestamp_frame": 31252,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C holds #unsure",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1043.3706986458333,
+            "timestamp_frame": 31300,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C drops #unsure on the table",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1044.4837286458333,
+            "timestamp_frame": 31334,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1046.5977986458333,
+            "timestamp_frame": 31397,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C joins #unsure",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1052.4123486458334,
+            "timestamp_frame": 31572,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1053.2342886458332,
+            "timestamp_frame": 31596,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C joins #unsure",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1055.8458886458334,
+            "timestamp_frame": 31675,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1057.2766086458332,
+            "timestamp_frame": 31718,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C joins #unsure",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1060.0896586458334,
+            "timestamp_frame": 31802,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C drops #unsure on the table",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1060.8919486458333,
+            "timestamp_frame": 31826,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1062.1453986458332,
+            "timestamp_frame": 31864,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C holds #unsure",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1062.7611686458333,
+            "timestamp_frame": 31882,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C removes #unsure",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1064.7193286458332,
+            "timestamp_frame": 31941,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C drops #unsure on the table",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1067.0024586458333,
+            "timestamp_frame": 32009,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks the glasses",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1069.3182686458333,
+            "timestamp_frame": 32079,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C wears the glasses",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1072.3026486458334,
+            "timestamp_frame": 32168,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C holds the cable",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1076.4516886458332,
+            "timestamp_frame": 32293,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks the scissors",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1078.7740786458332,
+            "timestamp_frame": 32363,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C holds the cable",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1079.3372386458334,
+            "timestamp_frame": 32379,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C cuts the cable",
+            "annotation_uid": "dde3cc50-4eff-471a-8c1a-f120ed83e402"
+        },
+        {
+            "timestamp_sec": 1079.9723042879966,
+            "timestamp_frame": 32399,
+            "_unmapped_timestamp_sec": 1080.0,
+            "narration_text": "#C C cuts a cable with a wire cutter in his right hand",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1080.2580142879967,
+            "timestamp_frame": 32407,
+            "_unmapped_timestamp_sec": 1080.28571,
+            "narration_text": "#C C touches the wire with his right hand",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1080.6334542879965,
+            "timestamp_frame": 32418,
+            "_unmapped_timestamp_sec": 1080.66115,
+            "narration_text": "#C C cuts the cable with the wire cutter in his right hand",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1082.5906942879967,
+            "timestamp_frame": 32477,
+            "_unmapped_timestamp_sec": 1082.61839,
+            "narration_text": "#C C bends the cable with his right hand",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1083.5272242879967,
+            "timestamp_frame": 32505,
+            "_unmapped_timestamp_sec": 1083.55492,
+            "narration_text": "#C C cuts the cable with the wire cutter in his right hand",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1087.1981442879967,
+            "timestamp_frame": 32615,
+            "_unmapped_timestamp_sec": 1087.22584,
+            "narration_text": "#C C bends the cable with his right hand",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1087.9990742879966,
+            "timestamp_frame": 32639,
+            "_unmapped_timestamp_sec": 1088.02677,
+            "narration_text": "#C C cuts the white part of the cable with the wire cutter in his right hand",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1089.7301242879967,
+            "timestamp_frame": 32691,
+            "_unmapped_timestamp_sec": 1089.75782,
+            "narration_text": "#C C drops the wire cutter in his right hand on the desk",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1089.9911142879967,
+            "timestamp_frame": 32699,
+            "_unmapped_timestamp_sec": 1090.01881,
+            "narration_text": "#C C separates the copper wires with his hands",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1090.3963042879966,
+            "timestamp_frame": 32711,
+            "_unmapped_timestamp_sec": 1090.424,
+            "narration_text": "#C C puts his right hand on the cable",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1099.3462242879966,
+            "timestamp_frame": 32980,
+            "_unmapped_timestamp_sec": 1099.37392,
+            "narration_text": "#C C picks the wire cutter from the desk with his right hand",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1100.3333842879965,
+            "timestamp_frame": 33009,
+            "_unmapped_timestamp_sec": 1100.36108,
+            "narration_text": "#C C drops the wire cutter in his right hand on the desk",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1100.4285742879965,
+            "timestamp_frame": 33012,
+            "_unmapped_timestamp_sec": 1100.45627,
+            "narration_text": "#C C pulls the copper wires with his right hand",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1102.1089542879965,
+            "timestamp_frame": 33063,
+            "_unmapped_timestamp_sec": 1102.13665,
+            "narration_text": "#C C picks the wire cutter from the desk with his right hand",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1104.1755642879966,
+            "timestamp_frame": 33125,
+            "_unmapped_timestamp_sec": 1104.20326,
+            "narration_text": "#C C cuts the cable with the wire cutter in his right hand",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1108.3745142879966,
+            "timestamp_frame": 33251,
+            "_unmapped_timestamp_sec": 1108.40221,
+            "narration_text": "#C C throws the piece of cable in his left hand.",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1108.4950942879966,
+            "timestamp_frame": 33254,
+            "_unmapped_timestamp_sec": 1108.52279,
+            "narration_text": "#C C drops the wire cutter in his right hand on the desk",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1108.9679442879967,
+            "timestamp_frame": 33268,
+            "_unmapped_timestamp_sec": 1108.99564,
+            "narration_text": "#C C grabs the cable with his hands",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1109.5441742879966,
+            "timestamp_frame": 33286,
+            "_unmapped_timestamp_sec": 1109.57187,
+            "narration_text": "#C C pulls the copper wires with his left hand",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1113.1122042879965,
+            "timestamp_frame": 33393,
+            "_unmapped_timestamp_sec": 1113.1399,
+            "narration_text": "#C C twists the copper wires with his left hand",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1115.2592042879967,
+            "timestamp_frame": 33457,
+            "_unmapped_timestamp_sec": 1115.2869,
+            "narration_text": "#C C pulls the copper wires with his left hand",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1117.3268342879967,
+            "timestamp_frame": 33519,
+            "_unmapped_timestamp_sec": 1117.35453,
+            "narration_text": "#C C twists the copper wires with his left hand",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1121.8834842879967,
+            "timestamp_frame": 33656,
+            "_unmapped_timestamp_sec": 1121.91118,
+            "narration_text": "#C C pulls the copper wires with his left hand",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1124.4157342879967,
+            "timestamp_frame": 33732,
+            "_unmapped_timestamp_sec": 1124.44343,
+            "narration_text": "#C C twists the copper wires with his left hand",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1128.8686342879967,
+            "timestamp_frame": 33865,
+            "_unmapped_timestamp_sec": 1128.89633,
+            "narration_text": "#C C pulls the copper wires with his left hand",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1130.3021442879967,
+            "timestamp_frame": 33908,
+            "_unmapped_timestamp_sec": 1130.32984,
+            "narration_text": "#C C twists the copper wires with his left hand",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1134.8001242879966,
+            "timestamp_frame": 34043,
+            "_unmapped_timestamp_sec": 1134.82782,
+            "narration_text": "#C C picks a black switch from the desk with his right hand. ",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1136.6314642879966,
+            "timestamp_frame": 34098,
+            "_unmapped_timestamp_sec": 1136.65916,
+            "narration_text": "#C C passes the black switch to his left hand",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1137.6404242879967,
+            "timestamp_frame": 34129,
+            "_unmapped_timestamp_sec": 1137.66812,
+            "narration_text": "#C C picks a wire holder from the desk with his right hand. #unsure",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1138.1283742879966,
+            "timestamp_frame": 34143,
+            "_unmapped_timestamp_sec": 1138.15607,
+            "narration_text": "#C C drops the black switch on the desk with his left hand. ",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1138.8020442879965,
+            "timestamp_frame": 34163,
+            "_unmapped_timestamp_sec": 1138.82974,
+            "narration_text": "#C C touches the wire holder with his left hand. #unsure",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1141.4228342879967,
+            "timestamp_frame": 34242,
+            "_unmapped_timestamp_sec": 1141.45053,
+            "narration_text": "#C C holds the cable with his left hand",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 1142.9124142879966,
+            "timestamp_frame": 34287,
+            "_unmapped_timestamp_sec": 1142.94011,
+            "narration_text": "#C C puts the copper wires into the wire holder with both hands. #unsure",
+            "annotation_uid": "0d626636-0fd9-43a8-a606-9a16f6663e03"
+        },
+        {
+            "timestamp_sec": 998.9368886458333,
+            "timestamp_frame": 29967,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks plyer from the ground",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1000.5334986458333,
+            "timestamp_frame": 30015,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts plyer on the table",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1001.1662186458334,
+            "timestamp_frame": 30034,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts drilling gun on the table",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1002.1660186458333,
+            "timestamp_frame": 30064,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C raises a hand",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1003.5712386458333,
+            "timestamp_frame": 30107,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C holds on the table",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1005.5506886458334,
+            "timestamp_frame": 30166,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C walks around the room",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1009.5343486458333,
+            "timestamp_frame": 30285,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C opens a socket breaker",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1011.6584986458333,
+            "timestamp_frame": 30349,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C powers on the socket breaker",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1012.3615286458333,
+            "timestamp_frame": 30370,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C closes the socket breaker",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1013.0400286458333,
+            "timestamp_frame": 30391,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C walks in the room ",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1014.3618686458333,
+            "timestamp_frame": 30430,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C closes meter box",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1016.3962086458333,
+            "timestamp_frame": 30491,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C presses on the meter box",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1017.2520286458333,
+            "timestamp_frame": 30517,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1018.0726586458334,
+            "timestamp_frame": 30542,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C walks in the room",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1019.2167386458333,
+            "timestamp_frame": 30576,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C holds on the table",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1020.2802386458334,
+            "timestamp_frame": 30608,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C presses a power switch",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1022.1054786458333,
+            "timestamp_frame": 30663,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C releases the table",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1022.6494886458333,
+            "timestamp_frame": 30679,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C presses a power switch",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1025.4963386458332,
+            "timestamp_frame": 30764,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C holds power switch",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1026.4768386458334,
+            "timestamp_frame": 30794,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C presses a power switch",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1029.2603986458334,
+            "timestamp_frame": 30877,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C releases the table",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1029.7590286458333,
+            "timestamp_frame": 30892,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C walks in the room",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1032.4352986458334,
+            "timestamp_frame": 30972,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C presses buttons on the meter box",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1034.9899686458334,
+            "timestamp_frame": 31049,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C walks in the room",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1037.0340986458334,
+            "timestamp_frame": 31110,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C holds cables",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1037.6194786458334,
+            "timestamp_frame": 31128,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C releases cables",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1038.7440586458333,
+            "timestamp_frame": 31162,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C moves a bag on the table",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1039.2026686458332,
+            "timestamp_frame": 31175,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks socket breaker cover from the table",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1040.5672586458334,
+            "timestamp_frame": 31216,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks switch from the table",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1042.1505286458332,
+            "timestamp_frame": 31264,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C flips socket breaker cover",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1043.4069686458333,
+            "timestamp_frame": 31302,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts switch on the table",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1044.0017986458333,
+            "timestamp_frame": 31319,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks switch from the table",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1046.2388086458334,
+            "timestamp_frame": 31387,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C flips socket breaker cover",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1046.8380986458333,
+            "timestamp_frame": 31405,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts switch on the socket breaker cover",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1048.3686386458332,
+            "timestamp_frame": 31450,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C adjusts switch",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1049.2983986458332,
+            "timestamp_frame": 31478,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts switch on the socket breaker cover",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1052.1870986458334,
+            "timestamp_frame": 31565,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks switch from the table",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1053.2869786458334,
+            "timestamp_frame": 31598,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts switch on the socket breaker cover",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1055.6295686458334,
+            "timestamp_frame": 31668,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks switch from the table",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1056.7253486458333,
+            "timestamp_frame": 31701,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C adjusts switch",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1057.9575386458332,
+            "timestamp_frame": 31738,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts switch on the socket breaker cover",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1059.8978786458333,
+            "timestamp_frame": 31796,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts socket breaker on the table",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1060.8523886458333,
+            "timestamp_frame": 31825,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks switch from the table",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1062.0542886458334,
+            "timestamp_frame": 31861,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C adjusts switch",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1064.5188786458334,
+            "timestamp_frame": 31935,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts switch on the table",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1065.3906386458334,
+            "timestamp_frame": 31961,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C raises a hand",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1066.8368686458334,
+            "timestamp_frame": 32004,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks spectacles from the table",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1069.7936886458333,
+            "timestamp_frame": 32093,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C wears spectacles",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1072.2378686458333,
+            "timestamp_frame": 32167,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C pics a cable from the table",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1073.9992486458334,
+            "timestamp_frame": 32219,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1076.3449486458333,
+            "timestamp_frame": 32290,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks plyer from the table",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1079.6527186458334,
+            "timestamp_frame": 32389,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C cuts a cable",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1081.5510286458334,
+            "timestamp_frame": 32446,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C removes the outer part of a cable",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1090.4167586458334,
+            "timestamp_frame": 32712,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts part of a cable on the table",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1090.7286986458334,
+            "timestamp_frame": 32721,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts plyer on the table",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1091.8383886458332,
+            "timestamp_frame": 32755,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C adjusts a cable",
+            "annotation_uid": "fc32f010-51cb-46c2-a93b-7d1d7c7deabc"
+        },
+        {
+            "timestamp_sec": 1103.0481186458335,
+            "timestamp_frame": 33091,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks the pliers.",
+            "annotation_uid": "9725cd75-50d7-4542-8a26-01a32b980108"
+        },
+        {
+            "timestamp_sec": 1106.8314886458334,
+            "timestamp_frame": 33204,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C cuts a cable with a pliers.",
+            "annotation_uid": "9725cd75-50d7-4542-8a26-01a32b980108"
+        },
+        {
+            "timestamp_sec": 1108.8043786458334,
+            "timestamp_frame": 33264,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C places the pliers on the table.",
+            "annotation_uid": "9725cd75-50d7-4542-8a26-01a32b980108"
+        },
+        {
+            "timestamp_sec": 1111.2097086458334,
+            "timestamp_frame": 33336,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C twists the wires in the cable.",
+            "annotation_uid": "9725cd75-50d7-4542-8a26-01a32b980108"
+        },
+        {
+            "timestamp_sec": 1136.3402986458334,
+            "timestamp_frame": 34090,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks a network connector module.",
+            "annotation_uid": "9725cd75-50d7-4542-8a26-01a32b980108"
+        },
+        {
+            "timestamp_sec": 1137.8712886458334,
+            "timestamp_frame": 34136,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks another network connector module.",
+            "annotation_uid": "9725cd75-50d7-4542-8a26-01a32b980108"
+        },
+        {
+            "timestamp_sec": 1139.2848186458334,
+            "timestamp_frame": 34178,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C places the network connector module on the table.",
+            "annotation_uid": "9725cd75-50d7-4542-8a26-01a32b980108"
+        },
+        {
+            "timestamp_sec": 1140.0257686458335,
+            "timestamp_frame": 34200,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C holds a network connector module.",
+            "annotation_uid": "9725cd75-50d7-4542-8a26-01a32b980108"
+        },
+        {
+            "timestamp_sec": 1145.1275186458333,
+            "timestamp_frame": 34353,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C inserts the wires in the network connector module.",
+            "annotation_uid": "9725cd75-50d7-4542-8a26-01a32b980108"
+        }
+    ]
+}

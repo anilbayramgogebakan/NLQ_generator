@@ -1,0 +1,879 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 870.8772486458333,
+            "timestamp_frame": 26126,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C folds his hands on his legs.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 883.3248186458334,
+            "timestamp_frame": 26499,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X holds a mug in his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 884.6152886458333,
+            "timestamp_frame": 26538,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X drops the mug on a center table with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 900.8653786458333,
+            "timestamp_frame": 27025,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X sits on a chair.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 914.7843986458333,
+            "timestamp_frame": 27443,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X walks towards a television rack on the floor.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 920.3134586458333,
+            "timestamp_frame": 27609,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X picks a game console from the television rack with his right hand.#unsure",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 922.4772986458333,
+            "timestamp_frame": 27674,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X drops the cassette on the floor with his right hand.#unsure",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 923.0268686458334,
+            "timestamp_frame": 27690,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X pulls a connect four game box from the television rack with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 925.4250186458333,
+            "timestamp_frame": 27762,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X carries the connect four game box with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 926.5073786458333,
+            "timestamp_frame": 27795,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X drops the connect four game box on the table with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 927.7222586458333,
+            "timestamp_frame": 27831,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X holds the connect four game box on the table with his hands.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 928.8902886458334,
+            "timestamp_frame": 27866,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X removes the cover of the connect four game box on the table with his hands.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 930.1872186458334,
+            "timestamp_frame": 27905,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X drops the cover of the connect four game box on the table with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 933.3163786458333,
+            "timestamp_frame": 27999,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X removes the connect four game board from the connect four game box with his left hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 934.1490786458334,
+            "timestamp_frame": 28024,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X takes the connect four game board stand from the connect four game box with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 883.4174286458333,
+            "timestamp_frame": 26502,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X holds a mug in his left hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 890.1391886458333,
+            "timestamp_frame": 26704,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C drinks from a mug in his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 901.3037586458333,
+            "timestamp_frame": 27038,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X holds the mug with his hands.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 915.9276486458333,
+            "timestamp_frame": 27477,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X kneels on the floor.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 921.3752786458333,
+            "timestamp_frame": 27641,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X drops the game console on the floor with his right hand.#unsure",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 922.1907586458333,
+            "timestamp_frame": 27665,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X picks a cassette from the television rack with his right hand.#unsure",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 929.6600686458333,
+            "timestamp_frame": 27889,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X holds the cover of the connect four game box with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 930.0977786458334,
+            "timestamp_frame": 27902,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X touches the connect four game board with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 931.0823186458333,
+            "timestamp_frame": 27932,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X removes a blue frame from the connect four game box with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 933.2575786458333,
+            "timestamp_frame": 27997,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X drops the blue frame on the cover of the connect four game box with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 935.4777886458334,
+            "timestamp_frame": 28064,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X holds the connect four game board stand in his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 943.2109086458333,
+            "timestamp_frame": 28296,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X holds the connect four game board in his hands.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 948.7892186458333,
+            "timestamp_frame": 28463,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X lifts the connect four game box from the table with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 949.5375286458334,
+            "timestamp_frame": 28485,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X drops the connect four game board on the table with his left hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 950.5694286458333,
+            "timestamp_frame": 28516,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X drops the connect four game box on the table with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 955.2665986458333,
+            "timestamp_frame": 28657,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X touches the connect four game board on the tabl with his right hand.#unsure",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 957.3479086458333,
+            "timestamp_frame": 28720,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C drinks from the mug in his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 958.3962286458334,
+            "timestamp_frame": 28751,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X drops the piece into the connect four game board with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 958.7281386458333,
+            "timestamp_frame": 28761,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C holds the mug in his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 959.8440886458334,
+            "timestamp_frame": 28795,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X inserts his right hand in his trouser pocket.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 961.4425486458333,
+            "timestamp_frame": 28843,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks a piece from the connect four game box on the table with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 964.6908386458333,
+            "timestamp_frame": 28940,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C drops the piece into the connect four game board with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 968.3685886458334,
+            "timestamp_frame": 29050,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X moves a piece in the connect four game box on the table with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 971.5848986458334,
+            "timestamp_frame": 29147,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X drops the piece into the connect four game board with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 976.0619486458334,
+            "timestamp_frame": 29281,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks a piece from the connect four game box with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 977.0771186458334,
+            "timestamp_frame": 29312,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C drops the piece into the connect four game board with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 979.0244986458333,
+            "timestamp_frame": 29370,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X picks a piece from the connect four game box with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 980.1928486458334,
+            "timestamp_frame": 29405,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X drops the piece into the connect four game board with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 982.7214886458333,
+            "timestamp_frame": 29481,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks a piece from the connect four game box with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 986.9857686458333,
+            "timestamp_frame": 29609,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X drops the piece into the connect four game board with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 994.5260786458333,
+            "timestamp_frame": 29835,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X places his right hand on some pieces in the connect four game box.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 1001.7868786458333,
+            "timestamp_frame": 30053,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X picks a piece from the connect four game box with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 1005.8144486458333,
+            "timestamp_frame": 30174,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C inserts the piece into the connect four game board with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 1007.6621986458333,
+            "timestamp_frame": 30229,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C drops the piece into the connect four game board with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 1010.3266686458334,
+            "timestamp_frame": 30309,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X drops the piece into the connect four game board with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 1014.2244586458334,
+            "timestamp_frame": 30426,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C drops the piece into the connect four game board with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 1015.4889886458334,
+            "timestamp_frame": 30464,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X drops the piece into the connect four game board with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 1017.3869386458333,
+            "timestamp_frame": 30521,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks a piece from the connect four game box with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 948.4192286458333,
+            "timestamp_frame": 28452,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X holds the connect four game board in his left hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 956.8383086458333,
+            "timestamp_frame": 28705,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X picks a piece from the connect four game box with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 959.3307986458333,
+            "timestamp_frame": 28779,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X touches his clothes with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 963.3252386458333,
+            "timestamp_frame": 28899,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C interacts with the man X, a man Y and a woman Z.#unsure",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 963.4344986458333,
+            "timestamp_frame": 28902,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C touches the connect four game board with the piece in his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 970.2071486458333,
+            "timestamp_frame": 29106,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X picks a piece from the connect four game box with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 974.4216186458333,
+            "timestamp_frame": 29232,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C touches some pieces in the connect four game box with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 975.8176486458333,
+            "timestamp_frame": 29274,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X adjusts a wire on his body with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 984.0077786458334,
+            "timestamp_frame": 29520,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C drops the piece into the connect four game board with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 984.0077786458334,
+            "timestamp_frame": 29520,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X picks a piece from the connect four game box with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 994.3459586458333,
+            "timestamp_frame": 29830,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks a piece from the connect four game box with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 1012.7733086458334,
+            "timestamp_frame": 30383,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks a piece from the connect four game box with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 1014.6886586458334,
+            "timestamp_frame": 30440,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X picks a piece from the connect four game box with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 1017.4425586458333,
+            "timestamp_frame": 30523,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X places his right hand on the table.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 1018.0207586458333,
+            "timestamp_frame": 30540,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man X places his left hand on the table.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 1019.2022886458333,
+            "timestamp_frame": 30575,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C drops the piece into the connect four game board with his right hand.",
+            "annotation_uid": "6b1212f0-b870-46cc-b654-5b3cbb096f0a"
+        },
+        {
+            "timestamp_sec": 870.5755586458333,
+            "timestamp_frame": 26117,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks at the window glass ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 877.2552586458334,
+            "timestamp_frame": 26317,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks at the computer",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 885.6153986458334,
+            "timestamp_frame": 26568,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person Y gives C a cup of tea ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 888.0131986458333,
+            "timestamp_frame": 26640,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks at the computer",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 894.0879686458334,
+            "timestamp_frame": 26822,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C drinks the tea ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 896.0171186458333,
+            "timestamp_frame": 26880,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks at the computer",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 897.9046986458334,
+            "timestamp_frame": 26937,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person Y communicates with C ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 899.7280986458334,
+            "timestamp_frame": 26991,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks at the television ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 902.0825786458333,
+            "timestamp_frame": 27062,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns around the office ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 903.3759786458334,
+            "timestamp_frame": 27101,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks at the window ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 904.6369186458334,
+            "timestamp_frame": 27138,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns around the office ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 905.7363486458333,
+            "timestamp_frame": 27171,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks at the ceiling board ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 907.2069386458334,
+            "timestamp_frame": 27216,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks around the office ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 908.7397286458333,
+            "timestamp_frame": 27262,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks at the window ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 914.0289086458333,
+            "timestamp_frame": 27420,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks at the television ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 915.7806686458333,
+            "timestamp_frame": 27473,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person Y operates the television",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 918.5960786458334,
+            "timestamp_frame": 27557,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns around the office ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 920.1809286458333,
+            "timestamp_frame": 27605,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks at the television ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 923.5954286458333,
+            "timestamp_frame": 27707,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns around the office ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 928.1964786458333,
+            "timestamp_frame": 27845,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person Y puts the box on the table ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 929.5980986458334,
+            "timestamp_frame": 27887,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks at the person Y ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 934.4270186458333,
+            "timestamp_frame": 28032,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person Y communicates with C ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 934.6720086458333,
+            "timestamp_frame": 28040,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks at the person Y",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 936.8839486458334,
+            "timestamp_frame": 28106,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns around the office ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 938.3486586458333,
+            "timestamp_frame": 28150,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks at the window ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 943.4452886458333,
+            "timestamp_frame": 28303,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns around the office ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 943.5965586458333,
+            "timestamp_frame": 28307,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C communicates with person Y ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 944.5417486458333,
+            "timestamp_frame": 28336,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks at person Y ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 947.5013886458333,
+            "timestamp_frame": 28424,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C communicates with person Y",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 957.9604086458334,
+            "timestamp_frame": 28738,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C drinks the tea in the office ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 959.8151186458333,
+            "timestamp_frame": 28794,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks at the Y ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 962.7006486458333,
+            "timestamp_frame": 28880,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C takes the bottle top from  the tray ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 964.0061086458334,
+            "timestamp_frame": 28920,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C plays connect four game board ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 968.6720186458333,
+            "timestamp_frame": 29060,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person Y picks the bottle top",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 971.4957286458333,
+            "timestamp_frame": 29144,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person Y plays connect four game board ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 974.2589086458333,
+            "timestamp_frame": 29227,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks the bottle top ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 976.9463786458333,
+            "timestamp_frame": 29308,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C plays connect four game board ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 979.1083686458334,
+            "timestamp_frame": 29373,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person Y picks the bottle top",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 979.9615186458334,
+            "timestamp_frame": 29398,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person Y plays connect four game board ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 983.2804186458334,
+            "timestamp_frame": 29498,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks the bottle top ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 984.2467086458333,
+            "timestamp_frame": 29527,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C plays connect four game board ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 984.5558986458334,
+            "timestamp_frame": 29536,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person Y picks the bottle top",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 986.5192786458333,
+            "timestamp_frame": 29595,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person Y plays connect four game board ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 990.2087786458333,
+            "timestamp_frame": 29706,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks at the connect four game ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 991.8720886458333,
+            "timestamp_frame": 29756,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns around the office ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 992.7825786458334,
+            "timestamp_frame": 29783,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks the bottle top ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 997.4410286458333,
+            "timestamp_frame": 29923,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks at the connect four game ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 1005.9137486458333,
+            "timestamp_frame": 30177,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C plays connect four game board ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 1009.8176386458333,
+            "timestamp_frame": 30294,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person Y plays connect four game board ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 1011.8483986458333,
+            "timestamp_frame": 30355,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks the bottle top ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 1013.7672886458333,
+            "timestamp_frame": 30412,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C plays connect four game board ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 1014.6899286458333,
+            "timestamp_frame": 30440,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person Y picks the bottle top ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 1015.5674386458334,
+            "timestamp_frame": 30466,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person Y plays connect four game board ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 1016.4657886458333,
+            "timestamp_frame": 30493,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O person Y picks the bottle top ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 1017.6217486458333,
+            "timestamp_frame": 30528,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks the bottle top ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        },
+        {
+            "timestamp_sec": 1018.8912686458333,
+            "timestamp_frame": 30566,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C plays connect four game board ",
+            "annotation_uid": "bb3b08c7-8d6e-416e-bc85-aae7885c487d"
+        }
+    ]
+}

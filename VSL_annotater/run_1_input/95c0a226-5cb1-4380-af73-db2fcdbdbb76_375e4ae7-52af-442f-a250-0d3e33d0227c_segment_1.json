@@ -1,0 +1,746 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 452.0684886,
+            "timestamp_frame": 13561,
+            "_unmapped_timestamp_sec": 452.04746,
+            "narration_text": "#C C walks in the supermarket",
+            "annotation_uid": "aa43c618-71ab-454c-a2a8-f05eb99fa941"
+        },
+        {
+            "timestamp_sec": 465.1581686,
+            "timestamp_frame": 13954,
+            "_unmapped_timestamp_sec": 465.13714,
+            "narration_text": "#C C stands in the supermarket",
+            "annotation_uid": "aa43c618-71ab-454c-a2a8-f05eb99fa941"
+        },
+        {
+            "timestamp_sec": 498.5167086,
+            "timestamp_frame": 14955,
+            "_unmapped_timestamp_sec": 498.49568,
+            "narration_text": "#C C takes the trident from the shelf",
+            "annotation_uid": "aa43c618-71ab-454c-a2a8-f05eb99fa941"
+        },
+        {
+            "timestamp_sec": 502.22067860000004,
+            "timestamp_frame": 15066,
+            "_unmapped_timestamp_sec": 502.19965,
+            "narration_text": "#C C returns the trident on the shelf",
+            "annotation_uid": "aa43c618-71ab-454c-a2a8-f05eb99fa941"
+        },
+        {
+            "timestamp_sec": 505.6359486,
+            "timestamp_frame": 15168,
+            "_unmapped_timestamp_sec": 505.61492,
+            "narration_text": "#C C takes another trident from the shelf",
+            "annotation_uid": "aa43c618-71ab-454c-a2a8-f05eb99fa941"
+        },
+        {
+            "timestamp_sec": 511.25426860000005,
+            "timestamp_frame": 15337,
+            "_unmapped_timestamp_sec": 511.23324,
+            "narration_text": "#C C returns the trident on the shelf",
+            "annotation_uid": "aa43c618-71ab-454c-a2a8-f05eb99fa941"
+        },
+        {
+            "timestamp_sec": 515.1368286000001,
+            "timestamp_frame": 15453,
+            "_unmapped_timestamp_sec": 515.1158,
+            "narration_text": "#C C takes the trident from the shelf",
+            "annotation_uid": "aa43c618-71ab-454c-a2a8-f05eb99fa941"
+        },
+        {
+            "timestamp_sec": 519.4977786000001,
+            "timestamp_frame": 15584,
+            "_unmapped_timestamp_sec": 519.47675,
+            "narration_text": "#C C converses with A lady H",
+            "annotation_uid": "aa43c618-71ab-454c-a2a8-f05eb99fa941"
+        },
+        {
+            "timestamp_sec": 536.3368186,
+            "timestamp_frame": 16089,
+            "_unmapped_timestamp_sec": 536.31579,
+            "narration_text": "#C C puts the tray on the table",
+            "annotation_uid": "aa43c618-71ab-454c-a2a8-f05eb99fa941"
+        },
+        {
+            "timestamp_sec": 545.6943286,
+            "timestamp_frame": 16370,
+            "_unmapped_timestamp_sec": 545.6732999999999,
+            "narration_text": "#C C takes the vivo from the tray",
+            "annotation_uid": "aa43c618-71ab-454c-a2a8-f05eb99fa941"
+        },
+        {
+            "timestamp_sec": 420.32941860000005,
+            "timestamp_frame": 12609,
+            "_unmapped_timestamp_sec": 420.30839000000003,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 424.3064686,
+            "timestamp_frame": 12729,
+            "_unmapped_timestamp_sec": 424.28544,
+            "narration_text": "#O man A lifts a box of bottle ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 425.4740686,
+            "timestamp_frame": 12764,
+            "_unmapped_timestamp_sec": 425.45304,
+            "narration_text": "#O man A transfers the box to the right hand ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 425.9292386,
+            "timestamp_frame": 12777,
+            "_unmapped_timestamp_sec": 425.90821,
+            "narration_text": "#O man B makes a step ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 426.4829786,
+            "timestamp_frame": 12794,
+            "_unmapped_timestamp_sec": 426.46195,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 427.91441860000003,
+            "timestamp_frame": 12837,
+            "_unmapped_timestamp_sec": 427.89339,
+            "narration_text": "#O man A operates a machine ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 431.4386386,
+            "timestamp_frame": 12943,
+            "_unmapped_timestamp_sec": 431.41760999999997,
+            "narration_text": "#O man A lifts #Unsure ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 432.1412086,
+            "timestamp_frame": 12964,
+            "_unmapped_timestamp_sec": 432.12018,
+            "narration_text": "#O man A puts #Unsure on the brown bag ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 432.48380860000003,
+            "timestamp_frame": 12974,
+            "_unmapped_timestamp_sec": 432.46278,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 437.3983286,
+            "timestamp_frame": 13121,
+            "_unmapped_timestamp_sec": 437.3773,
+            "narration_text": "#O man B lifts a bottle of #Unsure ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 437.9489386,
+            "timestamp_frame": 13138,
+            "_unmapped_timestamp_sec": 437.92791,
+            "narration_text": "#C C converses with man D ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 439.0753986,
+            "timestamp_frame": 13172,
+            "_unmapped_timestamp_sec": 439.05437,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 440.3630686,
+            "timestamp_frame": 13210,
+            "_unmapped_timestamp_sec": 440.34204,
+            "narration_text": "#O man A puts #Unsure on the brown bag ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 442.29488860000004,
+            "timestamp_frame": 13268,
+            "_unmapped_timestamp_sec": 442.27386,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 443.20459860000005,
+            "timestamp_frame": 13296,
+            "_unmapped_timestamp_sec": 443.18357000000003,
+            "narration_text": "#O man  B makes a step ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 444.7365386,
+            "timestamp_frame": 13341,
+            "_unmapped_timestamp_sec": 444.71551,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 448.3582086,
+            "timestamp_frame": 13450,
+            "_unmapped_timestamp_sec": 448.33718,
+            "narration_text": "#O man B lifts a bottle of #Unsure ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 448.8997286,
+            "timestamp_frame": 13466,
+            "_unmapped_timestamp_sec": 448.8787,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 451.13701860000003,
+            "timestamp_frame": 13533,
+            "_unmapped_timestamp_sec": 451.11599,
+            "narration_text": "#C C walks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 455.3137686,
+            "timestamp_frame": 13659,
+            "_unmapped_timestamp_sec": 455.29274,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 456.53303860000005,
+            "timestamp_frame": 13695,
+            "_unmapped_timestamp_sec": 456.51201000000003,
+            "narration_text": "#C C walks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 458.8995086,
+            "timestamp_frame": 13766,
+            "_unmapped_timestamp_sec": 458.87847999999997,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 461.27464860000003,
+            "timestamp_frame": 13838,
+            "_unmapped_timestamp_sec": 461.25362,
+            "narration_text": "#O man B walks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 462.8027886,
+            "timestamp_frame": 13883,
+            "_unmapped_timestamp_sec": 462.78175999999996,
+            "narration_text": "#O man A puts #Unsure in the brown bag ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 463.43491860000006,
+            "timestamp_frame": 13902,
+            "_unmapped_timestamp_sec": 463.41389000000004,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 464.46401860000003,
+            "timestamp_frame": 13933,
+            "_unmapped_timestamp_sec": 464.44299,
+            "narration_text": "#O man A lifts #unsure ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 465.1099886,
+            "timestamp_frame": 13953,
+            "_unmapped_timestamp_sec": 465.08896,
+            "narration_text": "#C C transfers #Unsure to the right hand ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 465.6765586,
+            "timestamp_frame": 13970,
+            "_unmapped_timestamp_sec": 465.65553,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 466.38592860000006,
+            "timestamp_frame": 13991,
+            "_unmapped_timestamp_sec": 466.36490000000003,
+            "narration_text": "#O man A lifts a polythene bag ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 467.27938860000006,
+            "timestamp_frame": 14018,
+            "_unmapped_timestamp_sec": 467.25836000000004,
+            "narration_text": "#O man A touches the polythene bag with both hands ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 468.7543686,
+            "timestamp_frame": 14062,
+            "_unmapped_timestamp_sec": 468.73334,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 469.78682860000004,
+            "timestamp_frame": 14093,
+            "_unmapped_timestamp_sec": 469.7658,
+            "narration_text": "#O man A looks inside the polythene bag ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 470.89883860000003,
+            "timestamp_frame": 14126,
+            "_unmapped_timestamp_sec": 470.87781,
+            "narration_text": "#O man A touches #Unsure inside the polythene bag ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 473.5615186,
+            "timestamp_frame": 14206,
+            "_unmapped_timestamp_sec": 473.54049,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 481.4113086,
+            "timestamp_frame": 14442,
+            "_unmapped_timestamp_sec": 481.39027999999996,
+            "narration_text": "#O man A operates the machine ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 482.3647786,
+            "timestamp_frame": 14470,
+            "_unmapped_timestamp_sec": 482.34375,
+            "narration_text": "#O man A lifts the polyethene bag ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 483.17140860000006,
+            "timestamp_frame": 14495,
+            "_unmapped_timestamp_sec": 483.15038000000004,
+            "narration_text": "#O man A puts the polythene paper inside the brown bag ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 484.0328786,
+            "timestamp_frame": 14520,
+            "_unmapped_timestamp_sec": 484.01185,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 485.59859860000006,
+            "timestamp_frame": 14567,
+            "_unmapped_timestamp_sec": 485.57757000000004,
+            "narration_text": "#O man A makes a step ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 486.00673860000006,
+            "timestamp_frame": 14580,
+            "_unmapped_timestamp_sec": 485.98571000000004,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 486.6448286,
+            "timestamp_frame": 14599,
+            "_unmapped_timestamp_sec": 486.62379999999996,
+            "narration_text": "#O Man A lifts a bottle of #Unsure ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 487.3508686,
+            "timestamp_frame": 14620,
+            "_unmapped_timestamp_sec": 487.32984,
+            "narration_text": "#O man A operates the machine ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 488.7668386,
+            "timestamp_frame": 14662,
+            "_unmapped_timestamp_sec": 488.74581,
+            "narration_text": "#O Man A lifts a bottle of #Unsure ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 489.2926186,
+            "timestamp_frame": 14678,
+            "_unmapped_timestamp_sec": 489.27159,
+            "narration_text": "#O man A puts the bottle of #Unsure inside the brown bag ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 490.2192686,
+            "timestamp_frame": 14706,
+            "_unmapped_timestamp_sec": 490.19824,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 490.96837860000005,
+            "timestamp_frame": 14728,
+            "_unmapped_timestamp_sec": 490.94735000000003,
+            "narration_text": "#O man A picks #Unsure ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 492.04648860000003,
+            "timestamp_frame": 14761,
+            "_unmapped_timestamp_sec": 492.02546,
+            "narration_text": "#O Man A lifts #Unsure ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 492.4130286,
+            "timestamp_frame": 14772,
+            "_unmapped_timestamp_sec": 492.392,
+            "narration_text": "#O man  looks at #Unusre ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 493.0783986,
+            "timestamp_frame": 14792,
+            "_unmapped_timestamp_sec": 493.05737,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 498.0864686,
+            "timestamp_frame": 14942,
+            "_unmapped_timestamp_sec": 498.06543999999997,
+            "narration_text": "#C C lifts  lifts a packet of chewing gum ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 500.53762860000006,
+            "timestamp_frame": 15015,
+            "_unmapped_timestamp_sec": 500.51660000000004,
+            "narration_text": "#C C looks at the packet of chewing gum ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 500.88876860000005,
+            "timestamp_frame": 15026,
+            "_unmapped_timestamp_sec": 500.86774,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 505.1044886,
+            "timestamp_frame": 15153,
+            "_unmapped_timestamp_sec": 505.08346,
+            "narration_text": "#C C lifts  lifts a packet of chewing gum ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 506.14281860000006,
+            "timestamp_frame": 15184,
+            "_unmapped_timestamp_sec": 506.12179000000003,
+            "narration_text": "#C C looks at the packet of chewing gum ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 508.6894386,
+            "timestamp_frame": 15260,
+            "_unmapped_timestamp_sec": 508.66841,
+            "narration_text": "#C C puts the packet of chewing gum on the shelf",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 508.92864860000003,
+            "timestamp_frame": 15267,
+            "_unmapped_timestamp_sec": 508.90762,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 509.6589286,
+            "timestamp_frame": 15289,
+            "_unmapped_timestamp_sec": 509.6379,
+            "narration_text": "#C C lifts the packet of chewing gum ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 510.2661786,
+            "timestamp_frame": 15307,
+            "_unmapped_timestamp_sec": 510.24514999999997,
+            "narration_text": "#C C puts the packet of chewing gum on the shelf",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 511.3429386,
+            "timestamp_frame": 15340,
+            "_unmapped_timestamp_sec": 511.32191,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 515.4979386,
+            "timestamp_frame": 15464,
+            "_unmapped_timestamp_sec": 515.47691,
+            "narration_text": "#C C lifts the packet of chewing gum ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 515.6885986000001,
+            "timestamp_frame": 15470,
+            "_unmapped_timestamp_sec": 515.6675700000001,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 525.3313486000001,
+            "timestamp_frame": 15759,
+            "_unmapped_timestamp_sec": 525.31032,
+            "narration_text": "#O woman Z converses with Man H ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 527.6334486,
+            "timestamp_frame": 15828,
+            "_unmapped_timestamp_sec": 527.6124199999999,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 529.2789586,
+            "timestamp_frame": 15878,
+            "_unmapped_timestamp_sec": 529.25793,
+            "narration_text": "#O woman Z points at #Unsure ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 529.7519486,
+            "timestamp_frame": 15892,
+            "_unmapped_timestamp_sec": 529.73092,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 532.1500386,
+            "timestamp_frame": 15964,
+            "_unmapped_timestamp_sec": 532.12901,
+            "narration_text": "#O man B walks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 533.5322886,
+            "timestamp_frame": 16005,
+            "_unmapped_timestamp_sec": 533.51126,
+            "narration_text": "#O man A operates a machine ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 536.4568586,
+            "timestamp_frame": 16093,
+            "_unmapped_timestamp_sec": 536.43583,
+            "narration_text": "#C C lifts #Unsure ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 536.9552386,
+            "timestamp_frame": 16108,
+            "_unmapped_timestamp_sec": 536.93421,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 539.3763086,
+            "timestamp_frame": 16181,
+            "_unmapped_timestamp_sec": 539.35528,
+            "narration_text": "#C C touches the bucket ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 540.6948886,
+            "timestamp_frame": 16220,
+            "_unmapped_timestamp_sec": 540.67386,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 543.2786186,
+            "timestamp_frame": 16298,
+            "_unmapped_timestamp_sec": 543.2575899999999,
+            "narration_text": "#O man A lifts #Unsure ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 543.6393086,
+            "timestamp_frame": 16309,
+            "_unmapped_timestamp_sec": 543.61828,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 545.6376386000001,
+            "timestamp_frame": 16368,
+            "_unmapped_timestamp_sec": 545.61661,
+            "narration_text": "#C C lifts #Unsure ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 546.6247786,
+            "timestamp_frame": 16398,
+            "_unmapped_timestamp_sec": 546.60375,
+            "narration_text": "#C C touches the bucket ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 547.1707886,
+            "timestamp_frame": 16414,
+            "_unmapped_timestamp_sec": 547.14976,
+            "narration_text": "#C C puts #Unsure on the bucket ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 547.8728486,
+            "timestamp_frame": 16436,
+            "_unmapped_timestamp_sec": 547.85182,
+            "narration_text": "#O man A picks #Unsure ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 548.1805786000001,
+            "timestamp_frame": 16445,
+            "_unmapped_timestamp_sec": 548.1595500000001,
+            "narration_text": "#O man A operates  a machine ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 548.3156486,
+            "timestamp_frame": 16449,
+            "_unmapped_timestamp_sec": 548.29462,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 552.6814386,
+            "timestamp_frame": 16580,
+            "_unmapped_timestamp_sec": 552.66041,
+            "narration_text": "#O man A operates  a machine ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 552.9765086000001,
+            "timestamp_frame": 16589,
+            "_unmapped_timestamp_sec": 552.9554800000001,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "e023adab-0321-40b9-8d31-b56fa7b59d6c"
+        },
+        {
+            "timestamp_sec": 555.9051086000001,
+            "timestamp_frame": 16677,
+            "_unmapped_timestamp_sec": 555.88408,
+            "narration_text": "#O man A converses with man B ",
+            "annotation_uid": "7a7f3b9a-766d-411c-a50a-8ab15e128645"
+        },
+        {
+            "timestamp_sec": 556.3403386,
+            "timestamp_frame": 16690,
+            "_unmapped_timestamp_sec": 556.31931,
+            "narration_text": "#O man B counts money ",
+            "annotation_uid": "7a7f3b9a-766d-411c-a50a-8ab15e128645"
+        },
+        {
+            "timestamp_sec": 559.1375586,
+            "timestamp_frame": 16773,
+            "_unmapped_timestamp_sec": 559.11653,
+            "narration_text": "#O man A lifts the right hand ",
+            "annotation_uid": "7a7f3b9a-766d-411c-a50a-8ab15e128645"
+        },
+        {
+            "timestamp_sec": 559.6694486,
+            "timestamp_frame": 16789,
+            "_unmapped_timestamp_sec": 559.64842,
+            "narration_text": "#C  C looks around ",
+            "annotation_uid": "7a7f3b9a-766d-411c-a50a-8ab15e128645"
+        },
+        {
+            "timestamp_sec": 560.2707386000001,
+            "timestamp_frame": 16807,
+            "_unmapped_timestamp_sec": 560.24971,
+            "narration_text": "#O man A converses with  man  B ",
+            "annotation_uid": "7a7f3b9a-766d-411c-a50a-8ab15e128645"
+        },
+        {
+            "timestamp_sec": 561.5727186,
+            "timestamp_frame": 16847,
+            "_unmapped_timestamp_sec": 561.55169,
+            "narration_text": "#O man A picks  money from person B ",
+            "annotation_uid": "7a7f3b9a-766d-411c-a50a-8ab15e128645"
+        },
+        {
+            "timestamp_sec": 561.9800486,
+            "timestamp_frame": 16859,
+            "_unmapped_timestamp_sec": 561.95902,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "7a7f3b9a-766d-411c-a50a-8ab15e128645"
+        },
+        {
+            "timestamp_sec": 562.4411786000001,
+            "timestamp_frame": 16873,
+            "_unmapped_timestamp_sec": 562.42015,
+            "narration_text": "#O man D touches the brown bag ",
+            "annotation_uid": "7a7f3b9a-766d-411c-a50a-8ab15e128645"
+        },
+        {
+            "timestamp_sec": 562.9081886,
+            "timestamp_frame": 16887,
+            "_unmapped_timestamp_sec": 562.88716,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "7a7f3b9a-766d-411c-a50a-8ab15e128645"
+        },
+        {
+            "timestamp_sec": 564.2659586,
+            "timestamp_frame": 16927,
+            "_unmapped_timestamp_sec": 564.24493,
+            "narration_text": "#O man A operates a machine",
+            "annotation_uid": "7a7f3b9a-766d-411c-a50a-8ab15e128645"
+        },
+        {
+            "timestamp_sec": 565.0891386000001,
+            "timestamp_frame": 16952,
+            "_unmapped_timestamp_sec": 565.06811,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "7a7f3b9a-766d-411c-a50a-8ab15e128645"
+        },
+        {
+            "timestamp_sec": 566.4665386,
+            "timestamp_frame": 16993,
+            "_unmapped_timestamp_sec": 566.44551,
+            "narration_text": "#O man D carries the brown bag ",
+            "annotation_uid": "7a7f3b9a-766d-411c-a50a-8ab15e128645"
+        },
+        {
+            "timestamp_sec": 567.0447386000001,
+            "timestamp_frame": 17011,
+            "_unmapped_timestamp_sec": 567.02371,
+            "narration_text": "#O man D walks around ",
+            "annotation_uid": "7a7f3b9a-766d-411c-a50a-8ab15e128645"
+        },
+        {
+            "timestamp_sec": 568.1861586,
+            "timestamp_frame": 17045,
+            "_unmapped_timestamp_sec": 568.16513,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "7a7f3b9a-766d-411c-a50a-8ab15e128645"
+        },
+        {
+            "timestamp_sec": 569.2595986,
+            "timestamp_frame": 17077,
+            "_unmapped_timestamp_sec": 569.23857,
+            "narration_text": "#O man A operates a machine ",
+            "annotation_uid": "7a7f3b9a-766d-411c-a50a-8ab15e128645"
+        }
+    ]
+}

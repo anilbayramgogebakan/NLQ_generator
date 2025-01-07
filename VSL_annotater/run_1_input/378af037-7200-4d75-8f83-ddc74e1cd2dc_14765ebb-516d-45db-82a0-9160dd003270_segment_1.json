@@ -1,0 +1,956 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 150.9192286,
+            "timestamp_frame": 4527,
+            "_unmapped_timestamp_sec": 150.8982,
+            "narration_text": "#C C looks at pictures",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 156.8820586,
+            "timestamp_frame": 4706,
+            "_unmapped_timestamp_sec": 156.86103,
+            "narration_text": "#O Man X lifts hand",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 162.8573786,
+            "timestamp_frame": 4885,
+            "_unmapped_timestamp_sec": 162.83635,
+            "narration_text": "#O Man X touches cabinet",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 166.8033486,
+            "timestamp_frame": 5003,
+            "_unmapped_timestamp_sec": 166.78232,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 169.0614786,
+            "timestamp_frame": 5071,
+            "_unmapped_timestamp_sec": 169.04045,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 170.2875986,
+            "timestamp_frame": 5108,
+            "_unmapped_timestamp_sec": 170.26657,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 171.43727859999998,
+            "timestamp_frame": 5142,
+            "_unmapped_timestamp_sec": 171.41625,
+            "narration_text": "#C C stares painting",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 173.0991286,
+            "timestamp_frame": 5192,
+            "_unmapped_timestamp_sec": 173.0781,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 174.88094859999998,
+            "timestamp_frame": 5246,
+            "_unmapped_timestamp_sec": 174.85992,
+            "narration_text": "#O Man X walks around",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 177.0369186,
+            "timestamp_frame": 5310,
+            "_unmapped_timestamp_sec": 177.01589,
+            "narration_text": "#C C walks around",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 179.0171786,
+            "timestamp_frame": 5370,
+            "_unmapped_timestamp_sec": 178.99615,
+            "narration_text": "#O Man X holds drumsticks",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 179.8069686,
+            "timestamp_frame": 5394,
+            "_unmapped_timestamp_sec": 179.78594,
+            "narration_text": "#O Man X holds drumsticks with the other hand",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 181.9268186,
+            "timestamp_frame": 5457,
+            "_unmapped_timestamp_sec": 181.90579,
+            "narration_text": "#C C lifts #unsure",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 186.97846859999999,
+            "timestamp_frame": 5609,
+            "_unmapped_timestamp_sec": 186.95744,
+            "narration_text": "#C C drops #unsure",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 189.6508786,
+            "timestamp_frame": 5689,
+            "_unmapped_timestamp_sec": 189.62985,
+            "narration_text": "#C C drops drumsticks",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 194.1329886,
+            "timestamp_frame": 5823,
+            "_unmapped_timestamp_sec": 194.11196,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 195.2831586,
+            "timestamp_frame": 5858,
+            "_unmapped_timestamp_sec": 195.26213,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 196.0835286,
+            "timestamp_frame": 5882,
+            "_unmapped_timestamp_sec": 196.0625,
+            "narration_text": "#O Man X moves around",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 197.0141486,
+            "timestamp_frame": 5910,
+            "_unmapped_timestamp_sec": 196.99312,
+            "narration_text": "#C C moves around",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 200.2558186,
+            "timestamp_frame": 6007,
+            "_unmapped_timestamp_sec": 200.23479,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 205.82685859999998,
+            "timestamp_frame": 6174,
+            "_unmapped_timestamp_sec": 205.80583,
+            "narration_text": "#O Man X points books",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 209.63783859999998,
+            "timestamp_frame": 6289,
+            "_unmapped_timestamp_sec": 209.61681,
+            "narration_text": "#O Man X picks book",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 213.2501686,
+            "timestamp_frame": 6397,
+            "_unmapped_timestamp_sec": 213.22914,
+            "narration_text": "#O Man X stares book",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 217.7174786,
+            "timestamp_frame": 6531,
+            "_unmapped_timestamp_sec": 217.69645,
+            "narration_text": "#O Man X holds books",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 219.61249859999998,
+            "timestamp_frame": 6588,
+            "_unmapped_timestamp_sec": 219.59147,
+            "narration_text": "#O Man X puts book back",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 224.5078486,
+            "timestamp_frame": 6735,
+            "_unmapped_timestamp_sec": 224.48682,
+            "narration_text": "#O Man X looks around",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 231.0267686,
+            "timestamp_frame": 6930,
+            "_unmapped_timestamp_sec": 231.00574,
+            "narration_text": "#O Man X moves hand to the mouth",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 236.5469986,
+            "timestamp_frame": 7096,
+            "_unmapped_timestamp_sec": 236.52597,
+            "narration_text": "#O Man X points flowers",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 239.4740286,
+            "timestamp_frame": 7184,
+            "_unmapped_timestamp_sec": 239.453,
+            "narration_text": "#O Man X lifts hand",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 246.5695786,
+            "timestamp_frame": 7396,
+            "_unmapped_timestamp_sec": 246.54855,
+            "narration_text": "#O Man X lifts hand",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 248.8381886,
+            "timestamp_frame": 7465,
+            "_unmapped_timestamp_sec": 248.81716,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 251.6788086,
+            "timestamp_frame": 7550,
+            "_unmapped_timestamp_sec": 251.65778,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 255.03129859999999,
+            "timestamp_frame": 7650,
+            "_unmapped_timestamp_sec": 255.01027,
+            "narration_text": "#O Man X points painting",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 266.6877086,
+            "timestamp_frame": 8000,
+            "_unmapped_timestamp_sec": 266.66668,
+            "narration_text": "#O Man X moves around",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 268.5988886,
+            "timestamp_frame": 8057,
+            "_unmapped_timestamp_sec": 268.57786,
+            "narration_text": "#O Man X moves around",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 273.49965860000003,
+            "timestamp_frame": 8204,
+            "_unmapped_timestamp_sec": 273.47863,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 275.2770686,
+            "timestamp_frame": 8258,
+            "_unmapped_timestamp_sec": 275.25604,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 275.90434860000005,
+            "timestamp_frame": 8276,
+            "_unmapped_timestamp_sec": 275.88332,
+            "narration_text": "#O Man X touches the mouth",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 276.28101860000004,
+            "timestamp_frame": 8288,
+            "_unmapped_timestamp_sec": 276.25999,
+            "narration_text": "#O Man X points the painting",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 281.0190086,
+            "timestamp_frame": 8430,
+            "_unmapped_timestamp_sec": 280.99798,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 282.62206860000003,
+            "timestamp_frame": 8478,
+            "_unmapped_timestamp_sec": 282.60104,
+            "narration_text": "#C C moves forward",
+            "annotation_uid": "4dfa8ebf-904f-4dc0-8aa0-7a4446df1aa6"
+        },
+        {
+            "timestamp_sec": 293.7765286458333,
+            "timestamp_frame": 8813,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man A points to the poster on the wall with his right index finger.",
+            "annotation_uid": "5991b5bd-5ad7-487e-9cbb-fcebe277359d"
+        },
+        {
+            "timestamp_sec": 296.3930386458333,
+            "timestamp_frame": 8891,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O The man A touches the poster on the wall with his right index finger. #unsure",
+            "annotation_uid": "5991b5bd-5ad7-487e-9cbb-fcebe277359d"
+        },
+        {
+            "timestamp_sec": 150.4649786,
+            "timestamp_frame": 4513,
+            "_unmapped_timestamp_sec": 150.44395,
+            "narration_text": "#C C talks to man X",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 152.6641486,
+            "timestamp_frame": 4579,
+            "_unmapped_timestamp_sec": 152.64312,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 156.9830386,
+            "timestamp_frame": 4709,
+            "_unmapped_timestamp_sec": 156.96201,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 156.9830386,
+            "timestamp_frame": 4709,
+            "_unmapped_timestamp_sec": 156.96201,
+            "narration_text": "#C C talks to man X",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 162.2307486,
+            "timestamp_frame": 4866,
+            "_unmapped_timestamp_sec": 162.20972,
+            "narration_text": "#O man X points at the guitar with his right hand ",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 162.2307486,
+            "timestamp_frame": 4866,
+            "_unmapped_timestamp_sec": 162.20972,
+            "narration_text": "#C C looks at the guitar ",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 162.2307486,
+            "timestamp_frame": 4866,
+            "_unmapped_timestamp_sec": 162.20972,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 164.2507986,
+            "timestamp_frame": 4927,
+            "_unmapped_timestamp_sec": 164.22977,
+            "narration_text": "#C C talks to man X",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 165.4943786,
+            "timestamp_frame": 4964,
+            "_unmapped_timestamp_sec": 165.47335,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 167.8930586,
+            "timestamp_frame": 5036,
+            "_unmapped_timestamp_sec": 167.87203,
+            "narration_text": "#C C looks at man X",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 168.3459886,
+            "timestamp_frame": 5050,
+            "_unmapped_timestamp_sec": 168.32496,
+            "narration_text": "#C C talks to man X",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 169.4867986,
+            "timestamp_frame": 5084,
+            "_unmapped_timestamp_sec": 169.46577,
+            "narration_text": "#C C talks to man X",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 169.4867986,
+            "timestamp_frame": 5084,
+            "_unmapped_timestamp_sec": 169.46577,
+            "narration_text": "#C C looks at the portrait paint in the wall",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 171.7084386,
+            "timestamp_frame": 5151,
+            "_unmapped_timestamp_sec": 171.68741,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 176.2915386,
+            "timestamp_frame": 5288,
+            "_unmapped_timestamp_sec": 176.27051,
+            "narration_text": "#C C walks",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 174.8701786,
+            "timestamp_frame": 5245,
+            "_unmapped_timestamp_sec": 174.84915,
+            "narration_text": "#O man X walks",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 176.7847186,
+            "timestamp_frame": 5303,
+            "_unmapped_timestamp_sec": 176.76369,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 178.7208986,
+            "timestamp_frame": 5361,
+            "_unmapped_timestamp_sec": 178.69987,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 178.7208986,
+            "timestamp_frame": 5361,
+            "_unmapped_timestamp_sec": 178.69987,
+            "narration_text": "#O man X picks the drum stick with his left hand",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 179.8324686,
+            "timestamp_frame": 5394,
+            "_unmapped_timestamp_sec": 179.81144,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 179.8324686,
+            "timestamp_frame": 5394,
+            "_unmapped_timestamp_sec": 179.81144,
+            "narration_text": "#O man X holds the drum stick with his right hand",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 180.3252186,
+            "timestamp_frame": 5409,
+            "_unmapped_timestamp_sec": 180.30419,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 180.3252186,
+            "timestamp_frame": 5409,
+            "_unmapped_timestamp_sec": 180.30419,
+            "narration_text": "#O man X touches the drum with his left hand ",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 183.16981859999999,
+            "timestamp_frame": 5494,
+            "_unmapped_timestamp_sec": 183.14879,
+            "narration_text": "#O man X holds the drum cover with his left hand",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 182.6359786,
+            "timestamp_frame": 5478,
+            "_unmapped_timestamp_sec": 182.61495,
+            "narration_text": "#O man X removes the drum cover with his left hand",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 184.2514486,
+            "timestamp_frame": 5527,
+            "_unmapped_timestamp_sec": 184.23042,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 184.8335386,
+            "timestamp_frame": 5544,
+            "_unmapped_timestamp_sec": 184.81251,
+            "narration_text": "#C C talks to man X",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 185.0963086,
+            "timestamp_frame": 5552,
+            "_unmapped_timestamp_sec": 185.07528,
+            "narration_text": "#O man X beats the drum",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 186.5049486,
+            "timestamp_frame": 5595,
+            "_unmapped_timestamp_sec": 186.48392,
+            "narration_text": "#O man X stops beating the drum ",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 186.7044186,
+            "timestamp_frame": 5601,
+            "_unmapped_timestamp_sec": 186.68339,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 188.00316859999998,
+            "timestamp_frame": 5639,
+            "_unmapped_timestamp_sec": 187.98214,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 188.00316859999998,
+            "timestamp_frame": 5639,
+            "_unmapped_timestamp_sec": 187.98214,
+            "narration_text": "#O man X returns the drum cover on the drum",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 190.59737859999998,
+            "timestamp_frame": 5717,
+            "_unmapped_timestamp_sec": 190.57635,
+            "narration_text": "#O man X puts the drum stick on the drum",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 190.59737859999998,
+            "timestamp_frame": 5717,
+            "_unmapped_timestamp_sec": 190.57635,
+            "narration_text": "#C C laughs",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 193.3900986,
+            "timestamp_frame": 5801,
+            "_unmapped_timestamp_sec": 193.36907,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 193.3900986,
+            "timestamp_frame": 5801,
+            "_unmapped_timestamp_sec": 193.36907,
+            "narration_text": "#C C talks to man X",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 195.4439686,
+            "timestamp_frame": 5863,
+            "_unmapped_timestamp_sec": 195.42294,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 196.2694286,
+            "timestamp_frame": 5887,
+            "_unmapped_timestamp_sec": 196.2484,
+            "narration_text": "#C C talks to man X",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 197.9617286,
+            "timestamp_frame": 5938,
+            "_unmapped_timestamp_sec": 197.9407,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 200.21100859999999,
+            "timestamp_frame": 6006,
+            "_unmapped_timestamp_sec": 200.18998,
+            "narration_text": "#O man X talks  to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 200.21100859999999,
+            "timestamp_frame": 6006,
+            "_unmapped_timestamp_sec": 200.18998,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 201.57615859999999,
+            "timestamp_frame": 6047,
+            "_unmapped_timestamp_sec": 201.55513,
+            "narration_text": "#C C walks",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 201.57615859999999,
+            "timestamp_frame": 6047,
+            "_unmapped_timestamp_sec": 201.55513,
+            "narration_text": "#O man X walks",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 203.2677386,
+            "timestamp_frame": 6097,
+            "_unmapped_timestamp_sec": 203.24671,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 205.4183186,
+            "timestamp_frame": 6162,
+            "_unmapped_timestamp_sec": 205.39729,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 208.7674686,
+            "timestamp_frame": 6262,
+            "_unmapped_timestamp_sec": 208.74644,
+            "narration_text": "#C C talks to man X",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 205.4183186,
+            "timestamp_frame": 6162,
+            "_unmapped_timestamp_sec": 205.39729,
+            "narration_text": "#C C talks to man X",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 210.7173686,
+            "timestamp_frame": 6321,
+            "_unmapped_timestamp_sec": 210.69634,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 211.4870686,
+            "timestamp_frame": 6344,
+            "_unmapped_timestamp_sec": 211.46604,
+            "narration_text": "#C C touches the book with his right hand",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 213.4083186,
+            "timestamp_frame": 6402,
+            "_unmapped_timestamp_sec": 213.38729,
+            "narration_text": "#C C talks to man X",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 213.4083186,
+            "timestamp_frame": 6402,
+            "_unmapped_timestamp_sec": 213.38729,
+            "narration_text": "#O man X holds the book with his right hand",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 216.89053859999999,
+            "timestamp_frame": 6506,
+            "_unmapped_timestamp_sec": 216.86951,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 217.85677859999998,
+            "timestamp_frame": 6535,
+            "_unmapped_timestamp_sec": 217.83575,
+            "narration_text": "#O man X touches the books with his left hand",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 219.5193486,
+            "timestamp_frame": 6585,
+            "_unmapped_timestamp_sec": 219.49832,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 219.5193486,
+            "timestamp_frame": 6585,
+            "_unmapped_timestamp_sec": 219.49832,
+            "narration_text": "#O man X returns the book",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 224.1569886,
+            "timestamp_frame": 6724,
+            "_unmapped_timestamp_sec": 224.13596,
+            "narration_text": "#C C talks to man X",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 226.8819686,
+            "timestamp_frame": 6806,
+            "_unmapped_timestamp_sec": 226.86094,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 234.1473486,
+            "timestamp_frame": 7024,
+            "_unmapped_timestamp_sec": 234.12632,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 234.1473486,
+            "timestamp_frame": 7024,
+            "_unmapped_timestamp_sec": 234.12632,
+            "narration_text": "#C C laughs",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 239.9951586,
+            "timestamp_frame": 7199,
+            "_unmapped_timestamp_sec": 239.97413,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 239.9951586,
+            "timestamp_frame": 7199,
+            "_unmapped_timestamp_sec": 239.97413,
+            "narration_text": "#C C looks at the wall decor",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 240.7751886,
+            "timestamp_frame": 7223,
+            "_unmapped_timestamp_sec": 240.75416,
+            "narration_text": "#C C talks to man X",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 242.8818686,
+            "timestamp_frame": 7286,
+            "_unmapped_timestamp_sec": 242.86084,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 243.49188859999998,
+            "timestamp_frame": 7304,
+            "_unmapped_timestamp_sec": 243.47086,
+            "narration_text": "#C C talks to man X",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 244.8073686,
+            "timestamp_frame": 7344,
+            "_unmapped_timestamp_sec": 244.78634,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 252.6829386,
+            "timestamp_frame": 7580,
+            "_unmapped_timestamp_sec": 252.66191,
+            "narration_text": "#C C looks at the portrait paint on the wall",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 252.6829386,
+            "timestamp_frame": 7580,
+            "_unmapped_timestamp_sec": 252.66191,
+            "narration_text": "#O man X looks at the portrait paint on the wall",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 253.5181086,
+            "timestamp_frame": 7605,
+            "_unmapped_timestamp_sec": 253.49708,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 256.6219686,
+            "timestamp_frame": 7698,
+            "_unmapped_timestamp_sec": 256.60094,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 256.6219686,
+            "timestamp_frame": 7698,
+            "_unmapped_timestamp_sec": 256.60094,
+            "narration_text": "#O man X touches the portrait paint on the wall with his right hand",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 257.4038186,
+            "timestamp_frame": 7721,
+            "_unmapped_timestamp_sec": 257.38279,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 257.4038186,
+            "timestamp_frame": 7721,
+            "_unmapped_timestamp_sec": 257.38279,
+            "narration_text": "#C C talks to man X",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 260.6634586,
+            "timestamp_frame": 7819,
+            "_unmapped_timestamp_sec": 260.64243,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 260.6634586,
+            "timestamp_frame": 7819,
+            "_unmapped_timestamp_sec": 260.64243,
+            "narration_text": "#C C talks to man X",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 265.2438586,
+            "timestamp_frame": 7957,
+            "_unmapped_timestamp_sec": 265.22283,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 265.2438586,
+            "timestamp_frame": 7957,
+            "_unmapped_timestamp_sec": 265.22283,
+            "narration_text": "#C C talks to man X",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 268.5103186,
+            "timestamp_frame": 8055,
+            "_unmapped_timestamp_sec": 268.48929,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 267.19739860000004,
+            "timestamp_frame": 8015,
+            "_unmapped_timestamp_sec": 267.17637,
+            "narration_text": "#O man X walks",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 270.05490860000003,
+            "timestamp_frame": 8101,
+            "_unmapped_timestamp_sec": 270.03388,
+            "narration_text": "#C C looks at the portrait paint on the wall",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 267.53776860000005,
+            "timestamp_frame": 8026,
+            "_unmapped_timestamp_sec": 267.51674,
+            "narration_text": "#C C talks to man X",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 271.2874486,
+            "timestamp_frame": 8138,
+            "_unmapped_timestamp_sec": 271.26642,
+            "narration_text": "#C C talks to man X",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 273.2085586,
+            "timestamp_frame": 8196,
+            "_unmapped_timestamp_sec": 273.18753,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 274.2915386,
+            "timestamp_frame": 8228,
+            "_unmapped_timestamp_sec": 274.27051,
+            "narration_text": "#C C laughs",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 276.09993860000003,
+            "timestamp_frame": 8282,
+            "_unmapped_timestamp_sec": 276.07891,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 276.0426686,
+            "timestamp_frame": 8281,
+            "_unmapped_timestamp_sec": 276.02164,
+            "narration_text": "#O man X points at the portrait paint on the wall",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 277.41200860000004,
+            "timestamp_frame": 8322,
+            "_unmapped_timestamp_sec": 277.39098,
+            "narration_text": "#C C talks to man X",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 279.6902286,
+            "timestamp_frame": 8390,
+            "_unmapped_timestamp_sec": 279.6692,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 280.40304860000003,
+            "timestamp_frame": 8411,
+            "_unmapped_timestamp_sec": 280.38202,
+            "narration_text": "#O man X talks to C",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 280.40304860000003,
+            "timestamp_frame": 8411,
+            "_unmapped_timestamp_sec": 280.38202,
+            "narration_text": "#C C laughs ",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 282.55929860000003,
+            "timestamp_frame": 8476,
+            "_unmapped_timestamp_sec": 282.53827,
+            "narration_text": "#C C talks to man X",
+            "annotation_uid": "01b66599-af8c-4062-afb1-1f1149c52673"
+        },
+        {
+            "timestamp_sec": 287.2788686,
+            "timestamp_frame": 8618,
+            "_unmapped_timestamp_sec": 287.25784,
+            "narration_text": "#C C looks at a painting.",
+            "annotation_uid": "985e023e-a236-49cd-8838-901824865021"
+        },
+        {
+            "timestamp_sec": 289.49866860000003,
+            "timestamp_frame": 8684,
+            "_unmapped_timestamp_sec": 289.47764,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "985e023e-a236-49cd-8838-901824865021"
+        },
+        {
+            "timestamp_sec": 296.8385286,
+            "timestamp_frame": 8905,
+            "_unmapped_timestamp_sec": 296.8175,
+            "narration_text": "#O man X points a painting.",
+            "annotation_uid": "985e023e-a236-49cd-8838-901824865021"
+        }
+    ]
+}

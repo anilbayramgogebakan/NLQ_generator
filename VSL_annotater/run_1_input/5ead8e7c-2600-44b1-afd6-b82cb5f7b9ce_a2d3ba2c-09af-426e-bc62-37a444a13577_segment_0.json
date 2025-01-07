@@ -1,0 +1,739 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 541.6654712000001,
+            "timestamp_frame": 16249,
+            "_unmapped_timestamp_sec": 541.6334400000001,
+            "narration_text": "#C C picks up a ball from the ground",
+            "annotation_uid": "62d85593-85f2-46e2-963c-5261590b1741"
+        },
+        {
+            "timestamp_sec": 546.2964612,
+            "timestamp_frame": 16388,
+            "_unmapped_timestamp_sec": 546.26443,
+            "narration_text": "#O the man X throws a ball towards the man Y",
+            "annotation_uid": "62d85593-85f2-46e2-963c-5261590b1741"
+        },
+        {
+            "timestamp_sec": 549.6190912000001,
+            "timestamp_frame": 16488,
+            "_unmapped_timestamp_sec": 549.5870600000001,
+            "narration_text": "#O the man Y stops the ball with his right leg",
+            "annotation_uid": "62d85593-85f2-46e2-963c-5261590b1741"
+        },
+        {
+            "timestamp_sec": 550.1951712,
+            "timestamp_frame": 16505,
+            "_unmapped_timestamp_sec": 550.16314,
+            "narration_text": "#O the man Y kicks the ball towards C",
+            "annotation_uid": "62d85593-85f2-46e2-963c-5261590b1741"
+        },
+        {
+            "timestamp_sec": 553.6005312,
+            "timestamp_frame": 16607,
+            "_unmapped_timestamp_sec": 553.5685,
+            "narration_text": "#C C throws a ball towards the man Y with his right hand",
+            "annotation_uid": "62d85593-85f2-46e2-963c-5261590b1741"
+        },
+        {
+            "timestamp_sec": 554.3377312,
+            "timestamp_frame": 16629,
+            "_unmapped_timestamp_sec": 554.3057,
+            "narration_text": "#O the man Y hits the ball with the bat in his hands",
+            "annotation_uid": "62d85593-85f2-46e2-963c-5261590b1741"
+        },
+        {
+            "timestamp_sec": 560.6233645333334,
+            "timestamp_frame": 16818,
+            "_unmapped_timestamp_sec": 560.658,
+            "narration_text": "#C C throws a cricket ball at the man X with his right hand.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 561.2316945333334,
+            "timestamp_frame": 16836,
+            "_unmapped_timestamp_sec": 561.26633,
+            "narration_text": "#O The man X hits the cricket ball with the cricket bat in both hands.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 566.0663645333334,
+            "timestamp_frame": 16981,
+            "_unmapped_timestamp_sec": 566.101,
+            "narration_text": "#C C throws a cricket ball at the man X with his right hand.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 566.4643945333332,
+            "timestamp_frame": 16993,
+            "_unmapped_timestamp_sec": 566.49903,
+            "narration_text": "#O The man X hits the cricket ball with the cricket bat in both hands.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 570.1950945333333,
+            "timestamp_frame": 17105,
+            "_unmapped_timestamp_sec": 570.22973,
+            "narration_text": "#C C picks some cricket balls from the ground with his right hand.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 570.1950945333333,
+            "timestamp_frame": 17105,
+            "_unmapped_timestamp_sec": 570.22973,
+            "narration_text": "#C C picks some cricket balls from the ground with his left hand.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 573.9365245333333,
+            "timestamp_frame": 17217,
+            "_unmapped_timestamp_sec": 573.97116,
+            "narration_text": "#O The man X shakes the cricket bad with both hands.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 580.1685945333334,
+            "timestamp_frame": 17404,
+            "_unmapped_timestamp_sec": 580.20323,
+            "narration_text": "#O The man X picks a cricket bat from the ground with his right hand.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 584.2926345333333,
+            "timestamp_frame": 17528,
+            "_unmapped_timestamp_sec": 584.32727,
+            "narration_text": "#O The man X touches his face with his right hand. #unsure",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 585.2195445333334,
+            "timestamp_frame": 17556,
+            "_unmapped_timestamp_sec": 585.25418,
+            "narration_text": "#O The man X swings the cricket bat with both hands.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 594.5972945333333,
+            "timestamp_frame": 17837,
+            "_unmapped_timestamp_sec": 594.63193,
+            "narration_text": "#O The man X stops a cricket ball on the ground with the cricket bat in his right hand.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 595.3366345333334,
+            "timestamp_frame": 17859,
+            "_unmapped_timestamp_sec": 595.37127,
+            "narration_text": "#O The man X stops a cricket ball on the ground with the cricket bat in his right hand.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 599.1322345333333,
+            "timestamp_frame": 17973,
+            "_unmapped_timestamp_sec": 599.16687,
+            "narration_text": "#O The man X kicks the cricket ball on the ground with his left leg.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 601.1844912,
+            "timestamp_frame": 18035,
+            "_unmapped_timestamp_sec": 601.25246,
+            "narration_text": "#O The man X hits the cricket ball on the ground with the cricket bat in his right hand.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 602.9072312,
+            "timestamp_frame": 18086,
+            "_unmapped_timestamp_sec": 602.9752,
+            "narration_text": "#O The man X kicks the cricket ball on the ground with his right leg.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 603.8938112,
+            "timestamp_frame": 18116,
+            "_unmapped_timestamp_sec": 603.96178,
+            "narration_text": "#O The man X passes the cricket bat from his right hand to his left hand.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 604.8586812,
+            "timestamp_frame": 18145,
+            "_unmapped_timestamp_sec": 604.92665,
+            "narration_text": "#O The man X raises the cricket bat with both hands.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 609.9496812,
+            "timestamp_frame": 18298,
+            "_unmapped_timestamp_sec": 610.01765,
+            "narration_text": "#O The man X swings the cricket bat with his right hand.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 610.7791212,
+            "timestamp_frame": 18322,
+            "_unmapped_timestamp_sec": 610.84709,
+            "narration_text": "#O The man X passes the cricket bat from his right hand to his left hand.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 612.0445112,
+            "timestamp_frame": 18360,
+            "_unmapped_timestamp_sec": 612.11248,
+            "narration_text": "#O The man X swings the cricket bat with his hands.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 614.8100312,
+            "timestamp_frame": 18443,
+            "_unmapped_timestamp_sec": 614.878,
+            "narration_text": "#C C throws a cricket ball at the man X with his right hand.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 615.4660612,
+            "timestamp_frame": 18463,
+            "_unmapped_timestamp_sec": 615.53403,
+            "narration_text": "#O The man X hits the cricket ball with the cricket bat in both hands.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 620.8320312,
+            "timestamp_frame": 18624,
+            "_unmapped_timestamp_sec": 620.9,
+            "narration_text": "#C C throws a cricket ball at the man X with his right hand.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 621.5181312,
+            "timestamp_frame": 18645,
+            "_unmapped_timestamp_sec": 621.5861,
+            "narration_text": "#O The man X hits the cricket ball with the cricket bat in both hands.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 624.3230312,
+            "timestamp_frame": 18729,
+            "_unmapped_timestamp_sec": 624.391,
+            "narration_text": "#C C throws a cricket ball at the man X with his right hand.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 624.9930412,
+            "timestamp_frame": 18749,
+            "_unmapped_timestamp_sec": 625.06101,
+            "narration_text": "#O The man X hits the cricket ball with the cricket bat in both hands.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 632.1942111999999,
+            "timestamp_frame": 18965,
+            "_unmapped_timestamp_sec": 632.26218,
+            "narration_text": "#C C throws a cricket ball at the man X with his right hand.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 633.0542212,
+            "timestamp_frame": 18991,
+            "_unmapped_timestamp_sec": 633.12219,
+            "narration_text": "#O The man X hits the cricket ball with the cricket bat in both hands.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 636.1797412,
+            "timestamp_frame": 19084,
+            "_unmapped_timestamp_sec": 636.24771,
+            "narration_text": "#C C picks a cricket ball from the ground with his right hand.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 643.9480312,
+            "timestamp_frame": 19317,
+            "_unmapped_timestamp_sec": 644.016,
+            "narration_text": "#C C throws the cricket ball at the man X with his right hand.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 644.7731411999999,
+            "timestamp_frame": 19342,
+            "_unmapped_timestamp_sec": 644.84111,
+            "narration_text": "#O The man X hits the cricket ball with the cricket bat in both hands.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 649.2380312,
+            "timestamp_frame": 19476,
+            "_unmapped_timestamp_sec": 649.306,
+            "narration_text": "#C C throws a cricket ball at the man X with his right hand.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 649.9424212,
+            "timestamp_frame": 19497,
+            "_unmapped_timestamp_sec": 650.01039,
+            "narration_text": "#O The man X hits the cricket ball with the cricket bat in both hands.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 654.3404812,
+            "timestamp_frame": 19629,
+            "_unmapped_timestamp_sec": 654.40845,
+            "narration_text": "#O The man raises the cricket bat with both hands.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 655.5780311999999,
+            "timestamp_frame": 19666,
+            "_unmapped_timestamp_sec": 655.646,
+            "narration_text": "#C C throws a cricket ball at the man X with his right hand.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 656.2061911999999,
+            "timestamp_frame": 19685,
+            "_unmapped_timestamp_sec": 656.2741599999999,
+            "narration_text": "#O The man X hits the cricket ball with the cricket bat in both hands.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 657.9002212,
+            "timestamp_frame": 19736,
+            "_unmapped_timestamp_sec": 657.96819,
+            "narration_text": "#C C picks a cricket ball from the ground with his right hand.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 663.5140312,
+            "timestamp_frame": 19904,
+            "_unmapped_timestamp_sec": 663.582,
+            "narration_text": "#C C throws the cricket ball at the man X with his right hand.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 664.3543112,
+            "timestamp_frame": 19930,
+            "_unmapped_timestamp_sec": 664.42228,
+            "narration_text": "#O The man X swings the cricket bat with both hands.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 666.8446712,
+            "timestamp_frame": 20004,
+            "_unmapped_timestamp_sec": 666.91264,
+            "narration_text": "#O The man X hits the cricket ball on the ground with the cricket bat in both hands.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 669.4850312,
+            "timestamp_frame": 20084,
+            "_unmapped_timestamp_sec": 669.553,
+            "narration_text": "#C C throws the cricket ball at the man X with his right hand.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 670.0015112,
+            "timestamp_frame": 20099,
+            "_unmapped_timestamp_sec": 670.06948,
+            "narration_text": "#O The man X hits the cricket ball with the cricket bat in both hands.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 672.9460312,
+            "timestamp_frame": 20187,
+            "_unmapped_timestamp_sec": 673.014,
+            "narration_text": "#C C throws the cricket ball at the man X with his right hand.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 673.7183912,
+            "timestamp_frame": 20211,
+            "_unmapped_timestamp_sec": 673.7863600000001,
+            "narration_text": "#O The man X hits the cricket ball with the cricket bat in both hands.",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 677.9400312,
+            "timestamp_frame": 20337,
+            "_unmapped_timestamp_sec": 678.008,
+            "narration_text": "#C C claps his hands. ",
+            "annotation_uid": "831c7114-268d-4121-a8ba-73ac5468893d"
+        },
+        {
+            "timestamp_sec": 541.1503812,
+            "timestamp_frame": 16234,
+            "_unmapped_timestamp_sec": 541.11835,
+            "narration_text": "#C C picks the ball.",
+            "annotation_uid": "834ddd5d-5c4e-4796-8e81-fb72b4413699"
+        },
+        {
+            "timestamp_sec": 545.0111912,
+            "timestamp_frame": 16349,
+            "_unmapped_timestamp_sec": 544.97916,
+            "narration_text": "#O A man E moves the hand.",
+            "annotation_uid": "834ddd5d-5c4e-4796-8e81-fb72b4413699"
+        },
+        {
+            "timestamp_sec": 549.2286712,
+            "timestamp_frame": 16476,
+            "_unmapped_timestamp_sec": 549.19664,
+            "narration_text": "#O A man E stops the ball with the leg.",
+            "annotation_uid": "834ddd5d-5c4e-4796-8e81-fb72b4413699"
+        },
+        {
+            "timestamp_sec": 550.2269612,
+            "timestamp_frame": 16506,
+            "_unmapped_timestamp_sec": 550.19493,
+            "narration_text": "#O A man E moves the ball with the leg.",
+            "annotation_uid": "834ddd5d-5c4e-4796-8e81-fb72b4413699"
+        },
+        {
+            "timestamp_sec": 551.1138912,
+            "timestamp_frame": 16532,
+            "_unmapped_timestamp_sec": 551.08186,
+            "narration_text": "#O A man E passes the stick to the left hand.",
+            "annotation_uid": "834ddd5d-5c4e-4796-8e81-fb72b4413699"
+        },
+        {
+            "timestamp_sec": 551.9519512,
+            "timestamp_frame": 16558,
+            "_unmapped_timestamp_sec": 551.91992,
+            "narration_text": "#O A man E lifts the stick.",
+            "annotation_uid": "834ddd5d-5c4e-4796-8e81-fb72b4413699"
+        },
+        {
+            "timestamp_sec": 553.5392312,
+            "timestamp_frame": 16605,
+            "_unmapped_timestamp_sec": 553.5072,
+            "narration_text": "#C C throws the ball.",
+            "annotation_uid": "834ddd5d-5c4e-4796-8e81-fb72b4413699"
+        },
+        {
+            "timestamp_sec": 554.1423112,
+            "timestamp_frame": 16623,
+            "_unmapped_timestamp_sec": 554.11028,
+            "narration_text": "#O A man E hits the ball.",
+            "annotation_uid": "834ddd5d-5c4e-4796-8e81-fb72b4413699"
+        },
+        {
+            "timestamp_sec": 556.9959011999999,
+            "timestamp_frame": 16709,
+            "_unmapped_timestamp_sec": 556.96387,
+            "narration_text": "#O person Y runs",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 557.9179111999999,
+            "timestamp_frame": 16737,
+            "_unmapped_timestamp_sec": 557.88588,
+            "narration_text": "#C C talks to person Y",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 561.0864812,
+            "timestamp_frame": 16832,
+            "_unmapped_timestamp_sec": 561.05445,
+            "narration_text": "#C C throws the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 561.5311612,
+            "timestamp_frame": 16845,
+            "_unmapped_timestamp_sec": 561.49913,
+            "narration_text": "#O person X hits the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 566.6056811999999,
+            "timestamp_frame": 16997,
+            "_unmapped_timestamp_sec": 566.57365,
+            "narration_text": "#C C throws the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 567.2747612000001,
+            "timestamp_frame": 17017,
+            "_unmapped_timestamp_sec": 567.24273,
+            "narration_text": "#O person X hits the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 568.5935211999999,
+            "timestamp_frame": 17057,
+            "_unmapped_timestamp_sec": 568.56149,
+            "narration_text": "#C C converses with person X",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 570.6497912,
+            "timestamp_frame": 17119,
+            "_unmapped_timestamp_sec": 570.61776,
+            "narration_text": "#C C picks the balls",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 580.2294412,
+            "timestamp_frame": 17406,
+            "_unmapped_timestamp_sec": 580.19741,
+            "narration_text": "#O person X  picks the baseball bat",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 584.6019412,
+            "timestamp_frame": 17537,
+            "_unmapped_timestamp_sec": 584.56991,
+            "narration_text": "#O person X touches his face",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 585.8169912000001,
+            "timestamp_frame": 17574,
+            "_unmapped_timestamp_sec": 585.78496,
+            "narration_text": "#O person X swings the bat",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 589.5607212,
+            "timestamp_frame": 17686,
+            "_unmapped_timestamp_sec": 589.52869,
+            "narration_text": "#O person Y throws the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 594.5569812,
+            "timestamp_frame": 17836,
+            "_unmapped_timestamp_sec": 594.52495,
+            "narration_text": "#O person X stops the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 595.6738612,
+            "timestamp_frame": 17869,
+            "_unmapped_timestamp_sec": 595.64183,
+            "narration_text": "#O person X stops the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 599.7306312000001,
+            "timestamp_frame": 17991,
+            "_unmapped_timestamp_sec": 599.6985999999999,
+            "narration_text": "#O person X kicks the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 602.4570012,
+            "timestamp_frame": 18073,
+            "_unmapped_timestamp_sec": 602.42497,
+            "narration_text": "#O person X hits the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 603.4019612,
+            "timestamp_frame": 18101,
+            "_unmapped_timestamp_sec": 603.36993,
+            "narration_text": "#O person X kicks the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 609.8647412,
+            "timestamp_frame": 18295,
+            "_unmapped_timestamp_sec": 609.83271,
+            "narration_text": "#O person X swings the bat",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 615.2580912000001,
+            "timestamp_frame": 18457,
+            "_unmapped_timestamp_sec": 615.22606,
+            "narration_text": "#C C throws the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 616.0822012,
+            "timestamp_frame": 18482,
+            "_unmapped_timestamp_sec": 616.05017,
+            "narration_text": "#O person X hits the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 617.6451412,
+            "timestamp_frame": 18528,
+            "_unmapped_timestamp_sec": 617.61311,
+            "narration_text": "#O person Y runs",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 621.0274012,
+            "timestamp_frame": 18630,
+            "_unmapped_timestamp_sec": 620.99537,
+            "narration_text": "#C C throws the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 621.7999412,
+            "timestamp_frame": 18653,
+            "_unmapped_timestamp_sec": 621.76791,
+            "narration_text": "#O person X hits the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 624.8186512,
+            "timestamp_frame": 18744,
+            "_unmapped_timestamp_sec": 624.78662,
+            "narration_text": "#C C throws the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 626.8102712,
+            "timestamp_frame": 18803,
+            "_unmapped_timestamp_sec": 626.77824,
+            "narration_text": "#C C converses with person X",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 632.7744112,
+            "timestamp_frame": 18982,
+            "_unmapped_timestamp_sec": 632.74238,
+            "narration_text": "#C C throws the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 633.1796412,
+            "timestamp_frame": 18994,
+            "_unmapped_timestamp_sec": 633.14761,
+            "narration_text": "#O person X hits the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 636.5349012,
+            "timestamp_frame": 19095,
+            "_unmapped_timestamp_sec": 636.50287,
+            "narration_text": "#C C picks the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 644.4802311999999,
+            "timestamp_frame": 19333,
+            "_unmapped_timestamp_sec": 644.4482,
+            "narration_text": "#C C throws the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 644.9698812,
+            "timestamp_frame": 19348,
+            "_unmapped_timestamp_sec": 644.93785,
+            "narration_text": "#O person X hits the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 649.6938612,
+            "timestamp_frame": 19490,
+            "_unmapped_timestamp_sec": 649.66183,
+            "narration_text": "#C C throws the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 650.1260212,
+            "timestamp_frame": 19503,
+            "_unmapped_timestamp_sec": 650.09399,
+            "narration_text": "#O person X hits the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 651.2435112000001,
+            "timestamp_frame": 19536,
+            "_unmapped_timestamp_sec": 651.2114799999999,
+            "narration_text": "#C C converses with person X",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 656.0253511999999,
+            "timestamp_frame": 19680,
+            "_unmapped_timestamp_sec": 655.99332,
+            "narration_text": "#C C throws the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 656.6341812000001,
+            "timestamp_frame": 19698,
+            "_unmapped_timestamp_sec": 656.6021499999999,
+            "narration_text": "#O person X hits the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 659.0074812,
+            "timestamp_frame": 19769,
+            "_unmapped_timestamp_sec": 658.97545,
+            "narration_text": "#O person Y runs",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 664.0088112000001,
+            "timestamp_frame": 19919,
+            "_unmapped_timestamp_sec": 663.97678,
+            "narration_text": "#C C throws the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 664.8944412000001,
+            "timestamp_frame": 19946,
+            "_unmapped_timestamp_sec": 664.86241,
+            "narration_text": "#O person X hits the ball\n",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 666.8673212,
+            "timestamp_frame": 20005,
+            "_unmapped_timestamp_sec": 666.83529,
+            "narration_text": "#O person X hits the ball\n",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 665.4427112000001,
+            "timestamp_frame": 19962,
+            "_unmapped_timestamp_sec": 665.41068,
+            "narration_text": "#C C converses with person X",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 669.9827212,
+            "timestamp_frame": 20099,
+            "_unmapped_timestamp_sec": 669.95069,
+            "narration_text": "#C C throws the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 670.4270912,
+            "timestamp_frame": 20112,
+            "_unmapped_timestamp_sec": 670.3950600000001,
+            "narration_text": "#O person X hits the ball\n",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 673.4545912,
+            "timestamp_frame": 20203,
+            "_unmapped_timestamp_sec": 673.42256,
+            "narration_text": "#C C throws the ball",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 673.9836912000001,
+            "timestamp_frame": 20219,
+            "_unmapped_timestamp_sec": 673.95166,
+            "narration_text": "#O person X hits the ball\n",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 677.5061412,
+            "timestamp_frame": 20324,
+            "_unmapped_timestamp_sec": 677.47411,
+            "narration_text": "#C C claps",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        },
+        {
+            "timestamp_sec": 678.6622712,
+            "timestamp_frame": 20359,
+            "_unmapped_timestamp_sec": 678.63024,
+            "narration_text": "#C C converses with person X",
+            "annotation_uid": "44aa8e5e-5641-4ac7-89a4-21d25f68a114"
+        }
+    ]
+}

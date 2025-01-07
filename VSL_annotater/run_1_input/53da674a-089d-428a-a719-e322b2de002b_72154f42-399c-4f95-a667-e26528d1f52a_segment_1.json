@@ -1,0 +1,788 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 1141.2982166666666,
+            "timestamp_frame": 34239,
+            "_unmapped_timestamp_sec": 1141.30155,
+            "narration_text": "#C C adjusts the digital timer on the oven",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1143.4847666666667,
+            "timestamp_frame": 34305,
+            "_unmapped_timestamp_sec": 1143.4881,
+            "narration_text": "#C C rubs his hands together",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1152.2534366666666,
+            "timestamp_frame": 34568,
+            "_unmapped_timestamp_sec": 1152.25677,
+            "narration_text": "#C C picks up a bucket from a bucket on the floor with both hands",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1153.4516166666667,
+            "timestamp_frame": 34604,
+            "_unmapped_timestamp_sec": 1153.45495,
+            "narration_text": "#C C picks the the bucket on the floor with his right hand",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1154.0696366666666,
+            "timestamp_frame": 34622,
+            "_unmapped_timestamp_sec": 1154.07297,
+            "narration_text": "#C C drops the bucket in his left hand  on the floor ",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1164.6960766666666,
+            "timestamp_frame": 34941,
+            "_unmapped_timestamp_sec": 1164.69941,
+            "narration_text": "#C C drops the bucket on a sack of flour",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1166.2212466666667,
+            "timestamp_frame": 34987,
+            "_unmapped_timestamp_sec": 1166.22458,
+            "narration_text": "#C C picks up a flour scoop in a sac with his left hand",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1168.0402966666666,
+            "timestamp_frame": 35041,
+            "_unmapped_timestamp_sec": 1168.04363,
+            "narration_text": "#C C passes the flour scoop to his right hand",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1168.5751366666666,
+            "timestamp_frame": 35057,
+            "_unmapped_timestamp_sec": 1168.57847,
+            "narration_text": "#C C scoops flour from a sac with the flour scoop",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1171.1957866666667,
+            "timestamp_frame": 35136,
+            "_unmapped_timestamp_sec": 1171.19912,
+            "narration_text": "#C C pours the flour in the bucket",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1172.8408666666667,
+            "timestamp_frame": 35185,
+            "_unmapped_timestamp_sec": 1172.8442,
+            "narration_text": "#C C scoops flour from the sac with the flour scoop",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1174.9597066666668,
+            "timestamp_frame": 35249,
+            "_unmapped_timestamp_sec": 1174.96304,
+            "narration_text": "#C C pours the flour in the bucket",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1176.1833266666667,
+            "timestamp_frame": 35285,
+            "_unmapped_timestamp_sec": 1176.18666,
+            "narration_text": "#C C scoops flour from the sac with the flour scoop",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1178.5819366666667,
+            "timestamp_frame": 35357,
+            "_unmapped_timestamp_sec": 1178.58527,
+            "narration_text": "#C C pours the flour in the bucket",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1179.5626466666668,
+            "timestamp_frame": 35387,
+            "_unmapped_timestamp_sec": 1179.56598,
+            "narration_text": "#C C scoops flour from the sac with the flour scoop",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1181.7658666666666,
+            "timestamp_frame": 35453,
+            "_unmapped_timestamp_sec": 1181.7692,
+            "narration_text": "#C C pours the flour in the bucket",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1182.9643666666666,
+            "timestamp_frame": 35489,
+            "_unmapped_timestamp_sec": 1182.9677,
+            "narration_text": "#C C scoops flour from the sac with the flour scoop",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1185.7010466666666,
+            "timestamp_frame": 35571,
+            "_unmapped_timestamp_sec": 1185.70438,
+            "narration_text": "#C C pours the flour in the bucket",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1186.9121666666667,
+            "timestamp_frame": 35607,
+            "_unmapped_timestamp_sec": 1186.9155,
+            "narration_text": "#C C scoops flour from the sac with the flour scoop",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1189.5145266666666,
+            "timestamp_frame": 35685,
+            "_unmapped_timestamp_sec": 1189.51786,
+            "narration_text": "#C C pours the flour in the bucket",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1190.6532466666667,
+            "timestamp_frame": 35720,
+            "_unmapped_timestamp_sec": 1190.65658,
+            "narration_text": "#C C opens another sac with his left hand",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1191.5621866666665,
+            "timestamp_frame": 35747,
+            "_unmapped_timestamp_sec": 1191.56552,
+            "narration_text": "#C C scoops flour from the sac with the flour scoop",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1194.3797166666666,
+            "timestamp_frame": 35831,
+            "_unmapped_timestamp_sec": 1194.38305,
+            "narration_text": "#C C pours the flour in the bucket",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1196.0512366666667,
+            "timestamp_frame": 35882,
+            "_unmapped_timestamp_sec": 1196.05457,
+            "narration_text": "#C C scoops flour from the sac with the flour scoop",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1198.2309566666668,
+            "timestamp_frame": 35947,
+            "_unmapped_timestamp_sec": 1198.23429,
+            "narration_text": "#C C pours the flour in the bucket",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1199.8640466666666,
+            "timestamp_frame": 35996,
+            "_unmapped_timestamp_sec": 1199.86738,
+            "narration_text": "#C C scoops flour from the sac with the flour scoop",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1202.3729666666668,
+            "timestamp_frame": 36071,
+            "_unmapped_timestamp_sec": 1202.3763,
+            "narration_text": "#C C pours the flour in the bucket",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1204.2096866666666,
+            "timestamp_frame": 36126,
+            "_unmapped_timestamp_sec": 1204.21302,
+            "narration_text": "#C C scoops flour from the sac with the flour scoop",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1207.3355166666665,
+            "timestamp_frame": 36220,
+            "_unmapped_timestamp_sec": 1207.33885,
+            "narration_text": "#C C pours the flour in the bucket",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1209.7870466666666,
+            "timestamp_frame": 36294,
+            "_unmapped_timestamp_sec": 1209.79038,
+            "narration_text": "#C C scoops flour from the sac with the flour scoop",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1212.2843266666666,
+            "timestamp_frame": 36369,
+            "_unmapped_timestamp_sec": 1212.28766,
+            "narration_text": "#C C pours the flour in the bucket",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1213.7318266666666,
+            "timestamp_frame": 36412,
+            "_unmapped_timestamp_sec": 1213.73516,
+            "narration_text": "#C C scoops flour from the sac with the flour scoop",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1216.4451266666667,
+            "timestamp_frame": 36493,
+            "_unmapped_timestamp_sec": 1216.44846,
+            "narration_text": "#C C pours the flour in the bucket",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1217.7050166666668,
+            "timestamp_frame": 36531,
+            "_unmapped_timestamp_sec": 1217.7083499999999,
+            "narration_text": "#C C drops the flour scoop in the sac",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1154.8997866666666,
+            "timestamp_frame": 34647,
+            "_unmapped_timestamp_sec": 1154.90312,
+            "narration_text": "#C C walks to a store",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1218.9847366666668,
+            "timestamp_frame": 36570,
+            "_unmapped_timestamp_sec": 1218.9880699999999,
+            "narration_text": "#C C scoops flour from a sac on the floor with a cup",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1224.1756966666667,
+            "timestamp_frame": 36725,
+            "_unmapped_timestamp_sec": 1224.17903,
+            "narration_text": "#C C pours the flour in the bucket",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1225.3763166666668,
+            "timestamp_frame": 36761,
+            "_unmapped_timestamp_sec": 1225.37965,
+            "narration_text": "#C C scoops flour from the sac on the floor with the cup",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1230.8359066666667,
+            "timestamp_frame": 36925,
+            "_unmapped_timestamp_sec": 1230.83924,
+            "narration_text": "#C C pours the flour in the bucket",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1232.0628166666665,
+            "timestamp_frame": 36962,
+            "_unmapped_timestamp_sec": 1232.06615,
+            "narration_text": "#C C drops the cup in the sac",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1233.0311266666668,
+            "timestamp_frame": 36991,
+            "_unmapped_timestamp_sec": 1233.03446,
+            "narration_text": "#C C picks up the bucket from the sack with his right hand",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1237.7572166666666,
+            "timestamp_frame": 37133,
+            "_unmapped_timestamp_sec": 1237.76055,
+            "narration_text": "#C C walks out of the store",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1246.3657566666666,
+            "timestamp_frame": 37391,
+            "_unmapped_timestamp_sec": 1246.36909,
+            "narration_text": "#C C drops the bucket on the table",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1247.3633766666667,
+            "timestamp_frame": 37421,
+            "_unmapped_timestamp_sec": 1247.36671,
+            "narration_text": "#C C presses a button on the digital weighing scale on the table with his left hand ",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1248.2833466666666,
+            "timestamp_frame": 37449,
+            "_unmapped_timestamp_sec": 1248.28668,
+            "narration_text": "#C C adjusts the digital weighing scale with his left hand ",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1249.5217266666666,
+            "timestamp_frame": 37486,
+            "_unmapped_timestamp_sec": 1249.52506,
+            "narration_text": "#C C picks up the bucket from the table with both hands",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1250.3653166666668,
+            "timestamp_frame": 37511,
+            "_unmapped_timestamp_sec": 1250.36865,
+            "narration_text": "#C C places the bucket on the digital weighing scale",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1254.8618866666666,
+            "timestamp_frame": 37646,
+            "_unmapped_timestamp_sec": 1254.86522,
+            "narration_text": "#C C presses a button on the digital weighing scale with his right hand",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1256.5816666666667,
+            "timestamp_frame": 37697,
+            "_unmapped_timestamp_sec": 1256.585,
+            "narration_text": "#C C rubs his hands together",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1257.6766466666668,
+            "timestamp_frame": 37730,
+            "_unmapped_timestamp_sec": 1257.67998,
+            "narration_text": "#C C picks up a sachet on a bucket with his left hand",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1260.0180866666667,
+            "timestamp_frame": 37801,
+            "_unmapped_timestamp_sec": 1260.02142,
+            "narration_text": "#C C pours sugar from the sachet into the bucket. #unsure",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1280.2226666666666,
+            "timestamp_frame": 38407,
+            "_unmapped_timestamp_sec": 1280.226,
+            "narration_text": "#C C drops the sachet on the bucket",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1281.9471666666666,
+            "timestamp_frame": 38458,
+            "_unmapped_timestamp_sec": 1281.9505,
+            "narration_text": "#C C picks up a bucket on top of a bucket on the floor with his left hand",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1283.4120066666667,
+            "timestamp_frame": 38502,
+            "_unmapped_timestamp_sec": 1283.41534,
+            "narration_text": "#C C places the bucket on the table ",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1283.9538266666666,
+            "timestamp_frame": 38519,
+            "_unmapped_timestamp_sec": 1283.95716,
+            "narration_text": "#C C opens the bucket with his right hand ",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1284.8653866666666,
+            "timestamp_frame": 38546,
+            "_unmapped_timestamp_sec": 1284.86872,
+            "narration_text": "#C C drops the bucket cover on the table ",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1285.7285166666666,
+            "timestamp_frame": 38572,
+            "_unmapped_timestamp_sec": 1285.7318500000001,
+            "narration_text": "#C C scoops baking soda from the bucket with a cup. #unsure",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1287.4380466666667,
+            "timestamp_frame": 38623,
+            "_unmapped_timestamp_sec": 1287.44138,
+            "narration_text": "#C C presses a button on the digital weighing scale with his left hand ",
+            "annotation_uid": "3a5b6331-ff51-4d88-9c16-fe434503744c"
+        },
+        {
+            "timestamp_sec": 1144.0380066666667,
+            "timestamp_frame": 34321,
+            "_unmapped_timestamp_sec": 1144.04134,
+            "narration_text": "#C C stares at his hands",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1145.9239366666666,
+            "timestamp_frame": 34378,
+            "_unmapped_timestamp_sec": 1145.92727,
+            "narration_text": "#C C stares at the deck oven",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1147.8030966666668,
+            "timestamp_frame": 34434,
+            "_unmapped_timestamp_sec": 1147.80643,
+            "narration_text": "#C C walks around the bakery",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1152.5687166666667,
+            "timestamp_frame": 34577,
+            "_unmapped_timestamp_sec": 1152.57205,
+            "narration_text": "#C C picks a bucket",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1155.2073566666668,
+            "timestamp_frame": 34656,
+            "_unmapped_timestamp_sec": 1155.2106899999999,
+            "narration_text": "#C C walks around the bakery",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1165.1183066666667,
+            "timestamp_frame": 34954,
+            "_unmapped_timestamp_sec": 1165.12164,
+            "narration_text": "#C C places bucket in a sack",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1166.4206866666666,
+            "timestamp_frame": 34993,
+            "_unmapped_timestamp_sec": 1166.42402,
+            "narration_text": "#C C picks a scoop spoon",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1169.1635666666666,
+            "timestamp_frame": 35075,
+            "_unmapped_timestamp_sec": 1169.1669,
+            "narration_text": "#C C scoops flour",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1172.2836566666667,
+            "timestamp_frame": 35169,
+            "_unmapped_timestamp_sec": 1172.28699,
+            "narration_text": "#C C pours flour in the bucket",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1173.2190866666667,
+            "timestamp_frame": 35197,
+            "_unmapped_timestamp_sec": 1173.22242,
+            "narration_text": "#C C scoops flour",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1175.7466966666666,
+            "timestamp_frame": 35272,
+            "_unmapped_timestamp_sec": 1175.75003,
+            "narration_text": "#C C pours flour in the bucket",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1176.8103266666667,
+            "timestamp_frame": 35304,
+            "_unmapped_timestamp_sec": 1176.81366,
+            "narration_text": "#C C scoops flour",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1179.0748966666667,
+            "timestamp_frame": 35372,
+            "_unmapped_timestamp_sec": 1179.07823,
+            "narration_text": "#C C pours flour in the bucket",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1180.1224266666666,
+            "timestamp_frame": 35404,
+            "_unmapped_timestamp_sec": 1180.12576,
+            "narration_text": "#C C scoops flour",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1182.4427366666666,
+            "timestamp_frame": 35473,
+            "_unmapped_timestamp_sec": 1182.44607,
+            "narration_text": "#C C pours flour in the bucket",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1183.6822766666667,
+            "timestamp_frame": 35510,
+            "_unmapped_timestamp_sec": 1183.68561,
+            "narration_text": "#C C scoops flour",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1186.0480566666668,
+            "timestamp_frame": 35581,
+            "_unmapped_timestamp_sec": 1186.05139,
+            "narration_text": "#C C pours flour in the bucket",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1187.4399366666667,
+            "timestamp_frame": 35623,
+            "_unmapped_timestamp_sec": 1187.44327,
+            "narration_text": "#C C scoops flour",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1189.9604066666666,
+            "timestamp_frame": 35699,
+            "_unmapped_timestamp_sec": 1189.96374,
+            "narration_text": "#C C pours flour in the bucket",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1192.1843666666666,
+            "timestamp_frame": 35766,
+            "_unmapped_timestamp_sec": 1192.1877,
+            "narration_text": "#C C scoops flour",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1195.0248066666668,
+            "timestamp_frame": 35851,
+            "_unmapped_timestamp_sec": 1195.02814,
+            "narration_text": "#C C pours flour in the bucket",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1196.4735366666666,
+            "timestamp_frame": 35894,
+            "_unmapped_timestamp_sec": 1196.47687,
+            "narration_text": "#C C scoops flour",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1199.0724766666667,
+            "timestamp_frame": 35972,
+            "_unmapped_timestamp_sec": 1199.07581,
+            "narration_text": "#C C pours flour in the bucket",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1200.4801466666668,
+            "timestamp_frame": 36014,
+            "_unmapped_timestamp_sec": 1200.48348,
+            "narration_text": "#C C scoops flour",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1203.1601266666667,
+            "timestamp_frame": 36095,
+            "_unmapped_timestamp_sec": 1203.16346,
+            "narration_text": "#C C pours flour in the bucket",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1204.7516766666668,
+            "timestamp_frame": 36143,
+            "_unmapped_timestamp_sec": 1204.75501,
+            "narration_text": "#C C scoops flour",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1208.0269666666668,
+            "timestamp_frame": 36241,
+            "_unmapped_timestamp_sec": 1208.0303,
+            "narration_text": "#C C pours flour in the bucket",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1210.2321866666666,
+            "timestamp_frame": 36307,
+            "_unmapped_timestamp_sec": 1210.23552,
+            "narration_text": "#C C scoops flour",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1213.0063066666667,
+            "timestamp_frame": 36390,
+            "_unmapped_timestamp_sec": 1213.00964,
+            "narration_text": "#C C pours flour in the bucket",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1214.8069366666666,
+            "timestamp_frame": 36444,
+            "_unmapped_timestamp_sec": 1214.81027,
+            "narration_text": "#C C scoops flour",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1217.0610466666667,
+            "timestamp_frame": 36512,
+            "_unmapped_timestamp_sec": 1217.06438,
+            "narration_text": "#C C pours flour in the bucket",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1218.2692166666666,
+            "timestamp_frame": 36548,
+            "_unmapped_timestamp_sec": 1218.27255,
+            "narration_text": "#C C puts scoop spoon in paper bag",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1220.3184966666668,
+            "timestamp_frame": 36610,
+            "_unmapped_timestamp_sec": 1220.32183,
+            "narration_text": "#C C scoops flour",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1224.5573566666667,
+            "timestamp_frame": 36737,
+            "_unmapped_timestamp_sec": 1224.56069,
+            "narration_text": "#C C pours flour in the bucket",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1225.8839666666668,
+            "timestamp_frame": 36777,
+            "_unmapped_timestamp_sec": 1225.8873,
+            "narration_text": "#C C scoops flour",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1231.2117766666668,
+            "timestamp_frame": 36936,
+            "_unmapped_timestamp_sec": 1231.21511,
+            "narration_text": "#C C pours flour in the bucket",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1232.5224566666666,
+            "timestamp_frame": 36976,
+            "_unmapped_timestamp_sec": 1232.52579,
+            "narration_text": "#C C throws container in a paper bag",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1233.9233866666666,
+            "timestamp_frame": 37018,
+            "_unmapped_timestamp_sec": 1233.92672,
+            "narration_text": "#C C picks the bucket",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1236.9592766666667,
+            "timestamp_frame": 37109,
+            "_unmapped_timestamp_sec": 1236.96261,
+            "narration_text": "#C C walks around the bakery",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1247.5110066666666,
+            "timestamp_frame": 37425,
+            "_unmapped_timestamp_sec": 1247.51434,
+            "narration_text": "#C C puts bucket on the countertop",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1247.9726366666666,
+            "timestamp_frame": 37439,
+            "_unmapped_timestamp_sec": 1247.97597,
+            "narration_text": "#C C resets weight scale",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1248.8629366666667,
+            "timestamp_frame": 37466,
+            "_unmapped_timestamp_sec": 1248.86627,
+            "narration_text": "#C C moves weight scale",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1249.8463766666666,
+            "timestamp_frame": 37495,
+            "_unmapped_timestamp_sec": 1249.84971,
+            "narration_text": "#C C weighs the bucket",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1254.8438266666667,
+            "timestamp_frame": 37645,
+            "_unmapped_timestamp_sec": 1254.84716,
+            "narration_text": "#C C resets weight scale",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1256.8595866666667,
+            "timestamp_frame": 37706,
+            "_unmapped_timestamp_sec": 1256.86292,
+            "narration_text": "#C C stares at the bucket",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1257.8679866666666,
+            "timestamp_frame": 37736,
+            "_unmapped_timestamp_sec": 1257.87132,
+            "narration_text": "#C C picks paper bag",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1260.4990866666667,
+            "timestamp_frame": 37815,
+            "_unmapped_timestamp_sec": 1260.50242,
+            "narration_text": "#C C pours flour in the bucket",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1280.5487166666667,
+            "timestamp_frame": 38416,
+            "_unmapped_timestamp_sec": 1280.55205,
+            "narration_text": "#C C places paper bag down",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1282.4342466666667,
+            "timestamp_frame": 38473,
+            "_unmapped_timestamp_sec": 1282.43758,
+            "narration_text": "#C C picks a bucket",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1283.9669366666667,
+            "timestamp_frame": 38519,
+            "_unmapped_timestamp_sec": 1283.97027,
+            "narration_text": "#C C places bucket on the countertop",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1285.0232766666668,
+            "timestamp_frame": 38551,
+            "_unmapped_timestamp_sec": 1285.02661,
+            "narration_text": "#C C opens the bucket",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1285.8947266666667,
+            "timestamp_frame": 38577,
+            "_unmapped_timestamp_sec": 1285.89806,
+            "narration_text": "#C C scoops flour ",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1288.1906966666666,
+            "timestamp_frame": 38646,
+            "_unmapped_timestamp_sec": 1288.19403,
+            "narration_text": "#C C resets the weight scale",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        },
+        {
+            "timestamp_sec": 1288.8866466666666,
+            "timestamp_frame": 38667,
+            "_unmapped_timestamp_sec": 1288.88998,
+            "narration_text": "#C C scoops flour ",
+            "annotation_uid": "1473b3f5-ec04-48c8-b037-4e74dde19e13"
+        }
+    ]
+}

@@ -1,0 +1,760 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 5.2915795999999995,
+            "timestamp_frame": 158,
+            "_unmapped_timestamp_sec": 5.29158,
+            "narration_text": "#C C pulls a pinch of ice from the freezer of the first compartment.",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 7.4513696,
+            "timestamp_frame": 223,
+            "_unmapped_timestamp_sec": 7.45137,
+            "narration_text": "#C C looks at the first compartment for a while.",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 7.4513696,
+            "timestamp_frame": 223,
+            "_unmapped_timestamp_sec": 7.45137,
+            "narration_text": "#C C stretches her right hand for a while.",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 9.2998696,
+            "timestamp_frame": 278,
+            "_unmapped_timestamp_sec": 9.29987,
+            "narration_text": "#C C stands upright.",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 10.5857096,
+            "timestamp_frame": 317,
+            "_unmapped_timestamp_sec": 10.58571,
+            "narration_text": "#C C closes the upper compartment of the fridge.",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 12.354589599999999,
+            "timestamp_frame": 370,
+            "_unmapped_timestamp_sec": 12.35459,
+            "narration_text": "#C C opens the lower compartment of the fridge.",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 14.488179599999999,
+            "timestamp_frame": 434,
+            "_unmapped_timestamp_sec": 14.48818,
+            "narration_text": "#C C looks at the groceries in the lower compartment of the fridge.",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 15.861529599999999,
+            "timestamp_frame": 475,
+            "_unmapped_timestamp_sec": 15.86153,
+            "narration_text": "#C C closes the lower compartment of the fridge.",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 17.953979600000004,
+            "timestamp_frame": 538,
+            "_unmapped_timestamp_sec": 17.95398,
+            "narration_text": "#C C walks to the sink area of the kitchen.",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 2.3708196000000004,
+            "timestamp_frame": 70,
+            "_unmapped_timestamp_sec": 2.37082,
+            "narration_text": "#C C turns to open a fridge.",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 2.3908196000000004,
+            "timestamp_frame": 71,
+            "_unmapped_timestamp_sec": 2.39082,
+            "narration_text": "#C C opens the upper compartment of the fridge.",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 20.491899600000004,
+            "timestamp_frame": 614,
+            "_unmapped_timestamp_sec": 20.4919,
+            "narration_text": "#C C touches the side of a glass shelf in the first basin. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 21.622079600000003,
+            "timestamp_frame": 648,
+            "_unmapped_timestamp_sec": 21.62208,
+            "narration_text": "#C C takes a napkin from the handle of an oven.",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 23.151519600000004,
+            "timestamp_frame": 694,
+            "_unmapped_timestamp_sec": 23.15152,
+            "narration_text": "#C C unfolds the napkin.",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 26.751649600000004,
+            "timestamp_frame": 802,
+            "_unmapped_timestamp_sec": 26.75165,
+            "narration_text": "#C C holds up the glass shelf in the first basin with her left hand.",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 28.524639600000004,
+            "timestamp_frame": 855,
+            "_unmapped_timestamp_sec": 28.52464,
+            "narration_text": "#C C wipes the side of the glass shelf with the napkin.",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 32.8324596,
+            "timestamp_frame": 984,
+            "_unmapped_timestamp_sec": 32.83246,
+            "narration_text": "#C C drops the napkin on the sink slab.   ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 33.6030096,
+            "timestamp_frame": 1007,
+            "_unmapped_timestamp_sec": 33.60301,
+            "narration_text": "#C C takes a sponge from edge of the sink slab.",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 34.0509396,
+            "timestamp_frame": 1021,
+            "_unmapped_timestamp_sec": 34.05094,
+            "narration_text": "#C C scrubs the side of the glass shelf with the sponge. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 42.8222396,
+            "timestamp_frame": 1284,
+            "_unmapped_timestamp_sec": 42.82224,
+            "narration_text": "#C C drops the sponge on the sink slab. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 43.0092796,
+            "timestamp_frame": 1290,
+            "_unmapped_timestamp_sec": 43.00928,
+            "narration_text": "#C C takes the napkin from the kitchen slab. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 44.5695496,
+            "timestamp_frame": 1336,
+            "_unmapped_timestamp_sec": 44.56955,
+            "narration_text": "#C C holds the napkin in her right hand for a while. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 46.3877496,
+            "timestamp_frame": 1391,
+            "_unmapped_timestamp_sec": 46.38775,
+            "narration_text": "#C C wipes the glass shelf with the napkin. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 49.400749600000005,
+            "timestamp_frame": 1481,
+            "_unmapped_timestamp_sec": 49.40075,
+            "narration_text": "#C C turns to the right side of the kitchen. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 52.679449600000005,
+            "timestamp_frame": 1580,
+            "_unmapped_timestamp_sec": 52.67945,
+            "narration_text": "#C C rotates the glass shelf. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 52.5556196,
+            "timestamp_frame": 1576,
+            "_unmapped_timestamp_sec": 52.55562,
+            "narration_text": "#C C turns slightly in the same spot again. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 57.6879496,
+            "timestamp_frame": 1730,
+            "_unmapped_timestamp_sec": 57.68795,
+            "narration_text": "#C C turns to the back of the kitchen. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 60.434529600000005,
+            "timestamp_frame": 1812,
+            "_unmapped_timestamp_sec": 60.43453,
+            "narration_text": "#C C drops the napkin on a chair. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 45.291149600000004,
+            "timestamp_frame": 1358,
+            "_unmapped_timestamp_sec": 45.29115,
+            "narration_text": "#C C raises the glass shelf from the first basin. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 46.6956196,
+            "timestamp_frame": 1400,
+            "_unmapped_timestamp_sec": 46.69562,
+            "narration_text": "#C C holds the glass shelf in her left hand. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 61.891369600000004,
+            "timestamp_frame": 1856,
+            "_unmapped_timestamp_sec": 61.89137,
+            "narration_text": "#C C walks to the fridge. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 62.979229600000004,
+            "timestamp_frame": 1889,
+            "_unmapped_timestamp_sec": 62.97923,
+            "narration_text": "#C C turns over the glass shelf. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 64.6960596,
+            "timestamp_frame": 1940,
+            "_unmapped_timestamp_sec": 64.69606,
+            "narration_text": "#C C opens the lower compartment of the fridge.",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 67.5705096,
+            "timestamp_frame": 2026,
+            "_unmapped_timestamp_sec": 67.57051,
+            "narration_text": "#C C rotates the glass shelf. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 71.1542296,
+            "timestamp_frame": 2134,
+            "_unmapped_timestamp_sec": 71.15423,
+            "narration_text": "#C C sets the glass shelf in the fourth row of the lower compartment. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 70.9388596,
+            "timestamp_frame": 2128,
+            "_unmapped_timestamp_sec": 70.93886,
+            "narration_text": "#C C bends down in front of the fridge. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 79.18868959999999,
+            "timestamp_frame": 2375,
+            "_unmapped_timestamp_sec": 79.18869,
+            "narration_text": "#C C moves a biscuit pack from the ground to the glass shelf. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 83.57676959999999,
+            "timestamp_frame": 2507,
+            "_unmapped_timestamp_sec": 83.57677,
+            "narration_text": "#C C moves a milk container from the ground to the glass shelf. #unsure",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 86.91285959999999,
+            "timestamp_frame": 2607,
+            "_unmapped_timestamp_sec": 86.91286,
+            "narration_text": "#C C touches a nylon on the ground. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 87.79063959999999,
+            "timestamp_frame": 2633,
+            "_unmapped_timestamp_sec": 87.79064,
+            "narration_text": "#C C touches a pack on the ground. #unsure",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 88.3298296,
+            "timestamp_frame": 2649,
+            "_unmapped_timestamp_sec": 88.32983,
+            "narration_text": "#C C moves a bottle of water from the ground to the glass shelf. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 92.1645496,
+            "timestamp_frame": 2764,
+            "_unmapped_timestamp_sec": 92.16455,
+            "narration_text": "#C C moves the pack from the ground to the glass shelf. #unsure",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 95.1951296,
+            "timestamp_frame": 2855,
+            "_unmapped_timestamp_sec": 95.19513,
+            "narration_text": "#C C moves the groceries on the last glass shelf to the ground. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 103.9278696,
+            "timestamp_frame": 3117,
+            "_unmapped_timestamp_sec": 103.92787,
+            "narration_text": "#C C stands upright from the ground. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 103.92799959999999,
+            "timestamp_frame": 3117,
+            "_unmapped_timestamp_sec": 103.928,
+            "narration_text": "#C C closes the lower compartment of the fridge. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 105.9627496,
+            "timestamp_frame": 3178,
+            "_unmapped_timestamp_sec": 105.96275,
+            "narration_text": "#C C walks to the second basin in the sink area. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 108.8918396,
+            "timestamp_frame": 3266,
+            "_unmapped_timestamp_sec": 108.89184,
+            "narration_text": "#C C takes a second sponge from the sink slab. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 109.56265959999999,
+            "timestamp_frame": 3286,
+            "_unmapped_timestamp_sec": 109.56266,
+            "narration_text": "#C C presses out soap from a soap container to the second sponge. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 111.3826296,
+            "timestamp_frame": 3341,
+            "_unmapped_timestamp_sec": 111.38263,
+            "narration_text": "#C C turns on the tap. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 111.70032959999999,
+            "timestamp_frame": 3350,
+            "_unmapped_timestamp_sec": 111.70033,
+            "narration_text": "#C C soaks the sponge with water. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 113.1579596,
+            "timestamp_frame": 3394,
+            "_unmapped_timestamp_sec": 113.15796,
+            "narration_text": "#C C scrubs a second glass shelf with the second sponge. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 138.3861396,
+            "timestamp_frame": 4151,
+            "_unmapped_timestamp_sec": 138.38614,
+            "narration_text": "#C C rotates the second glass shelf. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 142.4659496,
+            "timestamp_frame": 4273,
+            "_unmapped_timestamp_sec": 142.46595,
+            "narration_text": "#C C continues to wash the second glass shelf with the second sponge. ",
+            "annotation_uid": "7bf5663b-7731-4d1b-a7dd-2b95fe5a810e"
+        },
+        {
+            "timestamp_sec": 3.4498496000000003,
+            "timestamp_frame": 103,
+            "_unmapped_timestamp_sec": 3.44985,
+            "narration_text": "#C C Opens up a fridge",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 5.9886995999999995,
+            "timestamp_frame": 179,
+            "_unmapped_timestamp_sec": 5.9887,
+            "narration_text": "#C C Holds a fridge  shelf",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 7.1443096,
+            "timestamp_frame": 214,
+            "_unmapped_timestamp_sec": 7.14431,
+            "narration_text": "#C C Moves out a hand from the fridge",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 9.2182596,
+            "timestamp_frame": 276,
+            "_unmapped_timestamp_sec": 9.21826,
+            "narration_text": "#C C Closes a  fridge with hands",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 13.3623096,
+            "timestamp_frame": 400,
+            "_unmapped_timestamp_sec": 13.36231,
+            "narration_text": "#C C Opens a fridge with hands",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 17.361549600000004,
+            "timestamp_frame": 520,
+            "_unmapped_timestamp_sec": 17.36155,
+            "narration_text": "#C C Closes a fridge with hands",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 19.207379600000003,
+            "timestamp_frame": 576,
+            "_unmapped_timestamp_sec": 19.20738,
+            "narration_text": "#C C Walks around the room",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 22.6257896,
+            "timestamp_frame": 678,
+            "_unmapped_timestamp_sec": 22.62579,
+            "narration_text": "#C C Picks up a kitchen towel",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 24.639719600000003,
+            "timestamp_frame": 739,
+            "_unmapped_timestamp_sec": 24.63972,
+            "narration_text": "#C C Unfolds a kitchen towel",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 28.170979600000003,
+            "timestamp_frame": 844,
+            "_unmapped_timestamp_sec": 28.17098,
+            "narration_text": "#C C Picks up a glass  shelf",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 29.4728196,
+            "timestamp_frame": 884,
+            "_unmapped_timestamp_sec": 29.47282,
+            "narration_text": "#C C Wipes a glass  shelf with a kitchen towel",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 31.129519600000002,
+            "timestamp_frame": 933,
+            "_unmapped_timestamp_sec": 31.12952,
+            "narration_text": "#C C Moves back away from the sink",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 31.2858796,
+            "timestamp_frame": 938,
+            "_unmapped_timestamp_sec": 31.28588,
+            "narration_text": "#C C Holds a glass shelf",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 33.0086196,
+            "timestamp_frame": 990,
+            "_unmapped_timestamp_sec": 33.00862,
+            "narration_text": "#C C Puts down a kitchen towel",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 33.9827196,
+            "timestamp_frame": 1019,
+            "_unmapped_timestamp_sec": 33.98272,
+            "narration_text": "#C C Picks up a scrubber",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 34.6268796,
+            "timestamp_frame": 1038,
+            "_unmapped_timestamp_sec": 34.62688,
+            "narration_text": "#C C Scrubs a glass  shelf with a scrubber",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 42.9010596,
+            "timestamp_frame": 1286,
+            "_unmapped_timestamp_sec": 42.90106,
+            "narration_text": "#C C Puts down a scrubber",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 43.827799600000006,
+            "timestamp_frame": 1314,
+            "_unmapped_timestamp_sec": 43.8278,
+            "narration_text": "#C C Picks up a kitchen towel",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 45.654489600000005,
+            "timestamp_frame": 1369,
+            "_unmapped_timestamp_sec": 45.65449,
+            "narration_text": "#C C Picks up a glass  shelf",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 47.0221396,
+            "timestamp_frame": 1410,
+            "_unmapped_timestamp_sec": 47.02214,
+            "narration_text": "#C C Wipes a glass  shelf with a kitchen towel",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 52.7584296,
+            "timestamp_frame": 1582,
+            "_unmapped_timestamp_sec": 52.75843,
+            "narration_text": "#C C Flips a glass  shelf",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 55.4512396,
+            "timestamp_frame": 1663,
+            "_unmapped_timestamp_sec": 55.45124,
+            "narration_text": "#C C Wipes a glass  shelf with a kitchen towel",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 61.025749600000005,
+            "timestamp_frame": 1830,
+            "_unmapped_timestamp_sec": 61.02575,
+            "narration_text": "#C C Puts down a kitchen towel",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 62.774789600000005,
+            "timestamp_frame": 1883,
+            "_unmapped_timestamp_sec": 62.77479,
+            "narration_text": "#C C Walks towards the fridge",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 63.5959796,
+            "timestamp_frame": 1907,
+            "_unmapped_timestamp_sec": 63.59598,
+            "narration_text": "#C C Flips a glass  shelf",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 64.8965496,
+            "timestamp_frame": 1946,
+            "_unmapped_timestamp_sec": 64.89655,
+            "narration_text": "#C C Opens up a fridge",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 69.44678959999999,
+            "timestamp_frame": 2083,
+            "_unmapped_timestamp_sec": 69.44679,
+            "narration_text": "#C C Flips a glass  shelf",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 71.83406959999999,
+            "timestamp_frame": 2154,
+            "_unmapped_timestamp_sec": 71.83407,
+            "narration_text": "#C C Inserts a glass shelf to the fridge",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 79.3617896,
+            "timestamp_frame": 2380,
+            "_unmapped_timestamp_sec": 79.36179,
+            "narration_text": "#C C Moves back away from the fridge",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 80.2768596,
+            "timestamp_frame": 2408,
+            "_unmapped_timestamp_sec": 80.27686,
+            "narration_text": "#C C Picks up a packet of cereal",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 81.91580959999999,
+            "timestamp_frame": 2457,
+            "_unmapped_timestamp_sec": 81.91581,
+            "narration_text": "#C C Puts a packet of cereal in the fridge",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 83.64271959999999,
+            "timestamp_frame": 2509,
+            "_unmapped_timestamp_sec": 83.64272,
+            "narration_text": "#C C Picks up a bottle",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 85.1069596,
+            "timestamp_frame": 2553,
+            "_unmapped_timestamp_sec": 85.10696,
+            "narration_text": "#C C Puts the bottle in the fridge",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 87.6031096,
+            "timestamp_frame": 2627,
+            "_unmapped_timestamp_sec": 87.60311,
+            "narration_text": "#C C Holds a piece of paper",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 89.60845959999999,
+            "timestamp_frame": 2688,
+            "_unmapped_timestamp_sec": 89.60846,
+            "narration_text": "#C C Picks up a water bottle",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 90.1681196,
+            "timestamp_frame": 2704,
+            "_unmapped_timestamp_sec": 90.16812,
+            "narration_text": "#C C Puts the water bottle in the fridge",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 92.8660096,
+            "timestamp_frame": 2785,
+            "_unmapped_timestamp_sec": 92.86601,
+            "narration_text": "#C C Picks up a packet of goods ",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 93.86141959999999,
+            "timestamp_frame": 2815,
+            "_unmapped_timestamp_sec": 93.86142,
+            "narration_text": "#C C Puts a packet of goods in the fridge",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 96.33522959999999,
+            "timestamp_frame": 2889,
+            "_unmapped_timestamp_sec": 96.33523,
+            "narration_text": "#C C Picks up a storage can",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 97.2531996,
+            "timestamp_frame": 2917,
+            "_unmapped_timestamp_sec": 97.2532,
+            "narration_text": "#C C Puts down a storage can",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 98.3219596,
+            "timestamp_frame": 2949,
+            "_unmapped_timestamp_sec": 98.32196,
+            "narration_text": "#C C Picks up a shopping bag",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 99.58083959999999,
+            "timestamp_frame": 2987,
+            "_unmapped_timestamp_sec": 99.58084,
+            "narration_text": "#C C Puts down a shopping bag",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 101.8418696,
+            "timestamp_frame": 3055,
+            "_unmapped_timestamp_sec": 101.84187,
+            "narration_text": "#C C Picks up a storage can",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 103.0447196,
+            "timestamp_frame": 3091,
+            "_unmapped_timestamp_sec": 103.04472,
+            "narration_text": "#C C Puts down a storage can",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 105.2565896,
+            "timestamp_frame": 3157,
+            "_unmapped_timestamp_sec": 105.25659,
+            "narration_text": "#C C Closes a fridge door",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 106.37762959999999,
+            "timestamp_frame": 3191,
+            "_unmapped_timestamp_sec": 106.37763,
+            "narration_text": "#C C Walks around the room",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 109.6445696,
+            "timestamp_frame": 3289,
+            "_unmapped_timestamp_sec": 109.64457,
+            "narration_text": "#C C Picks up a scrubber",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 110.0541896,
+            "timestamp_frame": 3301,
+            "_unmapped_timestamp_sec": 110.05419,
+            "narration_text": "#C C Holds a soap dispenser",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 111.0506796,
+            "timestamp_frame": 3331,
+            "_unmapped_timestamp_sec": 111.05068,
+            "narration_text": "#C C Sprinkles soap on the scrubber",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 112.41437959999999,
+            "timestamp_frame": 3372,
+            "_unmapped_timestamp_sec": 112.41438,
+            "narration_text": "#C C Holds a tap with hands",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 112.6609696,
+            "timestamp_frame": 3379,
+            "_unmapped_timestamp_sec": 112.66097,
+            "narration_text": "#C C Runs water through a tap to the scrubber",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 113.54649959999999,
+            "timestamp_frame": 3406,
+            "_unmapped_timestamp_sec": 113.5465,
+            "narration_text": "#C C Cleans a glass shelf with a scrubber",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 138.8708196,
+            "timestamp_frame": 4165,
+            "_unmapped_timestamp_sec": 138.87082,
+            "narration_text": "#C C Flips a glass shelf",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 141.58116959999998,
+            "timestamp_frame": 4247,
+            "_unmapped_timestamp_sec": 141.58117,
+            "narration_text": "#C C Puts a glass shelf on the sink",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        },
+        {
+            "timestamp_sec": 142.8989396,
+            "timestamp_frame": 4286,
+            "_unmapped_timestamp_sec": 142.89894,
+            "narration_text": "#C C Cleans a glass shelf with running water and a scrubber",
+            "annotation_uid": "81d61a80-2c22-4044-a352-cef930718393"
+        }
+    ]
+}

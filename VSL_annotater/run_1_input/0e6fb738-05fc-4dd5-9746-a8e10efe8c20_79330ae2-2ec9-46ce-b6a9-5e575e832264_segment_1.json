@@ -1,0 +1,984 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 421.50708526666665,
+            "timestamp_frame": 12645,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices pieces of cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 422.7037752666667,
+            "timestamp_frame": 12680,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of cabbage in a tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 423.85438526666667,
+            "timestamp_frame": 12715,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks pieces of cabbage in the tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 426.30269526666666,
+            "timestamp_frame": 12788,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices pieces of cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 427.4467152666667,
+            "timestamp_frame": 12823,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of cabbage in a tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 429.4198552666667,
+            "timestamp_frame": 12882,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks pieces of cabbage in the tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 430.6043352666666,
+            "timestamp_frame": 12917,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices pieces of cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 430.84122526666664,
+            "timestamp_frame": 12925,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of cabbage in a tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 432.39635526666666,
+            "timestamp_frame": 12971,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C stirs cabbage in the tray with her right hand while she mumbles ",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 433.4414852666667,
+            "timestamp_frame": 13003,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C pushes the tray while she mumbles ",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 434.9557552666667,
+            "timestamp_frame": 13048,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C collects leaves of cabbage on the floor",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 437.40336526666664,
+            "timestamp_frame": 13121,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C adds leaves of the cabbage together",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 438.86987526666667,
+            "timestamp_frame": 13165,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C cuts leaves",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 439.96022526666667,
+            "timestamp_frame": 13198,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts unwanted part of the leave on the floor",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 442.14750526666666,
+            "timestamp_frame": 13264,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices leaves of the cabbage",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 448.4107552666666,
+            "timestamp_frame": 13452,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of the cabbage in the tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 450.0787752666667,
+            "timestamp_frame": 13502,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices leaves of the cabbage while she mumbles",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 454.5196052666667,
+            "timestamp_frame": 13635,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C stretches' to a lid pot",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 455.41900526666666,
+            "timestamp_frame": 13662,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C lifts the lid",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 456.48429526666666,
+            "timestamp_frame": 13694,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts the lid back on the pot",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 458.98983526666666,
+            "timestamp_frame": 13769,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices leaves of the cabbage",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 459.5773852666667,
+            "timestamp_frame": 13787,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of the cabbage in the tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 461.09414526666666,
+            "timestamp_frame": 13832,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices leaves of the cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 463.4481552666667,
+            "timestamp_frame": 13903,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of the cabbage in the tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 465.11617526666663,
+            "timestamp_frame": 13953,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns and stretches' to a carry bug",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 466.73859526666666,
+            "timestamp_frame": 14002,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks cabbage on the floor",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 467.44605526666663,
+            "timestamp_frame": 14023,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts cabbage on the lid of the pot",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 468.20586526666665,
+            "timestamp_frame": 14046,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks leaf of a cabbage while she mumbles",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 470.2203752666666,
+            "timestamp_frame": 14106,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices leaf of the cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 472.89246526666665,
+            "timestamp_frame": 14186,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O man X convers with woman C",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 479.96209526666667,
+            "timestamp_frame": 14398,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices leaf of the cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 482.9478352666667,
+            "timestamp_frame": 14488,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of the cabbage in the tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 483.98573526666667,
+            "timestamp_frame": 14519,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O man X convers with woman C",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 486.91722526666666,
+            "timestamp_frame": 14607,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices leaf of the cabbage on a grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 488.1539752666667,
+            "timestamp_frame": 14644,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts slices of the cabbage in the tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 488.79600526666667,
+            "timestamp_frame": 14663,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C pushes knife",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 489.61968526666664,
+            "timestamp_frame": 14688,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C pulls carry bug",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 491.48341526666667,
+            "timestamp_frame": 14744,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C removes pepper in the carry bug",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 494.04472526666666,
+            "timestamp_frame": 14821,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts pepper on the floor",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 496.31037526666665,
+            "timestamp_frame": 14889,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks away carry bug",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 496.67841526666666,
+            "timestamp_frame": 14900,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks pepper on the floor",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 497.73249526666666,
+            "timestamp_frame": 14931,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C cuts pepper on the grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 498.29639526666665,
+            "timestamp_frame": 14948,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C pushes a tray",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 498.99911526666665,
+            "timestamp_frame": 14969,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C pulls a bowl",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 500.20201526666665,
+            "timestamp_frame": 15005,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C cuts pepper on the grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 504.80362526666664,
+            "timestamp_frame": 15143,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts cut pepper in the bowl",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 506.1250952666667,
+            "timestamp_frame": 15183,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C cuts pepper on the grater stool while she mumbles",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 509.1551952666667,
+            "timestamp_frame": 15274,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts cut pepper in the bowl",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 512.6938152666668,
+            "timestamp_frame": 15380,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C cuts pepper on the grater stool while she mumbles",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 517.7449652666668,
+            "timestamp_frame": 15532,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts cat pepper in the bowl",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 518.2797852666667,
+            "timestamp_frame": 15548,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks pepper on the floor",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 520.1729552666667,
+            "timestamp_frame": 15605,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C cuts pepper on the grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 527.1933352666667,
+            "timestamp_frame": 15815,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts cut pepper in the bowl",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 528.5740252666667,
+            "timestamp_frame": 15857,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C cuts pepper on the grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 533.2879952666667,
+            "timestamp_frame": 15998,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts cut pepper in the bowl",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 534.1539852666667,
+            "timestamp_frame": 16024,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks pepper on the floor",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 535.8770152666667,
+            "timestamp_frame": 16076,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C cuts tip of the pepper",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 539.9199552666668,
+            "timestamp_frame": 16197,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices the pepper",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 542.5306352666668,
+            "timestamp_frame": 16275,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C cuts pepper on the grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 545.3465952666667,
+            "timestamp_frame": 16360,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts cut pepper in the bowl",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 545.9596452666667,
+            "timestamp_frame": 16378,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C drags pepper on the floor away from man X",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 547.0407952666667,
+            "timestamp_frame": 16411,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C cuts pepper on the grater stool",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 552.1616052666667,
+            "timestamp_frame": 16564,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts cut pepper in the bowl",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 553.2589252666668,
+            "timestamp_frame": 16597,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks pepper on the floor",
+            "annotation_uid": "faf1ffaa-20c5-43f6-b3d3-f00c3aa4fbbe"
+        },
+        {
+            "timestamp_sec": 561.2415752666667,
+            "timestamp_frame": 16837,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts chilies on plate",
+            "annotation_uid": "55863dec-73a4-4391-a80e-b0fc586bddd2"
+        },
+        {
+            "timestamp_sec": 561.8736152666667,
+            "timestamp_frame": 16856,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C slices the chilies with a knife",
+            "annotation_uid": "55863dec-73a4-4391-a80e-b0fc586bddd2"
+        },
+        {
+            "timestamp_sec": 569.2885352666667,
+            "timestamp_frame": 17078,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts chilies on plate",
+            "annotation_uid": "55863dec-73a4-4391-a80e-b0fc586bddd2"
+        },
+        {
+            "timestamp_sec": 421.1918309546634,
+            "timestamp_frame": 12635,
+            "_unmapped_timestamp_sec": 421.21286,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 422.6366709546634,
+            "timestamp_frame": 12678,
+            "_unmapped_timestamp_sec": 422.6577,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 423.94613095466343,
+            "timestamp_frame": 12718,
+            "_unmapped_timestamp_sec": 423.96716000000004,
+            "narration_text": "#C C picks cabbage",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 425.5950109546634,
+            "timestamp_frame": 12767,
+            "_unmapped_timestamp_sec": 425.61604,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 427.7011309546634,
+            "timestamp_frame": 12830,
+            "_unmapped_timestamp_sec": 427.72216000000003,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 429.3771809546634,
+            "timestamp_frame": 12881,
+            "_unmapped_timestamp_sec": 429.39821,
+            "narration_text": "\n#C C picks cabbage",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 430.3883909546634,
+            "timestamp_frame": 12911,
+            "_unmapped_timestamp_sec": 430.40942,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 432.1607309546634,
+            "timestamp_frame": 12964,
+            "_unmapped_timestamp_sec": 432.18176,
+            "narration_text": "#C C spreads the cabbage",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 433.6700609546634,
+            "timestamp_frame": 13009,
+            "_unmapped_timestamp_sec": 433.69109000000003,
+            "narration_text": "#C C pushes the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 435.0775909546634,
+            "timestamp_frame": 13052,
+            "_unmapped_timestamp_sec": 435.09862,
+            "narration_text": "#C C picks cabbage",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 438.7608509546634,
+            "timestamp_frame": 13162,
+            "_unmapped_timestamp_sec": 438.78188,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 439.9967509546634,
+            "timestamp_frame": 13199,
+            "_unmapped_timestamp_sec": 440.01778,
+            "narration_text": "#C C puts the cabbage on the floor",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 442.1493209546634,
+            "timestamp_frame": 13264,
+            "_unmapped_timestamp_sec": 442.17035,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 448.5332709546634,
+            "timestamp_frame": 13455,
+            "_unmapped_timestamp_sec": 448.5543,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 449.8516809546634,
+            "timestamp_frame": 13495,
+            "_unmapped_timestamp_sec": 449.87271,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 455.4358409546634,
+            "timestamp_frame": 13662,
+            "_unmapped_timestamp_sec": 455.45687,
+            "narration_text": "#C C picks a lid",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 456.5516109546634,
+            "timestamp_frame": 13696,
+            "_unmapped_timestamp_sec": 456.57264,
+            "narration_text": "#C C puts the lid on the sufuria",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 458.08804095466337,
+            "timestamp_frame": 13742,
+            "_unmapped_timestamp_sec": 458.10907,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 459.7334209546634,
+            "timestamp_frame": 13791,
+            "_unmapped_timestamp_sec": 459.75445,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 461.1688009546634,
+            "timestamp_frame": 13834,
+            "_unmapped_timestamp_sec": 461.18983000000003,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 463.6510609546634,
+            "timestamp_frame": 13909,
+            "_unmapped_timestamp_sec": 463.67209,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 466.2387309546634,
+            "timestamp_frame": 13987,
+            "_unmapped_timestamp_sec": 466.25976,
+            "narration_text": "#C C picks cabbage",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 467.38525095466343,
+            "timestamp_frame": 14021,
+            "_unmapped_timestamp_sec": 467.40628000000004,
+            "narration_text": "#C C puts the cabbage on the lid",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 468.3100609546634,
+            "timestamp_frame": 14049,
+            "_unmapped_timestamp_sec": 468.33109,
+            "narration_text": "#C C picks cabbage leave",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 470.43145095466343,
+            "timestamp_frame": 14112,
+            "_unmapped_timestamp_sec": 470.45248000000004,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 474.7369409546634,
+            "timestamp_frame": 14241,
+            "_unmapped_timestamp_sec": 474.75797,
+            "narration_text": "#O A aman Y holds his hand together",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 479.7252409546634,
+            "timestamp_frame": 14391,
+            "_unmapped_timestamp_sec": 479.74627,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 483.0833409546634,
+            "timestamp_frame": 14492,
+            "_unmapped_timestamp_sec": 483.10437,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 484.1604309546634,
+            "timestamp_frame": 14524,
+            "_unmapped_timestamp_sec": 484.18146,
+            "narration_text": "#O A aman Y  holds his leg",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 486.2463509546634,
+            "timestamp_frame": 14587,
+            "_unmapped_timestamp_sec": 486.26738,
+            "narration_text": "#C C cuts  cabbage with   a knife",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 488.1922209546634,
+            "timestamp_frame": 14645,
+            "_unmapped_timestamp_sec": 488.21325,
+            "narration_text": "#C C puts the cabbage in the tray",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 488.8472109546634,
+            "timestamp_frame": 14665,
+            "_unmapped_timestamp_sec": 488.86824,
+            "narration_text": "#C C pushes a knife aside",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 489.4586509546634,
+            "timestamp_frame": 14683,
+            "_unmapped_timestamp_sec": 489.47968000000003,
+            "narration_text": "#C C pull a polythene bag",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 492.8742609546634,
+            "timestamp_frame": 14786,
+            "_unmapped_timestamp_sec": 492.89529,
+            "narration_text": "#C C picks peppers",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 493.96246095466336,
+            "timestamp_frame": 14818,
+            "_unmapped_timestamp_sec": 493.98348999999996,
+            "narration_text": "#C C puts the peppers on the floor",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 496.2053309546634,
+            "timestamp_frame": 14886,
+            "_unmapped_timestamp_sec": 496.22636,
+            "narration_text": "#C C puts a polythene bag aside",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 496.6555509546634,
+            "timestamp_frame": 14899,
+            "_unmapped_timestamp_sec": 496.67658,
+            "narration_text": "#C C picks pepper",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 497.73308095466336,
+            "timestamp_frame": 14931,
+            "_unmapped_timestamp_sec": 497.75410999999997,
+            "narration_text": "#C C cuts pepper with a knife ",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 498.5012509546634,
+            "timestamp_frame": 14954,
+            "_unmapped_timestamp_sec": 498.52228,
+            "narration_text": "#C C pushes the tray aside",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 498.9402909546634,
+            "timestamp_frame": 14968,
+            "_unmapped_timestamp_sec": 498.96132,
+            "narration_text": "#C C pulls a bowl",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 500.3709209546634,
+            "timestamp_frame": 15010,
+            "_unmapped_timestamp_sec": 500.39195,
+            "narration_text": "#C C cuts pepper with a knife ",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 504.8626809546634,
+            "timestamp_frame": 15145,
+            "_unmapped_timestamp_sec": 504.88371,
+            "narration_text": "#C C puts  pieces of pepper in a bowl",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 505.95257095466343,
+            "timestamp_frame": 15178,
+            "_unmapped_timestamp_sec": 505.97360000000003,
+            "narration_text": "#C C cuts pepper with a knife ",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 509.1676409546634,
+            "timestamp_frame": 15274,
+            "_unmapped_timestamp_sec": 509.18867,
+            "narration_text": "#C C puts  pieces of pepper in a bowl",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 510.1341209546634,
+            "timestamp_frame": 15303,
+            "_unmapped_timestamp_sec": 510.15515,
+            "narration_text": "#C C cuts pepper with a knife ",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 517.7054109546634,
+            "timestamp_frame": 15531,
+            "_unmapped_timestamp_sec": 517.72644,
+            "narration_text": "#C C puts  pieces of pepper in a bowl",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 518.4953809546633,
+            "timestamp_frame": 15554,
+            "_unmapped_timestamp_sec": 518.51641,
+            "narration_text": "#C C picks pepper",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 519.5296009546634,
+            "timestamp_frame": 15585,
+            "_unmapped_timestamp_sec": 519.55063,
+            "narration_text": "#C C cuts pepper with a knife ",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 527.2838109546634,
+            "timestamp_frame": 15818,
+            "_unmapped_timestamp_sec": 527.30484,
+            "narration_text": "#C C puts  pieces of paper in a bowl",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 527.9839609546634,
+            "timestamp_frame": 15839,
+            "_unmapped_timestamp_sec": 528.00499,
+            "narration_text": "#C C cuts pepper with a knife ",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 533.5418309546634,
+            "timestamp_frame": 16006,
+            "_unmapped_timestamp_sec": 533.56286,
+            "narration_text": "#C C puts  pieces of paper in a bowl",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 534.3264409546633,
+            "timestamp_frame": 16029,
+            "_unmapped_timestamp_sec": 534.3474699999999,
+            "narration_text": "#C C picks pepper",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 535.6249509546634,
+            "timestamp_frame": 16068,
+            "_unmapped_timestamp_sec": 535.64598,
+            "narration_text": "#C C cuts pepper with a knife ",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 537.1884109546634,
+            "timestamp_frame": 16115,
+            "_unmapped_timestamp_sec": 537.20944,
+            "narration_text": "#C C throws a piece of pepper on the floor",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 536.0827909546634,
+            "timestamp_frame": 16082,
+            "_unmapped_timestamp_sec": 536.10382,
+            "narration_text": "#C C cuts pepper with his hands",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 537.8038309546633,
+            "timestamp_frame": 16133,
+            "_unmapped_timestamp_sec": 537.82486,
+            "narration_text": "#C C cuts pepper with a knife ",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 538.1014009546634,
+            "timestamp_frame": 16142,
+            "_unmapped_timestamp_sec": 538.12243,
+            "narration_text": "#C C throws a piece of pepper on the floor",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 540.0218409546634,
+            "timestamp_frame": 16200,
+            "_unmapped_timestamp_sec": 540.04287,
+            "narration_text": "#C C cuts pepper with a knife ",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 545.4262309546634,
+            "timestamp_frame": 16362,
+            "_unmapped_timestamp_sec": 545.44726,
+            "narration_text": "#C C puts  pieces of paper in a bowl",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 545.0869509546634,
+            "timestamp_frame": 16352,
+            "_unmapped_timestamp_sec": 545.10798,
+            "narration_text": "#O A aman Y walks toward the bowl",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 546.0966809546634,
+            "timestamp_frame": 16382,
+            "_unmapped_timestamp_sec": 546.11771,
+            "narration_text": "#C C pulls the pepper",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 546.3206609546634,
+            "timestamp_frame": 16389,
+            "_unmapped_timestamp_sec": 546.34169,
+            "narration_text": " #O A aman Y lifts his legs",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 546.9483109546634,
+            "timestamp_frame": 16408,
+            "_unmapped_timestamp_sec": 546.96934,
+            "narration_text": "#C C cuts pepper with a knife ",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 552.3243309546634,
+            "timestamp_frame": 16569,
+            "_unmapped_timestamp_sec": 552.34536,
+            "narration_text": "#C C puts  pieces of pepper in a bowl",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 553.2642109546633,
+            "timestamp_frame": 16597,
+            "_unmapped_timestamp_sec": 553.2852399999999,
+            "narration_text": "#C C picks pepper",
+            "annotation_uid": "f5c4e7ee-ba87-4397-b5ee-49291881ce4a"
+        },
+        {
+            "timestamp_sec": 555.5436409546634,
+            "timestamp_frame": 16666,
+            "_unmapped_timestamp_sec": 555.56467,
+            "narration_text": "#C C cuts pepper",
+            "annotation_uid": "ae61f320-c2db-4e58-87f5-c58a97ba2811"
+        },
+        {
+            "timestamp_sec": 561.3645909546634,
+            "timestamp_frame": 16840,
+            "_unmapped_timestamp_sec": 561.38562,
+            "narration_text": "#C C puts pepper pieces in the bowl",
+            "annotation_uid": "ae61f320-c2db-4e58-87f5-c58a97ba2811"
+        },
+        {
+            "timestamp_sec": 562.1410909546634,
+            "timestamp_frame": 16864,
+            "_unmapped_timestamp_sec": 562.16212,
+            "narration_text": "#C C holds pepper with the other hand",
+            "annotation_uid": "ae61f320-c2db-4e58-87f5-c58a97ba2811"
+        },
+        {
+            "timestamp_sec": 562.6528409546634,
+            "timestamp_frame": 16879,
+            "_unmapped_timestamp_sec": 562.67387,
+            "narration_text": "#C C cuts pepper",
+            "annotation_uid": "ae61f320-c2db-4e58-87f5-c58a97ba2811"
+        },
+        {
+            "timestamp_sec": 565.5043409546633,
+            "timestamp_frame": 16964,
+            "_unmapped_timestamp_sec": 565.52537,
+            "narration_text": "#C C holds pepper with the other hand",
+            "annotation_uid": "ae61f320-c2db-4e58-87f5-c58a97ba2811"
+        },
+        {
+            "timestamp_sec": 566.2733309546634,
+            "timestamp_frame": 16988,
+            "_unmapped_timestamp_sec": 566.29436,
+            "narration_text": "#C C cuts pepper",
+            "annotation_uid": "ae61f320-c2db-4e58-87f5-c58a97ba2811"
+        },
+        {
+            "timestamp_sec": 569.2541609546633,
+            "timestamp_frame": 17077,
+            "_unmapped_timestamp_sec": 569.27519,
+            "narration_text": "#C C puts pepper in a bowl",
+            "annotation_uid": "ae61f320-c2db-4e58-87f5-c58a97ba2811"
+        },
+        {
+            "timestamp_sec": 569.3981309546634,
+            "timestamp_frame": 17081,
+            "_unmapped_timestamp_sec": 569.41916,
+            "narration_text": "#C C picks a knife",
+            "annotation_uid": "ae61f320-c2db-4e58-87f5-c58a97ba2811"
+        }
+    ]
+}

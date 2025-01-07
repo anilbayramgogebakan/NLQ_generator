@@ -1,0 +1,921 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 1620.33917,
+            "timestamp_frame": 48610,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks around the car boot",
+            "annotation_uid": "2e880bf0-4512-4129-8019-ccd10d1ec1ac"
+        },
+        {
+            "timestamp_sec": 1621.45463,
+            "timestamp_frame": 48644,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C stares at K",
+            "annotation_uid": "2e880bf0-4512-4129-8019-ccd10d1ec1ac"
+        },
+        {
+            "timestamp_sec": 1626.56558,
+            "timestamp_frame": 48797,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks around the car boot",
+            "annotation_uid": "2e880bf0-4512-4129-8019-ccd10d1ec1ac"
+        },
+        {
+            "timestamp_sec": 1630.96432,
+            "timestamp_frame": 48929,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O A woman X gestures at C",
+            "annotation_uid": "2e880bf0-4512-4129-8019-ccd10d1ec1ac"
+        },
+        {
+            "timestamp_sec": 1631.94098,
+            "timestamp_frame": 48958,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O A man K lifts the belay devices from the ground",
+            "annotation_uid": "2e880bf0-4512-4129-8019-ccd10d1ec1ac"
+        },
+        {
+            "timestamp_sec": 1635.73048,
+            "timestamp_frame": 49072,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C touches his bag ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1638.72172,
+            "timestamp_frame": 49162,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks in the bag ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1640.58421,
+            "timestamp_frame": 49218,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C drops down the polythene bag ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1645.30311,
+            "timestamp_frame": 49359,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O A woman X walks towards the door knob ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1647.14305,
+            "timestamp_frame": 49414,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O A woman X opens the door knob ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1649.87381,
+            "timestamp_frame": 49496,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O A woman X takes the pillow ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1656.10589,
+            "timestamp_frame": 49683,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C holds the bag ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1656.85108,
+            "timestamp_frame": 49706,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O A woman X points her finger ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1659.71425,
+            "timestamp_frame": 49791,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O A man Y touches the bag ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1669.21277,
+            "timestamp_frame": 50076,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1671.03195,
+            "timestamp_frame": 50131,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C walks a few steps ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1672.41526,
+            "timestamp_frame": 50172,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C opens the door knob ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1674.62215,
+            "timestamp_frame": 50239,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C takes the bag ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1677.58906,
+            "timestamp_frame": 50328,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C closes the door knob ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1678.92386,
+            "timestamp_frame": 50368,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C walks a few steps ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1678.92386,
+            "timestamp_frame": 50368,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O A man Z appears ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1692.43621,
+            "timestamp_frame": 50773,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C opens the tent zip ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1694.81616,
+            "timestamp_frame": 50844,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C touches the tent ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1698.2398699999999,
+            "timestamp_frame": 50947,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts the pillow in the tent ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1703.91514,
+            "timestamp_frame": 51117,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O A woman X touches the eye glasses ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1706.69801,
+            "timestamp_frame": 51201,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C enters the tent ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1709.71668,
+            "timestamp_frame": 51292,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O A woman X throws the pillow in the tent ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1712.21995,
+            "timestamp_frame": 51367,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O A woman X throws the pillow in the tent ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1715.68385,
+            "timestamp_frame": 51471,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C lifts up the rope ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1722.09925,
+            "timestamp_frame": 51663,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C lifts up the pillow case ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1726.70823,
+            "timestamp_frame": 51801,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C takes the pillow ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1727.72687,
+            "timestamp_frame": 51832,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts the pillow in the pillow case ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1735.18228,
+            "timestamp_frame": 52055,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts down the pillow ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1736.16112,
+            "timestamp_frame": 52085,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C taps the pillow with his hand ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1737.1375,
+            "timestamp_frame": 52114,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts down the pillow ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1739.60622,
+            "timestamp_frame": 52188,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1741.17388,
+            "timestamp_frame": 52235,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C operates his phone ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1744.31892,
+            "timestamp_frame": 52330,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts down the piece of cloth ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1749.2061899999999,
+            "timestamp_frame": 52476,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C touches the tent ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1750.85302,
+            "timestamp_frame": 52526,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1753.31638,
+            "timestamp_frame": 52599,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C walks a few steps ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1754.61973,
+            "timestamp_frame": 52639,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks outside  ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1758.50574,
+            "timestamp_frame": 52755,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C takes the keys ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1759.63268,
+            "timestamp_frame": 52789,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C drops down the keys ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1763.88995,
+            "timestamp_frame": 52917,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C takes the earphones",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1768.69058,
+            "timestamp_frame": 53061,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "082fc648-5639-4e3b-b35f-f1dedfcd64e9"
+        },
+        {
+            "timestamp_sec": 1631.17545,
+            "timestamp_frame": 48935,
+            "_unmapped_timestamp_sec": 1631.17545,
+            "narration_text": "#O Man X bends on the ground",
+            "annotation_uid": "967ba8e4-7c39-4876-b9f7-2de4e2220252"
+        },
+        {
+            "timestamp_sec": 1632.55086,
+            "timestamp_frame": 48977,
+            "_unmapped_timestamp_sec": 1632.55086,
+            "narration_text": "#O Woman G puts the hand on the chest",
+            "annotation_uid": "967ba8e4-7c39-4876-b9f7-2de4e2220252"
+        },
+        {
+            "timestamp_sec": 1634.56272,
+            "timestamp_frame": 49037,
+            "_unmapped_timestamp_sec": 1634.56272,
+            "narration_text": "#C C Looks at the bags",
+            "annotation_uid": "967ba8e4-7c39-4876-b9f7-2de4e2220252"
+        },
+        {
+            "timestamp_sec": 1638.54092,
+            "timestamp_frame": 49156,
+            "_unmapped_timestamp_sec": 1638.54092,
+            "narration_text": "#C C looks for paper pack in the bag ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1638.8922499999999,
+            "timestamp_frame": 49167,
+            "_unmapped_timestamp_sec": 1638.89225,
+            "narration_text": "#O lady E holds bag in car boot ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1639.79554,
+            "timestamp_frame": 49194,
+            "_unmapped_timestamp_sec": 1639.79554,
+            "narration_text": "#C C picks pack from bag ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1640.35565,
+            "timestamp_frame": 49211,
+            "_unmapped_timestamp_sec": 1640.35565,
+            "narration_text": "#C C drops pack in boot ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1641.34823,
+            "timestamp_frame": 49240,
+            "_unmapped_timestamp_sec": 1641.34823,
+            "narration_text": "#O lady E moves hand from bag in boot ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1641.8751,
+            "timestamp_frame": 49256,
+            "_unmapped_timestamp_sec": 1641.8751,
+            "narration_text": "#C C stares at bags in boot ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1644.61866,
+            "timestamp_frame": 49339,
+            "_unmapped_timestamp_sec": 1644.61866,
+            "narration_text": "#O lady E walks to car door ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1646.55442,
+            "timestamp_frame": 49397,
+            "_unmapped_timestamp_sec": 1646.55442,
+            "narration_text": "#O lady E opens car door ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1646.72214,
+            "timestamp_frame": 49402,
+            "_unmapped_timestamp_sec": 1646.72214,
+            "narration_text": "#C C stares in car boot ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1647.76128,
+            "timestamp_frame": 49433,
+            "_unmapped_timestamp_sec": 1647.76128,
+            "narration_text": "#O lady E stands on car door",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1647.92882,
+            "timestamp_frame": 49438,
+            "_unmapped_timestamp_sec": 1647.92882,
+            "narration_text": "#O man B holds tent ropes in his hands ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1648.77973,
+            "timestamp_frame": 49463,
+            "_unmapped_timestamp_sec": 1648.77973,
+            "narration_text": "#O lady E picks pillow from the car ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1651.7637300000001,
+            "timestamp_frame": 49553,
+            "_unmapped_timestamp_sec": 1651.76373,
+            "narration_text": "#O lady E swings pillow in hand",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1653.69146,
+            "timestamp_frame": 49611,
+            "_unmapped_timestamp_sec": 1653.69146,
+            "narration_text": "#C C shifts paper pack to right hand ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1654.08404,
+            "timestamp_frame": 49623,
+            "_unmapped_timestamp_sec": 1654.08404,
+            "narration_text": "#O lady E holds pillow with both hands ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1654.93846,
+            "timestamp_frame": 49648,
+            "_unmapped_timestamp_sec": 1654.93846,
+            "narration_text": "#C C holds #unsure ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1656.40135,
+            "timestamp_frame": 49692,
+            "_unmapped_timestamp_sec": 1656.40135,
+            "narration_text": "#O lady E points on ground ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1657.38653,
+            "timestamp_frame": 49722,
+            "_unmapped_timestamp_sec": 1657.38653,
+            "narration_text": "#O lady E drops back hand ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1659.52488,
+            "timestamp_frame": 49786,
+            "_unmapped_timestamp_sec": 1659.52488,
+            "narration_text": "#C C returns #unsure in car boot ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1660.01259,
+            "timestamp_frame": 49800,
+            "_unmapped_timestamp_sec": 1660.01259,
+            "narration_text": "#O man B holds back on ground near car boot ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1663.1404400000001,
+            "timestamp_frame": 49894,
+            "_unmapped_timestamp_sec": 1663.14044,
+            "narration_text": "#C C drops #unsure in car boot ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1663.8523500000001,
+            "timestamp_frame": 49916,
+            "_unmapped_timestamp_sec": 1663.8523500000001,
+            "narration_text": "#O man B holds back on ground near car boot ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1664.68892,
+            "timestamp_frame": 49941,
+            "_unmapped_timestamp_sec": 1664.68892,
+            "narration_text": "#O man B moves hands from bag on ground",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1665.12989,
+            "timestamp_frame": 49954,
+            "_unmapped_timestamp_sec": 1665.12989,
+            "narration_text": "#C C stares closely at cables in car boot ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1666.01881,
+            "timestamp_frame": 49981,
+            "_unmapped_timestamp_sec": 1666.01881,
+            "narration_text": "#C C turns from boot ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1667.47378,
+            "timestamp_frame": 50024,
+            "_unmapped_timestamp_sec": 1667.47378,
+            "narration_text": "#O lady E holds pillow outside car door ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1668.72169,
+            "timestamp_frame": 50062,
+            "_unmapped_timestamp_sec": 1668.72169,
+            "narration_text": "#C C walks to other side of car door ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1671.86422,
+            "timestamp_frame": 50156,
+            "_unmapped_timestamp_sec": 1671.86422,
+            "narration_text": "#C C opens the door ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1672.2964,
+            "timestamp_frame": 50169,
+            "_unmapped_timestamp_sec": 1672.2964,
+            "narration_text": "#O lady E enters car on other side",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1673.71903,
+            "timestamp_frame": 50212,
+            "_unmapped_timestamp_sec": 1673.71903,
+            "narration_text": "#C C picks Pillow from the car with pillows",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1676.21462,
+            "timestamp_frame": 50286,
+            "_unmapped_timestamp_sec": 1676.21462,
+            "narration_text": "#O lady E holds pillow in car ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1677.0298,
+            "timestamp_frame": 50311,
+            "_unmapped_timestamp_sec": 1677.0298,
+            "narration_text": "#C C closes car door ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1677.72626,
+            "timestamp_frame": 50332,
+            "_unmapped_timestamp_sec": 1677.72626,
+            "narration_text": "#O man B walks near car boot ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1677.89336,
+            "timestamp_frame": 50337,
+            "_unmapped_timestamp_sec": 1677.89336,
+            "narration_text": "#C C carries pillow towards garden ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1680.92847,
+            "timestamp_frame": 50428,
+            "_unmapped_timestamp_sec": 1680.92847,
+            "narration_text": "#O man F opens another car door",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1681.19184,
+            "timestamp_frame": 50436,
+            "_unmapped_timestamp_sec": 1681.19184,
+            "narration_text": "#C C walks to the garden ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1688.28808,
+            "timestamp_frame": 50649,
+            "_unmapped_timestamp_sec": 1688.28808,
+            "narration_text": "#C C approaches tent on garden ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1689.09584,
+            "timestamp_frame": 50673,
+            "_unmapped_timestamp_sec": 1689.09584,
+            "narration_text": "#C C walks around tent ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1691.15392,
+            "timestamp_frame": 50735,
+            "_unmapped_timestamp_sec": 1691.15392,
+            "narration_text": "#C C opens tent ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1696.54585,
+            "timestamp_frame": 50896,
+            "_unmapped_timestamp_sec": 1696.54585,
+            "narration_text": "#C C enters tent ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1698.1153,
+            "timestamp_frame": 50943,
+            "_unmapped_timestamp_sec": 1698.1153,
+            "narration_text": "#C C drops pillow in tent ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1699.40255,
+            "timestamp_frame": 50982,
+            "_unmapped_timestamp_sec": 1699.40255,
+            "narration_text": "#C C holds pillow in tent ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1700.6094,
+            "timestamp_frame": 51018,
+            "_unmapped_timestamp_sec": 1700.6094,
+            "narration_text": "#C C holds tent door ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1702.69831,
+            "timestamp_frame": 51081,
+            "_unmapped_timestamp_sec": 1702.69831,
+            "narration_text": "#O lady E approaches tent ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1704.07257,
+            "timestamp_frame": 51122,
+            "_unmapped_timestamp_sec": 1704.07257,
+            "narration_text": "#O lady E adjusts glasses on her face ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1705.20278,
+            "timestamp_frame": 51156,
+            "_unmapped_timestamp_sec": 1705.20278,
+            "narration_text": "#C C enters tent ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1708.62324,
+            "timestamp_frame": 51259,
+            "_unmapped_timestamp_sec": 1708.62324,
+            "narration_text": "#C C lifts pillow ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1709.11129,
+            "timestamp_frame": 51273,
+            "_unmapped_timestamp_sec": 1709.11129,
+            "narration_text": "#O lady E drops cloths inside tent ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1711.49858,
+            "timestamp_frame": 51345,
+            "_unmapped_timestamp_sec": 1711.49858,
+            "narration_text": "#C C shifts pillow in tent ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1712.15416,
+            "timestamp_frame": 51365,
+            "_unmapped_timestamp_sec": 1712.15416,
+            "narration_text": "#O lady E throws pillow in tent ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1714.0985,
+            "timestamp_frame": 51423,
+            "_unmapped_timestamp_sec": 1714.0985,
+            "narration_text": "#C C turns cloth in hands ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1715.04213,
+            "timestamp_frame": 51451,
+            "_unmapped_timestamp_sec": 1715.04213,
+            "narration_text": "#C C stretches earphones from cloth",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1715.78503,
+            "timestamp_frame": 51474,
+            "_unmapped_timestamp_sec": 1715.78503,
+            "narration_text": "#C C drops cloth in tent ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1718.48676,
+            "timestamp_frame": 51555,
+            "_unmapped_timestamp_sec": 1718.48676,
+            "narration_text": "#C C holds a book",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1718.76723,
+            "timestamp_frame": 51563,
+            "_unmapped_timestamp_sec": 1718.76723,
+            "narration_text": "#C C drops book in tent ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1719.54252,
+            "timestamp_frame": 51586,
+            "_unmapped_timestamp_sec": 1719.54252,
+            "narration_text": "#C C stretches pillow cover in tent ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1722.07761,
+            "timestamp_frame": 51662,
+            "_unmapped_timestamp_sec": 1722.07761,
+            "narration_text": "#C C shakes pillow cover",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1723.33562,
+            "timestamp_frame": 51700,
+            "_unmapped_timestamp_sec": 1723.33562,
+            "narration_text": "#C C stares at cover ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1723.88939,
+            "timestamp_frame": 51717,
+            "_unmapped_timestamp_sec": 1723.88939,
+            "narration_text": "#C C drops cover",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1726.0959,
+            "timestamp_frame": 51783,
+            "_unmapped_timestamp_sec": 1726.0959,
+            "narration_text": "#C C takes a pillow in tent ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1727.21594,
+            "timestamp_frame": 51816,
+            "_unmapped_timestamp_sec": 1727.21594,
+            "narration_text": "#C C puts pillow in the cover ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1735.06771,
+            "timestamp_frame": 52052,
+            "_unmapped_timestamp_sec": 1735.06771,
+            "narration_text": "#C C hits pillow with hand ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1736.55073,
+            "timestamp_frame": 52097,
+            "_unmapped_timestamp_sec": 1736.55073,
+            "narration_text": "#C C shifts pillow in tent ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1737.17486,
+            "timestamp_frame": 52115,
+            "_unmapped_timestamp_sec": 1737.17486,
+            "narration_text": "#C C compresses pillow with hands ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1737.83842,
+            "timestamp_frame": 52135,
+            "_unmapped_timestamp_sec": 1737.83842,
+            "narration_text": "#C C stares around the tent ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1738.80656,
+            "timestamp_frame": 52164,
+            "_unmapped_timestamp_sec": 1738.80656,
+            "narration_text": "#C C takes a booklet in tent",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1740.83832,
+            "timestamp_frame": 52225,
+            "_unmapped_timestamp_sec": 1740.83832,
+            "narration_text": "#C C drops booklet ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1741.97133,
+            "timestamp_frame": 52259,
+            "_unmapped_timestamp_sec": 1741.97133,
+            "narration_text": "#C C picks #unsure ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1743.8423,
+            "timestamp_frame": 52315,
+            "_unmapped_timestamp_sec": 1743.8423,
+            "narration_text": "#C C places #unsure and booklet near tent wall",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1746.03367,
+            "timestamp_frame": 52381,
+            "_unmapped_timestamp_sec": 1746.03367,
+            "narration_text": "#C C stands in tent ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1746.71383,
+            "timestamp_frame": 52401,
+            "_unmapped_timestamp_sec": 1746.71383,
+            "narration_text": "#C C stares round in the tent ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1748.92249,
+            "timestamp_frame": 52468,
+            "_unmapped_timestamp_sec": 1748.92249,
+            "narration_text": "#C C holds part of tent cloth ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1749.10601,
+            "timestamp_frame": 52473,
+            "_unmapped_timestamp_sec": 1749.10601,
+            "narration_text": "#C C moves hand from cloth ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1749.51387,
+            "timestamp_frame": 52485,
+            "_unmapped_timestamp_sec": 1749.51387,
+            "narration_text": "#C C stares round in the tent ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1752.1773699999999,
+            "timestamp_frame": 52565,
+            "_unmapped_timestamp_sec": 1752.1773699999999,
+            "narration_text": "#C C walks to the tent door",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1753.56391,
+            "timestamp_frame": 52607,
+            "_unmapped_timestamp_sec": 1753.56391,
+            "narration_text": "#C C stares at people outside the tent",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1756.41933,
+            "timestamp_frame": 52693,
+            "_unmapped_timestamp_sec": 1756.41933,
+            "narration_text": "#C C enters back in the tent ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1757.8193099999999,
+            "timestamp_frame": 52735,
+            "_unmapped_timestamp_sec": 1757.81931,
+            "narration_text": "#C C takes key on tent floor",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1759.31471,
+            "timestamp_frame": 52779,
+            "_unmapped_timestamp_sec": 1759.31471,
+            "narration_text": "#C C drops key on tent mattress",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1759.77875,
+            "timestamp_frame": 52793,
+            "_unmapped_timestamp_sec": 1759.77875,
+            "narration_text": "#C C takes cable on tent floor ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1763.4063099999998,
+            "timestamp_frame": 52902,
+            "_unmapped_timestamp_sec": 1763.40631,
+            "narration_text": "#C C places cable on tent mattress",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        },
+        {
+            "timestamp_sec": 1764.8456099999999,
+            "timestamp_frame": 52945,
+            "_unmapped_timestamp_sec": 1764.84561,
+            "narration_text": "#C C stares in tent around ",
+            "annotation_uid": "84b10fdd-2723-483a-b850-53982b255177"
+        }
+    ]
+}

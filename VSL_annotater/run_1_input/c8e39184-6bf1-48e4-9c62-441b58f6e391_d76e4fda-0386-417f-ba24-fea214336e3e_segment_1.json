@@ -1,0 +1,788 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 156.1746086,
+            "timestamp_frame": 4685,
+            "_unmapped_timestamp_sec": 156.15358,
+            "narration_text": "#C C puts the squeezed packs into the rack. #unsure",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 157.3801586,
+            "timestamp_frame": 4721,
+            "_unmapped_timestamp_sec": 157.35913,
+            "narration_text": "#C C searches for a pack. #unsure",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 164.53290859999998,
+            "timestamp_frame": 4935,
+            "_unmapped_timestamp_sec": 164.51188,
+            "narration_text": "#C C turns towards the kitchen slab. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 166.2047986,
+            "timestamp_frame": 4986,
+            "_unmapped_timestamp_sec": 166.18377,
+            "narration_text": "#C C picks the pack of pasta from the kitchen slab with her right hand. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 167.6413586,
+            "timestamp_frame": 5029,
+            "_unmapped_timestamp_sec": 167.62033,
+            "narration_text": "#C C opens the pack of pasta. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 168.6693186,
+            "timestamp_frame": 5059,
+            "_unmapped_timestamp_sec": 168.64829,
+            "narration_text": "#C C takes the pasta from the pack into a sieve inside the sink with her right hand. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 169.6382186,
+            "timestamp_frame": 5089,
+            "_unmapped_timestamp_sec": 169.61719,
+            "narration_text": "#C C shakes the pack of pasta. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 171.67070859999998,
+            "timestamp_frame": 5149,
+            "_unmapped_timestamp_sec": 171.64968,
+            "narration_text": "#C C wraps the pack of pasta.",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 174.3253886,
+            "timestamp_frame": 5229,
+            "_unmapped_timestamp_sec": 174.30436,
+            "narration_text": "#C C takes the clip from the cup on the slab with her right hand. #unsure",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 175.7664586,
+            "timestamp_frame": 5272,
+            "_unmapped_timestamp_sec": 175.74543,
+            "narration_text": "#C C clips the pack of pasta. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 176.42087859999998,
+            "timestamp_frame": 5292,
+            "_unmapped_timestamp_sec": 176.39985,
+            "narration_text": "#C C moves towards the drawer. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 178.9633786,
+            "timestamp_frame": 5368,
+            "_unmapped_timestamp_sec": 178.94235,
+            "narration_text": "#C C opens the drawer with her right hand. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 179.4616386,
+            "timestamp_frame": 5383,
+            "_unmapped_timestamp_sec": 179.44061,
+            "narration_text": "#C C passes the pack of pasta from her left hand to her right hand. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 180.1777986,
+            "timestamp_frame": 5405,
+            "_unmapped_timestamp_sec": 180.15677,
+            "narration_text": "#C C drops the pack of pasta in the drawer. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 181.00228859999999,
+            "timestamp_frame": 5429,
+            "_unmapped_timestamp_sec": 180.98126,
+            "narration_text": "#C C searches the drawer with her right hand. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 184.9263086,
+            "timestamp_frame": 5547,
+            "_unmapped_timestamp_sec": 184.90528,
+            "narration_text": "#C C pulls the container in the drawer with her right hand. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 186.5326886,
+            "timestamp_frame": 5595,
+            "_unmapped_timestamp_sec": 186.51166,
+            "narration_text": "#C C closes the drawer. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 187.8792786,
+            "timestamp_frame": 5636,
+            "_unmapped_timestamp_sec": 187.85825,
+            "narration_text": "#C C opens the drawer again. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 189.72827859999998,
+            "timestamp_frame": 5691,
+            "_unmapped_timestamp_sec": 189.70725,
+            "narration_text": "#C C brings out a nylon of carrot with her right hand. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 190.7010986,
+            "timestamp_frame": 5720,
+            "_unmapped_timestamp_sec": 190.68007,
+            "narration_text": "#C C passes the nylon of carrot from her right hand to her left hand. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 191.9115386,
+            "timestamp_frame": 5757,
+            "_unmapped_timestamp_sec": 191.89051,
+            "narration_text": "#C C moves the container inside the drawer with her right hand. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 192.3447486,
+            "timestamp_frame": 5770,
+            "_unmapped_timestamp_sec": 192.32372,
+            "narration_text": "#C C closes the drawer. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 192.36474859999998,
+            "timestamp_frame": 5770,
+            "_unmapped_timestamp_sec": 192.34372,
+            "narration_text": "#C C moves towards the kitchen slab. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 195.4949586,
+            "timestamp_frame": 5864,
+            "_unmapped_timestamp_sec": 195.47393,
+            "narration_text": "#C C takes the carrot from the nylon. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 199.8746086,
+            "timestamp_frame": 5996,
+            "_unmapped_timestamp_sec": 199.85358,
+            "narration_text": "#C touches the pair of scissors. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 199.8946086,
+            "timestamp_frame": 5996,
+            "_unmapped_timestamp_sec": 199.87358,
+            "narration_text": "#C C takes the knife from the chopping board with her right hand. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 201.20544859999998,
+            "timestamp_frame": 6036,
+            "_unmapped_timestamp_sec": 201.18442,
+            "narration_text": "#C C cuts the carrot into two. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 204.0451986,
+            "timestamp_frame": 6121,
+            "_unmapped_timestamp_sec": 204.02417,
+            "narration_text": "#C C drops the knife on the chopping board. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 204.0651986,
+            "timestamp_frame": 6121,
+            "_unmapped_timestamp_sec": 204.04417,
+            "narration_text": "#C C wraps the cut carrot with the nylon.",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 208.6292586,
+            "timestamp_frame": 6258,
+            "_unmapped_timestamp_sec": 208.60823,
+            "narration_text": "#C C moves towards the drawer. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 210.39114859999998,
+            "timestamp_frame": 6311,
+            "_unmapped_timestamp_sec": 210.37012,
+            "narration_text": "#C C opens the drawer with her right hand. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 211.16130859999998,
+            "timestamp_frame": 6334,
+            "_unmapped_timestamp_sec": 211.14028,
+            "narration_text": "#C C passes the carrot from her left hand to her right hand. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 211.8180786,
+            "timestamp_frame": 6354,
+            "_unmapped_timestamp_sec": 211.79705,
+            "narration_text": "#C C puts the carrot into the drawer. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 211.9340886,
+            "timestamp_frame": 6357,
+            "_unmapped_timestamp_sec": 211.91306,
+            "narration_text": "#C C closes the drawer. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 213.6692886,
+            "timestamp_frame": 6409,
+            "_unmapped_timestamp_sec": 213.64826,
+            "narration_text": "#C C walks towards the sink. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 216.0351586,
+            "timestamp_frame": 6480,
+            "_unmapped_timestamp_sec": 216.01413,
+            "narration_text": "#C C moves the sieve containing the pasta. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 216.7800186,
+            "timestamp_frame": 6503,
+            "_unmapped_timestamp_sec": 216.75899,
+            "narration_text": "#C C places a piece of cloth on the kitchen sink. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 218.4005986,
+            "timestamp_frame": 6551,
+            "_unmapped_timestamp_sec": 218.37957,
+            "narration_text": "#C C touches the pasta inside the sieve. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 219.5878586,
+            "timestamp_frame": 6587,
+            "_unmapped_timestamp_sec": 219.56683,
+            "narration_text": "#C C opens the tap with her right hand. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 220.0139786,
+            "timestamp_frame": 6600,
+            "_unmapped_timestamp_sec": 219.99295,
+            "narration_text": "#C C rinses the pasta inside the sieve with her hand. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 227.7810686,
+            "timestamp_frame": 6833,
+            "_unmapped_timestamp_sec": 227.76004,
+            "narration_text": "#C C rinses the spring onions with the water from the tap. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 227.7810686,
+            "timestamp_frame": 6833,
+            "_unmapped_timestamp_sec": 227.76004,
+            "narration_text": "#C C moves the sieve with her left hand. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 239.34906859999998,
+            "timestamp_frame": 7180,
+            "_unmapped_timestamp_sec": 239.32804,
+            "narration_text": "#C C closes the tap with her left hand. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 240.0342286,
+            "timestamp_frame": 7200,
+            "_unmapped_timestamp_sec": 240.0132,
+            "narration_text": "#C C moves the cut carrot with her right hand. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 241.19201859999998,
+            "timestamp_frame": 7235,
+            "_unmapped_timestamp_sec": 241.17099,
+            "narration_text": "#C C picks the knife from the chopping board with her right hand. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 242.7372586,
+            "timestamp_frame": 7281,
+            "_unmapped_timestamp_sec": 242.71623,
+            "narration_text": "#C C cuts the spring onions on the chopping board with the knife. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 244.38282859999998,
+            "timestamp_frame": 7331,
+            "_unmapped_timestamp_sec": 244.3618,
+            "narration_text": "#C C throws the white part of the spring onions into the kitchen sink with her left hand. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 247.1159686,
+            "timestamp_frame": 7413,
+            "_unmapped_timestamp_sec": 247.09494,
+            "narration_text": "#C C continues cutting the spring onions. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 278.49048860000005,
+            "timestamp_frame": 8354,
+            "_unmapped_timestamp_sec": 278.46946,
+            "narration_text": "#C C packs the cut spring onions from the chopping board into the sieve containing the pasta with the knife. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 280.7470786,
+            "timestamp_frame": 8422,
+            "_unmapped_timestamp_sec": 280.72605,
+            "narration_text": "#C C moves the sieve with her left hand. ",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 282.38786860000005,
+            "timestamp_frame": 8471,
+            "_unmapped_timestamp_sec": 282.36684,
+            "narration_text": "#C C packs the cut spring onions from the chopping board into the sieve containing the pasta with the knife.",
+            "annotation_uid": "f0bb837d-f5af-4a3a-80c8-79b1060ef079"
+        },
+        {
+            "timestamp_sec": 299.5822286,
+            "timestamp_frame": 8987,
+            "_unmapped_timestamp_sec": 299.5612,
+            "narration_text": "#C C drops the knife on the chopping board. ",
+            "annotation_uid": "fc78b72c-4bb0-435f-8bb4-4cecf3afbc02"
+        },
+        {
+            "timestamp_sec": 155.7928886,
+            "timestamp_frame": 4673,
+            "_unmapped_timestamp_sec": 155.77186,
+            "narration_text": "# C C    arranges the packets in the dust bin",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 160.2430086,
+            "timestamp_frame": 4807,
+            "_unmapped_timestamp_sec": 160.22198,
+            "narration_text": "# C C    arranges the packets in the dust bin",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 164.6553486,
+            "timestamp_frame": 4939,
+            "_unmapped_timestamp_sec": 164.63432,
+            "narration_text": "# C C    arranges the packets in the dust bin",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 166.5386586,
+            "timestamp_frame": 4996,
+            "_unmapped_timestamp_sec": 166.51763,
+            "narration_text": "# C C   picks a pasta",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 170.3388186,
+            "timestamp_frame": 5110,
+            "_unmapped_timestamp_sec": 170.31779,
+            "narration_text": "# C C  puts a pasta in the dish",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 171.3911786,
+            "timestamp_frame": 5141,
+            "_unmapped_timestamp_sec": 171.37015,
+            "narration_text": "# C C  shakes the packet",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 171.9784786,
+            "timestamp_frame": 5159,
+            "_unmapped_timestamp_sec": 171.95745,
+            "narration_text": "# C C folds the packet of pasta",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 176.0516286,
+            "timestamp_frame": 5281,
+            "_unmapped_timestamp_sec": 176.0306,
+            "narration_text": "# C C   picks a cellotape",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 177.22165859999998,
+            "timestamp_frame": 5316,
+            "_unmapped_timestamp_sec": 177.20063,
+            "narration_text": "# C C   wraps the cellotape on the packet",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 179.3324786,
+            "timestamp_frame": 5379,
+            "_unmapped_timestamp_sec": 179.31145,
+            "narration_text": "# C C   turns the packet of pasta",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 179.9906486,
+            "timestamp_frame": 5399,
+            "_unmapped_timestamp_sec": 179.96962,
+            "narration_text": "# C C   opens the draw",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 180.9113586,
+            "timestamp_frame": 5427,
+            "_unmapped_timestamp_sec": 180.89033,
+            "narration_text": "# C C   puts the pasta in draw",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 182.61867859999998,
+            "timestamp_frame": 5478,
+            "_unmapped_timestamp_sec": 182.59765,
+            "narration_text": "# C C   holds packets of # unsure",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 186.0953686,
+            "timestamp_frame": 5582,
+            "_unmapped_timestamp_sec": 186.07434,
+            "narration_text": "# C C   pushes the draw",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 187.3855786,
+            "timestamp_frame": 5621,
+            "_unmapped_timestamp_sec": 187.36455,
+            "narration_text": "# C C   closes the draw",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 187.5901586,
+            "timestamp_frame": 5627,
+            "_unmapped_timestamp_sec": 187.56913,
+            "narration_text": "# C C  opens the draw as he close",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 188.0003486,
+            "timestamp_frame": 5639,
+            "_unmapped_timestamp_sec": 187.97932,
+            "narration_text": "# C C   opens the draw",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 191.7999586,
+            "timestamp_frame": 5753,
+            "_unmapped_timestamp_sec": 191.77893,
+            "narration_text": "# C C   picks packet of carrot",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 192.82319859999998,
+            "timestamp_frame": 5784,
+            "_unmapped_timestamp_sec": 192.80217,
+            "narration_text": "# C C   closes the drawer",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 193.1842586,
+            "timestamp_frame": 5795,
+            "_unmapped_timestamp_sec": 193.16323,
+            "narration_text": "# C C  unpacks the carrot",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 196.1233786,
+            "timestamp_frame": 5883,
+            "_unmapped_timestamp_sec": 196.10235,
+            "narration_text": "# C C   puts the carrot on the chop board",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 197.69542859999999,
+            "timestamp_frame": 5930,
+            "_unmapped_timestamp_sec": 197.6744,
+            "narration_text": "# C C   unwraps the carrot",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 200.5734286,
+            "timestamp_frame": 6017,
+            "_unmapped_timestamp_sec": 200.5524,
+            "narration_text": "# C C   pushes the scissor",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 201.1006086,
+            "timestamp_frame": 6032,
+            "_unmapped_timestamp_sec": 201.07958,
+            "narration_text": "# C C   picks the knife",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 204.7778986,
+            "timestamp_frame": 6143,
+            "_unmapped_timestamp_sec": 204.75687,
+            "narration_text": "# C C   cuts the carrot into two",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 205.7421986,
+            "timestamp_frame": 6172,
+            "_unmapped_timestamp_sec": 205.72117,
+            "narration_text": "# C C   wraps the piece of carrot",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 207.5066886,
+            "timestamp_frame": 6225,
+            "_unmapped_timestamp_sec": 207.48566,
+            "narration_text": "# C C   walks",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 212.1721686,
+            "timestamp_frame": 6365,
+            "_unmapped_timestamp_sec": 212.15114,
+            "narration_text": "# C C   opens the draw",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 212.63865859999999,
+            "timestamp_frame": 6379,
+            "_unmapped_timestamp_sec": 212.61763,
+            "narration_text": "# C C   puts the carrot in the draw",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 213.6388486,
+            "timestamp_frame": 6409,
+            "_unmapped_timestamp_sec": 213.61782,
+            "narration_text": "# C C   closes the draw",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 216.4886986,
+            "timestamp_frame": 6494,
+            "_unmapped_timestamp_sec": 216.46767,
+            "narration_text": "# C C   walks",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 216.7337786,
+            "timestamp_frame": 6501,
+            "_unmapped_timestamp_sec": 216.71275,
+            "narration_text": "# C C  touches the dish of pasta",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 217.9096586,
+            "timestamp_frame": 6537,
+            "_unmapped_timestamp_sec": 217.88863,
+            "narration_text": "# C C   puts the cloth on the sink",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 219.7735386,
+            "timestamp_frame": 6593,
+            "_unmapped_timestamp_sec": 219.75251,
+            "narration_text": "# C C   touches the pasta",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 219.8585886,
+            "timestamp_frame": 6595,
+            "_unmapped_timestamp_sec": 219.83756,
+            "narration_text": "# C C   opens the tap",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 221.0837986,
+            "timestamp_frame": 6632,
+            "_unmapped_timestamp_sec": 221.06277,
+            "narration_text": "# C C  rinses the pasta",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 228.3620786,
+            "timestamp_frame": 6850,
+            "_unmapped_timestamp_sec": 228.34105,
+            "narration_text": "# C C washes the spring onion",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 234.2617886,
+            "timestamp_frame": 7027,
+            "_unmapped_timestamp_sec": 234.24076,
+            "narration_text": "# C C puts the onion on the chopboard",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 239.7945786,
+            "timestamp_frame": 7193,
+            "_unmapped_timestamp_sec": 239.77355,
+            "narration_text": "# C C cuts the spring onion",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 241.7946786,
+            "timestamp_frame": 7253,
+            "_unmapped_timestamp_sec": 241.77365,
+            "narration_text": "# C C puts the onion in the sink",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 244.0829386,
+            "timestamp_frame": 7322,
+            "_unmapped_timestamp_sec": 244.06191,
+            "narration_text": "# C C cuts the onion",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 245.9660286,
+            "timestamp_frame": 7378,
+            "_unmapped_timestamp_sec": 245.945,
+            "narration_text": "# C C puts the onion in the sink",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 249.8684786,
+            "timestamp_frame": 7495,
+            "_unmapped_timestamp_sec": 249.84745,
+            "narration_text": "# C C cuts the onion",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 251.3489186,
+            "timestamp_frame": 7540,
+            "_unmapped_timestamp_sec": 251.32789,
+            "narration_text": "# C C cuts the onion",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 252.9656786,
+            "timestamp_frame": 7588,
+            "_unmapped_timestamp_sec": 252.94465,
+            "narration_text": "# C C cuts the onion",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 255.33169859999998,
+            "timestamp_frame": 7659,
+            "_unmapped_timestamp_sec": 255.31067,
+            "narration_text": "# C C puts the onion aside",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 255.8489686,
+            "timestamp_frame": 7675,
+            "_unmapped_timestamp_sec": 255.82794,
+            "narration_text": "# C C cuts the onion",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 259.4640486,
+            "timestamp_frame": 7783,
+            "_unmapped_timestamp_sec": 259.44302,
+            "narration_text": "# C C cuts the onion",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 261.01707860000005,
+            "timestamp_frame": 7830,
+            "_unmapped_timestamp_sec": 260.99605,
+            "narration_text": "# C C cuts the onion",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 264.9153086,
+            "timestamp_frame": 7947,
+            "_unmapped_timestamp_sec": 264.89428,
+            "narration_text": "# C C cuts the onion",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 282.01361860000003,
+            "timestamp_frame": 8460,
+            "_unmapped_timestamp_sec": 281.99259,
+            "narration_text": "# C C  puts the onion in the sieve",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 268.1056686,
+            "timestamp_frame": 8043,
+            "_unmapped_timestamp_sec": 268.08464,
+            "narration_text": "# C C cuts the onion",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 273.2756886,
+            "timestamp_frame": 8198,
+            "_unmapped_timestamp_sec": 273.25466,
+            "narration_text": "# C C cuts the onion",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 273.88471860000004,
+            "timestamp_frame": 8216,
+            "_unmapped_timestamp_sec": 273.86369,
+            "narration_text": "# C C cuts the onion",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 282.45178860000004,
+            "timestamp_frame": 8473,
+            "_unmapped_timestamp_sec": 282.43076,
+            "narration_text": "# C C  puts the onion in the sieve",
+            "annotation_uid": "24a47ef7-03fd-4545-9172-41a63a9089cb"
+        },
+        {
+            "timestamp_sec": 285.5782186,
+            "timestamp_frame": 8567,
+            "_unmapped_timestamp_sec": 285.55719,
+            "narration_text": "#  C C puts the spring onion in the sieve",
+            "annotation_uid": "cdb36c38-5614-4778-91cb-738edbfc7df7"
+        },
+        {
+            "timestamp_sec": 287.61202860000003,
+            "timestamp_frame": 8628,
+            "_unmapped_timestamp_sec": 287.591,
+            "narration_text": "#C C collects the onion",
+            "annotation_uid": "cdb36c38-5614-4778-91cb-738edbfc7df7"
+        },
+        {
+            "timestamp_sec": 289.6614086,
+            "timestamp_frame": 8689,
+            "_unmapped_timestamp_sec": 289.64038,
+            "narration_text": "#  C C puts the spring onion in the sieve",
+            "annotation_uid": "cdb36c38-5614-4778-91cb-738edbfc7df7"
+        },
+        {
+            "timestamp_sec": 291.5775386,
+            "timestamp_frame": 8747,
+            "_unmapped_timestamp_sec": 291.55651,
+            "narration_text": "#  C C puts the spring onion in the sieve",
+            "annotation_uid": "cdb36c38-5614-4778-91cb-738edbfc7df7"
+        },
+        {
+            "timestamp_sec": 295.0999186,
+            "timestamp_frame": 8852,
+            "_unmapped_timestamp_sec": 295.07889,
+            "narration_text": "# C C wipes the knife with his hand",
+            "annotation_uid": "cdb36c38-5614-4778-91cb-738edbfc7df7"
+        }
+    ]
+}

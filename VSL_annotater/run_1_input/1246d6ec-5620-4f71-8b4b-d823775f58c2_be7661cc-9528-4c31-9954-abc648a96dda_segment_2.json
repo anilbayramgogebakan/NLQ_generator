@@ -1,0 +1,767 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 301.3543609546634,
+            "timestamp_frame": 9040,
+            "_unmapped_timestamp_sec": 301.37539,
+            "narration_text": "#O person X speaks to C",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 305.4280809546634,
+            "timestamp_frame": 9162,
+            "_unmapped_timestamp_sec": 305.44911,
+            "narration_text": "#O person X eats",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 306.3626209546634,
+            "timestamp_frame": 9190,
+            "_unmapped_timestamp_sec": 306.38365,
+            "narration_text": "#C C adjusts camera",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 306.3626209546634,
+            "timestamp_frame": 9190,
+            "_unmapped_timestamp_sec": 306.38365,
+            "narration_text": "#C C looks at person X",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 310.7523309546634,
+            "timestamp_frame": 9322,
+            "_unmapped_timestamp_sec": 310.77336,
+            "narration_text": "#O person holds C camera",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 312.38127095466336,
+            "timestamp_frame": 9371,
+            "_unmapped_timestamp_sec": 312.40229999999997,
+            "narration_text": "#C C speaks to person X",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 312.3809709546634,
+            "timestamp_frame": 9371,
+            "_unmapped_timestamp_sec": 312.402,
+            "narration_text": "#C C looks at person X",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 316.5213909546634,
+            "timestamp_frame": 9495,
+            "_unmapped_timestamp_sec": 316.54242,
+            "narration_text": "#O person X scoops vegetables from the bowl",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 320.2401809546634,
+            "timestamp_frame": 9607,
+            "_unmapped_timestamp_sec": 320.26121,
+            "narration_text": "#O person X eats",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 324.0868109546634,
+            "timestamp_frame": 9722,
+            "_unmapped_timestamp_sec": 324.10784,
+            "narration_text": "#C C looks at the vegetables in the bowl",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 327.3129009546634,
+            "timestamp_frame": 9819,
+            "_unmapped_timestamp_sec": 327.33393,
+            "narration_text": "#C C looks at person Y",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 331.2306209546634,
+            "timestamp_frame": 9936,
+            "_unmapped_timestamp_sec": 331.25165,
+            "narration_text": "#C C looks at the vegetables in the bowl",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 332.3076109546634,
+            "timestamp_frame": 9969,
+            "_unmapped_timestamp_sec": 332.32864,
+            "narration_text": "#C C looks at person X",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 333.2046809546634,
+            "timestamp_frame": 9996,
+            "_unmapped_timestamp_sec": 333.22571,
+            "narration_text": "#O person X eats",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 333.6890709546634,
+            "timestamp_frame": 10010,
+            "_unmapped_timestamp_sec": 333.7101,
+            "narration_text": "#O person Y waves at C ",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 334.21304095466337,
+            "timestamp_frame": 10026,
+            "_unmapped_timestamp_sec": 334.23407,
+            "narration_text": "#O person Y speaks",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 337.2945809546634,
+            "timestamp_frame": 10118,
+            "_unmapped_timestamp_sec": 337.31561,
+            "narration_text": "#C C looks at person Y",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 340.2566409546634,
+            "timestamp_frame": 10207,
+            "_unmapped_timestamp_sec": 340.27767,
+            "narration_text": "#O person Y speaks",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 340.93535095466336,
+            "timestamp_frame": 10227,
+            "_unmapped_timestamp_sec": 340.95637999999997,
+            "narration_text": "#C C looks at person Y",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 342.7035109546634,
+            "timestamp_frame": 10280,
+            "_unmapped_timestamp_sec": 342.72454,
+            "narration_text": "#O person X eats",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 345.0803109546634,
+            "timestamp_frame": 10352,
+            "_unmapped_timestamp_sec": 345.10134,
+            "narration_text": "#O person X scoops vegetables from the bowl",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 347.6796709546634,
+            "timestamp_frame": 10430,
+            "_unmapped_timestamp_sec": 347.7007,
+            "narration_text": "#O person X eats",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 348.14640095466336,
+            "timestamp_frame": 10444,
+            "_unmapped_timestamp_sec": 348.16742999999997,
+            "narration_text": "#O person Y speaks ",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 349.6798609546634,
+            "timestamp_frame": 10490,
+            "_unmapped_timestamp_sec": 349.70089,
+            "narration_text": "#O person X mixes vegetables in the bowl",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 354.1193709546634,
+            "timestamp_frame": 10623,
+            "_unmapped_timestamp_sec": 354.1404,
+            "narration_text": "#C C speaks to person X",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 354.1193709546634,
+            "timestamp_frame": 10623,
+            "_unmapped_timestamp_sec": 354.1404,
+            "narration_text": "#C C looks at person X",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 357.1819909546634,
+            "timestamp_frame": 10715,
+            "_unmapped_timestamp_sec": 357.20302,
+            "narration_text": "#O person X picks vegetables from the bowl",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 358.4207309546634,
+            "timestamp_frame": 10752,
+            "_unmapped_timestamp_sec": 358.44176,
+            "narration_text": "#O person X eats",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 358.78563095466336,
+            "timestamp_frame": 10763,
+            "_unmapped_timestamp_sec": 358.80665999999997,
+            "narration_text": "#C C speaks ",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 362.5986109546634,
+            "timestamp_frame": 10877,
+            "_unmapped_timestamp_sec": 362.61964,
+            "narration_text": "#C C looks at person Y",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 364.15090095466337,
+            "timestamp_frame": 10924,
+            "_unmapped_timestamp_sec": 364.17193,
+            "narration_text": "#O person Y speaks to C",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 365.60308095466337,
+            "timestamp_frame": 10967,
+            "_unmapped_timestamp_sec": 365.62411,
+            "narration_text": "#C C speaks",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 368.0182109546634,
+            "timestamp_frame": 11040,
+            "_unmapped_timestamp_sec": 368.03924,
+            "narration_text": "#O person Y speaks to C",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 370.0450909546634,
+            "timestamp_frame": 11101,
+            "_unmapped_timestamp_sec": 370.06612,
+            "narration_text": "#C C looks at person X",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 370.9365409546634,
+            "timestamp_frame": 11127,
+            "_unmapped_timestamp_sec": 370.95757000000003,
+            "narration_text": "#C C speaks",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 373.4931909546634,
+            "timestamp_frame": 11204,
+            "_unmapped_timestamp_sec": 373.51422,
+            "narration_text": "#C C looks at person X and Y",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 375.4354209546634,
+            "timestamp_frame": 11262,
+            "_unmapped_timestamp_sec": 375.45645,
+            "narration_text": "#C C speaks to person Y",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 379.5369309546634,
+            "timestamp_frame": 11385,
+            "_unmapped_timestamp_sec": 379.55796,
+            "narration_text": "#O person Y speaks to C",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 384.06208095466343,
+            "timestamp_frame": 11521,
+            "_unmapped_timestamp_sec": 384.08311000000003,
+            "narration_text": "#C C speaks to person Y",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 388.4801609546634,
+            "timestamp_frame": 11654,
+            "_unmapped_timestamp_sec": 388.50119,
+            "narration_text": "#O person X scoops vegetables in the bowl",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 389.3771409546634,
+            "timestamp_frame": 11681,
+            "_unmapped_timestamp_sec": 389.39817,
+            "narration_text": "#C C speaks to person Y",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 392.8147509546634,
+            "timestamp_frame": 11784,
+            "_unmapped_timestamp_sec": 392.83578,
+            "narration_text": "#C C speaks to person Y",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 392.8147509546634,
+            "timestamp_frame": 11784,
+            "_unmapped_timestamp_sec": 392.83578,
+            "narration_text": "#O person X puts vegetables in the plate",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 402.9790409546634,
+            "timestamp_frame": 12089,
+            "_unmapped_timestamp_sec": 403.00007,
+            "narration_text": "#C C looks at both person C and Y",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 403.6254509546634,
+            "timestamp_frame": 12108,
+            "_unmapped_timestamp_sec": 403.64648,
+            "narration_text": "#O person X picks serviette",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 403.7116409546634,
+            "timestamp_frame": 12111,
+            "_unmapped_timestamp_sec": 403.73267,
+            "narration_text": "#O person X wipes the bowl",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 404.2705809546634,
+            "timestamp_frame": 12127,
+            "_unmapped_timestamp_sec": 404.29161,
+            "narration_text": "#C C speaks",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 409.77464095466337,
+            "timestamp_frame": 12293,
+            "_unmapped_timestamp_sec": 409.79567,
+            "narration_text": "#O person X speaks to C",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 412.0257809546634,
+            "timestamp_frame": 12360,
+            "_unmapped_timestamp_sec": 412.04681,
+            "narration_text": "#O person X eats",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 412.53950095466337,
+            "timestamp_frame": 12376,
+            "_unmapped_timestamp_sec": 412.56052999999997,
+            "narration_text": "#O person Y speaks",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 414.3588409546634,
+            "timestamp_frame": 12430,
+            "_unmapped_timestamp_sec": 414.37987,
+            "narration_text": "#O person X eats",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 416.6855409546634,
+            "timestamp_frame": 12500,
+            "_unmapped_timestamp_sec": 416.70657,
+            "narration_text": "#O person Y speaks",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 419.2505909546634,
+            "timestamp_frame": 12577,
+            "_unmapped_timestamp_sec": 419.27162,
+            "narration_text": "#O looks at person Y",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 419.8041309546634,
+            "timestamp_frame": 12593,
+            "_unmapped_timestamp_sec": 419.82516,
+            "narration_text": "#O person X speaks to person Y",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 423.8008809546634,
+            "timestamp_frame": 12713,
+            "_unmapped_timestamp_sec": 423.82191,
+            "narration_text": "#O person Y picks serviette",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 425.0881609546634,
+            "timestamp_frame": 12752,
+            "_unmapped_timestamp_sec": 425.10919,
+            "narration_text": "#O person Y wipes mouth",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 427.0042709546634,
+            "timestamp_frame": 12809,
+            "_unmapped_timestamp_sec": 427.0253,
+            "narration_text": "#O person X eats",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 430.1274509546634,
+            "timestamp_frame": 12903,
+            "_unmapped_timestamp_sec": 430.14848,
+            "narration_text": "#O person X removes food from the mouth",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 430.5270609546634,
+            "timestamp_frame": 12915,
+            "_unmapped_timestamp_sec": 430.54809,
+            "narration_text": "#O person X places on the serviette",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 433.0824909546634,
+            "timestamp_frame": 12992,
+            "_unmapped_timestamp_sec": 433.10352,
+            "narration_text": "#O person X speaks to C ",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 435.2094609546634,
+            "timestamp_frame": 13056,
+            "_unmapped_timestamp_sec": 435.23049000000003,
+            "narration_text": "#O person X eats",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 438.0679909546634,
+            "timestamp_frame": 13141,
+            "_unmapped_timestamp_sec": 438.08902,
+            "narration_text": "#C C looks at person X",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 439.76595095466337,
+            "timestamp_frame": 13192,
+            "_unmapped_timestamp_sec": 439.78697999999997,
+            "narration_text": "#C C speaks to person X",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 441.4727109546634,
+            "timestamp_frame": 13244,
+            "_unmapped_timestamp_sec": 441.49374,
+            "narration_text": "#O person looks at person Y",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 441.4727109546634,
+            "timestamp_frame": 13244,
+            "_unmapped_timestamp_sec": 441.49374,
+            "narration_text": "#O person X speaks to C ",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 445.29657095466337,
+            "timestamp_frame": 13358,
+            "_unmapped_timestamp_sec": 445.31759999999997,
+            "narration_text": "#C C speaks to C ",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 449.0412209546634,
+            "timestamp_frame": 13471,
+            "_unmapped_timestamp_sec": 449.06225,
+            "narration_text": "#O person X eats",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 449.0412209546634,
+            "timestamp_frame": 13471,
+            "_unmapped_timestamp_sec": 449.06225,
+            "narration_text": "#C C looks at person X",
+            "annotation_uid": "de7c9e91-f3c2-4f17-9ecf-17b9695efedf"
+        },
+        {
+            "timestamp_sec": 304.6912609546634,
+            "timestamp_frame": 9140,
+            "_unmapped_timestamp_sec": 304.71229,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 309.5943309546634,
+            "timestamp_frame": 9287,
+            "_unmapped_timestamp_sec": 309.61536,
+            "narration_text": "#O A man Y touches a camera",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 312.5998009546634,
+            "timestamp_frame": 9377,
+            "_unmapped_timestamp_sec": 312.62083,
+            "narration_text": "#O A man Y eats food",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 314.5231009546634,
+            "timestamp_frame": 9435,
+            "_unmapped_timestamp_sec": 314.54413,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 316.3232609546634,
+            "timestamp_frame": 9489,
+            "_unmapped_timestamp_sec": 316.34429,
+            "narration_text": "#O A man Y scoops food in a bowl",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 319.7537109546634,
+            "timestamp_frame": 9592,
+            "_unmapped_timestamp_sec": 319.77474,
+            "narration_text": "#O A man Y eats food",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 332.3735509546634,
+            "timestamp_frame": 9971,
+            "_unmapped_timestamp_sec": 332.39458,
+            "narration_text": "# C C moves her head",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 333.7453209546634,
+            "timestamp_frame": 10012,
+            "_unmapped_timestamp_sec": 333.76635,
+            "narration_text": "#O A  child  K waves at C",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 337.2680009546634,
+            "timestamp_frame": 10117,
+            "_unmapped_timestamp_sec": 337.28903,
+            "narration_text": "#O A  child  K picks a serviette",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 339.8530009546634,
+            "timestamp_frame": 10195,
+            "_unmapped_timestamp_sec": 339.87403,
+            "narration_text": "#O A man Y eats food\n",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 341.9279609546634,
+            "timestamp_frame": 10257,
+            "_unmapped_timestamp_sec": 341.94899,
+            "narration_text": "#O A  child  K  converses with C",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 345.2026209546634,
+            "timestamp_frame": 10355,
+            "_unmapped_timestamp_sec": 345.22365,
+            "narration_text": "#O A man Y scoops food from a bowl",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 347.7230709546634,
+            "timestamp_frame": 10431,
+            "_unmapped_timestamp_sec": 347.7441,
+            "narration_text": "#O A man Y eats food\n",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 350.6928809546634,
+            "timestamp_frame": 10520,
+            "_unmapped_timestamp_sec": 350.71391,
+            "narration_text": "#O A man Y stirs food in a bowl",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 358.0998309546634,
+            "timestamp_frame": 10742,
+            "_unmapped_timestamp_sec": 358.12086,
+            "narration_text": "#O A man Y eats food",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 361.6816209546634,
+            "timestamp_frame": 10850,
+            "_unmapped_timestamp_sec": 361.70265,
+            "narration_text": "#O A  child  K  eats food",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 364.8029009546634,
+            "timestamp_frame": 10943,
+            "_unmapped_timestamp_sec": 364.82393,
+            "narration_text": "#O A  child  K  converses with C ",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 368.6649909546634,
+            "timestamp_frame": 11059,
+            "_unmapped_timestamp_sec": 368.68602,
+            "narration_text": "#O A  child  K holds a serviette",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 371.4215209546634,
+            "timestamp_frame": 11142,
+            "_unmapped_timestamp_sec": 371.44255,
+            "narration_text": "#O A  child  K wipes her mouth with a serviette",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 374.7963809546634,
+            "timestamp_frame": 11243,
+            "_unmapped_timestamp_sec": 374.81741,
+            "narration_text": "#O A  child  K drops a serviette on the table",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 376.7308409546634,
+            "timestamp_frame": 11301,
+            "_unmapped_timestamp_sec": 376.75187,
+            "narration_text": "#O A man Y eats food\n",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 381.17819095466336,
+            "timestamp_frame": 11435,
+            "_unmapped_timestamp_sec": 381.19921999999997,
+            "narration_text": "#C C converses with child K",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 383.0928009546634,
+            "timestamp_frame": 11492,
+            "_unmapped_timestamp_sec": 383.11383,
+            "narration_text": "#O A man Y eats food",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 387.4950309546634,
+            "timestamp_frame": 11624,
+            "_unmapped_timestamp_sec": 387.51606,
+            "narration_text": "#O A man Y  serves food in a plate",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 401.7356609546634,
+            "timestamp_frame": 12051,
+            "_unmapped_timestamp_sec": 401.75669,
+            "narration_text": "#C C converses with man Y",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 403.6513209546634,
+            "timestamp_frame": 12109,
+            "_unmapped_timestamp_sec": 403.67235,
+            "narration_text": "#O A man Y picks a serviette",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 404.97166095466343,
+            "timestamp_frame": 12149,
+            "_unmapped_timestamp_sec": 404.99269000000004,
+            "narration_text": "#O A man Y wipes a bowl",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 406.66902095466344,
+            "timestamp_frame": 12199,
+            "_unmapped_timestamp_sec": 406.69005000000004,
+            "narration_text": "#O A man Y drops a serviette on the table",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 408.2311809546634,
+            "timestamp_frame": 12246,
+            "_unmapped_timestamp_sec": 408.25221,
+            "narration_text": "#O A man Y eats food",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 413.08000095466343,
+            "timestamp_frame": 12392,
+            "_unmapped_timestamp_sec": 413.10103000000004,
+            "narration_text": "#O A child K eats food",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 414.63717095466336,
+            "timestamp_frame": 12438,
+            "_unmapped_timestamp_sec": 414.65819999999997,
+            "narration_text": "#O A man Y eats food",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 415.96633095466336,
+            "timestamp_frame": 12478,
+            "_unmapped_timestamp_sec": 415.98735999999997,
+            "narration_text": "#O A child K  converses with man Y",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 418.6755909546634,
+            "timestamp_frame": 12560,
+            "_unmapped_timestamp_sec": 418.69662,
+            "narration_text": "#O A child K picks a piece of meat",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 421.1022809546634,
+            "timestamp_frame": 12632,
+            "_unmapped_timestamp_sec": 421.12331,
+            "narration_text": "#O A child K eats meat",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 423.8815609546634,
+            "timestamp_frame": 12716,
+            "_unmapped_timestamp_sec": 423.90259000000003,
+            "narration_text": "#O A child K picks a serviette",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 425.2802409546634,
+            "timestamp_frame": 12758,
+            "_unmapped_timestamp_sec": 425.30127,
+            "narration_text": "#O A child K wipes her mouth",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 426.8658509546634,
+            "timestamp_frame": 12805,
+            "_unmapped_timestamp_sec": 426.88688,
+            "narration_text": "#O A man Y eats food",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 433.2025209546634,
+            "timestamp_frame": 12995,
+            "_unmapped_timestamp_sec": 433.22355,
+            "narration_text": "#O A child K eats food",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 436.50690095466337,
+            "timestamp_frame": 13095,
+            "_unmapped_timestamp_sec": 436.52792999999997,
+            "narration_text": "#O A man Y eats food",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 440.5364609546634,
+            "timestamp_frame": 13215,
+            "_unmapped_timestamp_sec": 440.55749000000003,
+            "narration_text": "#C C Converses with man Y",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        },
+        {
+            "timestamp_sec": 448.85421095466336,
+            "timestamp_frame": 13465,
+            "_unmapped_timestamp_sec": 448.87523999999996,
+            "narration_text": "#O A man Y eats food",
+            "annotation_uid": "896ba773-cd80-40da-bc8c-158a0152633a"
+        }
+    ]
+}

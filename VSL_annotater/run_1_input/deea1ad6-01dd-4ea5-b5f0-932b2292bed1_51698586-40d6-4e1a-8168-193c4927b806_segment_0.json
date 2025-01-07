@@ -1,0 +1,977 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 2.2768486,
+            "timestamp_frame": 68,
+            "_unmapped_timestamp_sec": 2.25582,
+            "narration_text": "#C C takes a sauce pan from a rack",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 4.2023686,
+            "timestamp_frame": 125,
+            "_unmapped_timestamp_sec": 4.18134,
+            "narration_text": "#C C takes another sauce pan from the rack",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 5.4473886,
+            "timestamp_frame": 163,
+            "_unmapped_timestamp_sec": 5.42636,
+            "narration_text": "#C C keeps back the first sauce pan in the rack",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 7.0877786,
+            "timestamp_frame": 212,
+            "_unmapped_timestamp_sec": 7.06675,
+            "narration_text": "#C C drops the second sauce pan on a cooker",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 8.4318586,
+            "timestamp_frame": 252,
+            "_unmapped_timestamp_sec": 8.41083,
+            "narration_text": "#C C attempts to open a container",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 21.0454586,
+            "timestamp_frame": 631,
+            "_unmapped_timestamp_sec": 21.02443,
+            "narration_text": "#C C opens the container",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 21.6853386,
+            "timestamp_frame": 650,
+            "_unmapped_timestamp_sec": 21.66431,
+            "narration_text": "#C C drops the cover of the container on the table",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 22.3342186,
+            "timestamp_frame": 669,
+            "_unmapped_timestamp_sec": 22.31319,
+            "narration_text": "#C C rotates the container",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 23.2863186,
+            "timestamp_frame": 698,
+            "_unmapped_timestamp_sec": 23.26529,
+            "narration_text": "#C C moves the cover of the container on the table",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 24.277578600000002,
+            "timestamp_frame": 728,
+            "_unmapped_timestamp_sec": 24.25655,
+            "narration_text": "#C C takes a knife from a rack",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 26.243418600000002,
+            "timestamp_frame": 787,
+            "_unmapped_timestamp_sec": 26.22239,
+            "narration_text": "#C C tries to cut the chocolate in the container with the knife",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 32.5320186,
+            "timestamp_frame": 975,
+            "_unmapped_timestamp_sec": 32.51099,
+            "narration_text": "#C C turns the container to its face on a cutting board",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 34.881308600000004,
+            "timestamp_frame": 1046,
+            "_unmapped_timestamp_sec": 34.86028,
+            "narration_text": "#C C moves the cover of the container",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 37.3560086,
+            "timestamp_frame": 1120,
+            "_unmapped_timestamp_sec": 37.33498,
+            "narration_text": "#C C presses the bottom of the container to the cutting board",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 39.666318600000004,
+            "timestamp_frame": 1189,
+            "_unmapped_timestamp_sec": 39.64529,
+            "narration_text": "#C C separates the container from its chocolate content",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 41.8093286,
+            "timestamp_frame": 1254,
+            "_unmapped_timestamp_sec": 41.7883,
+            "narration_text": "#C C drops the container on the table",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 43.6034786,
+            "timestamp_frame": 1307,
+            "_unmapped_timestamp_sec": 43.58245,
+            "narration_text": "#C C tries cutting the chocolate with the knife",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 61.154858600000004,
+            "timestamp_frame": 1834,
+            "_unmapped_timestamp_sec": 61.13383,
+            "narration_text": "#C C breaks the chocolate with the knife",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 62.7057786,
+            "timestamp_frame": 1881,
+            "_unmapped_timestamp_sec": 62.68475,
+            "narration_text": "#C C takes a broken chocolate on the board",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 63.5393386,
+            "timestamp_frame": 1906,
+            "_unmapped_timestamp_sec": 63.51831,
+            "narration_text": "#C C puts the chocolate into the sauce pan on the cooker",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 65.36028859999999,
+            "timestamp_frame": 1960,
+            "_unmapped_timestamp_sec": 65.33926,
+            "narration_text": "#C C cuts the chocolate on the board with the knife",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 70.7968786,
+            "timestamp_frame": 2123,
+            "_unmapped_timestamp_sec": 70.77585,
+            "narration_text": "#C C rotates the chocolate on the board",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 72.1865186,
+            "timestamp_frame": 2165,
+            "_unmapped_timestamp_sec": 72.16549,
+            "narration_text": "#C  C drops the knife",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 73.63177859999999,
+            "timestamp_frame": 2208,
+            "_unmapped_timestamp_sec": 73.61075,
+            "narration_text": "#C C breaks the chocolate with her hands on it on the table",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 77.3829686,
+            "timestamp_frame": 2321,
+            "_unmapped_timestamp_sec": 77.36194,
+            "narration_text": "#C C keeps one half of the broken chocolate into its container on the table",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 80.4180586,
+            "timestamp_frame": 2412,
+            "_unmapped_timestamp_sec": 80.39703,
+            "narration_text": "#C C picks a chocolate on the ground",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 82.76550859999999,
+            "timestamp_frame": 2482,
+            "_unmapped_timestamp_sec": 82.74448,
+            "narration_text": "#C C rinses the chocolate with water from the tap",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 87.0194786,
+            "timestamp_frame": 2610,
+            "_unmapped_timestamp_sec": 86.99845,
+            "narration_text": "#C C puts the chocolate into the sauce pan on the cooker",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 89.4624286,
+            "timestamp_frame": 2683,
+            "_unmapped_timestamp_sec": 89.4414,
+            "narration_text": "#C C breaks the other half of the chocolate into two",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 90.8852386,
+            "timestamp_frame": 2726,
+            "_unmapped_timestamp_sec": 90.86421,
+            "narration_text": "#C C puts one part into the sauce pan",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 91.87627859999999,
+            "timestamp_frame": 2756,
+            "_unmapped_timestamp_sec": 91.85525,
+            "narration_text": "#C C puts the other part in the chocolate container",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 94.3999686,
+            "timestamp_frame": 2831,
+            "_unmapped_timestamp_sec": 94.37894,
+            "narration_text": "#C C covers the container",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 96.88997859999999,
+            "timestamp_frame": 2906,
+            "_unmapped_timestamp_sec": 96.86895,
+            "narration_text": "#C C carries the container",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 97.9203586,
+            "timestamp_frame": 2937,
+            "_unmapped_timestamp_sec": 97.89933,
+            "narration_text": "#C C opens a refrigerator",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 100.6203386,
+            "timestamp_frame": 3018,
+            "_unmapped_timestamp_sec": 100.59931,
+            "narration_text": "#C C places the container inside the refrigerator",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 107.5753786,
+            "timestamp_frame": 3227,
+            "_unmapped_timestamp_sec": 107.55435,
+            "narration_text": "#C C closes the refrigerator",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 107.1154486,
+            "timestamp_frame": 3213,
+            "_unmapped_timestamp_sec": 107.09442,
+            "narration_text": "#C C grabs a pack on top of the refrigerator",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 108.5512086,
+            "timestamp_frame": 3256,
+            "_unmapped_timestamp_sec": 108.53018,
+            "narration_text": "#C C drops the pack on the table",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 109.33230859999999,
+            "timestamp_frame": 3279,
+            "_unmapped_timestamp_sec": 109.31128,
+            "narration_text": "#C C takes the sauce pan and a frying pan on the cooker",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 110.42489859999999,
+            "timestamp_frame": 3312,
+            "_unmapped_timestamp_sec": 110.40387,
+            "narration_text": "#C C changes the positions of the sauce pan and the frying pan on the cooker",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 113.49848859999999,
+            "timestamp_frame": 3404,
+            "_unmapped_timestamp_sec": 113.47746,
+            "narration_text": "#C C turns the pack around",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 118.2479386,
+            "timestamp_frame": 3547,
+            "_unmapped_timestamp_sec": 118.22691,
+            "narration_text": "#C C opens the pack",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 119.40098859999999,
+            "timestamp_frame": 3581,
+            "_unmapped_timestamp_sec": 119.37996,
+            "narration_text": "#C C turns on the burner of the cooker",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 129.1328086,
+            "timestamp_frame": 3873,
+            "_unmapped_timestamp_sec": 129.11178,
+            "narration_text": "#C C pours milk from the pack into the sauce pan",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 134.7056886,
+            "timestamp_frame": 4041,
+            "_unmapped_timestamp_sec": 134.68466,
+            "narration_text": "#C C moves cabbage on the table to the cutting board",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 135.2975386,
+            "timestamp_frame": 4058,
+            "_unmapped_timestamp_sec": 135.27651,
+            "narration_text": "#C C drops the pack on the table",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 136.5076986,
+            "timestamp_frame": 4095,
+            "_unmapped_timestamp_sec": 136.48667,
+            "narration_text": "#C C opens the cover of the frying pan",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 137.1961686,
+            "timestamp_frame": 4115,
+            "_unmapped_timestamp_sec": 137.17514,
+            "narration_text": "#C C takes up the frying pan",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 137.6919586,
+            "timestamp_frame": 4130,
+            "_unmapped_timestamp_sec": 137.67093,
+            "narration_text": "#C C keeps the cover of the frying pan on the cooker",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 139.1098286,
+            "timestamp_frame": 4173,
+            "_unmapped_timestamp_sec": 139.0888,
+            "narration_text": "#C C rinses the frying pan in the sink",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 141.5128686,
+            "timestamp_frame": 4245,
+            "_unmapped_timestamp_sec": 141.49184,
+            "narration_text": "#C C picks a sponge",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 143.7679986,
+            "timestamp_frame": 4312,
+            "_unmapped_timestamp_sec": 143.74697,
+            "narration_text": "#C C turns on the tap",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 144.7015486,
+            "timestamp_frame": 4340,
+            "_unmapped_timestamp_sec": 144.68052,
+            "narration_text": "#C C fetches water with the frying pan",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 146.3267186,
+            "timestamp_frame": 4389,
+            "_unmapped_timestamp_sec": 146.30569,
+            "narration_text": "#C C pours away the water in the frying pan in the sink",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 149.35829859999998,
+            "timestamp_frame": 4480,
+            "_unmapped_timestamp_sec": 149.33727,
+            "narration_text": "#C C washes the frying with the sponge",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 42.6142686,
+            "timestamp_frame": 1278,
+            "_unmapped_timestamp_sec": 42.59324,
+            "narration_text": "#C C takes the knife from the cutting born",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 93.7134286,
+            "timestamp_frame": 2811,
+            "_unmapped_timestamp_sec": 93.6924,
+            "narration_text": "#C C picks the cover of the container",
+            "annotation_uid": "0501636c-fe2c-4378-8868-bb219850f2e7"
+        },
+        {
+            "timestamp_sec": 0.6199585999999999,
+            "timestamp_frame": 18,
+            "_unmapped_timestamp_sec": 0.59893,
+            "narration_text": "#C C moves hand",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 1.7182386,
+            "timestamp_frame": 51,
+            "_unmapped_timestamp_sec": 1.69721,
+            "narration_text": "#C C moves hand",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 2.5072686,
+            "timestamp_frame": 75,
+            "_unmapped_timestamp_sec": 2.48624,
+            "narration_text": "#C C  picks the sufuria",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 5.1188086,
+            "timestamp_frame": 153,
+            "_unmapped_timestamp_sec": 5.09778,
+            "narration_text": "#C C  picks another sufuria",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 6.2022086000000005,
+            "timestamp_frame": 185,
+            "_unmapped_timestamp_sec": 6.18118,
+            "narration_text": "#C C  hangs another sufuria",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 7.8195886,
+            "timestamp_frame": 234,
+            "_unmapped_timestamp_sec": 7.79856,
+            "narration_text": "#C C  puts the sufuria down",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 9.2415386,
+            "timestamp_frame": 277,
+            "_unmapped_timestamp_sec": 9.22051,
+            "narration_text": "#C C  tries to open the tin of mince meat",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 12.8780586,
+            "timestamp_frame": 386,
+            "_unmapped_timestamp_sec": 12.85703,
+            "narration_text": "#C C  turns the tin of the  mince meat",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 15.676488599999999,
+            "timestamp_frame": 470,
+            "_unmapped_timestamp_sec": 15.65546,
+            "narration_text": "#C C  tries to open the tin of  mince meat",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 20.9408286,
+            "timestamp_frame": 628,
+            "_unmapped_timestamp_sec": 20.9198,
+            "narration_text": "#C C  opens the  mince meat",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 22.1165586,
+            "timestamp_frame": 663,
+            "_unmapped_timestamp_sec": 22.09553,
+            "narration_text": "#C C puts the tin cover down",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 23.3087386,
+            "timestamp_frame": 699,
+            "_unmapped_timestamp_sec": 23.28771,
+            "narration_text": "#C C  puts the tin cover aside",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 23.043328600000002,
+            "timestamp_frame": 691,
+            "_unmapped_timestamp_sec": 23.0223,
+            "narration_text": "#C C turns the tin of  mince meat",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 24.263968600000002,
+            "timestamp_frame": 727,
+            "_unmapped_timestamp_sec": 24.24294,
+            "narration_text": "#C C  picks the knife",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 26.9835786,
+            "timestamp_frame": 809,
+            "_unmapped_timestamp_sec": 26.96255,
+            "narration_text": "#C C tries to cut the mince meat",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 31.7320286,
+            "timestamp_frame": 951,
+            "_unmapped_timestamp_sec": 31.711,
+            "narration_text": "#C C  puts the knife down",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 32.6865686,
+            "timestamp_frame": 980,
+            "_unmapped_timestamp_sec": 32.66554,
+            "narration_text": "#C C  turns down the tin of the mince meat ",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 36.7881086,
+            "timestamp_frame": 1103,
+            "_unmapped_timestamp_sec": 36.76708,
+            "narration_text": "#C C  puts aside the tin cover",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 38.9562286,
+            "timestamp_frame": 1168,
+            "_unmapped_timestamp_sec": 38.9352,
+            "narration_text": "#C C  presses the tin of mince meat",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 40.0058586,
+            "timestamp_frame": 1200,
+            "_unmapped_timestamp_sec": 39.98483,
+            "narration_text": "#C C removes the tin",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 45.1052486,
+            "timestamp_frame": 1353,
+            "_unmapped_timestamp_sec": 45.08422,
+            "narration_text": "#C C  picks the knife",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 45.0257086,
+            "timestamp_frame": 1350,
+            "_unmapped_timestamp_sec": 45.00468,
+            "narration_text": "#C C  puts the tin aside",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 46.147718600000005,
+            "timestamp_frame": 1384,
+            "_unmapped_timestamp_sec": 46.12669,
+            "narration_text": "#C C  tries to cut the mince meat with knife",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 50.0810886,
+            "timestamp_frame": 1502,
+            "_unmapped_timestamp_sec": 50.06006,
+            "narration_text": "#C C  tries to cut the mince meat with knife",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 52.7636586,
+            "timestamp_frame": 1582,
+            "_unmapped_timestamp_sec": 52.74263,
+            "narration_text": "#C C  tries to cut the mince meat with knife",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 56.3296286,
+            "timestamp_frame": 1689,
+            "_unmapped_timestamp_sec": 56.3086,
+            "narration_text": "#C C  tries to cut the mince meat with knife",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 59.5798386,
+            "timestamp_frame": 1787,
+            "_unmapped_timestamp_sec": 59.55881,
+            "narration_text": "#C C  tries to cut the mince meat with knife",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 62.7304786,
+            "timestamp_frame": 1881,
+            "_unmapped_timestamp_sec": 62.70945,
+            "narration_text": "#C C  tries to cut the mince meat with knife",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 64.56318859999999,
+            "timestamp_frame": 1936,
+            "_unmapped_timestamp_sec": 64.54216,
+            "narration_text": "#C C puts the mince meat in the dish",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 64.3100786,
+            "timestamp_frame": 1929,
+            "_unmapped_timestamp_sec": 64.28905,
+            "narration_text": "#C C cuts the mince meat",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 65.96934859999999,
+            "timestamp_frame": 1978,
+            "_unmapped_timestamp_sec": 65.94832,
+            "narration_text": "#C C tries to cut the mince meat with knife",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 68.7363486,
+            "timestamp_frame": 2061,
+            "_unmapped_timestamp_sec": 68.71532,
+            "narration_text": "#C C preses the knife",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 71.7251586,
+            "timestamp_frame": 2151,
+            "_unmapped_timestamp_sec": 71.70413,
+            "narration_text": "#C C turns the mince meat",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 74.3788786,
+            "timestamp_frame": 2231,
+            "_unmapped_timestamp_sec": 74.35785,
+            "narration_text": "#C C breaks the mince meat",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 75.7444386,
+            "timestamp_frame": 2272,
+            "_unmapped_timestamp_sec": 75.72341,
+            "narration_text": "#C C moves hand",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 77.4137286,
+            "timestamp_frame": 2322,
+            "_unmapped_timestamp_sec": 77.3927,
+            "narration_text": "#C C  puts the mince meat down",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 78.26688859999999,
+            "timestamp_frame": 2347,
+            "_unmapped_timestamp_sec": 78.24586,
+            "narration_text": "#C C  puts the mince meat on the tin",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 81.08785859999999,
+            "timestamp_frame": 2432,
+            "_unmapped_timestamp_sec": 81.06683,
+            "narration_text": "#C C picks the mince meat that drop down",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 82.99128859999999,
+            "timestamp_frame": 2489,
+            "_unmapped_timestamp_sec": 82.97026,
+            "narration_text": "#C C opens the tap",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 83.53882859999999,
+            "timestamp_frame": 2506,
+            "_unmapped_timestamp_sec": 83.5178,
+            "narration_text": "#C C  rinses the mince meat",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 85.78855859999999,
+            "timestamp_frame": 2573,
+            "_unmapped_timestamp_sec": 85.76753,
+            "narration_text": "#C C  closes the tap",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 87.25045859999999,
+            "timestamp_frame": 2617,
+            "_unmapped_timestamp_sec": 87.22943,
+            "narration_text": "#C C  puts the mince meat in the sufuria",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 88.35378859999999,
+            "timestamp_frame": 2650,
+            "_unmapped_timestamp_sec": 88.33276,
+            "narration_text": "#C C  breaks another piece of mince meat",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 90.1498886,
+            "timestamp_frame": 2704,
+            "_unmapped_timestamp_sec": 90.12886,
+            "narration_text": "#C C  puts mince meat in the sufuria",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 92.2270286,
+            "timestamp_frame": 2766,
+            "_unmapped_timestamp_sec": 92.206,
+            "narration_text": "#C C puts the remaining mince meat in the tin",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 94.50019859999999,
+            "timestamp_frame": 2834,
+            "_unmapped_timestamp_sec": 94.47917,
+            "narration_text": "#C C  closes the tin",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 96.6268186,
+            "timestamp_frame": 2898,
+            "_unmapped_timestamp_sec": 96.60579,
+            "narration_text": "#C C  presses the tin gently",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 98.74384859999999,
+            "timestamp_frame": 2962,
+            "_unmapped_timestamp_sec": 98.72282,
+            "narration_text": "#C C carries the mince meat",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 99.00019859999999,
+            "timestamp_frame": 2969,
+            "_unmapped_timestamp_sec": 98.97917,
+            "narration_text": "#C C  opens the cupboard",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 99.8897186,
+            "timestamp_frame": 2996,
+            "_unmapped_timestamp_sec": 99.86869,
+            "narration_text": "#C C  touches the packet of # unsure",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 102.77311859999999,
+            "timestamp_frame": 3083,
+            "_unmapped_timestamp_sec": 102.75209,
+            "narration_text": "#C C  arranges the packets of # unsure",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 107.6729986,
+            "timestamp_frame": 3230,
+            "_unmapped_timestamp_sec": 107.65197,
+            "narration_text": "#C C  puts the tin inside",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 107.9059786,
+            "timestamp_frame": 3237,
+            "_unmapped_timestamp_sec": 107.88495,
+            "narration_text": "#C C picks a box of milk`",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 107.9779786,
+            "timestamp_frame": 3239,
+            "_unmapped_timestamp_sec": 107.95695,
+            "narration_text": "#C C  closes the cupboard",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 108.82697859999999,
+            "timestamp_frame": 3264,
+            "_unmapped_timestamp_sec": 108.80595,
+            "narration_text": "#C C  puts the box down of milk",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 109.1701786,
+            "timestamp_frame": 3274,
+            "_unmapped_timestamp_sec": 109.14915,
+            "narration_text": "#C C  puts the sufuria  down",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 110.9297386,
+            "timestamp_frame": 3327,
+            "_unmapped_timestamp_sec": 110.90871,
+            "narration_text": "#C C  puts the sufuria on the gas",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 112.4564286,
+            "timestamp_frame": 3373,
+            "_unmapped_timestamp_sec": 112.4354,
+            "narration_text": "#C C adjusts the gas",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 114.0055486,
+            "timestamp_frame": 3420,
+            "_unmapped_timestamp_sec": 113.98452,
+            "narration_text": "#C C turns the box of nilk in his hands",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 117.0223486,
+            "timestamp_frame": 3510,
+            "_unmapped_timestamp_sec": 117.00132,
+            "narration_text": "#C C  tries to open the box of milk",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 118.13485859999999,
+            "timestamp_frame": 3543,
+            "_unmapped_timestamp_sec": 118.11383,
+            "narration_text": "#C C  tries to open the box of milk",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 119.83288859999999,
+            "timestamp_frame": 3594,
+            "_unmapped_timestamp_sec": 119.81186,
+            "narration_text": "#C C adjusts the gas",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 121.5436886,
+            "timestamp_frame": 3646,
+            "_unmapped_timestamp_sec": 121.52266,
+            "narration_text": "#C C  tries to open the box of milk",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 123.2453386,
+            "timestamp_frame": 3697,
+            "_unmapped_timestamp_sec": 123.22431,
+            "narration_text": "#C C  tries to open the box of milk",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 124.47928859999999,
+            "timestamp_frame": 3734,
+            "_unmapped_timestamp_sec": 124.45826,
+            "narration_text": "#C C  tries to open the box of milk",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 126.3279386,
+            "timestamp_frame": 3789,
+            "_unmapped_timestamp_sec": 126.30691,
+            "narration_text": "#C C  tries to open the box of milk",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 127.40976859999999,
+            "timestamp_frame": 3822,
+            "_unmapped_timestamp_sec": 127.38874,
+            "narration_text": "#C C opens the box of milk",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 130.0433986,
+            "timestamp_frame": 3901,
+            "_unmapped_timestamp_sec": 130.02237,
+            "narration_text": "#C C pours the milk in the sufuria",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 131.8154186,
+            "timestamp_frame": 3954,
+            "_unmapped_timestamp_sec": 131.79439,
+            "narration_text": "#C C pours the milk in the sufuria",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 133.3117686,
+            "timestamp_frame": 3999,
+            "_unmapped_timestamp_sec": 133.29074,
+            "narration_text": "#C C pours the milk in the sufuria",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 135.3542786,
+            "timestamp_frame": 4060,
+            "_unmapped_timestamp_sec": 135.33325,
+            "narration_text": "#C C  puts aside packed vegetable",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 136.3102286,
+            "timestamp_frame": 4089,
+            "_unmapped_timestamp_sec": 136.2892,
+            "narration_text": "#C C  puts down the milk",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 137.0511586,
+            "timestamp_frame": 4111,
+            "_unmapped_timestamp_sec": 137.03013,
+            "narration_text": "#C C uncovers the sufuria",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 137.7873686,
+            "timestamp_frame": 4133,
+            "_unmapped_timestamp_sec": 137.76634,
+            "narration_text": "#C C picks the sufuria",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 139.64429859999998,
+            "timestamp_frame": 4189,
+            "_unmapped_timestamp_sec": 139.62327,
+            "narration_text": "#C C turns the tap",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 141.9218086,
+            "timestamp_frame": 4257,
+            "_unmapped_timestamp_sec": 141.90078,
+            "narration_text": "#C C puts the pan in the sink",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 141.4116886,
+            "timestamp_frame": 4242,
+            "_unmapped_timestamp_sec": 141.39066,
+            "narration_text": "#C C  picks a cloth",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 144.2599586,
+            "timestamp_frame": 4327,
+            "_unmapped_timestamp_sec": 144.23893,
+            "narration_text": "#C C  touches #unsure",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 146.0603686,
+            "timestamp_frame": 4381,
+            "_unmapped_timestamp_sec": 146.03934,
+            "narration_text": "#C C  pours water in the sink from the pan",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 144.6377386,
+            "timestamp_frame": 4339,
+            "_unmapped_timestamp_sec": 144.61671,
+            "narration_text": "#C C  touches the tap",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 145.48822859999999,
+            "timestamp_frame": 4364,
+            "_unmapped_timestamp_sec": 145.4672,
+            "narration_text": "#C C rotates the pan",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        },
+        {
+            "timestamp_sec": 149.4554386,
+            "timestamp_frame": 4483,
+            "_unmapped_timestamp_sec": 149.43441,
+            "narration_text": "#C C  washes the pan",
+            "annotation_uid": "3d699bee-3798-4812-b164-b0d5acdc04c4"
+        }
+    ]
+}

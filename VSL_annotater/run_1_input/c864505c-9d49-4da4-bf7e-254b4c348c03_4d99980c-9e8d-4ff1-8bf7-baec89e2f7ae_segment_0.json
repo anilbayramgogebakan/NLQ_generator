@@ -1,0 +1,991 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 999.1323576213301,
+            "timestamp_frame": 29973,
+            "_unmapped_timestamp_sec": 999.18672,
+            "narration_text": "#C C closes a tap",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1000.0838176213301,
+            "timestamp_frame": 30002,
+            "_unmapped_timestamp_sec": 1000.13818,
+            "narration_text": "#C C cleans a pot",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1003.4312576213301,
+            "timestamp_frame": 30102,
+            "_unmapped_timestamp_sec": 1003.48562,
+            "narration_text": "#C C turns a pot",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1004.6621576213302,
+            "timestamp_frame": 30139,
+            "_unmapped_timestamp_sec": 1004.71652,
+            "narration_text": "#C C rinses a pot",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1008.45957762133,
+            "timestamp_frame": 30253,
+            "_unmapped_timestamp_sec": 1008.51394,
+            "narration_text": "#C C closes a tap",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1009.1795576213301,
+            "timestamp_frame": 30275,
+            "_unmapped_timestamp_sec": 1009.23392,
+            "narration_text": "#C C pours water",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1011.55485762133,
+            "timestamp_frame": 30346,
+            "_unmapped_timestamp_sec": 1011.60922,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1012.5330976213301,
+            "timestamp_frame": 30375,
+            "_unmapped_timestamp_sec": 1012.58746,
+            "narration_text": "#C C drops a scrubber ",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1013.5103976213301,
+            "timestamp_frame": 30405,
+            "_unmapped_timestamp_sec": 1013.56476,
+            "narration_text": "#C C touches a tin ",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1014.8242076213301,
+            "timestamp_frame": 30444,
+            "_unmapped_timestamp_sec": 1014.87857,
+            "narration_text": "#C C picks a lid",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1015.6254876213301,
+            "timestamp_frame": 30468,
+            "_unmapped_timestamp_sec": 1015.67985,
+            "narration_text": "#C C drops a pot ",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1017.3927376213301,
+            "timestamp_frame": 30521,
+            "_unmapped_timestamp_sec": 1017.4471,
+            "narration_text": "#C C holds a pot ",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1018.7751576213301,
+            "timestamp_frame": 30563,
+            "_unmapped_timestamp_sec": 1018.82952,
+            "narration_text": "#C C drops a tin on the rack ",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1020.5781576213301,
+            "timestamp_frame": 30617,
+            "_unmapped_timestamp_sec": 1020.63252,
+            "narration_text": "#C C picks a bucket ",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1022.2000076213301,
+            "timestamp_frame": 30665,
+            "_unmapped_timestamp_sec": 1022.25437,
+            "narration_text": "#C C pours water in a sink",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1025.6313576213302,
+            "timestamp_frame": 30768,
+            "_unmapped_timestamp_sec": 1025.68572,
+            "narration_text": "#C C holds a scrubber",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1026.78267762133,
+            "timestamp_frame": 30803,
+            "_unmapped_timestamp_sec": 1026.83704,
+            "narration_text": "#C C cleans the bucket ",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1034.14830762133,
+            "timestamp_frame": 31024,
+            "_unmapped_timestamp_sec": 1034.2026700000001,
+            "narration_text": "#C C closes a tap",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1034.9289676213302,
+            "timestamp_frame": 31047,
+            "_unmapped_timestamp_sec": 1034.98333,
+            "narration_text": "#C C holds a scrubber",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1035.9225976213302,
+            "timestamp_frame": 31077,
+            "_unmapped_timestamp_sec": 1035.97696,
+            "narration_text": "#C C drops a scrubber",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1037.01750762133,
+            "timestamp_frame": 31110,
+            "_unmapped_timestamp_sec": 1037.07187,
+            "narration_text": "#C C pours water in sink",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1040.2397876213302,
+            "timestamp_frame": 31207,
+            "_unmapped_timestamp_sec": 1040.29415,
+            "narration_text": "#C C drops a bucket ",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1041.0451776213301,
+            "timestamp_frame": 31231,
+            "_unmapped_timestamp_sec": 1041.09954,
+            "narration_text": "#C C walks around the kitchen ",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1042.08321762133,
+            "timestamp_frame": 31262,
+            "_unmapped_timestamp_sec": 1042.13758,
+            "narration_text": "#C C closes #unsure",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1044.36481762133,
+            "timestamp_frame": 31330,
+            "_unmapped_timestamp_sec": 1044.41918,
+            "narration_text": "#C C connects #unsure",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1045.16187762133,
+            "timestamp_frame": 31354,
+            "_unmapped_timestamp_sec": 1045.21624,
+            "narration_text": "#C C opens #unsure",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1046.87535762133,
+            "timestamp_frame": 31406,
+            "_unmapped_timestamp_sec": 1046.92972,
+            "narration_text": "#C C drops #unsure",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1048.7546576213301,
+            "timestamp_frame": 31462,
+            "_unmapped_timestamp_sec": 1048.80902,
+            "narration_text": "#C C picks a cable",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1050.2956276213301,
+            "timestamp_frame": 31508,
+            "_unmapped_timestamp_sec": 1050.34999,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1052.4903876213302,
+            "timestamp_frame": 31574,
+            "_unmapped_timestamp_sec": 1052.54475,
+            "narration_text": "#C C walks around the kitchen ",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1053.6430676213301,
+            "timestamp_frame": 31609,
+            "_unmapped_timestamp_sec": 1053.69743,
+            "narration_text": "#C C puts #unsure in the cabinet",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1060.7140176213302,
+            "timestamp_frame": 31821,
+            "_unmapped_timestamp_sec": 1060.76838,
+            "narration_text": "#C C walks around the kitchen",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1062.34040762133,
+            "timestamp_frame": 31870,
+            "_unmapped_timestamp_sec": 1062.3947699999999,
+            "narration_text": "#C C picks a kitchen cloth",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1063.25729762133,
+            "timestamp_frame": 31897,
+            "_unmapped_timestamp_sec": 1063.31166,
+            "narration_text": "#C C cleans the countertop ",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1067.6659376213302,
+            "timestamp_frame": 32029,
+            "_unmapped_timestamp_sec": 1067.7203,
+            "narration_text": "#C C picks a jug ",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1068.62322762133,
+            "timestamp_frame": 32058,
+            "_unmapped_timestamp_sec": 1068.67759,
+            "narration_text": "#C C holds a bottle ",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1070.58394762133,
+            "timestamp_frame": 32117,
+            "_unmapped_timestamp_sec": 1070.63831,
+            "narration_text": "#C C arranges tins on the table ",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1071.59661762133,
+            "timestamp_frame": 32147,
+            "_unmapped_timestamp_sec": 1071.65098,
+            "narration_text": "#C C drops a jug ",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1073.33908762133,
+            "timestamp_frame": 32200,
+            "_unmapped_timestamp_sec": 1073.39345,
+            "narration_text": "#C C picks a lid",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1074.20869762133,
+            "timestamp_frame": 32226,
+            "_unmapped_timestamp_sec": 1074.26306,
+            "narration_text": "#C C picks a tin",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1076.09799762133,
+            "timestamp_frame": 32282,
+            "_unmapped_timestamp_sec": 1076.15236,
+            "narration_text": "#C C drops a lid",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1078.51908762133,
+            "timestamp_frame": 32355,
+            "_unmapped_timestamp_sec": 1078.5734499999999,
+            "narration_text": "#C C opens a tap",
+            "annotation_uid": "c8f14cff-6a70-4f1a-8609-dc29538dd9d2"
+        },
+        {
+            "timestamp_sec": 1079.9456376213302,
+            "timestamp_frame": 32398,
+            "_unmapped_timestamp_sec": 1080.0,
+            "narration_text": "#C C puts water in a jug",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1080.7373676213301,
+            "timestamp_frame": 32421,
+            "_unmapped_timestamp_sec": 1080.79173,
+            "narration_text": "#C C washes jug",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1087.70657762133,
+            "timestamp_frame": 32631,
+            "_unmapped_timestamp_sec": 1087.76094,
+            "narration_text": "#C C closes tap",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1088.25349762133,
+            "timestamp_frame": 32647,
+            "_unmapped_timestamp_sec": 1088.30786,
+            "narration_text": "#C C pours water",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1089.80035762133,
+            "timestamp_frame": 32693,
+            "_unmapped_timestamp_sec": 1089.85472,
+            "narration_text": "#C C puts scouring cloth ",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1091.5343276213302,
+            "timestamp_frame": 32745,
+            "_unmapped_timestamp_sec": 1091.58869,
+            "narration_text": "#C C puts jug down ",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1094.48308762133,
+            "timestamp_frame": 32834,
+            "_unmapped_timestamp_sec": 1094.53745,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1097.43518762133,
+            "timestamp_frame": 32922,
+            "_unmapped_timestamp_sec": 1097.48955,
+            "narration_text": "#C C washes #unsure",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1102.00434762133,
+            "timestamp_frame": 33059,
+            "_unmapped_timestamp_sec": 1102.05871,
+            "narration_text": "#C C closes tap",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1103.39758762133,
+            "timestamp_frame": 33101,
+            "_unmapped_timestamp_sec": 1103.45195,
+            "narration_text": "#C C puts #unsure down",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1104.79270762133,
+            "timestamp_frame": 33143,
+            "_unmapped_timestamp_sec": 1104.84707,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1110.05581762133,
+            "timestamp_frame": 33301,
+            "_unmapped_timestamp_sec": 1110.11018,
+            "narration_text": "#O  man W moves hands",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1112.0694876213302,
+            "timestamp_frame": 33361,
+            "_unmapped_timestamp_sec": 1112.12385,
+            "narration_text": "#O man B looks at C",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1114.59455762133,
+            "timestamp_frame": 33437,
+            "_unmapped_timestamp_sec": 1114.64892,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1117.4933576213302,
+            "timestamp_frame": 33524,
+            "_unmapped_timestamp_sec": 1117.54772,
+            "narration_text": "#O man B moves hand",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1119.68353762133,
+            "timestamp_frame": 33590,
+            "_unmapped_timestamp_sec": 1119.7379,
+            "narration_text": "#O man Y stands",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1122.43192762133,
+            "timestamp_frame": 33672,
+            "_unmapped_timestamp_sec": 1122.48629,
+            "narration_text": "#O man B moves hand",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1123.16959762133,
+            "timestamp_frame": 33694,
+            "_unmapped_timestamp_sec": 1123.22396,
+            "narration_text": "#O man W moves hand",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1126.47836762133,
+            "timestamp_frame": 33794,
+            "_unmapped_timestamp_sec": 1126.53273,
+            "narration_text": "#C C moves hands",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1128.58294762133,
+            "timestamp_frame": 33857,
+            "_unmapped_timestamp_sec": 1128.63731,
+            "narration_text": "#C C lifts hand",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1131.0372076213303,
+            "timestamp_frame": 33930,
+            "_unmapped_timestamp_sec": 1131.09157,
+            "narration_text": "#C C walks",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1133.58258762133,
+            "timestamp_frame": 34007,
+            "_unmapped_timestamp_sec": 1133.63695,
+            "narration_text": "#C C opens a bag",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1137.82139762133,
+            "timestamp_frame": 34134,
+            "_unmapped_timestamp_sec": 1137.87576,
+            "narration_text": "#O man B moves hand",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1139.9401276213302,
+            "timestamp_frame": 34198,
+            "_unmapped_timestamp_sec": 1139.99449,
+            "narration_text": "#C C searches in a bag",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1145.34087762133,
+            "timestamp_frame": 34360,
+            "_unmapped_timestamp_sec": 1145.39524,
+            "narration_text": "#C C picks phone from the bag",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 1146.63659762133,
+            "timestamp_frame": 34398,
+            "_unmapped_timestamp_sec": 1146.69096,
+            "narration_text": "#C C uses phone",
+            "annotation_uid": "939d774f-a894-4edd-b9a8-ff7b990127c0"
+        },
+        {
+            "timestamp_sec": 998.8259076213301,
+            "timestamp_frame": 29964,
+            "_unmapped_timestamp_sec": 998.88027,
+            "narration_text": "#C C opens the tap water ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 999.73739762133,
+            "timestamp_frame": 29991,
+            "_unmapped_timestamp_sec": 999.7917600000001,
+            "narration_text": "#C C cleans the cooking pot back with a washing sponge ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1003.4471876213302,
+            "timestamp_frame": 30103,
+            "_unmapped_timestamp_sec": 1003.50155,
+            "narration_text": "#C C turns the cooking pot ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1005.12995762133,
+            "timestamp_frame": 30153,
+            "_unmapped_timestamp_sec": 1005.1843200000001,
+            "narration_text": "#C C cleans inside the cooking pot with a washing sponge ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1008.32659762133,
+            "timestamp_frame": 30249,
+            "_unmapped_timestamp_sec": 1008.38096,
+            "narration_text": "#C C closes the tap water ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1008.9159276213301,
+            "timestamp_frame": 30267,
+            "_unmapped_timestamp_sec": 1008.97029,
+            "narration_text": "#C C pours water in the bucket ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1010.54660762133,
+            "timestamp_frame": 30316,
+            "_unmapped_timestamp_sec": 1010.60097,
+            "narration_text": "#C C squeezes the washing sponge ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1012.34244762133,
+            "timestamp_frame": 30370,
+            "_unmapped_timestamp_sec": 1012.39681,
+            "narration_text": "#C C puts the washing sponge on top of the sink ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1013.4735776213302,
+            "timestamp_frame": 30404,
+            "_unmapped_timestamp_sec": 1013.52794,
+            "narration_text": "#C C moves a small bucket on the rack ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1014.5712276213301,
+            "timestamp_frame": 30437,
+            "_unmapped_timestamp_sec": 1014.62559,
+            "narration_text": "#C C picks a bucket lid ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1015.3343776213301,
+            "timestamp_frame": 30459,
+            "_unmapped_timestamp_sec": 1015.38874,
+            "narration_text": "#C C puts a cooking pot on the rack ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1016.7021976213301,
+            "timestamp_frame": 30500,
+            "_unmapped_timestamp_sec": 1016.75656,
+            "narration_text": "#C C adjusts the cooking pot on the rack ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1018.49144762133,
+            "timestamp_frame": 30554,
+            "_unmapped_timestamp_sec": 1018.54581,
+            "narration_text": "#C C puts the bucket lid on the rack ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1020.0793276213301,
+            "timestamp_frame": 30602,
+            "_unmapped_timestamp_sec": 1020.13369,
+            "narration_text": "#C C holds the bucket in the sink ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1020.4907676213301,
+            "timestamp_frame": 30614,
+            "_unmapped_timestamp_sec": 1020.54513,
+            "narration_text": "#C C moves his head ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1021.2859576213301,
+            "timestamp_frame": 30638,
+            "_unmapped_timestamp_sec": 1021.34032,
+            "narration_text": "#C C turns the bucket in the sink ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1021.9708876213301,
+            "timestamp_frame": 30658,
+            "_unmapped_timestamp_sec": 1022.02525,
+            "narration_text": "#C C pours the water in the sink ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1025.4099976213301,
+            "timestamp_frame": 30762,
+            "_unmapped_timestamp_sec": 1025.46436,
+            "narration_text": "#C C picks the washing sponge ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1025.83616762133,
+            "timestamp_frame": 30774,
+            "_unmapped_timestamp_sec": 1025.8905300000001,
+            "narration_text": "#C C opens the tap water ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1026.56276762133,
+            "timestamp_frame": 30796,
+            "_unmapped_timestamp_sec": 1026.61713,
+            "narration_text": "#C C cleans the bucket with a washing sponge ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1034.05646762133,
+            "timestamp_frame": 31021,
+            "_unmapped_timestamp_sec": 1034.11083,
+            "narration_text": "#C C closes the tap water ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1034.52097762133,
+            "timestamp_frame": 31035,
+            "_unmapped_timestamp_sec": 1034.57534,
+            "narration_text": "#C C looks at the washing sponge ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1035.09438762133,
+            "timestamp_frame": 31052,
+            "_unmapped_timestamp_sec": 1035.14875,
+            "narration_text": "#C C squeezes the washing sponge ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1035.8360476213302,
+            "timestamp_frame": 31074,
+            "_unmapped_timestamp_sec": 1035.89041,
+            "narration_text": "#C C puts the washing sponge on top of the sink ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1036.7885976213302,
+            "timestamp_frame": 31103,
+            "_unmapped_timestamp_sec": 1036.84296,
+            "narration_text": "#C C pours the water in the  sink ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1037.81666762133,
+            "timestamp_frame": 31134,
+            "_unmapped_timestamp_sec": 1037.87103,
+            "narration_text": "#C C shakes the bucket ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1038.6878976213302,
+            "timestamp_frame": 31160,
+            "_unmapped_timestamp_sec": 1038.74226,
+            "narration_text": "#C C moves backwards ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1039.99071762133,
+            "timestamp_frame": 31199,
+            "_unmapped_timestamp_sec": 1040.04508,
+            "narration_text": "#C C puts the bucket on the shelf ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1040.6335176213302,
+            "timestamp_frame": 31218,
+            "_unmapped_timestamp_sec": 1040.68788,
+            "narration_text": "#C C turns towards the table ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1041.16498762133,
+            "timestamp_frame": 31234,
+            "_unmapped_timestamp_sec": 1041.21935,
+            "narration_text": "#C C walks towards the table ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1041.82026762133,
+            "timestamp_frame": 31254,
+            "_unmapped_timestamp_sec": 1041.87463,
+            "narration_text": "#C C closes the pressure cooker lid  ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1043.05123762133,
+            "timestamp_frame": 31291,
+            "_unmapped_timestamp_sec": 1043.1056,
+            "narration_text": "#C C touches the plug from the socket ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1044.93480762133,
+            "timestamp_frame": 31347,
+            "_unmapped_timestamp_sec": 1044.98917,
+            "narration_text": "#C C removes part of the pressure cooker ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1046.7954576213301,
+            "timestamp_frame": 31403,
+            "_unmapped_timestamp_sec": 1046.84982,
+            "narration_text": "#C C puts part of a pressure cooker in the sink ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1047.83997762133,
+            "timestamp_frame": 31435,
+            "_unmapped_timestamp_sec": 1047.89434,
+            "narration_text": "#C C moves towards the table ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1048.7259176213302,
+            "timestamp_frame": 31461,
+            "_unmapped_timestamp_sec": 1048.78028,
+            "narration_text": "#C C removes the plug from the socket ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1050.38602762133,
+            "timestamp_frame": 31511,
+            "_unmapped_timestamp_sec": 1050.44039,
+            "narration_text": "#C C carries the pressure cooker ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1051.66145762133,
+            "timestamp_frame": 31549,
+            "_unmapped_timestamp_sec": 1051.71582,
+            "narration_text": "#C C walks around ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1053.4586176213302,
+            "timestamp_frame": 31603,
+            "_unmapped_timestamp_sec": 1053.51298,
+            "narration_text": "#C C puts the pressure cooker on the shelf ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1060.2051176213301,
+            "timestamp_frame": 31806,
+            "_unmapped_timestamp_sec": 1060.25948,
+            "narration_text": "#C C moves a jerrycan on the shelf ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1060.9119776213302,
+            "timestamp_frame": 31827,
+            "_unmapped_timestamp_sec": 1060.96634,
+            "narration_text": "#C C walks towards the table ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1062.0026776213301,
+            "timestamp_frame": 31859,
+            "_unmapped_timestamp_sec": 1062.05704,
+            "narration_text": "#C C takes a fabric ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1062.9729476213301,
+            "timestamp_frame": 31889,
+            "_unmapped_timestamp_sec": 1063.02731,
+            "narration_text": "#C C cleans the table with a fabric ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1067.49214762133,
+            "timestamp_frame": 32024,
+            "_unmapped_timestamp_sec": 1067.5465100000001,
+            "narration_text": "#C C moves a jug on the table ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1068.28829762133,
+            "timestamp_frame": 32048,
+            "_unmapped_timestamp_sec": 1068.34266,
+            "narration_text": "#C C moves a jerrycan on the table ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1073.24927762133,
+            "timestamp_frame": 32197,
+            "_unmapped_timestamp_sec": 1073.30364,
+            "narration_text": "#C C picks a small bucket ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1073.9634076213301,
+            "timestamp_frame": 32218,
+            "_unmapped_timestamp_sec": 1074.01777,
+            "narration_text": "#C C picks a bucket lid ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1075.86671762133,
+            "timestamp_frame": 32275,
+            "_unmapped_timestamp_sec": 1075.92108,
+            "narration_text": "#C C moves the bucket lid on the hand ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1076.7278976213302,
+            "timestamp_frame": 32301,
+            "_unmapped_timestamp_sec": 1076.78226,
+            "narration_text": "#C C puts the lid on the rack ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1078.5691076213302,
+            "timestamp_frame": 32356,
+            "_unmapped_timestamp_sec": 1078.62347,
+            "narration_text": "#C C opens the tap water ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1079.7639276213301,
+            "timestamp_frame": 32392,
+            "_unmapped_timestamp_sec": 1079.81829,
+            "narration_text": "#C C picks the washing sponge ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1080.66302762133,
+            "timestamp_frame": 32419,
+            "_unmapped_timestamp_sec": 1080.71739,
+            "narration_text": "#C C cleans the bucket with a washing sponge ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1087.7478976213301,
+            "timestamp_frame": 32632,
+            "_unmapped_timestamp_sec": 1087.80226,
+            "narration_text": "#C C closes the tap water ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1088.1471776213302,
+            "timestamp_frame": 32644,
+            "_unmapped_timestamp_sec": 1088.20154,
+            "narration_text": "#C C pours the water in the sink ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1088.49066762133,
+            "timestamp_frame": 32654,
+            "_unmapped_timestamp_sec": 1088.54503,
+            "narration_text": "#C C squeezes the washing sponge ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1089.46217762133,
+            "timestamp_frame": 32683,
+            "_unmapped_timestamp_sec": 1089.51654,
+            "narration_text": "#C C shakes the washing sponge ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1090.08940762133,
+            "timestamp_frame": 32702,
+            "_unmapped_timestamp_sec": 1090.1437700000001,
+            "narration_text": "#C C puts the washing sponge on top of the sink ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1090.96417762133,
+            "timestamp_frame": 32728,
+            "_unmapped_timestamp_sec": 1091.01854,
+            "narration_text": "#C C puts the bucket on the rack ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1093.6815076213302,
+            "timestamp_frame": 32810,
+            "_unmapped_timestamp_sec": 1093.73587,
+            "narration_text": "#C C picks part of the pressure cooker in the sink ",
+            "annotation_uid": "495e88b3-e398-4238-a7f4-f2103ccf9206"
+        },
+        {
+            "timestamp_sec": 1095.3678176213302,
+            "timestamp_frame": 32860,
+            "_unmapped_timestamp_sec": 1095.42218,
+            "narration_text": "#C C Opens the tap with right hand",
+            "annotation_uid": "25887bc9-f61c-44ce-bfcb-31426ab69c49"
+        },
+        {
+            "timestamp_sec": 1098.16111762133,
+            "timestamp_frame": 32944,
+            "_unmapped_timestamp_sec": 1098.21548,
+            "narration_text": "#C C Washes the lid with both hands",
+            "annotation_uid": "25887bc9-f61c-44ce-bfcb-31426ab69c49"
+        },
+        {
+            "timestamp_sec": 1102.2571776213301,
+            "timestamp_frame": 33067,
+            "_unmapped_timestamp_sec": 1102.31154,
+            "narration_text": "#C C Closes the tap with both hands",
+            "annotation_uid": "25887bc9-f61c-44ce-bfcb-31426ab69c49"
+        },
+        {
+            "timestamp_sec": 1103.86590762133,
+            "timestamp_frame": 33115,
+            "_unmapped_timestamp_sec": 1103.92027,
+            "narration_text": "#C C Places the lid on top of the sink",
+            "annotation_uid": "25887bc9-f61c-44ce-bfcb-31426ab69c49"
+        },
+        {
+            "timestamp_sec": 1104.9834776213302,
+            "timestamp_frame": 33149,
+            "_unmapped_timestamp_sec": 1105.03784,
+            "narration_text": "#C C Withdraws hand from the lid",
+            "annotation_uid": "25887bc9-f61c-44ce-bfcb-31426ab69c49"
+        },
+        {
+            "timestamp_sec": 1106.59476762133,
+            "timestamp_frame": 33197,
+            "_unmapped_timestamp_sec": 1106.64913,
+            "narration_text": "#C C Turns around the kitchen room",
+            "annotation_uid": "25887bc9-f61c-44ce-bfcb-31426ab69c49"
+        },
+        {
+            "timestamp_sec": 1110.59994762133,
+            "timestamp_frame": 33317,
+            "_unmapped_timestamp_sec": 1110.65431,
+            "narration_text": "#C C Moves towards man x , y, w",
+            "annotation_uid": "25887bc9-f61c-44ce-bfcb-31426ab69c49"
+        },
+        {
+            "timestamp_sec": 1117.21902762133,
+            "timestamp_frame": 33516,
+            "_unmapped_timestamp_sec": 1117.27339,
+            "narration_text": "#C C Talks with man x, y, w",
+            "annotation_uid": "25887bc9-f61c-44ce-bfcb-31426ab69c49"
+        },
+        {
+            "timestamp_sec": 1130.53026762133,
+            "timestamp_frame": 33915,
+            "_unmapped_timestamp_sec": 1130.58463,
+            "narration_text": "#C C Points  towards man x with a finger",
+            "annotation_uid": "25887bc9-f61c-44ce-bfcb-31426ab69c49"
+        },
+        {
+            "timestamp_sec": 1133.79159762133,
+            "timestamp_frame": 34013,
+            "_unmapped_timestamp_sec": 1133.84596,
+            "narration_text": "#C C grabs  a bag  on  the counter",
+            "annotation_uid": "25887bc9-f61c-44ce-bfcb-31426ab69c49"
+        },
+        {
+            "timestamp_sec": 1137.5944876213302,
+            "timestamp_frame": 34127,
+            "_unmapped_timestamp_sec": 1137.64885,
+            "narration_text": "#C C Opens the bag with right hand",
+            "annotation_uid": "25887bc9-f61c-44ce-bfcb-31426ab69c49"
+        },
+        {
+            "timestamp_sec": 1140.8171276213302,
+            "timestamp_frame": 34224,
+            "_unmapped_timestamp_sec": 1140.87149,
+            "narration_text": "#O Man x points towards the bag with hand",
+            "annotation_uid": "25887bc9-f61c-44ce-bfcb-31426ab69c49"
+        },
+        {
+            "timestamp_sec": 1145.84242762133,
+            "timestamp_frame": 34375,
+            "_unmapped_timestamp_sec": 1145.89679,
+            "narration_text": "#C C Picks mobile phone from the bag",
+            "annotation_uid": "25887bc9-f61c-44ce-bfcb-31426ab69c49"
+        },
+        {
+            "timestamp_sec": 1147.07196762133,
+            "timestamp_frame": 34412,
+            "_unmapped_timestamp_sec": 1147.12633,
+            "narration_text": "#C C Holds with both hands",
+            "annotation_uid": "25887bc9-f61c-44ce-bfcb-31426ab69c49"
+        }
+    ]
+}

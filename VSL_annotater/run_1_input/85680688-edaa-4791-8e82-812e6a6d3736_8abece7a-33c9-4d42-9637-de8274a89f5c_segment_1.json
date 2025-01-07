@@ -1,0 +1,865 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 1126.0363585999999,
+            "timestamp_frame": 33780,
+            "_unmapped_timestamp_sec": 1126.01533,
+            "narration_text": "#O O touches the shirt on the cloth  rack",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1126.8439885999999,
+            "timestamp_frame": 33805,
+            "_unmapped_timestamp_sec": 1126.82296,
+            "narration_text": "#O O moves a round the shop",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1128.4630886,
+            "timestamp_frame": 33853,
+            "_unmapped_timestamp_sec": 1128.44206,
+            "narration_text": "#O person X converses with person O",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1131.2131686,
+            "timestamp_frame": 33936,
+            "_unmapped_timestamp_sec": 1131.19214,
+            "narration_text": "#O O moves a round the shop",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1135.4548585999999,
+            "timestamp_frame": 34063,
+            "_unmapped_timestamp_sec": 1135.43383,
+            "narration_text": "#O O selects the trousers on the cloth rack",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1138.2050886,
+            "timestamp_frame": 34146,
+            "_unmapped_timestamp_sec": 1138.18406,
+            "narration_text": "#O O moves a round the shop",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1141.6309085999999,
+            "timestamp_frame": 34248,
+            "_unmapped_timestamp_sec": 1141.60988,
+            "narration_text": "#O O selects the shirts on the cloth rack",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1151.3208186,
+            "timestamp_frame": 34539,
+            "_unmapped_timestamp_sec": 1151.29979,
+            "narration_text": "#O person X converses with person O",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1152.0804885999999,
+            "timestamp_frame": 34562,
+            "_unmapped_timestamp_sec": 1152.05946,
+            "narration_text": "#O O moves a round the shop",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1160.9395186,
+            "timestamp_frame": 34828,
+            "_unmapped_timestamp_sec": 1160.91849,
+            "narration_text": "#O O touches the shirt on the hanger",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1164.9726785999999,
+            "timestamp_frame": 34949,
+            "_unmapped_timestamp_sec": 1164.95165,
+            "narration_text": "#O O moves a round the shop",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1172.2661985999998,
+            "timestamp_frame": 35167,
+            "_unmapped_timestamp_sec": 1172.24517,
+            "narration_text": "#O O selects the shirts on the cloth rack",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1175.5640985999999,
+            "timestamp_frame": 35266,
+            "_unmapped_timestamp_sec": 1175.54307,
+            "narration_text": "#O O removes the shirt from the cloth rack",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1176.9205086,
+            "timestamp_frame": 35307,
+            "_unmapped_timestamp_sec": 1176.89948,
+            "narration_text": "#O O makes a step",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1179.4010786,
+            "timestamp_frame": 35381,
+            "_unmapped_timestamp_sec": 1179.38005,
+            "narration_text": "#O O lifts the shirt up",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1181.1950585999998,
+            "timestamp_frame": 35435,
+            "_unmapped_timestamp_sec": 1181.17403,
+            "narration_text": "#O O makes a step",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1183.3329486,
+            "timestamp_frame": 35499,
+            "_unmapped_timestamp_sec": 1183.31192,
+            "narration_text": "#O person X converses with person O",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1183.8020586,
+            "timestamp_frame": 35513,
+            "_unmapped_timestamp_sec": 1183.78103,
+            "narration_text": "#O person X  moves around the shop",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1185.1769385999999,
+            "timestamp_frame": 35555,
+            "_unmapped_timestamp_sec": 1185.15591,
+            "narration_text": "#O O puts the shirt on the cloth rack",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1185.9861586,
+            "timestamp_frame": 35579,
+            "_unmapped_timestamp_sec": 1185.96513,
+            "narration_text": "#O O selects the shirts on the cloth rack",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1190.7341886,
+            "timestamp_frame": 35721,
+            "_unmapped_timestamp_sec": 1190.71316,
+            "narration_text": "#O person X converses with person O",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1191.4233986,
+            "timestamp_frame": 35742,
+            "_unmapped_timestamp_sec": 1191.40237,
+            "narration_text": "#O O selects the shirts on the cloth rack",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1193.9432786,
+            "timestamp_frame": 35818,
+            "_unmapped_timestamp_sec": 1193.92225,
+            "narration_text": "#O O touches the loco on the shirt",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1195.8641885999998,
+            "timestamp_frame": 35875,
+            "_unmapped_timestamp_sec": 1195.84316,
+            "narration_text": "#O O selects the shirts on the cloth rack",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1200.6285386,
+            "timestamp_frame": 36018,
+            "_unmapped_timestamp_sec": 1200.60751,
+            "narration_text": "#O person X makes a step",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1203.9737986,
+            "timestamp_frame": 36119,
+            "_unmapped_timestamp_sec": 1203.95277,
+            "narration_text": "#O person X sits down on the chair",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1206.2878286,
+            "timestamp_frame": 36188,
+            "_unmapped_timestamp_sec": 1206.2668,
+            "narration_text": "#O O moves a round the shop",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1217.9263085999999,
+            "timestamp_frame": 36537,
+            "_unmapped_timestamp_sec": 1217.90528,
+            "narration_text": "#O O scrolls the phone on the hand",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1222.6741286,
+            "timestamp_frame": 36680,
+            "_unmapped_timestamp_sec": 1222.6531,
+            "narration_text": "#O O holds the shirt on the cloth rack",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1225.6013586,
+            "timestamp_frame": 36767,
+            "_unmapped_timestamp_sec": 1225.58033,
+            "narration_text": "#O O takes a photo of the shirt on the cloth rack",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1230.0272685999998,
+            "timestamp_frame": 36900,
+            "_unmapped_timestamp_sec": 1230.00624,
+            "narration_text": "#O O selects the shirts on the cloth rack",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1248.5572186,
+            "timestamp_frame": 37456,
+            "_unmapped_timestamp_sec": 1248.53619,
+            "narration_text": "#O O holds the shirt on the cloth rack",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1248.8728386,
+            "timestamp_frame": 37466,
+            "_unmapped_timestamp_sec": 1248.8518100000001,
+            "narration_text": "#O O takes a photo of the shirt on the cloth rack",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1251.7601186,
+            "timestamp_frame": 37552,
+            "_unmapped_timestamp_sec": 1251.73909,
+            "narration_text": "#O O moves a round the shop",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1257.5288286,
+            "timestamp_frame": 37725,
+            "_unmapped_timestamp_sec": 1257.5078,
+            "narration_text": "#O O selects the shirts on the cloth rack",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1260.5817886,
+            "timestamp_frame": 37817,
+            "_unmapped_timestamp_sec": 1260.56076,
+            "narration_text": "#O O holds the shirt on the cloth rack",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1263.1278086,
+            "timestamp_frame": 37893,
+            "_unmapped_timestamp_sec": 1263.10678,
+            "narration_text": "#O O scrolls the phone on the hand",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1263.6485186,
+            "timestamp_frame": 37909,
+            "_unmapped_timestamp_sec": 1263.62749,
+            "narration_text": "#O O moves a round the shop",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1268.3833585999998,
+            "timestamp_frame": 38051,
+            "_unmapped_timestamp_sec": 1268.36233,
+            "narration_text": "#O O selects the shirts on the cloth rack",
+            "annotation_uid": "9530770f-a69e-4816-be62-8981d9f4bb91"
+        },
+        {
+            "timestamp_sec": 1121.2803586,
+            "timestamp_frame": 33638,
+            "_unmapped_timestamp_sec": 1121.25933,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1120.4442285999999,
+            "timestamp_frame": 33613,
+            "_unmapped_timestamp_sec": 1120.4232,
+            "narration_text": "#C C speaks",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1123.5676885999999,
+            "timestamp_frame": 33706,
+            "_unmapped_timestamp_sec": 1123.54666,
+            "narration_text": "#C C walks forward",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1125.6871185999998,
+            "timestamp_frame": 33770,
+            "_unmapped_timestamp_sec": 1125.66609,
+            "narration_text": "#O woman V walks",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1126.2742286,
+            "timestamp_frame": 33788,
+            "_unmapped_timestamp_sec": 1126.2532,
+            "narration_text": "#O woman B grabs clothing",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1126.7180085999998,
+            "timestamp_frame": 33801,
+            "_unmapped_timestamp_sec": 1126.69698,
+            "narration_text": "#C C speaks",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1127.7163186,
+            "timestamp_frame": 33831,
+            "_unmapped_timestamp_sec": 1127.69529,
+            "narration_text": "#O man B speaks",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1130.5341985999999,
+            "timestamp_frame": 33915,
+            "_unmapped_timestamp_sec": 1130.51317,
+            "narration_text": "#C C walks forward",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1131.7230986,
+            "timestamp_frame": 33951,
+            "_unmapped_timestamp_sec": 1131.70207,
+            "narration_text": "#O man B grabs clothing",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1132.0777185999998,
+            "timestamp_frame": 33962,
+            "_unmapped_timestamp_sec": 1132.05669,
+            "narration_text": "#C C walks forward",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1133.6168286,
+            "timestamp_frame": 34008,
+            "_unmapped_timestamp_sec": 1133.5958,
+            "narration_text": "#C C speaks",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1135.3166886,
+            "timestamp_frame": 34059,
+            "_unmapped_timestamp_sec": 1135.29566,
+            "narration_text": "#C C moves clothing",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1138.2423786,
+            "timestamp_frame": 34147,
+            "_unmapped_timestamp_sec": 1138.22135,
+            "narration_text": "#C C turns left",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1139.4588686,
+            "timestamp_frame": 34183,
+            "_unmapped_timestamp_sec": 1139.43784,
+            "narration_text": "#C C looks at clothing",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1144.5858885999999,
+            "timestamp_frame": 34337,
+            "_unmapped_timestamp_sec": 1144.56486,
+            "narration_text": "#C C touches shirt",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1145.3989586,
+            "timestamp_frame": 34361,
+            "_unmapped_timestamp_sec": 1145.37793,
+            "narration_text": "#C C speaks",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1146.1167486,
+            "timestamp_frame": 34383,
+            "_unmapped_timestamp_sec": 1146.09572,
+            "narration_text": "#C C touches clothing",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1146.4578886,
+            "timestamp_frame": 34393,
+            "_unmapped_timestamp_sec": 1146.43686,
+            "narration_text": "#C C moves through clothing",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1148.3372286,
+            "timestamp_frame": 34449,
+            "_unmapped_timestamp_sec": 1148.3162,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1148.8413085999998,
+            "timestamp_frame": 34465,
+            "_unmapped_timestamp_sec": 1148.82028,
+            "narration_text": "#C C walks forward",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1150.9773386,
+            "timestamp_frame": 34529,
+            "_unmapped_timestamp_sec": 1150.95631,
+            "narration_text": "#O man B speaks",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1152.0404985999999,
+            "timestamp_frame": 34561,
+            "_unmapped_timestamp_sec": 1152.01947,
+            "narration_text": "#C C speaks",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1157.2468586,
+            "timestamp_frame": 34717,
+            "_unmapped_timestamp_sec": 1157.22583,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1160.1424986,
+            "timestamp_frame": 34804,
+            "_unmapped_timestamp_sec": 1160.12147,
+            "narration_text": "#C C grabs clothing",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1161.9918885999998,
+            "timestamp_frame": 34859,
+            "_unmapped_timestamp_sec": 1161.97086,
+            "narration_text": "#C C raises arm",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1162.6136786,
+            "timestamp_frame": 34878,
+            "_unmapped_timestamp_sec": 1162.59265,
+            "narration_text": "#C C lifts clothing",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1163.6562786,
+            "timestamp_frame": 34909,
+            "_unmapped_timestamp_sec": 1163.63525,
+            "narration_text": "#C C drops clothing",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1163.9452086,
+            "timestamp_frame": 34918,
+            "_unmapped_timestamp_sec": 1163.92418,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1165.9270686,
+            "timestamp_frame": 34977,
+            "_unmapped_timestamp_sec": 1165.90604,
+            "narration_text": "#C C walks forward",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1168.2592886,
+            "timestamp_frame": 35047,
+            "_unmapped_timestamp_sec": 1168.23826,
+            "narration_text": "#C C speaks",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1171.2123385999998,
+            "timestamp_frame": 35136,
+            "_unmapped_timestamp_sec": 1171.19131,
+            "narration_text": "#C C moves clothing ",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1175.0782886,
+            "timestamp_frame": 35252,
+            "_unmapped_timestamp_sec": 1175.05726,
+            "narration_text": "#C C moves clothing",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1175.3988986,
+            "timestamp_frame": 35261,
+            "_unmapped_timestamp_sec": 1175.37787,
+            "narration_text": "#C C drops clothing",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1176.0420585999998,
+            "timestamp_frame": 35281,
+            "_unmapped_timestamp_sec": 1176.0210299999999,
+            "narration_text": "#C C speaks",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1179.6179386,
+            "timestamp_frame": 35388,
+            "_unmapped_timestamp_sec": 1179.59691,
+            "narration_text": "#O man B stands up",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1179.6179386,
+            "timestamp_frame": 35388,
+            "_unmapped_timestamp_sec": 1179.59691,
+            "narration_text": "#C C lifts shirt",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1179.8200385999999,
+            "timestamp_frame": 35394,
+            "_unmapped_timestamp_sec": 1179.79901,
+            "narration_text": "#O man B walks forward",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1181.1879686,
+            "timestamp_frame": 35435,
+            "_unmapped_timestamp_sec": 1181.16694,
+            "narration_text": "#C C speaks",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1183.1126986,
+            "timestamp_frame": 35493,
+            "_unmapped_timestamp_sec": 1183.09167,
+            "narration_text": "#O man B walks forward",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1182.7191486,
+            "timestamp_frame": 35481,
+            "_unmapped_timestamp_sec": 1182.69812,
+            "narration_text": "#O man B nods head",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1184.0468686,
+            "timestamp_frame": 35521,
+            "_unmapped_timestamp_sec": 1184.02584,
+            "narration_text": "#C C returns clothing",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1186.6529186,
+            "timestamp_frame": 35599,
+            "_unmapped_timestamp_sec": 1186.63189,
+            "narration_text": "#C C speaks",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1186.8767186,
+            "timestamp_frame": 35606,
+            "_unmapped_timestamp_sec": 1186.85569,
+            "narration_text": "#O man X walks right",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1188.3061685999999,
+            "timestamp_frame": 35649,
+            "_unmapped_timestamp_sec": 1188.28514,
+            "narration_text": "#C C walks forward",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1188.6830386,
+            "timestamp_frame": 35660,
+            "_unmapped_timestamp_sec": 1188.66201,
+            "narration_text": "#O man B speaks",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1189.5820985999999,
+            "timestamp_frame": 35687,
+            "_unmapped_timestamp_sec": 1189.56107,
+            "narration_text": "#C C turns",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1191.4350485999998,
+            "timestamp_frame": 35742,
+            "_unmapped_timestamp_sec": 1191.41402,
+            "narration_text": "#C C speaks",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1192.2089885999999,
+            "timestamp_frame": 35766,
+            "_unmapped_timestamp_sec": 1192.18796,
+            "narration_text": "#C C moves clothing items",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1194.0135386,
+            "timestamp_frame": 35820,
+            "_unmapped_timestamp_sec": 1193.99251,
+            "narration_text": "#C C touches tag,",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1194.9455885999998,
+            "timestamp_frame": 35848,
+            "_unmapped_timestamp_sec": 1194.92456,
+            "narration_text": "#C C touches tag,",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1195.6493486,
+            "timestamp_frame": 35869,
+            "_unmapped_timestamp_sec": 1195.62832,
+            "narration_text": "#C C moves through clothing",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1199.8132085999998,
+            "timestamp_frame": 35994,
+            "_unmapped_timestamp_sec": 1199.79218,
+            "narration_text": "#C C looks right",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1200.5003986,
+            "timestamp_frame": 36014,
+            "_unmapped_timestamp_sec": 1200.47937,
+            "narration_text": "#C C walks forward",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1203.2366886,
+            "timestamp_frame": 36096,
+            "_unmapped_timestamp_sec": 1203.21566,
+            "narration_text": "#O man B sits down",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1205.5420086,
+            "timestamp_frame": 36166,
+            "_unmapped_timestamp_sec": 1205.52098,
+            "narration_text": "#C C moves back",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1206.8149085999999,
+            "timestamp_frame": 36204,
+            "_unmapped_timestamp_sec": 1206.79388,
+            "narration_text": "#C C moves forward",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1209.4738286,
+            "timestamp_frame": 36284,
+            "_unmapped_timestamp_sec": 1209.4528,
+            "narration_text": "#C C speaks",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1210.7198085999999,
+            "timestamp_frame": 36321,
+            "_unmapped_timestamp_sec": 1210.69878,
+            "narration_text": "#C C moves back",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1213.4773386,
+            "timestamp_frame": 36404,
+            "_unmapped_timestamp_sec": 1213.45631,
+            "narration_text": "#C C walks forward",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1213.8851886,
+            "timestamp_frame": 36416,
+            "_unmapped_timestamp_sec": 1213.86416,
+            "narration_text": "#C C laughs",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1215.2360385999998,
+            "timestamp_frame": 36456,
+            "_unmapped_timestamp_sec": 1215.21501,
+            "narration_text": "#C C walks left",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1217.7850885999999,
+            "timestamp_frame": 36533,
+            "_unmapped_timestamp_sec": 1217.76406,
+            "narration_text": "#C C uses phone",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1224.1545786,
+            "timestamp_frame": 36724,
+            "_unmapped_timestamp_sec": 1224.13355,
+            "narration_text": "#C C grabs clothing",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1228.1834486,
+            "timestamp_frame": 36845,
+            "_unmapped_timestamp_sec": 1228.16242,
+            "narration_text": "#C C takes picture",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1231.0759286,
+            "timestamp_frame": 36932,
+            "_unmapped_timestamp_sec": 1231.0549,
+            "narration_text": "#C C  walks forward",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1235.0742486,
+            "timestamp_frame": 37052,
+            "_unmapped_timestamp_sec": 1235.05322,
+            "narration_text": "#C C moves clothing",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1235.9473785999999,
+            "timestamp_frame": 37078,
+            "_unmapped_timestamp_sec": 1235.92635,
+            "narration_text": "#C C speaks",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1242.9099985999999,
+            "timestamp_frame": 37287,
+            "_unmapped_timestamp_sec": 1242.88897,
+            "narration_text": "#O woman B uses phone",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1244.2515786,
+            "timestamp_frame": 37327,
+            "_unmapped_timestamp_sec": 1244.23055,
+            "narration_text": "#C C walks right",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1246.0854786,
+            "timestamp_frame": 37382,
+            "_unmapped_timestamp_sec": 1246.06445,
+            "narration_text": "#C C holds clothing",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1247.2899585999999,
+            "timestamp_frame": 37418,
+            "_unmapped_timestamp_sec": 1247.26893,
+            "narration_text": "#C C touches clothing",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1247.7941285999998,
+            "timestamp_frame": 37433,
+            "_unmapped_timestamp_sec": 1247.7730999999999,
+            "narration_text": "#C C takes picture",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1252.4201686,
+            "timestamp_frame": 37572,
+            "_unmapped_timestamp_sec": 1252.39914,
+            "narration_text": "#C C walks forward",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1253.2338186,
+            "timestamp_frame": 37596,
+            "_unmapped_timestamp_sec": 1253.21279,
+            "narration_text": "#C C speaks ",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1255.6855386,
+            "timestamp_frame": 37670,
+            "_unmapped_timestamp_sec": 1255.66451,
+            "narration_text": "#C C walks forward",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1257.9055985999998,
+            "timestamp_frame": 37737,
+            "_unmapped_timestamp_sec": 1257.88457,
+            "narration_text": "#C C moves clothing",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1258.8144086,
+            "timestamp_frame": 37764,
+            "_unmapped_timestamp_sec": 1258.79338,
+            "narration_text": "#C C moves clothing",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1260.0085485999998,
+            "timestamp_frame": 37800,
+            "_unmapped_timestamp_sec": 1259.98752,
+            "narration_text": "#C C touches clothing",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1261.2030986,
+            "timestamp_frame": 37835,
+            "_unmapped_timestamp_sec": 1261.18207,
+            "narration_text": "#C C uses phone",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1263.3596086,
+            "timestamp_frame": 37900,
+            "_unmapped_timestamp_sec": 1263.33858,
+            "narration_text": "#C C turns left",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1263.6932886,
+            "timestamp_frame": 37910,
+            "_unmapped_timestamp_sec": 1263.67226,
+            "narration_text": "#C C looks at woman B ",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1262.7228086,
+            "timestamp_frame": 37881,
+            "_unmapped_timestamp_sec": 1262.70178,
+            "narration_text": "#C C speaks",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1267.1757585999999,
+            "timestamp_frame": 38015,
+            "_unmapped_timestamp_sec": 1267.15473,
+            "narration_text": "#C C moves clothing",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        },
+        {
+            "timestamp_sec": 1269.1753586,
+            "timestamp_frame": 38075,
+            "_unmapped_timestamp_sec": 1269.15433,
+            "narration_text": "#C C grabs tag",
+            "annotation_uid": "df172ca1-3d69-4b5b-9942-36d47a4fe184"
+        }
+    ]
+}

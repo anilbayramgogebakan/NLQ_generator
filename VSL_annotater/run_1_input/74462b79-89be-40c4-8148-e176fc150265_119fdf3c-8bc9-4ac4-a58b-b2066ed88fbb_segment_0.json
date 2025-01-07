@@ -1,0 +1,767 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 1.7781086,
+            "timestamp_frame": 53,
+            "_unmapped_timestamp_sec": 1.75708,
+            "narration_text": "#C C carries a pack of plantain chips from a rice cooker.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 2.7998886,
+            "timestamp_frame": 83,
+            "_unmapped_timestamp_sec": 2.77886,
+            "narration_text": "#C C closes the door of a microwave oven.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 3.6719886,
+            "timestamp_frame": 110,
+            "_unmapped_timestamp_sec": 3.65096,
+            "narration_text": "#C C drops the pack of Plantain chips in front of the microwave oven.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 4.6600886,
+            "timestamp_frame": 139,
+            "_unmapped_timestamp_sec": 4.63906,
+            "narration_text": "#C C opens the rice cooker .",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 7.5607586,
+            "timestamp_frame": 226,
+            "_unmapped_timestamp_sec": 7.53973,
+            "narration_text": "#C C holds a pot.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 8.2312386,
+            "timestamp_frame": 246,
+            "_unmapped_timestamp_sec": 8.21021,
+            "narration_text": "#C C drops the pot in the sink.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 8.8017086,
+            "timestamp_frame": 263,
+            "_unmapped_timestamp_sec": 8.78068,
+            "narration_text": "#C C walks towards a fridge.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 10.918808599999998,
+            "timestamp_frame": 327,
+            "_unmapped_timestamp_sec": 10.89778,
+            "narration_text": "#C C opens the fridge.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 13.0428386,
+            "timestamp_frame": 391,
+            "_unmapped_timestamp_sec": 13.02181,
+            "narration_text": "#C C brings out a plastic container of rice from the fridge.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 17.5434386,
+            "timestamp_frame": 526,
+            "_unmapped_timestamp_sec": 17.52241,
+            "narration_text": "#C C uses the plastic container of rice to move the vegetables on the cabinet.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 20.8991086,
+            "timestamp_frame": 626,
+            "_unmapped_timestamp_sec": 20.87808,
+            "narration_text": "#C C opens the plastic container of rice.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 22.8136386,
+            "timestamp_frame": 684,
+            "_unmapped_timestamp_sec": 22.79261,
+            "narration_text": "#C C takes the rice from the plastic container with a cup.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 24.0071586,
+            "timestamp_frame": 720,
+            "_unmapped_timestamp_sec": 23.98613,
+            "narration_text": "#C C drops the cover of the plastic container on the vegetables.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 25.5355086,
+            "timestamp_frame": 765,
+            "_unmapped_timestamp_sec": 25.51448,
+            "narration_text": "#C C measures the rice from the plastic container with the cup.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 28.816238600000002,
+            "timestamp_frame": 864,
+            "_unmapped_timestamp_sec": 28.79521,
+            "narration_text": "#C C pours the rice inside the pot in the sink.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 30.851518600000002,
+            "timestamp_frame": 925,
+            "_unmapped_timestamp_sec": 30.83049,
+            "narration_text": "#C C measures the rice from the plastic container with the cup.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 33.8001986,
+            "timestamp_frame": 1013,
+            "_unmapped_timestamp_sec": 33.77917,
+            "narration_text": "#C C pours the rice inside the pot in the sink.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 34.8870286,
+            "timestamp_frame": 1046,
+            "_unmapped_timestamp_sec": 34.866,
+            "narration_text": "#C C drops the cup in the plastic container of rice.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 35.0825686,
+            "timestamp_frame": 1052,
+            "_unmapped_timestamp_sec": 35.06154,
+            "narration_text": "#C C picks the cover of the plastic container from the vegetables.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 36.6778086,
+            "timestamp_frame": 1100,
+            "_unmapped_timestamp_sec": 36.65678,
+            "narration_text": "#C C covers the plastic container of rice.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 38.8470186,
+            "timestamp_frame": 1165,
+            "_unmapped_timestamp_sec": 38.82599,
+            "narration_text": "#C C carries the plastic container from the cabinet.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 42.0362086,
+            "timestamp_frame": 1260,
+            "_unmapped_timestamp_sec": 42.01518,
+            "narration_text": "#C C opens the fridge.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 43.4879586,
+            "timestamp_frame": 1304,
+            "_unmapped_timestamp_sec": 43.46693,
+            "narration_text": "#C C returns the plastic container of rice in the fridge.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 45.8993986,
+            "timestamp_frame": 1376,
+            "_unmapped_timestamp_sec": 45.87837,
+            "narration_text": "#C C closes the fridge.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 47.611968600000004,
+            "timestamp_frame": 1428,
+            "_unmapped_timestamp_sec": 47.59094,
+            "narration_text": "#C C opens the fridge drawer.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 49.6842086,
+            "timestamp_frame": 1490,
+            "_unmapped_timestamp_sec": 49.66318,
+            "narration_text": "#C C brings out a pack of nut from the fridge drawer. #Unsure.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 50.0744686,
+            "timestamp_frame": 1502,
+            "_unmapped_timestamp_sec": 50.05344,
+            "narration_text": "#C C closes the fridge drawer.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 53.8063586,
+            "timestamp_frame": 1614,
+            "_unmapped_timestamp_sec": 53.78533,
+            "narration_text": "#C C drops the pack of nut on the cabinet. #Unsure.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 54.7909786,
+            "timestamp_frame": 1643,
+            "_unmapped_timestamp_sec": 54.76995,
+            "narration_text": "#C C opens the sink tap.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 54.7909786,
+            "timestamp_frame": 1643,
+            "_unmapped_timestamp_sec": 54.76995,
+            "narration_text": "#C C holds the pot with rice in the sink.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 56.7965486,
+            "timestamp_frame": 1703,
+            "_unmapped_timestamp_sec": 56.77552,
+            "narration_text": "#C C washes the rice inside the pot in the sink.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 60.1095786,
+            "timestamp_frame": 1803,
+            "_unmapped_timestamp_sec": 60.08855,
+            "narration_text": "#C C closes the sink tap.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 63.310188600000004,
+            "timestamp_frame": 1899,
+            "_unmapped_timestamp_sec": 63.28916,
+            "narration_text": "#C C drains water from the rice.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 66.9227586,
+            "timestamp_frame": 2007,
+            "_unmapped_timestamp_sec": 66.90173,
+            "narration_text": "#C C washes the rice inside the pot in the sink.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 88.9468986,
+            "timestamp_frame": 2668,
+            "_unmapped_timestamp_sec": 88.92587,
+            "narration_text": "#C C opens the sink tap.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 91.18853859999999,
+            "timestamp_frame": 2735,
+            "_unmapped_timestamp_sec": 91.16751,
+            "narration_text": "#C C rinses her hand and the rice inside the pot.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 95.02808859999999,
+            "timestamp_frame": 2850,
+            "_unmapped_timestamp_sec": 95.00706,
+            "narration_text": "#C C drains water from the rice.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 100.9695186,
+            "timestamp_frame": 3028,
+            "_unmapped_timestamp_sec": 100.94849,
+            "narration_text": "#C C washes the rice inside the pot in the sink.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 105.91096859999999,
+            "timestamp_frame": 3177,
+            "_unmapped_timestamp_sec": 105.88994,
+            "narration_text": "#C C drains water from the rice.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 111.6281186,
+            "timestamp_frame": 3348,
+            "_unmapped_timestamp_sec": 111.60709,
+            "narration_text": "#C C washes the rice inside the pot in the sink.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 115.9145186,
+            "timestamp_frame": 3477,
+            "_unmapped_timestamp_sec": 115.89349,
+            "narration_text": "#C C drains water from the rice.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 121.2473886,
+            "timestamp_frame": 3637,
+            "_unmapped_timestamp_sec": 121.22636,
+            "narration_text": "#C C washes the rice inside the pot in the sink.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 126.25623859999999,
+            "timestamp_frame": 3787,
+            "_unmapped_timestamp_sec": 126.23521,
+            "narration_text": "#C C drains water from the rice.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 132.8616286,
+            "timestamp_frame": 3985,
+            "_unmapped_timestamp_sec": 132.8406,
+            "narration_text": "#C C washes the rice inside the pot in the sink.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 133.4781186,
+            "timestamp_frame": 4004,
+            "_unmapped_timestamp_sec": 133.45709,
+            "narration_text": "#C C closes the sink tap.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 135.5478886,
+            "timestamp_frame": 4066,
+            "_unmapped_timestamp_sec": 135.52686,
+            "narration_text": "#C C drains water from the rice.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 141.4706886,
+            "timestamp_frame": 4243,
+            "_unmapped_timestamp_sec": 141.44966,
+            "narration_text": "#C C puts the pot on the cabinet.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 142.6703086,
+            "timestamp_frame": 4279,
+            "_unmapped_timestamp_sec": 142.64928,
+            "narration_text": "#C C spreads the rice inside the pot with her hand.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 149.3488286,
+            "timestamp_frame": 4480,
+            "_unmapped_timestamp_sec": 149.3278,
+            "narration_text": "#C C drains water from the rice.",
+            "annotation_uid": "67a1ba2f-0849-4732-8179-b45386f4cc08"
+        },
+        {
+            "timestamp_sec": 1.7925385999999999,
+            "timestamp_frame": 53,
+            "_unmapped_timestamp_sec": 1.77151,
+            "narration_text": "#C C picks the tin ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 0.0210286,
+            "timestamp_frame": 0,
+            "_unmapped_timestamp_sec": 0.0,
+            "narration_text": "#C C moves to the table ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 2.8253586000000004,
+            "timestamp_frame": 84,
+            "_unmapped_timestamp_sec": 2.80433,
+            "narration_text": "#C C closes the microwave ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 3.2822586,
+            "timestamp_frame": 98,
+            "_unmapped_timestamp_sec": 3.26123,
+            "narration_text": "#C C puts the tin on the counter ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 4.2084286,
+            "timestamp_frame": 126,
+            "_unmapped_timestamp_sec": 4.1874,
+            "narration_text": "#C C opens the rice cooker ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 5.445238600000001,
+            "timestamp_frame": 163,
+            "_unmapped_timestamp_sec": 5.42421,
+            "narration_text": "#C C picks the pot",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 7.3542786,
+            "timestamp_frame": 220,
+            "_unmapped_timestamp_sec": 7.33325,
+            "narration_text": "#C C moves to the sink ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 8.1143386,
+            "timestamp_frame": 243,
+            "_unmapped_timestamp_sec": 8.09331,
+            "narration_text": "#C C drops the pot into the sink ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 8.4212586,
+            "timestamp_frame": 252,
+            "_unmapped_timestamp_sec": 8.40023,
+            "narration_text": "#C C moves to the fridge ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 10.212718599999999,
+            "timestamp_frame": 306,
+            "_unmapped_timestamp_sec": 10.19169,
+            "narration_text": "#C C opens the fridge ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 12.3349286,
+            "timestamp_frame": 369,
+            "_unmapped_timestamp_sec": 12.3139,
+            "narration_text": "#C C picks the container ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 15.043808599999998,
+            "timestamp_frame": 451,
+            "_unmapped_timestamp_sec": 15.02278,
+            "narration_text": "#C C closes the fridge ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 16.1879886,
+            "timestamp_frame": 485,
+            "_unmapped_timestamp_sec": 16.16696,
+            "narration_text": "#C C moves to the counter ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 17.2554586,
+            "timestamp_frame": 517,
+            "_unmapped_timestamp_sec": 17.23443,
+            "narration_text": "#C C drops the container on the counter ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 17.4651986,
+            "timestamp_frame": 523,
+            "_unmapped_timestamp_sec": 17.44417,
+            "narration_text": "#C C moves the container on the counter ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 18.906878600000002,
+            "timestamp_frame": 567,
+            "_unmapped_timestamp_sec": 18.88585,
+            "narration_text": "#C C opens the container ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 21.9460386,
+            "timestamp_frame": 658,
+            "_unmapped_timestamp_sec": 21.92501,
+            "narration_text": "#C C picks the rice glass ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 23.895158600000002,
+            "timestamp_frame": 716,
+            "_unmapped_timestamp_sec": 23.87413,
+            "narration_text": "#C C drops the container lid on the counter ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 25.376208600000002,
+            "timestamp_frame": 761,
+            "_unmapped_timestamp_sec": 25.35518,
+            "narration_text": "#C C measures the rice in the glass ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 26.9996486,
+            "timestamp_frame": 809,
+            "_unmapped_timestamp_sec": 26.97862,
+            "narration_text": "#C C wipes some rice from the glass ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 28.6424786,
+            "timestamp_frame": 859,
+            "_unmapped_timestamp_sec": 28.62145,
+            "narration_text": "#C C pours the rice in the pot ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 30.710478600000002,
+            "timestamp_frame": 921,
+            "_unmapped_timestamp_sec": 30.68945,
+            "narration_text": "#C C measures the rice in the glass ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 32.2273986,
+            "timestamp_frame": 966,
+            "_unmapped_timestamp_sec": 32.20637,
+            "narration_text": "#C C levels the rice in the glass ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 33.6776286,
+            "timestamp_frame": 1010,
+            "_unmapped_timestamp_sec": 33.6566,
+            "narration_text": "#C C pours the rice in the pot ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 34.9952186,
+            "timestamp_frame": 1049,
+            "_unmapped_timestamp_sec": 34.97419,
+            "narration_text": "#C C picks the container lid ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 34.819568600000004,
+            "timestamp_frame": 1044,
+            "_unmapped_timestamp_sec": 34.79854,
+            "narration_text": "#C C throws the glass in the container ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 36.3059186,
+            "timestamp_frame": 1089,
+            "_unmapped_timestamp_sec": 36.28489,
+            "narration_text": "#C C closes the container ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 38.5488386,
+            "timestamp_frame": 1156,
+            "_unmapped_timestamp_sec": 38.52781,
+            "narration_text": "#C C picks the container ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 38.9170386,
+            "timestamp_frame": 1167,
+            "_unmapped_timestamp_sec": 38.89601,
+            "narration_text": "#C C moves to the fridge ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 41.0162186,
+            "timestamp_frame": 1230,
+            "_unmapped_timestamp_sec": 40.99519,
+            "narration_text": "#C C opens the fridge ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 43.2741086,
+            "timestamp_frame": 1298,
+            "_unmapped_timestamp_sec": 43.25308,
+            "narration_text": "#C C puts the container in the fridge ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 45.0891886,
+            "timestamp_frame": 1352,
+            "_unmapped_timestamp_sec": 45.06816,
+            "narration_text": "#C C closes the fridge ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 47.037468600000004,
+            "timestamp_frame": 1410,
+            "_unmapped_timestamp_sec": 47.01644,
+            "narration_text": "#C C opens the crisper ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 48.9525086,
+            "timestamp_frame": 1468,
+            "_unmapped_timestamp_sec": 48.93148,
+            "narration_text": "#C C picks a vegetable pack ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 49.9569986,
+            "timestamp_frame": 1498,
+            "_unmapped_timestamp_sec": 49.93597,
+            "narration_text": "#C C closes the crisper ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 50.9905386,
+            "timestamp_frame": 1529,
+            "_unmapped_timestamp_sec": 50.96951,
+            "narration_text": "#C C moves to the counter ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 53.4881286,
+            "timestamp_frame": 1604,
+            "_unmapped_timestamp_sec": 53.4671,
+            "narration_text": "#C C drops the pack on the counter ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 54.6511786,
+            "timestamp_frame": 1639,
+            "_unmapped_timestamp_sec": 54.63015,
+            "narration_text": "#C C picks the pot ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 56.0540486,
+            "timestamp_frame": 1681,
+            "_unmapped_timestamp_sec": 56.03302,
+            "narration_text": "#C C opens the water tap ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 56.7805786,
+            "timestamp_frame": 1703,
+            "_unmapped_timestamp_sec": 56.75955,
+            "narration_text": "#C C washes the rice ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 60.1140686,
+            "timestamp_frame": 1803,
+            "_unmapped_timestamp_sec": 60.09304,
+            "narration_text": "#C C closes the water tap ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 60.571428600000004,
+            "timestamp_frame": 1817,
+            "_unmapped_timestamp_sec": 60.5504,
+            "narration_text": "#C C washes the rice ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 62.5371586,
+            "timestamp_frame": 1875,
+            "_unmapped_timestamp_sec": 62.51613,
+            "narration_text": "#C C pours the rice water in the sink ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 66.9697786,
+            "timestamp_frame": 2008,
+            "_unmapped_timestamp_sec": 66.94875,
+            "narration_text": "#C C washes the rice ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 88.4784086,
+            "timestamp_frame": 2654,
+            "_unmapped_timestamp_sec": 88.45738,
+            "narration_text": "#C C opens the tap ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 89.3573886,
+            "timestamp_frame": 2680,
+            "_unmapped_timestamp_sec": 89.33636,
+            "narration_text": "#C C pours water in the pot ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 90.30356859999999,
+            "timestamp_frame": 2708,
+            "_unmapped_timestamp_sec": 90.28254,
+            "narration_text": "#C C washes the rice ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 94.6896886,
+            "timestamp_frame": 2840,
+            "_unmapped_timestamp_sec": 94.66866,
+            "narration_text": "#C C pours the rice water in the sink ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 100.34147859999999,
+            "timestamp_frame": 3010,
+            "_unmapped_timestamp_sec": 100.32045,
+            "narration_text": "#C C washes the rice ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 107.45989859999999,
+            "timestamp_frame": 3223,
+            "_unmapped_timestamp_sec": 107.43887,
+            "narration_text": "#C C pours the rice water in the sink ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 111.5679086,
+            "timestamp_frame": 3346,
+            "_unmapped_timestamp_sec": 111.54688,
+            "narration_text": "#C C washes the rice ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 115.9092086,
+            "timestamp_frame": 3477,
+            "_unmapped_timestamp_sec": 115.88818,
+            "narration_text": "#C C pours the rice water in the sink ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 120.84717859999999,
+            "timestamp_frame": 3625,
+            "_unmapped_timestamp_sec": 120.82615,
+            "narration_text": "#C C washes the rice ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 126.28055859999999,
+            "timestamp_frame": 3788,
+            "_unmapped_timestamp_sec": 126.25953,
+            "narration_text": "#C C pours the rice water in the sink ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 132.36259859999998,
+            "timestamp_frame": 3970,
+            "_unmapped_timestamp_sec": 132.34157,
+            "narration_text": "#C C washes the rice ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 133.29659859999998,
+            "timestamp_frame": 3998,
+            "_unmapped_timestamp_sec": 133.27557,
+            "narration_text": "#C C closes the tap ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 135.5840686,
+            "timestamp_frame": 4067,
+            "_unmapped_timestamp_sec": 135.56304,
+            "narration_text": "#C C pours the rice water in the sink ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 141.0317186,
+            "timestamp_frame": 4230,
+            "_unmapped_timestamp_sec": 141.01069,
+            "narration_text": "#C C puts the pot on the counter ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 148.8765386,
+            "timestamp_frame": 4466,
+            "_unmapped_timestamp_sec": 148.85551,
+            "narration_text": "#C C pours the rice water in the sink ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        },
+        {
+            "timestamp_sec": 148.4274686,
+            "timestamp_frame": 4452,
+            "_unmapped_timestamp_sec": 148.40644,
+            "narration_text": "#C C picks the pot ",
+            "annotation_uid": "fe9197b5-44bf-4b99-b0fd-66de6ed0d5aa"
+        }
+    ]
+}

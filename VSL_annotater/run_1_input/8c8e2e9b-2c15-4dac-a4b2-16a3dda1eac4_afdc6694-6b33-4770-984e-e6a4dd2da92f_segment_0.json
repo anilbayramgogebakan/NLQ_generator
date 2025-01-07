@@ -1,0 +1,711 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 273.13034860000005,
+            "timestamp_frame": 8193,
+            "_unmapped_timestamp_sec": 273.10932,
+            "narration_text": "#C C drops the knife on a shelf in the kitchen",
+            "annotation_uid": "76277d97-a703-4db8-a8d3-921873a16b63"
+        },
+        {
+            "timestamp_sec": 276.27570860000003,
+            "timestamp_frame": 8288,
+            "_unmapped_timestamp_sec": 276.25468,
+            "narration_text": "#C C rinses the vegetables in the container",
+            "annotation_uid": "76277d97-a703-4db8-a8d3-921873a16b63"
+        },
+        {
+            "timestamp_sec": 311.03936860000005,
+            "timestamp_frame": 9331,
+            "_unmapped_timestamp_sec": 311.01834,
+            "narration_text": "#C C picks the bowl on the sink with both hands",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 313.24206860000004,
+            "timestamp_frame": 9397,
+            "_unmapped_timestamp_sec": 313.22104,
+            "narration_text": "#C C drains the water in the bowl into the sink",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 319.18820860000005,
+            "timestamp_frame": 9575,
+            "_unmapped_timestamp_sec": 319.16718000000003,
+            "narration_text": "#C C puts on a tap on the sink",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 320.64266860000004,
+            "timestamp_frame": 9619,
+            "_unmapped_timestamp_sec": 320.62164,
+            "narration_text": "#C C rinses the vegetables in the bowl ",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 327.2931686,
+            "timestamp_frame": 9818,
+            "_unmapped_timestamp_sec": 327.27214,
+            "narration_text": "#C C switches off the tap",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 328.81365860000005,
+            "timestamp_frame": 9864,
+            "_unmapped_timestamp_sec": 328.79263000000003,
+            "narration_text": "#C C drops the bowl on the sink",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 329.3091686,
+            "timestamp_frame": 9879,
+            "_unmapped_timestamp_sec": 329.28814,
+            "narration_text": "#C C rinses the vegetables in the bowl ",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 356.58793860000003,
+            "timestamp_frame": 10697,
+            "_unmapped_timestamp_sec": 356.56691,
+            "narration_text": "#C C lifts the bowl on the sink with his left hand",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 358.1992086,
+            "timestamp_frame": 10745,
+            "_unmapped_timestamp_sec": 358.17818,
+            "narration_text": "#C C drains the water in the bowl into the sink",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 378.2470486,
+            "timestamp_frame": 11347,
+            "_unmapped_timestamp_sec": 378.22602,
+            "narration_text": "#C C drops the bowl on the sink",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 379.4056486,
+            "timestamp_frame": 11382,
+            "_unmapped_timestamp_sec": 379.38462,
+            "narration_text": "#C C stirs the vegetable in the bowl with his hands",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 390.78434860000004,
+            "timestamp_frame": 11723,
+            "_unmapped_timestamp_sec": 390.76332,
+            "narration_text": "#C C opens the tap",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 391.52955860000003,
+            "timestamp_frame": 11745,
+            "_unmapped_timestamp_sec": 391.50853,
+            "narration_text": "#C C rinses his hands in the sink",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 393.36089860000004,
+            "timestamp_frame": 11800,
+            "_unmapped_timestamp_sec": 393.33987,
+            "narration_text": "#C C switches off the tap",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 395.8225186,
+            "timestamp_frame": 11874,
+            "_unmapped_timestamp_sec": 395.80149,
+            "narration_text": "#O A woman X walks into the kitchen",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 404.0587686,
+            "timestamp_frame": 12121,
+            "_unmapped_timestamp_sec": 404.03774,
+            "narration_text": "#O The woman X opens a cupboard in the kitchen",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 405.7188386,
+            "timestamp_frame": 12171,
+            "_unmapped_timestamp_sec": 405.69781,
+            "narration_text": "#O The woman X picks a bowl from the cupboard with her right hand",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 406.68697860000003,
+            "timestamp_frame": 12200,
+            "_unmapped_timestamp_sec": 406.66595,
+            "narration_text": "#O The woman X drops the bowl on the sink",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 408.38055860000003,
+            "timestamp_frame": 12251,
+            "_unmapped_timestamp_sec": 408.35953,
+            "narration_text": "#O The woman X closes the cupboard",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 409.8293986,
+            "timestamp_frame": 12294,
+            "_unmapped_timestamp_sec": 409.80836999999997,
+            "narration_text": "#C C pulls out a drawer in the kitchen",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 410.79019860000005,
+            "timestamp_frame": 12323,
+            "_unmapped_timestamp_sec": 410.76917000000003,
+            "narration_text": "#O The woman X picks a nylon on a floor in the kitchen",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 412.71088860000003,
+            "timestamp_frame": 12381,
+            "_unmapped_timestamp_sec": 412.68986,
+            "narration_text": "#C C picks a chopstick from the drawer with his right hand",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 413.7180986,
+            "timestamp_frame": 12411,
+            "_unmapped_timestamp_sec": 413.69707,
+            "narration_text": "#C C shuts the drawer",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 415.7604186,
+            "timestamp_frame": 12472,
+            "_unmapped_timestamp_sec": 415.73938999999996,
+            "narration_text": "#C C tears the nylon around the chopsticks with his hands",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 419.0566086,
+            "timestamp_frame": 12571,
+            "_unmapped_timestamp_sec": 419.03558,
+            "narration_text": "#O The woman X drops the nylon on the floor in the kitchen",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 418.33094860000006,
+            "timestamp_frame": 12549,
+            "_unmapped_timestamp_sec": 418.30992000000003,
+            "narration_text": "#C C removes the chopsticks from the nylon",
+            "annotation_uid": "10119cc4-5759-4525-a734-15e37478db9c"
+        },
+        {
+            "timestamp_sec": 274.1609886,
+            "timestamp_frame": 8224,
+            "_unmapped_timestamp_sec": 274.13996,
+            "narration_text": "#C C put knife on the shelve ",
+            "annotation_uid": "359b14c2-df6f-47e9-a9d3-e0f3af422ca8"
+        },
+        {
+            "timestamp_sec": 276.2847886,
+            "timestamp_frame": 8288,
+            "_unmapped_timestamp_sec": 276.26376,
+            "narration_text": "#C C touches the vegetables ",
+            "annotation_uid": "359b14c2-df6f-47e9-a9d3-e0f3af422ca8"
+        },
+        {
+            "timestamp_sec": 285.56057860000004,
+            "timestamp_frame": 8566,
+            "_unmapped_timestamp_sec": 285.53955,
+            "narration_text": "#C C picks cucumber",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 285.67893860000004,
+            "timestamp_frame": 8570,
+            "_unmapped_timestamp_sec": 285.65791,
+            "narration_text": "#C C rinses the cucumber with water",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 286.2858186,
+            "timestamp_frame": 8588,
+            "_unmapped_timestamp_sec": 286.26479,
+            "narration_text": "#C C puts cucumber in the bowl",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 286.8872286,
+            "timestamp_frame": 8606,
+            "_unmapped_timestamp_sec": 286.8662,
+            "narration_text": "#C C rinses the vegetable with water",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 291.8070286,
+            "timestamp_frame": 8754,
+            "_unmapped_timestamp_sec": 291.786,
+            "narration_text": "#C C picks cucumber",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 292.2763486,
+            "timestamp_frame": 8768,
+            "_unmapped_timestamp_sec": 292.25532,
+            "narration_text": "#C C rinses the cucumber with water",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 292.9384486,
+            "timestamp_frame": 8788,
+            "_unmapped_timestamp_sec": 292.91742,
+            "narration_text": "#C C puts cucumber in the bowl",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 294.17145860000005,
+            "timestamp_frame": 8825,
+            "_unmapped_timestamp_sec": 294.15043000000003,
+            "narration_text": "#C C picks cucumber",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 294.71085860000005,
+            "timestamp_frame": 8841,
+            "_unmapped_timestamp_sec": 294.68983000000003,
+            "narration_text": "#C C rinses the cucumber with water",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 295.5122486,
+            "timestamp_frame": 8865,
+            "_unmapped_timestamp_sec": 295.49122,
+            "narration_text": "#C C puts cucumber in the bowl",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 295.8627186,
+            "timestamp_frame": 8875,
+            "_unmapped_timestamp_sec": 295.84168999999997,
+            "narration_text": "#C C picks cucumber",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 296.0228986,
+            "timestamp_frame": 8880,
+            "_unmapped_timestamp_sec": 296.00187,
+            "narration_text": "#C C rinses the vegetable with water",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 297.5387086,
+            "timestamp_frame": 8926,
+            "_unmapped_timestamp_sec": 297.51768,
+            "narration_text": "#C C rinses the cucumber with water",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 298.6868986,
+            "timestamp_frame": 8960,
+            "_unmapped_timestamp_sec": 298.66587,
+            "narration_text": "#C C puts cucumber in the bowl",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 298.9301386,
+            "timestamp_frame": 8967,
+            "_unmapped_timestamp_sec": 298.90911,
+            "narration_text": "#C C picks cucumber",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 299.1685286,
+            "timestamp_frame": 8974,
+            "_unmapped_timestamp_sec": 299.1475,
+            "narration_text": "#C C rinses the cucumber with water",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 299.6979486,
+            "timestamp_frame": 8990,
+            "_unmapped_timestamp_sec": 299.67692,
+            "narration_text": "#C C puts cucumber in the bowl",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 300.3415886,
+            "timestamp_frame": 9010,
+            "_unmapped_timestamp_sec": 300.32056,
+            "narration_text": "#C C rinses the vegetable with water",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 305.03121860000005,
+            "timestamp_frame": 9150,
+            "_unmapped_timestamp_sec": 305.01019,
+            "narration_text": "#C C picks cucumber",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 305.31354860000005,
+            "timestamp_frame": 9159,
+            "_unmapped_timestamp_sec": 305.29252,
+            "narration_text": "#C C rinses the cucumber with water",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 306.8053386,
+            "timestamp_frame": 9204,
+            "_unmapped_timestamp_sec": 306.78431,
+            "narration_text": "#C C picks cucumber",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 307.08705860000003,
+            "timestamp_frame": 9212,
+            "_unmapped_timestamp_sec": 307.06603,
+            "narration_text": "#C C rinses the cucumber with water",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 307.7939986,
+            "timestamp_frame": 9233,
+            "_unmapped_timestamp_sec": 307.77297,
+            "narration_text": "#C C puts cucumber in the bowl",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 308.2336586,
+            "timestamp_frame": 9246,
+            "_unmapped_timestamp_sec": 308.21263,
+            "narration_text": "#C C rinses  tomato with water",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 308.8965086,
+            "timestamp_frame": 9266,
+            "_unmapped_timestamp_sec": 308.87548,
+            "narration_text": "#C C puts the tomato in the bowl",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 308.9830986,
+            "timestamp_frame": 9269,
+            "_unmapped_timestamp_sec": 308.96207,
+            "narration_text": "#C C rinses the vegetable with water",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 310.8061286,
+            "timestamp_frame": 9324,
+            "_unmapped_timestamp_sec": 310.7851,
+            "narration_text": "#C C  picks the bowl",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 311.03938860000005,
+            "timestamp_frame": 9331,
+            "_unmapped_timestamp_sec": 311.01836000000003,
+            "narration_text": "#C C walks toward the sink",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 313.23539860000005,
+            "timestamp_frame": 9396,
+            "_unmapped_timestamp_sec": 313.21437000000003,
+            "narration_text": "#C C sieves the vegetables with his hand",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 318.2514886,
+            "timestamp_frame": 9547,
+            "_unmapped_timestamp_sec": 318.23046,
+            "narration_text": "#C C pulls his hand off the vegetable",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 318.7990686,
+            "timestamp_frame": 9563,
+            "_unmapped_timestamp_sec": 318.77804,
+            "narration_text": "#C C opens  a tap ",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 320.1778286,
+            "timestamp_frame": 9605,
+            "_unmapped_timestamp_sec": 320.1568,
+            "narration_text": "#C C rinses his hand with water",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 320.7962886,
+            "timestamp_frame": 9623,
+            "_unmapped_timestamp_sec": 320.77526,
+            "narration_text": "#C C rinses the vegetable with water",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 322.0296986,
+            "timestamp_frame": 9660,
+            "_unmapped_timestamp_sec": 322.00867,
+            "narration_text": "#C C pulls his hand off the  the vegetable",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 322.8723686,
+            "timestamp_frame": 9686,
+            "_unmapped_timestamp_sec": 322.85134,
+            "narration_text": "#C C rinses the vegetable with water",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 326.0266786,
+            "timestamp_frame": 9780,
+            "_unmapped_timestamp_sec": 326.00565,
+            "narration_text": "#C C pulls his hand off the  the vegetable",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 327.4766786,
+            "timestamp_frame": 9824,
+            "_unmapped_timestamp_sec": 327.45565,
+            "narration_text": "#C C closes the tap",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 328.3854586,
+            "timestamp_frame": 9851,
+            "_unmapped_timestamp_sec": 328.36442999999997,
+            "narration_text": "#C C puts the bowl on the counter",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 329.1841286,
+            "timestamp_frame": 9875,
+            "_unmapped_timestamp_sec": 329.1631,
+            "narration_text": "#C C rinses the vegetable with water",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 346.3921786,
+            "timestamp_frame": 10391,
+            "_unmapped_timestamp_sec": 346.37115,
+            "narration_text": "#C C pulls his hand off the  the vegetable",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 348.3975286,
+            "timestamp_frame": 10451,
+            "_unmapped_timestamp_sec": 348.37649999999996,
+            "narration_text": "#C C rinses the vegetable with water",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 351.47143860000006,
+            "timestamp_frame": 10544,
+            "_unmapped_timestamp_sec": 351.45041000000003,
+            "narration_text": "#C C  holds the bowl",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 352.3206486,
+            "timestamp_frame": 10569,
+            "_unmapped_timestamp_sec": 352.29962,
+            "narration_text": "#C C rinses the vegetable with water",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 354.06212860000005,
+            "timestamp_frame": 10621,
+            "_unmapped_timestamp_sec": 354.04110000000003,
+            "narration_text": "#C C pull his hand off the bowl",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 354.06212860000005,
+            "timestamp_frame": 10621,
+            "_unmapped_timestamp_sec": 354.04110000000003,
+            "narration_text": "#C C pulls his hand off the  the vegetable",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 355.4493086,
+            "timestamp_frame": 10663,
+            "_unmapped_timestamp_sec": 355.42828,
+            "narration_text": "#C C picks a bowl",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 357.38394860000005,
+            "timestamp_frame": 10721,
+            "_unmapped_timestamp_sec": 357.36292000000003,
+            "narration_text": "#C C sieves the vegetables with his hand",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 376.02768860000003,
+            "timestamp_frame": 11280,
+            "_unmapped_timestamp_sec": 376.00666,
+            "narration_text": "#C C pulls his hand off the  the vegetable",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 377.06505860000004,
+            "timestamp_frame": 11311,
+            "_unmapped_timestamp_sec": 377.04403,
+            "narration_text": "#C C  holds the bowl with both hands",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 378.09921860000003,
+            "timestamp_frame": 11342,
+            "_unmapped_timestamp_sec": 378.07819,
+            "narration_text": "#C C puts the bowl on a counter",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 378.88624860000004,
+            "timestamp_frame": 11366,
+            "_unmapped_timestamp_sec": 378.86522,
+            "narration_text": "#C C mixes the vegetables with his hands",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 389.08734860000004,
+            "timestamp_frame": 11672,
+            "_unmapped_timestamp_sec": 389.06632,
+            "narration_text": "#C C pulls his hands off the  the vegetable",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 390.6881286,
+            "timestamp_frame": 11720,
+            "_unmapped_timestamp_sec": 390.6671,
+            "narration_text": "#C C opens a tap",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 391.60256860000004,
+            "timestamp_frame": 11747,
+            "_unmapped_timestamp_sec": 391.58154,
+            "narration_text": "#C C rinses his hand with water",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 393.1979986,
+            "timestamp_frame": 11795,
+            "_unmapped_timestamp_sec": 393.17697,
+            "narration_text": "#C C closes the tap",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 395.0416186,
+            "timestamp_frame": 11851,
+            "_unmapped_timestamp_sec": 395.02058999999997,
+            "narration_text": "#C C gestures his hand",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 396.5510186,
+            "timestamp_frame": 11896,
+            "_unmapped_timestamp_sec": 396.52999,
+            "narration_text": "#O A man Y walks  in the kitchen",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 403.3303086,
+            "timestamp_frame": 12099,
+            "_unmapped_timestamp_sec": 403.30928,
+            "narration_text": "#O A man Y  opens a cabinet",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 401.93199860000004,
+            "timestamp_frame": 12057,
+            "_unmapped_timestamp_sec": 401.91097,
+            "narration_text": "#C C  holds the bowl",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 403.5115986,
+            "timestamp_frame": 12105,
+            "_unmapped_timestamp_sec": 403.49057,
+            "narration_text": "#C C pulls his hands off the bowl",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 404.2879186,
+            "timestamp_frame": 12128,
+            "_unmapped_timestamp_sec": 404.26689,
+            "narration_text": "#C C steps away from the counter",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 405.65331860000003,
+            "timestamp_frame": 12169,
+            "_unmapped_timestamp_sec": 405.63229,
+            "narration_text": "#O A man Y picks a  bowl",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 406.72815860000003,
+            "timestamp_frame": 12201,
+            "_unmapped_timestamp_sec": 406.70713,
+            "narration_text": "#O A man Y puts a  bowl on the counter",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 407.87070860000006,
+            "timestamp_frame": 12235,
+            "_unmapped_timestamp_sec": 407.84968000000003,
+            "narration_text": "#O A man Y closes a cabinet",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 408.84160860000003,
+            "timestamp_frame": 12265,
+            "_unmapped_timestamp_sec": 408.82058,
+            "narration_text": "#O A man Y  away from the counter",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 409.87699860000004,
+            "timestamp_frame": 12296,
+            "_unmapped_timestamp_sec": 409.85597,
+            "narration_text": "#C C opens  a drawer",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 412.4800686,
+            "timestamp_frame": 12374,
+            "_unmapped_timestamp_sec": 412.45903999999996,
+            "narration_text": "#C C picks chopsticks",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 413.47630860000004,
+            "timestamp_frame": 12404,
+            "_unmapped_timestamp_sec": 413.45528,
+            "narration_text": "#C C closes a drawer",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 414.9541386,
+            "timestamp_frame": 12448,
+            "_unmapped_timestamp_sec": 414.93311,
+            "narration_text": "#C C tears off a wrapper",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 418.0958286,
+            "timestamp_frame": 12542,
+            "_unmapped_timestamp_sec": 418.0748,
+            "narration_text": "#C C removes chopsticks from a wrapper",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        },
+        {
+            "timestamp_sec": 418.9518186,
+            "timestamp_frame": 12568,
+            "_unmapped_timestamp_sec": 418.93079,
+            "narration_text": "#O A man Y puts a polythene bag on the floor",
+            "annotation_uid": "1614e25f-239f-407a-b30d-2682e6717036"
+        }
+    ]
+}

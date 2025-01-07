@@ -1,0 +1,802 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 438.24435860000006,
+            "timestamp_frame": 13147,
+            "_unmapped_timestamp_sec": 438.22333000000003,
+            "narration_text": "#C C carries the pot with the spaghetti on the fire",
+            "annotation_uid": "224d65c8-f78f-41f3-8167-5c7303d0c486"
+        },
+        {
+            "timestamp_sec": 443.94041860000004,
+            "timestamp_frame": 13318,
+            "_unmapped_timestamp_sec": 443.91939,
+            "narration_text": "#C C drains the water from the spaghetti",
+            "annotation_uid": "224d65c8-f78f-41f3-8167-5c7303d0c486"
+        },
+        {
+            "timestamp_sec": 472.13255860000004,
+            "timestamp_frame": 14163,
+            "_unmapped_timestamp_sec": 472.11153,
+            "narration_text": "#C C puts the pot back on the cooker",
+            "annotation_uid": "224d65c8-f78f-41f3-8167-5c7303d0c486"
+        },
+        {
+            "timestamp_sec": 480.10774860000004,
+            "timestamp_frame": 14403,
+            "_unmapped_timestamp_sec": 480.08672,
+            "narration_text": "#C C chops the mushroom on the cutting board into pieces",
+            "annotation_uid": "224d65c8-f78f-41f3-8167-5c7303d0c486"
+        },
+        {
+            "timestamp_sec": 488.82926860000003,
+            "timestamp_frame": 14664,
+            "_unmapped_timestamp_sec": 488.80824,
+            "narration_text": "#C C drops the knife on the cabinet top",
+            "annotation_uid": "224d65c8-f78f-41f3-8167-5c7303d0c486"
+        },
+        {
+            "timestamp_sec": 493.9853786,
+            "timestamp_frame": 14819,
+            "_unmapped_timestamp_sec": 493.96434999999997,
+            "narration_text": "#C C adjusts the control of the cooker",
+            "annotation_uid": "224d65c8-f78f-41f3-8167-5c7303d0c486"
+        },
+        {
+            "timestamp_sec": 491.2408586,
+            "timestamp_frame": 14737,
+            "_unmapped_timestamp_sec": 491.21983,
+            "narration_text": "#C C picks up the oil container",
+            "annotation_uid": "224d65c8-f78f-41f3-8167-5c7303d0c486"
+        },
+        {
+            "timestamp_sec": 500.55933860000005,
+            "timestamp_frame": 15016,
+            "_unmapped_timestamp_sec": 500.53831,
+            "narration_text": "#C C drops the oil container beside the cutting board",
+            "annotation_uid": "224d65c8-f78f-41f3-8167-5c7303d0c486"
+        },
+        {
+            "timestamp_sec": 501.94549860000006,
+            "timestamp_frame": 15058,
+            "_unmapped_timestamp_sec": 501.92447000000004,
+            "narration_text": "#C C opens the refrigerator",
+            "annotation_uid": "224d65c8-f78f-41f3-8167-5c7303d0c486"
+        },
+        {
+            "timestamp_sec": 504.4809586,
+            "timestamp_frame": 15134,
+            "_unmapped_timestamp_sec": 504.45993,
+            "narration_text": "#C C picks up a nylon pack from the refrigerator carrier",
+            "annotation_uid": "224d65c8-f78f-41f3-8167-5c7303d0c486"
+        },
+        {
+            "timestamp_sec": 506.54513860000003,
+            "timestamp_frame": 15196,
+            "_unmapped_timestamp_sec": 506.52411,
+            "narration_text": "#C C closes the refrigerator",
+            "annotation_uid": "224d65c8-f78f-41f3-8167-5c7303d0c486"
+        },
+        {
+            "timestamp_sec": 508.9711586,
+            "timestamp_frame": 15269,
+            "_unmapped_timestamp_sec": 508.95013,
+            "narration_text": "#C C drops the nylon pack on the cabinet top",
+            "annotation_uid": "224d65c8-f78f-41f3-8167-5c7303d0c486"
+        },
+        {
+            "timestamp_sec": 509.9674586,
+            "timestamp_frame": 15298,
+            "_unmapped_timestamp_sec": 509.94642999999996,
+            "narration_text": "#C C packs the mushroom into the plate beside the cutting board",
+            "annotation_uid": "224d65c8-f78f-41f3-8167-5c7303d0c486"
+        },
+        {
+            "timestamp_sec": 519.2369186,
+            "timestamp_frame": 15576,
+            "_unmapped_timestamp_sec": 519.21589,
+            "narration_text": "#C C clears of the remnant on the cutting board into the zinc",
+            "annotation_uid": "224d65c8-f78f-41f3-8167-5c7303d0c486"
+        },
+        {
+            "timestamp_sec": 521.8119886000001,
+            "timestamp_frame": 15654,
+            "_unmapped_timestamp_sec": 521.79096,
+            "narration_text": "#C C returns the cutting board back to the cabinet top",
+            "annotation_uid": "224d65c8-f78f-41f3-8167-5c7303d0c486"
+        },
+        {
+            "timestamp_sec": 522.8094286,
+            "timestamp_frame": 15684,
+            "_unmapped_timestamp_sec": 522.7884,
+            "narration_text": "#C C picks up the nylon pack",
+            "annotation_uid": "224d65c8-f78f-41f3-8167-5c7303d0c486"
+        },
+        {
+            "timestamp_sec": 528.0176886,
+            "timestamp_frame": 15840,
+            "_unmapped_timestamp_sec": 527.99666,
+            "narration_text": "#C C brings out the carrot in the nylon pack",
+            "annotation_uid": "224d65c8-f78f-41f3-8167-5c7303d0c486"
+        },
+        {
+            "timestamp_sec": 535.0060286,
+            "timestamp_frame": 16050,
+            "_unmapped_timestamp_sec": 534.985,
+            "narration_text": "#C C cuts the carrot in to smaller pieces",
+            "annotation_uid": "224d65c8-f78f-41f3-8167-5c7303d0c486"
+        },
+        {
+            "timestamp_sec": 420.90842860000004,
+            "timestamp_frame": 12627,
+            "_unmapped_timestamp_sec": 420.8874,
+            "narration_text": "#C C turns to man X",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 421.37710860000004,
+            "timestamp_frame": 12641,
+            "_unmapped_timestamp_sec": 421.35608,
+            "narration_text": "#O A man X walks through the door",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 422.0189586,
+            "timestamp_frame": 12660,
+            "_unmapped_timestamp_sec": 421.99793,
+            "narration_text": "#C C turns to the cooker",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 422.67798860000005,
+            "timestamp_frame": 12680,
+            "_unmapped_timestamp_sec": 422.65696,
+            "narration_text": "#C C switches off the cooker",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 425.80740860000003,
+            "timestamp_frame": 12774,
+            "_unmapped_timestamp_sec": 425.78638,
+            "narration_text": "#C C turns to the chopping board",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 427.20712860000003,
+            "timestamp_frame": 12816,
+            "_unmapped_timestamp_sec": 427.1861,
+            "narration_text": "#C C picks the knife from a chopping board",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 427.80811860000006,
+            "timestamp_frame": 12834,
+            "_unmapped_timestamp_sec": 427.78709000000003,
+            "narration_text": "#C C puts the mushroom cap pieces together",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 428.1961886,
+            "timestamp_frame": 12845,
+            "_unmapped_timestamp_sec": 428.17516,
+            "narration_text": "#C C picks a mushroom cap piece from the countertop",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 428.8434786,
+            "timestamp_frame": 12865,
+            "_unmapped_timestamp_sec": 428.82245,
+            "narration_text": "#C C places the mushroom  cap piece on a chopping board",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 429.40063860000004,
+            "timestamp_frame": 12881,
+            "_unmapped_timestamp_sec": 429.37961,
+            "narration_text": "#C C cuts the mushroom cap piece with a knife",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 431.22815860000003,
+            "timestamp_frame": 12936,
+            "_unmapped_timestamp_sec": 431.20713,
+            "narration_text": "#C C picks a mushroom cap piece from the chopping board",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 431.50591860000003,
+            "timestamp_frame": 12945,
+            "_unmapped_timestamp_sec": 431.48489,
+            "narration_text": "#C C places the mushroom  cap piece on a chopping board",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 432.2042186,
+            "timestamp_frame": 12965,
+            "_unmapped_timestamp_sec": 432.18318999999997,
+            "narration_text": "#C C cuts the mushroom cap piece with a knife",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 433.73067860000003,
+            "timestamp_frame": 13011,
+            "_unmapped_timestamp_sec": 433.70965,
+            "narration_text": "#O A man X stands behind C",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 433.2847286,
+            "timestamp_frame": 12998,
+            "_unmapped_timestamp_sec": 433.2637,
+            "narration_text": "#C C turns to man X",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 435.06350860000003,
+            "timestamp_frame": 13051,
+            "_unmapped_timestamp_sec": 435.04248,
+            "narration_text": "#C C cuts the mushroom cap piece with a knife",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 436.1959286,
+            "timestamp_frame": 13085,
+            "_unmapped_timestamp_sec": 436.1749,
+            "narration_text": "#C C places the knife on a chopping board",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 436.99355860000003,
+            "timestamp_frame": 13109,
+            "_unmapped_timestamp_sec": 436.97253,
+            "narration_text": "#C C turns to the cooker",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 438.0517986,
+            "timestamp_frame": 13141,
+            "_unmapped_timestamp_sec": 438.03076999999996,
+            "narration_text": "#C C holds a cooking pot",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 438.60128860000003,
+            "timestamp_frame": 13157,
+            "_unmapped_timestamp_sec": 438.58026,
+            "narration_text": "#C C lifts the cooking pot from a cooker",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 439.58696860000003,
+            "timestamp_frame": 13187,
+            "_unmapped_timestamp_sec": 439.56594,
+            "narration_text": "#C C turns to the sink",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 444.3771886,
+            "timestamp_frame": 13331,
+            "_unmapped_timestamp_sec": 444.35616,
+            "narration_text": "#C C pours the spaghetti and water in a strainer",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 448.5632886,
+            "timestamp_frame": 13456,
+            "_unmapped_timestamp_sec": 448.54226,
+            "narration_text": "#C C places the cooking pot on a countertop",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 449.9424686,
+            "timestamp_frame": 13498,
+            "_unmapped_timestamp_sec": 449.92143999999996,
+            "narration_text": "#C C lifts the strainer",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 452.8335786,
+            "timestamp_frame": 13584,
+            "_unmapped_timestamp_sec": 452.81255,
+            "narration_text": "#C C holds a bowl",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 454.08184860000006,
+            "timestamp_frame": 13622,
+            "_unmapped_timestamp_sec": 454.06082000000004,
+            "narration_text": "#C C lifts the bowl",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 457.63709860000006,
+            "timestamp_frame": 13728,
+            "_unmapped_timestamp_sec": 457.61607000000004,
+            "narration_text": "#C C places the bowl in a sink",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 460.0212786,
+            "timestamp_frame": 13800,
+            "_unmapped_timestamp_sec": 460.00025,
+            "narration_text": "#C C shakes the strainer",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 462.7789086,
+            "timestamp_frame": 13883,
+            "_unmapped_timestamp_sec": 462.75788,
+            "narration_text": "#O A man X gestures at C",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 464.79792860000003,
+            "timestamp_frame": 13943,
+            "_unmapped_timestamp_sec": 464.7769,
+            "narration_text": "#C C gestures back to man X",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 464.1125086,
+            "timestamp_frame": 13923,
+            "_unmapped_timestamp_sec": 464.09148,
+            "narration_text": "#C C holds the strainer with his left hand",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 465.7661286,
+            "timestamp_frame": 13972,
+            "_unmapped_timestamp_sec": 465.7451,
+            "narration_text": "#O A man X gestures at C",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 466.40383860000003,
+            "timestamp_frame": 13991,
+            "_unmapped_timestamp_sec": 466.38281,
+            "narration_text": "#C C places the strainer in a bowl",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 466.7691386,
+            "timestamp_frame": 14002,
+            "_unmapped_timestamp_sec": 466.74811,
+            "narration_text": "#O A man X gestures at C",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 467.38030860000003,
+            "timestamp_frame": 14021,
+            "_unmapped_timestamp_sec": 467.35928,
+            "narration_text": "#C C lifts the strainer",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 468.05442860000005,
+            "timestamp_frame": 14041,
+            "_unmapped_timestamp_sec": 468.03340000000003,
+            "narration_text": "#O A man X gestures at C",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 470.9240886,
+            "timestamp_frame": 14127,
+            "_unmapped_timestamp_sec": 470.90306,
+            "narration_text": "#C C holds the bowl and a strainer",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 471.2241086,
+            "timestamp_frame": 14136,
+            "_unmapped_timestamp_sec": 471.20308,
+            "narration_text": "#C C walks through the door",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 472.03362860000004,
+            "timestamp_frame": 14160,
+            "_unmapped_timestamp_sec": 472.0126,
+            "narration_text": "#C C places the strainer and bowl in a sink",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 473.3015286,
+            "timestamp_frame": 14198,
+            "_unmapped_timestamp_sec": 473.28049999999996,
+            "narration_text": "#C C holds a cooking pot",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 473.6126386,
+            "timestamp_frame": 14208,
+            "_unmapped_timestamp_sec": 473.59161,
+            "narration_text": "#C C picks the cooking pot from a countertop",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 474.5941686,
+            "timestamp_frame": 14237,
+            "_unmapped_timestamp_sec": 474.57313999999997,
+            "narration_text": "#C C tilts the cooking pot",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 474.8474086,
+            "timestamp_frame": 14245,
+            "_unmapped_timestamp_sec": 474.82638,
+            "narration_text": "#C C places the cooking pot on a cooker",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 476.8036286,
+            "timestamp_frame": 14303,
+            "_unmapped_timestamp_sec": 476.7826,
+            "narration_text": "#C C holds a frying pan handle",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 478.63809860000003,
+            "timestamp_frame": 14359,
+            "_unmapped_timestamp_sec": 478.61707,
+            "narration_text": "#C C turns to the chopping board",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 479.44640860000004,
+            "timestamp_frame": 14383,
+            "_unmapped_timestamp_sec": 479.42538,
+            "narration_text": "#C C picks a knife from the chopping board",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 480.1807286,
+            "timestamp_frame": 14405,
+            "_unmapped_timestamp_sec": 480.1597,
+            "narration_text": "#C C cuts the mushroom cap pieces with the knife",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 485.6479286,
+            "timestamp_frame": 14569,
+            "_unmapped_timestamp_sec": 485.6269,
+            "narration_text": "#C C removes a mushroom cap piece from the knife",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 486.0082386,
+            "timestamp_frame": 14580,
+            "_unmapped_timestamp_sec": 485.98721,
+            "narration_text": "#C C puts together the mushroom cap pieces",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 487.29551860000004,
+            "timestamp_frame": 14618,
+            "_unmapped_timestamp_sec": 487.27449,
+            "narration_text": "#C C turns the knife",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 487.85512860000006,
+            "timestamp_frame": 14635,
+            "_unmapped_timestamp_sec": 487.83410000000003,
+            "narration_text": "#C C removes the mushroom cap pieces from a knife",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 488.3115186,
+            "timestamp_frame": 14649,
+            "_unmapped_timestamp_sec": 488.29049,
+            "narration_text": "#C C puts together the mushroom cap pieces",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 488.7804386,
+            "timestamp_frame": 14663,
+            "_unmapped_timestamp_sec": 488.75941,
+            "narration_text": "#C C places the knife on a countertop",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 490.4506586,
+            "timestamp_frame": 14713,
+            "_unmapped_timestamp_sec": 490.42963,
+            "narration_text": "#C C turns to the cooker",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 491.4959086,
+            "timestamp_frame": 14744,
+            "_unmapped_timestamp_sec": 491.47488,
+            "narration_text": "#C C picks a japanese cooking oil from the countertop",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 493.4996886,
+            "timestamp_frame": 14804,
+            "_unmapped_timestamp_sec": 493.47866,
+            "narration_text": "#C C switches on the cooker",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 498.2848286,
+            "timestamp_frame": 14948,
+            "_unmapped_timestamp_sec": 498.2638,
+            "narration_text": "#C C turns to man X",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 498.4593086,
+            "timestamp_frame": 14953,
+            "_unmapped_timestamp_sec": 498.43827999999996,
+            "narration_text": "#O A man X stands at the door",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 500.1214086,
+            "timestamp_frame": 15003,
+            "_unmapped_timestamp_sec": 500.10038,
+            "narration_text": "#C C turns to the countertop",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 500.3197186,
+            "timestamp_frame": 15009,
+            "_unmapped_timestamp_sec": 500.29868999999997,
+            "narration_text": "#C C places the japanese cooking oil on a countertop",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 500.9202686,
+            "timestamp_frame": 15027,
+            "_unmapped_timestamp_sec": 500.89923999999996,
+            "narration_text": "#C C turns to the fridge",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 501.84590860000003,
+            "timestamp_frame": 15055,
+            "_unmapped_timestamp_sec": 501.82488,
+            "narration_text": "#C C opens the fridge door",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 503.4243686,
+            "timestamp_frame": 15102,
+            "_unmapped_timestamp_sec": 503.40333999999996,
+            "narration_text": "#C C pulls a crisper drawer",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 504.4717486,
+            "timestamp_frame": 15134,
+            "_unmapped_timestamp_sec": 504.45072,
+            "narration_text": "#C C picks a pack of  sausages",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 505.4435586,
+            "timestamp_frame": 15163,
+            "_unmapped_timestamp_sec": 505.42253,
+            "narration_text": "#C C closes the crisper drawer",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 506.3632586,
+            "timestamp_frame": 15190,
+            "_unmapped_timestamp_sec": 506.34223,
+            "narration_text": "#C C closes the fridge door",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 507.4612386,
+            "timestamp_frame": 15223,
+            "_unmapped_timestamp_sec": 507.44021,
+            "narration_text": "#C C opens the pack of  sausages",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 507.6284786,
+            "timestamp_frame": 15228,
+            "_unmapped_timestamp_sec": 507.60745,
+            "narration_text": "#C C walks to the countertop",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 508.66285860000005,
+            "timestamp_frame": 15259,
+            "_unmapped_timestamp_sec": 508.64183,
+            "narration_text": "#C C places the pack of  sausages on a countertop",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 509.97467860000006,
+            "timestamp_frame": 15299,
+            "_unmapped_timestamp_sec": 509.95365000000004,
+            "narration_text": "#C C picks the mushroom cap pieces from a chopping board",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 511.59385860000003,
+            "timestamp_frame": 15347,
+            "_unmapped_timestamp_sec": 511.57283,
+            "narration_text": "#C C places the mushroom cap pieces in a bowl",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 513.2250086,
+            "timestamp_frame": 15396,
+            "_unmapped_timestamp_sec": 513.20398,
+            "narration_text": "#C C picks the mushroom cap pieces from a chopping board",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 514.1147886,
+            "timestamp_frame": 15423,
+            "_unmapped_timestamp_sec": 514.09376,
+            "narration_text": "#C C places the mushroom cap pieces in a bowl",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 515.3983986000001,
+            "timestamp_frame": 15461,
+            "_unmapped_timestamp_sec": 515.37737,
+            "narration_text": "#C C picks the mushroom cap pieces from a chopping board",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 515.9746686,
+            "timestamp_frame": 15479,
+            "_unmapped_timestamp_sec": 515.95364,
+            "narration_text": "#C C places the mushroom cap pieces in a bowl",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 517.2961586,
+            "timestamp_frame": 15518,
+            "_unmapped_timestamp_sec": 517.27513,
+            "narration_text": "#C C picks the chopping board from a countertop",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 518.2170186,
+            "timestamp_frame": 15546,
+            "_unmapped_timestamp_sec": 518.1959899999999,
+            "narration_text": "#C C turns to the sink",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 519.2892886000001,
+            "timestamp_frame": 15578,
+            "_unmapped_timestamp_sec": 519.26826,
+            "narration_text": "#C C wipes the chopping board with his right hand",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 521.2030886,
+            "timestamp_frame": 15635,
+            "_unmapped_timestamp_sec": 521.18206,
+            "narration_text": "#C C turns to the countertop",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 521.9334686000001,
+            "timestamp_frame": 15657,
+            "_unmapped_timestamp_sec": 521.9124400000001,
+            "narration_text": "#C C places the chopping board on a countertop",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 523.1830686,
+            "timestamp_frame": 15695,
+            "_unmapped_timestamp_sec": 523.1620399999999,
+            "narration_text": "#C C picks the pack of  sausages  from a countertop",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 525.0781086000001,
+            "timestamp_frame": 15752,
+            "_unmapped_timestamp_sec": 525.05708,
+            "narration_text": "#C C opens the pack of  sausages ",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 527.7229186000001,
+            "timestamp_frame": 15831,
+            "_unmapped_timestamp_sec": 527.70189,
+            "narration_text": "#C C drops the  sausages on a chopping board",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 530.0228386,
+            "timestamp_frame": 15900,
+            "_unmapped_timestamp_sec": 530.00181,
+            "narration_text": "#C C holds the plastic bag",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 531.7151286,
+            "timestamp_frame": 15951,
+            "_unmapped_timestamp_sec": 531.6940999999999,
+            "narration_text": "#C C places the plastic bag on a countertop",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 530.9549486,
+            "timestamp_frame": 15928,
+            "_unmapped_timestamp_sec": 530.93392,
+            "narration_text": "#C C picks a sausage from the countertop",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 532.1592085999999,
+            "timestamp_frame": 15964,
+            "_unmapped_timestamp_sec": 532.1381799999999,
+            "narration_text": "#C C puts the sausages together",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 532.4907786,
+            "timestamp_frame": 15974,
+            "_unmapped_timestamp_sec": 532.46975,
+            "narration_text": "#C C picks a knife from the countertop",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 534.6874286000001,
+            "timestamp_frame": 16040,
+            "_unmapped_timestamp_sec": 534.6664000000001,
+            "narration_text": "#C C holds some sausages with his left hand",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 535.5688786,
+            "timestamp_frame": 16066,
+            "_unmapped_timestamp_sec": 535.5478499999999,
+            "narration_text": "#C C cuts the sausages with a knife",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 553.4780586,
+            "timestamp_frame": 16604,
+            "_unmapped_timestamp_sec": 553.45703,
+            "narration_text": "#C C puts the sausage pieces together with a knife",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 553.4227286,
+            "timestamp_frame": 16602,
+            "_unmapped_timestamp_sec": 553.4017,
+            "narration_text": "#C C picks a sausage from the chopping board",
+            "annotation_uid": "de47322e-1d36-4a5a-a0ca-6a8caaaf4b13"
+        },
+        {
+            "timestamp_sec": 555.4573886000001,
+            "timestamp_frame": 16663,
+            "_unmapped_timestamp_sec": 555.43636,
+            "narration_text": "#C C cuts sausage with a knife",
+            "annotation_uid": "85274ae4-8c7a-4891-9bb1-a032e63cfb75"
+        },
+        {
+            "timestamp_sec": 566.4106386,
+            "timestamp_frame": 16992,
+            "_unmapped_timestamp_sec": 566.38961,
+            "narration_text": "#C C picks sausage",
+            "annotation_uid": "85274ae4-8c7a-4891-9bb1-a032e63cfb75"
+        },
+        {
+            "timestamp_sec": 567.0205886,
+            "timestamp_frame": 17010,
+            "_unmapped_timestamp_sec": 566.99956,
+            "narration_text": "#C C pushes the sausages aside with a knife",
+            "annotation_uid": "85274ae4-8c7a-4891-9bb1-a032e63cfb75"
+        },
+        {
+            "timestamp_sec": 567.8997886000001,
+            "timestamp_frame": 17036,
+            "_unmapped_timestamp_sec": 567.87876,
+            "narration_text": "#C C cuts sausage with a knife",
+            "annotation_uid": "85274ae4-8c7a-4891-9bb1-a032e63cfb75"
+        }
+    ]
+}

@@ -1,0 +1,900 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 0.0210286,
+            "timestamp_frame": 0,
+            "_unmapped_timestamp_sec": 0.0,
+            "narration_text": "#C C holds a pot in a kitchen",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 1.1543586,
+            "timestamp_frame": 34,
+            "_unmapped_timestamp_sec": 1.13333,
+            "narration_text": "#C C removes a pot from a cupboard in the kitchen",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 2.4070086,
+            "timestamp_frame": 72,
+            "_unmapped_timestamp_sec": 2.38598,
+            "narration_text": "#C C removes a lid from the cupboard in the kitchen",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 3.2173986,
+            "timestamp_frame": 96,
+            "_unmapped_timestamp_sec": 3.19637,
+            "narration_text": "#C C covers a pot on a gas cooker with the lid",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 5.024748600000001,
+            "timestamp_frame": 150,
+            "_unmapped_timestamp_sec": 5.00372,
+            "narration_text": "#C C drops the pot in the cupboard",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 6.2203586,
+            "timestamp_frame": 186,
+            "_unmapped_timestamp_sec": 6.19933,
+            "narration_text": "#C C moves a pot in the cupboard",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 11.1307186,
+            "timestamp_frame": 333,
+            "_unmapped_timestamp_sec": 11.10969,
+            "narration_text": "#C C shuts the cupboard ",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 13.371308599999999,
+            "timestamp_frame": 401,
+            "_unmapped_timestamp_sec": 13.35028,
+            "narration_text": "#C C opens a drawer in the kitchen",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 15.006688599999999,
+            "timestamp_frame": 450,
+            "_unmapped_timestamp_sec": 14.98566,
+            "narration_text": "#C C picks a spoon from the drawer with her right hand",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 16.804768600000003,
+            "timestamp_frame": 504,
+            "_unmapped_timestamp_sec": 16.78374,
+            "narration_text": "#C C shuts the drawer",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 17.0149486,
+            "timestamp_frame": 510,
+            "_unmapped_timestamp_sec": 16.99392,
+            "narration_text": "#C C stirs the food in a frypan on the gas cooker",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 26.2914686,
+            "timestamp_frame": 788,
+            "_unmapped_timestamp_sec": 26.27044,
+            "narration_text": "#C C picks a tray on the cabinet with her right hand",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 27.5801686,
+            "timestamp_frame": 827,
+            "_unmapped_timestamp_sec": 27.55914,
+            "narration_text": "#C C drops the tray on the cabinet",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 29.1177886,
+            "timestamp_frame": 873,
+            "_unmapped_timestamp_sec": 29.09676,
+            "narration_text": "#C C turns the knob on the gas cooker with her right hand",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 30.970128600000002,
+            "timestamp_frame": 928,
+            "_unmapped_timestamp_sec": 30.9491,
+            "narration_text": "#C C walks towards the fridge",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 32.9073186,
+            "timestamp_frame": 987,
+            "_unmapped_timestamp_sec": 32.88629,
+            "narration_text": "#C C opens the fridge ",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 34.4848086,
+            "timestamp_frame": 1034,
+            "_unmapped_timestamp_sec": 34.46378,
+            "narration_text": "#C C drops a nylon in the fridge",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 35.9953086,
+            "timestamp_frame": 1079,
+            "_unmapped_timestamp_sec": 35.97428,
+            "narration_text": "#C C shuts the fridge",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 36.9339286,
+            "timestamp_frame": 1107,
+            "_unmapped_timestamp_sec": 36.9129,
+            "narration_text": "#C C picks some garlics on the fridge",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 45.1744786,
+            "timestamp_frame": 1355,
+            "_unmapped_timestamp_sec": 45.15345,
+            "narration_text": "#C C drops a chaff from the garlic in the sink",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 46.2605486,
+            "timestamp_frame": 1387,
+            "_unmapped_timestamp_sec": 46.23952,
+            "narration_text": "#C C removes the chaff from the garlic with her hands",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 47.1536086,
+            "timestamp_frame": 1414,
+            "_unmapped_timestamp_sec": 47.13258,
+            "narration_text": "#C C drops the chaff from the garlic in the sink",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 47.9015186,
+            "timestamp_frame": 1436,
+            "_unmapped_timestamp_sec": 47.88049,
+            "narration_text": "#C C removes the chaff from the garlic with her hands",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 57.264278600000004,
+            "timestamp_frame": 1717,
+            "_unmapped_timestamp_sec": 57.24325,
+            "narration_text": "#C C drops the chaff from the garlic in the sink",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 62.0282486,
+            "timestamp_frame": 1860,
+            "_unmapped_timestamp_sec": 62.00722,
+            "narration_text": "#C C drops the garlic on the tray on the cabinet",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 63.606728600000004,
+            "timestamp_frame": 1908,
+            "_unmapped_timestamp_sec": 63.5857,
+            "narration_text": "#C C turns a knob of a gas cooker in the kitchen with her right hand",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 69.1208286,
+            "timestamp_frame": 2073,
+            "_unmapped_timestamp_sec": 69.0998,
+            "narration_text": "#C C picks a knife on the cabinet with her right hand",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 71.03887859999999,
+            "timestamp_frame": 2131,
+            "_unmapped_timestamp_sec": 71.01785,
+            "narration_text": "#C C slices the garlic on the tray with the knife ",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 71.7649886,
+            "timestamp_frame": 2152,
+            "_unmapped_timestamp_sec": 71.74396,
+            "narration_text": "#C C drops the chaff on the knife into the sink",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 75.2793686,
+            "timestamp_frame": 2258,
+            "_unmapped_timestamp_sec": 75.25834,
+            "narration_text": "#C C opens a tap on the sink",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 76.07371859999999,
+            "timestamp_frame": 2282,
+            "_unmapped_timestamp_sec": 76.05269,
+            "narration_text": "#C C rinses her hands in the sink",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 77.05086859999999,
+            "timestamp_frame": 2311,
+            "_unmapped_timestamp_sec": 77.02984,
+            "narration_text": "#C C switches off the tap",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 78.7294786,
+            "timestamp_frame": 2361,
+            "_unmapped_timestamp_sec": 78.70845,
+            "narration_text": "#C C wipes her hands with a piece of cloth on the cabinet",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 79.9262686,
+            "timestamp_frame": 2397,
+            "_unmapped_timestamp_sec": 79.90524,
+            "narration_text": "#C C picks the knife on the tray with her right hand",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 80.2210786,
+            "timestamp_frame": 2406,
+            "_unmapped_timestamp_sec": 80.20005,
+            "narration_text": "#C C picks the garlic on the tray with her left hand",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 81.06175859999999,
+            "timestamp_frame": 2431,
+            "_unmapped_timestamp_sec": 81.04073,
+            "narration_text": "#C C drops the garlic on the tray",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 83.2397986,
+            "timestamp_frame": 2497,
+            "_unmapped_timestamp_sec": 83.21877,
+            "narration_text": "#C C slices the garlic on the tray with the knife ",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 85.0886486,
+            "timestamp_frame": 2552,
+            "_unmapped_timestamp_sec": 85.06762,
+            "narration_text": "#C C moves the chaff of the garlic from the tray to the sink",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 86.6703386,
+            "timestamp_frame": 2599,
+            "_unmapped_timestamp_sec": 86.64931,
+            "narration_text": "#C C slices the garlic on the tray with the knife ",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 128.72873859999999,
+            "timestamp_frame": 3861,
+            "_unmapped_timestamp_sec": 128.70771,
+            "narration_text": "#C C gathers the garlics on the tray",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 129.6138086,
+            "timestamp_frame": 3888,
+            "_unmapped_timestamp_sec": 129.59278,
+            "narration_text": "#C C slices the garlic on the tray with the knife ",
+            "annotation_uid": "a849e8ff-30b9-43a4-b1f9-9ee4d536cf63"
+        },
+        {
+            "timestamp_sec": 0.0210286,
+            "timestamp_frame": 0,
+            "_unmapped_timestamp_sec": 0.0,
+            "narration_text": "#C C picks a pan",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 2.2686886000000004,
+            "timestamp_frame": 67,
+            "_unmapped_timestamp_sec": 2.24766,
+            "narration_text": "#C C picks a lid",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 3.2551386,
+            "timestamp_frame": 97,
+            "_unmapped_timestamp_sec": 3.23411,
+            "narration_text": "#C C covers a pan with a lid ",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 5.0913786000000005,
+            "timestamp_frame": 152,
+            "_unmapped_timestamp_sec": 5.07035,
+            "narration_text": "#C C puts the pan in a cabinet",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 10.088698599999999,
+            "timestamp_frame": 302,
+            "_unmapped_timestamp_sec": 10.06767,
+            "narration_text": "#C C pushes a pan in the cabinet",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 11.1856286,
+            "timestamp_frame": 335,
+            "_unmapped_timestamp_sec": 11.1646,
+            "narration_text": "#C C  closes the cabinet",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 11.1856286,
+            "timestamp_frame": 335,
+            "_unmapped_timestamp_sec": 11.1646,
+            "narration_text": "#C C holds towels",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 11.4093886,
+            "timestamp_frame": 342,
+            "_unmapped_timestamp_sec": 11.38836,
+            "narration_text": "#C C pulls his hand off the towel",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 12.070868599999999,
+            "timestamp_frame": 361,
+            "_unmapped_timestamp_sec": 12.04984,
+            "narration_text": "#C C steps toward the cooker",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 13.4299386,
+            "timestamp_frame": 402,
+            "_unmapped_timestamp_sec": 13.40891,
+            "narration_text": "#C C opens a drawer",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 15.3080486,
+            "timestamp_frame": 459,
+            "_unmapped_timestamp_sec": 15.28702,
+            "narration_text": "#C C picks a ladle spoon",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 16.8459986,
+            "timestamp_frame": 505,
+            "_unmapped_timestamp_sec": 16.82497,
+            "narration_text": "#C C closes a drawer",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 17.2397986,
+            "timestamp_frame": 517,
+            "_unmapped_timestamp_sec": 17.21877,
+            "narration_text": "#C C stirs food with a ladle spoon",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 24.3826286,
+            "timestamp_frame": 731,
+            "_unmapped_timestamp_sec": 24.3616,
+            "narration_text": "#C C puts ladle spoon in the pan",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 25.9628386,
+            "timestamp_frame": 778,
+            "_unmapped_timestamp_sec": 25.94181,
+            "narration_text": "#C C picks a cutting board",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 26.4054186,
+            "timestamp_frame": 792,
+            "_unmapped_timestamp_sec": 26.38439,
+            "narration_text": "#C C empties water in the sink",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 27.183068600000002,
+            "timestamp_frame": 815,
+            "_unmapped_timestamp_sec": 27.16204,
+            "narration_text": "#C C puts the cutting board on the counter",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 27.976218600000003,
+            "timestamp_frame": 839,
+            "_unmapped_timestamp_sec": 27.95519,
+            "narration_text": "#C C picks cheese",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 28.7006286,
+            "timestamp_frame": 860,
+            "_unmapped_timestamp_sec": 28.6796,
+            "narration_text": "#C C holds the cooker power button",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 30.902928600000003,
+            "timestamp_frame": 926,
+            "_unmapped_timestamp_sec": 30.8819,
+            "narration_text": "#C C pulls his hand off the cooker power button",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 31.320818600000003,
+            "timestamp_frame": 939,
+            "_unmapped_timestamp_sec": 31.29979,
+            "narration_text": "#C C walks around the kitchen",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 31.5974386,
+            "timestamp_frame": 947,
+            "_unmapped_timestamp_sec": 31.57641,
+            "narration_text": "#C C holds cheese wrapper with both hands",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 32.3379886,
+            "timestamp_frame": 970,
+            "_unmapped_timestamp_sec": 32.31696,
+            "narration_text": "#C C opens the fridge",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 34.0097186,
+            "timestamp_frame": 1020,
+            "_unmapped_timestamp_sec": 33.98869,
+            "narration_text": "#C C holds the fridge door",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 34.0097186,
+            "timestamp_frame": 1020,
+            "_unmapped_timestamp_sec": 33.98869,
+            "narration_text": "#C C puts cheese in the fridge ",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 35.8960986,
+            "timestamp_frame": 1076,
+            "_unmapped_timestamp_sec": 35.87507,
+            "narration_text": "#C C  closes the fridge",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 37.079218600000004,
+            "timestamp_frame": 1112,
+            "_unmapped_timestamp_sec": 37.05819,
+            "narration_text": "#C C picks garlic ",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 39.8403386,
+            "timestamp_frame": 1195,
+            "_unmapped_timestamp_sec": 39.81931,
+            "narration_text": "#C C pulls garlic  ",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 40.6919986,
+            "timestamp_frame": 1220,
+            "_unmapped_timestamp_sec": 40.67097,
+            "narration_text": "#C C holds garlic with both hands",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 41.5113086,
+            "timestamp_frame": 1245,
+            "_unmapped_timestamp_sec": 41.49028,
+            "narration_text": "#C C pulls garlic  ",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 42.497288600000005,
+            "timestamp_frame": 1274,
+            "_unmapped_timestamp_sec": 42.47626,
+            "narration_text": "#C C puts garlic in a tray",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 43.5755186,
+            "timestamp_frame": 1307,
+            "_unmapped_timestamp_sec": 43.55449,
+            "narration_text": "#C C walks around the kitchen",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 43.5755186,
+            "timestamp_frame": 1307,
+            "_unmapped_timestamp_sec": 43.55449,
+            "narration_text": "#C C holds garlic with both hands",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 44.6735386,
+            "timestamp_frame": 1340,
+            "_unmapped_timestamp_sec": 44.65251,
+            "narration_text": "#C C peels off garlic skin",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 44.8628286,
+            "timestamp_frame": 1345,
+            "_unmapped_timestamp_sec": 44.8418,
+            "narration_text": "#C C puts garlic skin in a sink waste holder",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 45.6381786,
+            "timestamp_frame": 1369,
+            "_unmapped_timestamp_sec": 45.61715,
+            "narration_text": "#C C peels off garlic skin",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 46.989698600000004,
+            "timestamp_frame": 1409,
+            "_unmapped_timestamp_sec": 46.96867,
+            "narration_text": "#C C puts garlic skin in a sink waste holder",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 48.0127286,
+            "timestamp_frame": 1440,
+            "_unmapped_timestamp_sec": 47.9917,
+            "narration_text": "#C C peels off garlic skin",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 57.3470986,
+            "timestamp_frame": 1720,
+            "_unmapped_timestamp_sec": 57.32607,
+            "narration_text": "#C C puts garlic skin in a sink waste holder",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 57.9086586,
+            "timestamp_frame": 1737,
+            "_unmapped_timestamp_sec": 57.88763,
+            "narration_text": "#C C peels off garlic skin",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 58.3271086,
+            "timestamp_frame": 1749,
+            "_unmapped_timestamp_sec": 58.30608,
+            "narration_text": "#C C puts garlic skin in a sink waste holder",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 60.2142786,
+            "timestamp_frame": 1806,
+            "_unmapped_timestamp_sec": 60.19325,
+            "narration_text": "#C C peels off garlic skin",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 61.2114086,
+            "timestamp_frame": 1836,
+            "_unmapped_timestamp_sec": 61.19038,
+            "narration_text": "#C C puts garlic skin in a sink waste holder",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 62.169408600000004,
+            "timestamp_frame": 1864,
+            "_unmapped_timestamp_sec": 62.14838,
+            "narration_text": "#C C puts garlic on a cutting board",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 63.8464786,
+            "timestamp_frame": 1915,
+            "_unmapped_timestamp_sec": 63.82545,
+            "narration_text": "#C C holds the cooker power button",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 66.70514859999999,
+            "timestamp_frame": 2001,
+            "_unmapped_timestamp_sec": 66.68412,
+            "narration_text": "#C C pulls his hand off the cooker power button",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 66.9556786,
+            "timestamp_frame": 2008,
+            "_unmapped_timestamp_sec": 66.93465,
+            "narration_text": "#C C walks away from the cooker",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 67.65182859999999,
+            "timestamp_frame": 2029,
+            "_unmapped_timestamp_sec": 67.6308,
+            "narration_text": "#C C puts #unsure in the sink waste holder",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 67.96044859999999,
+            "timestamp_frame": 2038,
+            "_unmapped_timestamp_sec": 67.93942,
+            "narration_text": "#C C drags garlic on the cutting board",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 68.7692886,
+            "timestamp_frame": 2062,
+            "_unmapped_timestamp_sec": 68.74826,
+            "narration_text": "#C C picks a knife",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 70.09735859999999,
+            "timestamp_frame": 2102,
+            "_unmapped_timestamp_sec": 70.07633,
+            "narration_text": "#C C holds garlic",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 70.3740986,
+            "timestamp_frame": 2111,
+            "_unmapped_timestamp_sec": 70.35307,
+            "narration_text": "#C C cuts garlic with a knife",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 71.2233586,
+            "timestamp_frame": 2136,
+            "_unmapped_timestamp_sec": 71.20233,
+            "narration_text": "#C C pick garlic piece from the knife",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 72.04200859999999,
+            "timestamp_frame": 2161,
+            "_unmapped_timestamp_sec": 72.02098,
+            "narration_text": "#C C puts garlic piece in the sink waste holder",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 72.9540186,
+            "timestamp_frame": 2188,
+            "_unmapped_timestamp_sec": 72.93299,
+            "narration_text": "#C C holds garlic",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 73.4210586,
+            "timestamp_frame": 2202,
+            "_unmapped_timestamp_sec": 73.40003,
+            "narration_text": "#C C pulls his hand off the garlic",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 74.44947859999999,
+            "timestamp_frame": 2233,
+            "_unmapped_timestamp_sec": 74.42845,
+            "narration_text": "#C C puts a knife on a cutting board",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 75.0541186,
+            "timestamp_frame": 2251,
+            "_unmapped_timestamp_sec": 75.03309,
+            "narration_text": "#C C opens a tap",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 76.1934386,
+            "timestamp_frame": 2285,
+            "_unmapped_timestamp_sec": 76.17241,
+            "narration_text": "#C C rinses his hands with water",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 77.00909859999999,
+            "timestamp_frame": 2310,
+            "_unmapped_timestamp_sec": 76.98807,
+            "narration_text": "#C C closes the tap",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 77.6759986,
+            "timestamp_frame": 2330,
+            "_unmapped_timestamp_sec": 77.65497,
+            "narration_text": "#C C holds towels with both hands",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 78.5591786,
+            "timestamp_frame": 2356,
+            "_unmapped_timestamp_sec": 78.53815,
+            "narration_text": "#C C dries his hands with a towel",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 77.89597859999999,
+            "timestamp_frame": 2336,
+            "_unmapped_timestamp_sec": 77.87495,
+            "narration_text": "#C C pulls his hand off the towel",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 77.91597859999999,
+            "timestamp_frame": 2337,
+            "_unmapped_timestamp_sec": 77.89495,
+            "narration_text": "#C C pulls his hand off the towel",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 79.5131086,
+            "timestamp_frame": 2385,
+            "_unmapped_timestamp_sec": 79.49208,
+            "narration_text": "#C C picks a knife",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 79.5131086,
+            "timestamp_frame": 2385,
+            "_unmapped_timestamp_sec": 79.49208,
+            "narration_text": "#C C  picks garlic",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 81.0688986,
+            "timestamp_frame": 2431,
+            "_unmapped_timestamp_sec": 81.04787,
+            "narration_text": "#C C puts garlic on a cutting board",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 82.9925686,
+            "timestamp_frame": 2489,
+            "_unmapped_timestamp_sec": 82.97154,
+            "narration_text": "#C C cuts garlic with a knife",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 84.8363586,
+            "timestamp_frame": 2544,
+            "_unmapped_timestamp_sec": 84.81533,
+            "narration_text": "#C C pick garlic piece ",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 85.17582859999999,
+            "timestamp_frame": 2555,
+            "_unmapped_timestamp_sec": 85.1548,
+            "narration_text": "#C C puts garlic piece in the sink waste holder",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 85.9013586,
+            "timestamp_frame": 2576,
+            "_unmapped_timestamp_sec": 85.88033,
+            "narration_text": "#C C holds garlic",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 86.5184486,
+            "timestamp_frame": 2595,
+            "_unmapped_timestamp_sec": 86.49742,
+            "narration_text": "#C C cuts garlic with a knife",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 110.7211186,
+            "timestamp_frame": 3321,
+            "_unmapped_timestamp_sec": 110.70009,
+            "narration_text": "#C C wipes off garlic from a knife ",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 111.00802859999999,
+            "timestamp_frame": 3330,
+            "_unmapped_timestamp_sec": 110.987,
+            "narration_text": "#C C collects garlic pieces together",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 111.7234486,
+            "timestamp_frame": 3351,
+            "_unmapped_timestamp_sec": 111.70242,
+            "narration_text": "#C C cuts garlic pieces  with a knife",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 127.35124859999999,
+            "timestamp_frame": 3820,
+            "_unmapped_timestamp_sec": 127.33022,
+            "narration_text": "#C C collects garlic pieces together",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 129.3524886,
+            "timestamp_frame": 3880,
+            "_unmapped_timestamp_sec": 129.33146,
+            "narration_text": "#C C cuts garlic pieces  with a knife",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 133.9535186,
+            "timestamp_frame": 4018,
+            "_unmapped_timestamp_sec": 133.93249,
+            "narration_text": "#C C collects garlic pieces",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 134.3853786,
+            "timestamp_frame": 4031,
+            "_unmapped_timestamp_sec": 134.36435,
+            "narration_text": "#C C cuts garlic pieces  with a knife",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 136.04158859999998,
+            "timestamp_frame": 4081,
+            "_unmapped_timestamp_sec": 136.02056,
+            "narration_text": "#C C collects garlic pieces",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 136.4134386,
+            "timestamp_frame": 4092,
+            "_unmapped_timestamp_sec": 136.39241,
+            "narration_text": "#C C cuts garlic pieces  with a knife",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 137.3037286,
+            "timestamp_frame": 4118,
+            "_unmapped_timestamp_sec": 137.2827,
+            "narration_text": "#C C cuts garlic pieces  with a knife",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 139.9747686,
+            "timestamp_frame": 4199,
+            "_unmapped_timestamp_sec": 139.95374,
+            "narration_text": "#C C cuts garlic pieces  with a knife",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 143.4299986,
+            "timestamp_frame": 4302,
+            "_unmapped_timestamp_sec": 143.40897,
+            "narration_text": "#C C holds garlic pieces",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 143.4499986,
+            "timestamp_frame": 4303,
+            "_unmapped_timestamp_sec": 143.42897,
+            "narration_text": "#C C cuts garlic pieces  with a knife",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 149.0703686,
+            "timestamp_frame": 4471,
+            "_unmapped_timestamp_sec": 149.04934,
+            "narration_text": "#C C picks garlic piece",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        },
+        {
+            "timestamp_sec": 149.0703686,
+            "timestamp_frame": 4471,
+            "_unmapped_timestamp_sec": 149.04934,
+            "narration_text": "#C C collects garlic pieces",
+            "annotation_uid": "10f4bc76-87ca-4820-ab9b-82629d09dc43"
+        }
+    ]
+}

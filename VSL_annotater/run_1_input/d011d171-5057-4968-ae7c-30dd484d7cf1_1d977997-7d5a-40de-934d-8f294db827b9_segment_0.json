@@ -1,0 +1,837 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 278.05445,
+            "timestamp_frame": 8342,
+            "_unmapped_timestamp_sec": 278.05445,
+            "narration_text": "#C The store attendant hands the card to C",
+            "annotation_uid": "a1aa6423-1b6b-4a58-bdf3-c4f93d1af7b9"
+        },
+        {
+            "timestamp_sec": 278.86161,
+            "timestamp_frame": 8366,
+            "_unmapped_timestamp_sec": 278.86161,
+            "narration_text": "#C C picks the nylon from the counter",
+            "annotation_uid": "a1aa6423-1b6b-4a58-bdf3-c4f93d1af7b9"
+        },
+        {
+            "timestamp_sec": 279.97178,
+            "timestamp_frame": 8399,
+            "_unmapped_timestamp_sec": 279.97178,
+            "narration_text": "#C C interacts with the store attendant Z",
+            "annotation_uid": "a1aa6423-1b6b-4a58-bdf3-c4f93d1af7b9"
+        },
+        {
+            "timestamp_sec": 280.90809,
+            "timestamp_frame": 8427,
+            "_unmapped_timestamp_sec": 280.90809,
+            "narration_text": "#C C walks to the door of the store",
+            "annotation_uid": "a1aa6423-1b6b-4a58-bdf3-c4f93d1af7b9"
+        },
+        {
+            "timestamp_sec": 295.56983,
+            "timestamp_frame": 8867,
+            "_unmapped_timestamp_sec": 295.56983,
+            "narration_text": "#C C interacts with a woman Y",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 298.55326,
+            "timestamp_frame": 8957,
+            "_unmapped_timestamp_sec": 298.55326,
+            "narration_text": "#C C pushes the door open",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 300.36006,
+            "timestamp_frame": 9011,
+            "_unmapped_timestamp_sec": 300.36006,
+            "narration_text": "#C C walks outside ",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 302.01558,
+            "timestamp_frame": 9060,
+            "_unmapped_timestamp_sec": 302.01558,
+            "narration_text": "#C C walks to a car",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 309.50464999999997,
+            "timestamp_frame": 9285,
+            "_unmapped_timestamp_sec": 309.50464999999997,
+            "narration_text": "#C C opens a door of the car",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 311.34452,
+            "timestamp_frame": 9340,
+            "_unmapped_timestamp_sec": 311.34452,
+            "narration_text": "#C C gets into the car",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 312.64047,
+            "timestamp_frame": 9379,
+            "_unmapped_timestamp_sec": 312.64047,
+            "narration_text": "#O The woman Y picks a pair of gloves from the floor of the car #unsure",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 320.96872,
+            "timestamp_frame": 9629,
+            "_unmapped_timestamp_sec": 320.96872,
+            "narration_text": "#O The woman Y places the gloves on the dashboard of the car",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 312.69656,
+            "timestamp_frame": 9381,
+            "_unmapped_timestamp_sec": 312.69656,
+            "narration_text": "#O The woman Y gets into the car",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 321.45656,
+            "timestamp_frame": 9644,
+            "_unmapped_timestamp_sec": 321.45656,
+            "narration_text": "#C C looks into the nylon #unsure",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 326.29654,
+            "timestamp_frame": 9789,
+            "_unmapped_timestamp_sec": 326.29654,
+            "narration_text": "#C C drops the nylon in the backseat of the car",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 327.9043,
+            "timestamp_frame": 9837,
+            "_unmapped_timestamp_sec": 327.9043,
+            "narration_text": "#O The woman Y picks a bag from the pocket of the door #unsure",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 329.66489,
+            "timestamp_frame": 9890,
+            "_unmapped_timestamp_sec": 329.66489,
+            "narration_text": "#O The woman Y drops the bag in the pocket of the door #unsure",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 333.35272,
+            "timestamp_frame": 10001,
+            "_unmapped_timestamp_sec": 333.35272,
+            "narration_text": "#O The woman Y drops the bag on the dashboard of the car #unsure",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 335.75076,
+            "timestamp_frame": 10073,
+            "_unmapped_timestamp_sec": 335.75076,
+            "narration_text": "#O The woman Y adjusts on the seat",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 342.14184,
+            "timestamp_frame": 10264,
+            "_unmapped_timestamp_sec": 342.14184,
+            "narration_text": "#O The woman Y removes her bag",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 351.15687,
+            "timestamp_frame": 10535,
+            "_unmapped_timestamp_sec": 351.15687,
+            "narration_text": "#O The woman Y drops her bag in the backseat",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 354.66928,
+            "timestamp_frame": 10640,
+            "_unmapped_timestamp_sec": 354.66928,
+            "narration_text": "#O The woman Y wears a seatbelt",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 364.93291999999997,
+            "timestamp_frame": 10948,
+            "_unmapped_timestamp_sec": 364.93291999999997,
+            "narration_text": "#C C opens a tube cover of a bottle #unsure",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 369.01272,
+            "timestamp_frame": 11070,
+            "_unmapped_timestamp_sec": 369.01272,
+            "narration_text": "#C C moves the bottle to her right hand",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 369.49189,
+            "timestamp_frame": 11085,
+            "_unmapped_timestamp_sec": 369.49189,
+            "narration_text": "#C C drops the bottle in a cup hole of the car #unsure",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 369.65896,
+            "timestamp_frame": 11090,
+            "_unmapped_timestamp_sec": 369.65896,
+            "narration_text": "#O The woman Y eats with a spoon from a bowl",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 377.59456,
+            "timestamp_frame": 11328,
+            "_unmapped_timestamp_sec": 377.59456,
+            "narration_text": "#C C takes some liquid from the bottle with the tube #unsure",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 380.57754,
+            "timestamp_frame": 11417,
+            "_unmapped_timestamp_sec": 380.57754,
+            "narration_text": "#C C presses the liquid into a second bottle ",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 383.852,
+            "timestamp_frame": 11516,
+            "_unmapped_timestamp_sec": 383.852,
+            "narration_text": "#C C takes some liquid from the bottle with the tube #unsure",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 390.20684,
+            "timestamp_frame": 11706,
+            "_unmapped_timestamp_sec": 390.20684,
+            "narration_text": "#C C presses the liquid into the second bottle ",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 393.52661,
+            "timestamp_frame": 11806,
+            "_unmapped_timestamp_sec": 393.52661,
+            "narration_text": "#C C takes some liquid from the bottle with the tube #unsure",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 396.77517,
+            "timestamp_frame": 11903,
+            "_unmapped_timestamp_sec": 396.77517,
+            "narration_text": "#C C presses the liquid into the second bottle ",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 399.00707,
+            "timestamp_frame": 11970,
+            "_unmapped_timestamp_sec": 399.00707,
+            "narration_text": "#C C takes some liquid from the bottle with the tube #unsure",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 401.3589,
+            "timestamp_frame": 12041,
+            "_unmapped_timestamp_sec": 401.3589,
+            "narration_text": "#C C presses the liquid into the second bottle ",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 403.63392999999996,
+            "timestamp_frame": 12109,
+            "_unmapped_timestamp_sec": 403.63392999999996,
+            "narration_text": "#C C takes some liquid from the bottle with the tube #unsure",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 406.99449000000004,
+            "timestamp_frame": 12210,
+            "_unmapped_timestamp_sec": 406.99449000000004,
+            "narration_text": "#C C presses the liquid into the second bottle ",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 409.49933999999996,
+            "timestamp_frame": 12285,
+            "_unmapped_timestamp_sec": 409.49933999999996,
+            "narration_text": "#C C takes some liquid from the bottle with the tube #unsure",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 412.49968,
+            "timestamp_frame": 12375,
+            "_unmapped_timestamp_sec": 412.49968,
+            "narration_text": "#C C presses the liquid into the second bottle ",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 414.90715,
+            "timestamp_frame": 12447,
+            "_unmapped_timestamp_sec": 414.90715,
+            "narration_text": "#C C covers the bottle with the tube cover #unsure",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 417.7894,
+            "timestamp_frame": 12534,
+            "_unmapped_timestamp_sec": 417.7894,
+            "narration_text": "#C C covers the second bottle #unsure",
+            "annotation_uid": "7d6c5ffd-943e-469b-9cf6-14a93df55f13"
+        },
+        {
+            "timestamp_sec": 272.79,
+            "timestamp_frame": 8184,
+            "_unmapped_timestamp_sec": 272.79,
+            "narration_text": "#O A man E looks at the cards.",
+            "annotation_uid": "bd58d888-8bdf-4598-af9f-31ef8685d4b1"
+        },
+        {
+            "timestamp_sec": 277.3293,
+            "timestamp_frame": 8320,
+            "_unmapped_timestamp_sec": 277.3293,
+            "narration_text": "#O A man E passes the cards to C.",
+            "annotation_uid": "bd58d888-8bdf-4598-af9f-31ef8685d4b1"
+        },
+        {
+            "timestamp_sec": 278.70719,
+            "timestamp_frame": 8361,
+            "_unmapped_timestamp_sec": 278.70719,
+            "narration_text": "#C C picks #unsure.",
+            "annotation_uid": "bd58d888-8bdf-4598-af9f-31ef8685d4b1"
+        },
+        {
+            "timestamp_sec": 280.10622,
+            "timestamp_frame": 8403,
+            "_unmapped_timestamp_sec": 280.10622,
+            "narration_text": "#O A man E converses.",
+            "annotation_uid": "bd58d888-8bdf-4598-af9f-31ef8685d4b1"
+        },
+        {
+            "timestamp_sec": 280.92954,
+            "timestamp_frame": 8428,
+            "_unmapped_timestamp_sec": 280.92954,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "bd58d888-8bdf-4598-af9f-31ef8685d4b1"
+        },
+        {
+            "timestamp_sec": 283.96761,
+            "timestamp_frame": 8519,
+            "_unmapped_timestamp_sec": 283.96761,
+            "narration_text": "#O A lady F walks around in the shop.",
+            "annotation_uid": "bd58d888-8bdf-4598-af9f-31ef8685d4b1"
+        },
+        {
+            "timestamp_sec": 287.92625,
+            "timestamp_frame": 8638,
+            "_unmapped_timestamp_sec": 287.92625,
+            "narration_text": "#O lady B walks around the store",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 288.91676,
+            "timestamp_frame": 8668,
+            "_unmapped_timestamp_sec": 288.91676,
+            "narration_text": "#O man S walks around the store",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 290.21204,
+            "timestamp_frame": 8706,
+            "_unmapped_timestamp_sec": 290.21204,
+            "narration_text": "#C C walks around the store",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 294.619,
+            "timestamp_frame": 8839,
+            "_unmapped_timestamp_sec": 294.619,
+            "narration_text": "#C C turns in the car",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 293.11496999999997,
+            "timestamp_frame": 8793,
+            "_unmapped_timestamp_sec": 293.11496999999997,
+            "narration_text": "#C C walks next to the shelves",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 295.36247,
+            "timestamp_frame": 8861,
+            "_unmapped_timestamp_sec": 295.36247,
+            "narration_text": "#O lady B walks towards the door",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 298.08036,
+            "timestamp_frame": 8942,
+            "_unmapped_timestamp_sec": 298.08036,
+            "narration_text": "#C C opens the store door",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 299.406,
+            "timestamp_frame": 8982,
+            "_unmapped_timestamp_sec": 299.406,
+            "narration_text": "#C C walks out of the store",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 296.52242,
+            "timestamp_frame": 8896,
+            "_unmapped_timestamp_sec": 296.52242,
+            "narration_text": "#C C walks towards the door",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 300.83977,
+            "timestamp_frame": 9025,
+            "_unmapped_timestamp_sec": 300.83977,
+            "narration_text": "#O lady B walks out of the store",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 301.53406,
+            "timestamp_frame": 9046,
+            "_unmapped_timestamp_sec": 301.53406,
+            "narration_text": "#C C walks towards the parking lot",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 308.141,
+            "timestamp_frame": 9244,
+            "_unmapped_timestamp_sec": 308.141,
+            "narration_text": "#C C opens the car door",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 309.97861,
+            "timestamp_frame": 9299,
+            "_unmapped_timestamp_sec": 309.97861,
+            "narration_text": "#C C gets in the car",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 312.50446,
+            "timestamp_frame": 9375,
+            "_unmapped_timestamp_sec": 312.50446,
+            "narration_text": "#O lady B picks #unsure from the car",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 313.79959,
+            "timestamp_frame": 9414,
+            "_unmapped_timestamp_sec": 313.79959,
+            "narration_text": "#O lady B gets in the car",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 315.41428,
+            "timestamp_frame": 9462,
+            "_unmapped_timestamp_sec": 315.41428,
+            "narration_text": "#C C stares at the windscreen",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 317.29538,
+            "timestamp_frame": 9519,
+            "_unmapped_timestamp_sec": 317.29538,
+            "narration_text": "#C C looks outside the car window",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 318.63229,
+            "timestamp_frame": 9559,
+            "_unmapped_timestamp_sec": 318.63229,
+            "narration_text": "#C C looks at lady B",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 319.6,
+            "timestamp_frame": 9588,
+            "_unmapped_timestamp_sec": 319.6,
+            "narration_text": "#O lady B drops a glove next to the windscreen",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 320.16761,
+            "timestamp_frame": 9605,
+            "_unmapped_timestamp_sec": 320.16761,
+            "narration_text": "#C C touches #unsure",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 320.79969,
+            "timestamp_frame": 9624,
+            "_unmapped_timestamp_sec": 320.79969,
+            "narration_text": "#O lady X moves the glove",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 321.41436,
+            "timestamp_frame": 9642,
+            "_unmapped_timestamp_sec": 321.41436,
+            "narration_text": "#O lady B picks #unsure",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 324.18093,
+            "timestamp_frame": 9725,
+            "_unmapped_timestamp_sec": 324.18093,
+            "narration_text": "#C C looks at lady B",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 325.17186,
+            "timestamp_frame": 9755,
+            "_unmapped_timestamp_sec": 325.17186,
+            "narration_text": "#C C picks box of #unsure",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 321.79763,
+            "timestamp_frame": 9654,
+            "_unmapped_timestamp_sec": 321.79763,
+            "narration_text": "#C C holds #unsure",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 325.81582000000003,
+            "timestamp_frame": 9774,
+            "_unmapped_timestamp_sec": 325.81582000000003,
+            "narration_text": "#C C drops polythene bag at the backseat",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 326.72774,
+            "timestamp_frame": 9802,
+            "_unmapped_timestamp_sec": 326.72774,
+            "narration_text": "#O lady B looks outside the window",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 327.68704,
+            "timestamp_frame": 9831,
+            "_unmapped_timestamp_sec": 327.68704,
+            "narration_text": "#C C turns around in the car",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 328.52312,
+            "timestamp_frame": 9856,
+            "_unmapped_timestamp_sec": 328.52312,
+            "narration_text": "#O man F walks into the store",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 330.84518,
+            "timestamp_frame": 9925,
+            "_unmapped_timestamp_sec": 330.84518,
+            "narration_text": "#C C looks at lady B in the car",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 333.22004,
+            "timestamp_frame": 9997,
+            "_unmapped_timestamp_sec": 333.22004,
+            "narration_text": "#O lady B places #unsure next to the windscreen",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 334.49868,
+            "timestamp_frame": 10035,
+            "_unmapped_timestamp_sec": 334.49868,
+            "narration_text": "#O lady B adjusts herself on the carseat",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 340.67467999999997,
+            "timestamp_frame": 10220,
+            "_unmapped_timestamp_sec": 340.67467999999997,
+            "narration_text": "#O lady B stares at C ",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 342.0817,
+            "timestamp_frame": 10262,
+            "_unmapped_timestamp_sec": 342.0817,
+            "narration_text": "#O lady B removes handbag around the neck",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 345.12908,
+            "timestamp_frame": 10354,
+            "_unmapped_timestamp_sec": 345.12908,
+            "narration_text": "#O lady B checks inside the handbag",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 349.81593,
+            "timestamp_frame": 10494,
+            "_unmapped_timestamp_sec": 349.81593,
+            "narration_text": "#C C moves hand",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 349.27741000000003,
+            "timestamp_frame": 10478,
+            "_unmapped_timestamp_sec": 349.27741000000003,
+            "narration_text": "#O lady B closes the handbag",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 351.41308,
+            "timestamp_frame": 10542,
+            "_unmapped_timestamp_sec": 351.41308,
+            "narration_text": "#O lady B puts handbag behind the carseat",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 352.74875,
+            "timestamp_frame": 10582,
+            "_unmapped_timestamp_sec": 352.74875,
+            "narration_text": "#O lady B fastens the seatbelt",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 360.21290999999997,
+            "timestamp_frame": 10806,
+            "_unmapped_timestamp_sec": 360.21290999999997,
+            "narration_text": "#O lady B rests hands on the laps",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 360.10025,
+            "timestamp_frame": 10803,
+            "_unmapped_timestamp_sec": 360.10025,
+            "narration_text": "#C C stares at the windscreen",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 362.883,
+            "timestamp_frame": 10886,
+            "_unmapped_timestamp_sec": 362.883,
+            "narration_text": "#C C looks around the car",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 363.98911,
+            "timestamp_frame": 10920,
+            "_unmapped_timestamp_sec": 363.98911,
+            "narration_text": "#C C holds bottle  of #unsure",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 364.93237,
+            "timestamp_frame": 10948,
+            "_unmapped_timestamp_sec": 364.93237,
+            "narration_text": "#C C draws #unsure from the bottle",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 367.44791,
+            "timestamp_frame": 11023,
+            "_unmapped_timestamp_sec": 367.44791,
+            "narration_text": "#C C drops the bottle cap on the bottle",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 368.84348,
+            "timestamp_frame": 11065,
+            "_unmapped_timestamp_sec": 368.84348,
+            "narration_text": "#O lady B eats #unsure",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 373.17162,
+            "timestamp_frame": 11195,
+            "_unmapped_timestamp_sec": 373.17162,
+            "narration_text": "#C C looks at lady B ",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 374.54746,
+            "timestamp_frame": 11236,
+            "_unmapped_timestamp_sec": 374.54746,
+            "narration_text": "#O lady B eats #unsure",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 375.6191,
+            "timestamp_frame": 11269,
+            "_unmapped_timestamp_sec": 375.6191,
+            "narration_text": "#C C looks at lady B",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 376.08946000000003,
+            "timestamp_frame": 11283,
+            "_unmapped_timestamp_sec": 376.08946000000003,
+            "narration_text": "#C C draws #unsure from the bottle",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 380.49568,
+            "timestamp_frame": 11415,
+            "_unmapped_timestamp_sec": 380.49568,
+            "narration_text": "#C C drains #unsure in a bottle",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 382.92799,
+            "timestamp_frame": 11488,
+            "_unmapped_timestamp_sec": 382.92799,
+            "narration_text": "#O lady B eats #unsure",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 383.87837,
+            "timestamp_frame": 11516,
+            "_unmapped_timestamp_sec": 383.87837,
+            "narration_text": "#C C draws #unsure from the bottle",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 385.59111,
+            "timestamp_frame": 11568,
+            "_unmapped_timestamp_sec": 385.59111,
+            "narration_text": "#C C lifts bottle of #unsure",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 387.14939,
+            "timestamp_frame": 11614,
+            "_unmapped_timestamp_sec": 387.14939,
+            "narration_text": "#O lady B holds  a spoon inside a bowl",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 389.58109,
+            "timestamp_frame": 11687,
+            "_unmapped_timestamp_sec": 389.58109,
+            "narration_text": "#C C drains #unsure in a bottle",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 390.5856,
+            "timestamp_frame": 11718,
+            "_unmapped_timestamp_sec": 390.5856,
+            "narration_text": "#O lady B eats #unsure",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 392.32135,
+            "timestamp_frame": 11770,
+            "_unmapped_timestamp_sec": 392.32135,
+            "narration_text": "#C C draws #unsure from the bottle",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 394.79994999999997,
+            "timestamp_frame": 11844,
+            "_unmapped_timestamp_sec": 394.79994999999997,
+            "narration_text": "#O lady B eats #unsure",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 393.35975,
+            "timestamp_frame": 11801,
+            "_unmapped_timestamp_sec": 393.35975,
+            "narration_text": "#O lady B scoops #unsure from the tin",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 396.3351,
+            "timestamp_frame": 11890,
+            "_unmapped_timestamp_sec": 396.3351,
+            "narration_text": "#C C drains #unsure in a bottle",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 398.44638,
+            "timestamp_frame": 11953,
+            "_unmapped_timestamp_sec": 398.44638,
+            "narration_text": "#C C draws #unsure from the bottle",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 401.09337,
+            "timestamp_frame": 12033,
+            "_unmapped_timestamp_sec": 401.09337,
+            "narration_text": "#C C drains #unsure in a bottle",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 402.87625,
+            "timestamp_frame": 12086,
+            "_unmapped_timestamp_sec": 402.87625,
+            "narration_text": "#C C lifts bottle of #unsure",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 405.98688000000004,
+            "timestamp_frame": 12180,
+            "_unmapped_timestamp_sec": 405.98688000000004,
+            "narration_text": "#O lady B eats #unsure",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 403.58516,
+            "timestamp_frame": 12108,
+            "_unmapped_timestamp_sec": 403.58516,
+            "narration_text": "#C C draws #unsure from the bottle",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 407.05641,
+            "timestamp_frame": 12212,
+            "_unmapped_timestamp_sec": 407.05641,
+            "narration_text": "#C C  drains #unsure in a bottle",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 408.81492000000003,
+            "timestamp_frame": 12264,
+            "_unmapped_timestamp_sec": 408.81492000000003,
+            "narration_text": "#C C puts #unsure in the mouth",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 409.87162,
+            "timestamp_frame": 12296,
+            "_unmapped_timestamp_sec": 409.87162,
+            "narration_text": "#C C draws #unsure from the bottle",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 411.063,
+            "timestamp_frame": 12332,
+            "_unmapped_timestamp_sec": 411.063,
+            "narration_text": "#C C  drains #unsure in a bottle",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 414.47114999999997,
+            "timestamp_frame": 12434,
+            "_unmapped_timestamp_sec": 414.47114999999997,
+            "narration_text": "#C C drops the bottle cap on the bottle",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 416.9877,
+            "timestamp_frame": 12510,
+            "_unmapped_timestamp_sec": 416.9877,
+            "narration_text": "#O lady B puts #unsure in the mouth",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        },
+        {
+            "timestamp_sec": 419.63392,
+            "timestamp_frame": 12589,
+            "_unmapped_timestamp_sec": 419.63392,
+            "narration_text": "#C C lifts bottle",
+            "annotation_uid": "6e13cb52-cddf-4911-9e5b-20e927d1e4de"
+        }
+    ]
+}

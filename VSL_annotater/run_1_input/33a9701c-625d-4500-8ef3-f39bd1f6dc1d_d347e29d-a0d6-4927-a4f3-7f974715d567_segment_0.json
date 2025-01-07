@@ -1,0 +1,697 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 1621.116750954663,
+            "timestamp_frame": 48633,
+            "_unmapped_timestamp_sec": 1621.13778,
+            "narration_text": "#C C looks at the plant decoration on the wall",
+            "annotation_uid": "312f5eb3-2a14-477e-8205-5edbcec45973"
+        },
+        {
+            "timestamp_sec": 1623.4710209546633,
+            "timestamp_frame": 48703,
+            "_unmapped_timestamp_sec": 1623.49205,
+            "narration_text": "#C C touches the plant on the wall",
+            "annotation_uid": "312f5eb3-2a14-477e-8205-5edbcec45973"
+        },
+        {
+            "timestamp_sec": 1623.4710209546633,
+            "timestamp_frame": 48703,
+            "_unmapped_timestamp_sec": 1623.49205,
+            "narration_text": "#C C speaks to person X",
+            "annotation_uid": "312f5eb3-2a14-477e-8205-5edbcec45973"
+        },
+        {
+            "timestamp_sec": 1624.958110954663,
+            "timestamp_frame": 48748,
+            "_unmapped_timestamp_sec": 1624.97914,
+            "narration_text": "#C C speaks to person X",
+            "annotation_uid": "312f5eb3-2a14-477e-8205-5edbcec45973"
+        },
+        {
+            "timestamp_sec": 1624.958110954663,
+            "timestamp_frame": 48748,
+            "_unmapped_timestamp_sec": 1624.97914,
+            "narration_text": "#C C looks at person X",
+            "annotation_uid": "312f5eb3-2a14-477e-8205-5edbcec45973"
+        },
+        {
+            "timestamp_sec": 1625.177000954663,
+            "timestamp_frame": 48755,
+            "_unmapped_timestamp_sec": 1625.19803,
+            "narration_text": "#C C picks a plant from person X",
+            "annotation_uid": "312f5eb3-2a14-477e-8205-5edbcec45973"
+        },
+        {
+            "timestamp_sec": 1629.9012209546631,
+            "timestamp_frame": 48896,
+            "_unmapped_timestamp_sec": 1629.92225,
+            "narration_text": "#C C sticks the plant on the wall",
+            "annotation_uid": "312f5eb3-2a14-477e-8205-5edbcec45973"
+        },
+        {
+            "timestamp_sec": 1630.0870609546632,
+            "timestamp_frame": 48902,
+            "_unmapped_timestamp_sec": 1630.10809,
+            "narration_text": "#C C speaks to person X",
+            "annotation_uid": "312f5eb3-2a14-477e-8205-5edbcec45973"
+        },
+        {
+            "timestamp_sec": 1635.5802409546632,
+            "timestamp_frame": 49067,
+            "_unmapped_timestamp_sec": 1635.60127,
+            "narration_text": "#O person X speaks to C",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1636.6117809546631,
+            "timestamp_frame": 49098,
+            "_unmapped_timestamp_sec": 1636.63281,
+            "narration_text": "#C C aligns plant on the wall",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1639.8566309546632,
+            "timestamp_frame": 49195,
+            "_unmapped_timestamp_sec": 1639.87766,
+            "narration_text": "#C C looks at the plant decoration",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1642.0743109546631,
+            "timestamp_frame": 49262,
+            "_unmapped_timestamp_sec": 1642.09534,
+            "narration_text": "#C C sticks the plant on the wall",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1647.623090954663,
+            "timestamp_frame": 49428,
+            "_unmapped_timestamp_sec": 1647.64412,
+            "narration_text": "#C C speaks to person X",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1648.840640954663,
+            "timestamp_frame": 49465,
+            "_unmapped_timestamp_sec": 1648.86167,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1650.809160954663,
+            "timestamp_frame": 49524,
+            "_unmapped_timestamp_sec": 1650.83019,
+            "narration_text": "#C C speaks to person X",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1651.850630954663,
+            "timestamp_frame": 49555,
+            "_unmapped_timestamp_sec": 1651.87166,
+            "narration_text": "#C C holds a plant decoration",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1652.143440954663,
+            "timestamp_frame": 49564,
+            "_unmapped_timestamp_sec": 1652.16447,
+            "narration_text": "#C C speaks to person X",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1652.850230954663,
+            "timestamp_frame": 49585,
+            "_unmapped_timestamp_sec": 1652.87126,
+            "narration_text": "#C C sticks the plant on the wall",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1658.450530954663,
+            "timestamp_frame": 49753,
+            "_unmapped_timestamp_sec": 1658.47156,
+            "narration_text": "#O person X speaks to C",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1660.261430954663,
+            "timestamp_frame": 49807,
+            "_unmapped_timestamp_sec": 1660.28246,
+            "narration_text": "#C C holds a plant",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1661.480630954663,
+            "timestamp_frame": 49844,
+            "_unmapped_timestamp_sec": 1661.50166,
+            "narration_text": "#C C speaks to person X",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1661.480630954663,
+            "timestamp_frame": 49844,
+            "_unmapped_timestamp_sec": 1661.50166,
+            "narration_text": "#C C sticks the plant on the wall",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1663.5063109546631,
+            "timestamp_frame": 49905,
+            "_unmapped_timestamp_sec": 1663.52734,
+            "narration_text": "#O person X speaks to C",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1665.1314109546631,
+            "timestamp_frame": 49953,
+            "_unmapped_timestamp_sec": 1665.15244,
+            "narration_text": "#O person X speaks to C",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1665.1314109546631,
+            "timestamp_frame": 49953,
+            "_unmapped_timestamp_sec": 1665.15244,
+            "narration_text": "#C C point to the plant decoration",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1666.305460954663,
+            "timestamp_frame": 49989,
+            "_unmapped_timestamp_sec": 1666.32649,
+            "narration_text": "#C C  speaks to person X",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1667.003050954663,
+            "timestamp_frame": 50009,
+            "_unmapped_timestamp_sec": 1667.02408,
+            "narration_text": "#C C touches the plant",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1667.420860954663,
+            "timestamp_frame": 50022,
+            "_unmapped_timestamp_sec": 1667.44189,
+            "narration_text": "#C C  speaks to person X",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1668.0258509546632,
+            "timestamp_frame": 50040,
+            "_unmapped_timestamp_sec": 1668.04688,
+            "narration_text": "#C C  looks at the plant decoration",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1669.137020954663,
+            "timestamp_frame": 50073,
+            "_unmapped_timestamp_sec": 1669.15805,
+            "narration_text": "#C C  touches the plant",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1669.541000954663,
+            "timestamp_frame": 50086,
+            "_unmapped_timestamp_sec": 1669.56203,
+            "narration_text": "#C C  speaks to person X",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1670.004280954663,
+            "timestamp_frame": 50099,
+            "_unmapped_timestamp_sec": 1670.02531,
+            "narration_text": "#C C  looks around",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1670.256730954663,
+            "timestamp_frame": 50107,
+            "_unmapped_timestamp_sec": 1670.27776,
+            "narration_text": "#C C looks at person X",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1671.5693609546631,
+            "timestamp_frame": 50146,
+            "_unmapped_timestamp_sec": 1671.59039,
+            "narration_text": "#O person X speaks to C",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1672.313480954663,
+            "timestamp_frame": 50169,
+            "_unmapped_timestamp_sec": 1672.33451,
+            "narration_text": "#C C looks at the plant decoration on the wall",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1674.485720954663,
+            "timestamp_frame": 50234,
+            "_unmapped_timestamp_sec": 1674.50675,
+            "narration_text": "#C C holds a plant",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1675.1236609546631,
+            "timestamp_frame": 50253,
+            "_unmapped_timestamp_sec": 1675.14469,
+            "narration_text": "#C C speaks to person X",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1675.434110954663,
+            "timestamp_frame": 50262,
+            "_unmapped_timestamp_sec": 1675.45514,
+            "narration_text": "#C C stick a plant on the wall",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1683.671580954663,
+            "timestamp_frame": 50510,
+            "_unmapped_timestamp_sec": 1683.69261,
+            "narration_text": "#C C speaks to person X",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1684.122180954663,
+            "timestamp_frame": 50523,
+            "_unmapped_timestamp_sec": 1684.14321,
+            "narration_text": "#C C stick a plant on the wall\n",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1687.019150954663,
+            "timestamp_frame": 50610,
+            "_unmapped_timestamp_sec": 1687.04018,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1687.166930954663,
+            "timestamp_frame": 50614,
+            "_unmapped_timestamp_sec": 1687.18796,
+            "narration_text": "#C C looks at the plant decoration on the wall",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1689.075260954663,
+            "timestamp_frame": 50672,
+            "_unmapped_timestamp_sec": 1689.09629,
+            "narration_text": "#O person X speaks to C",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1689.141910954663,
+            "timestamp_frame": 50674,
+            "_unmapped_timestamp_sec": 1689.16294,
+            "narration_text": "#C C speaks to  person X",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1689.6109609546631,
+            "timestamp_frame": 50688,
+            "_unmapped_timestamp_sec": 1689.63199,
+            "narration_text": "#C C points to the wall",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1691.157900954663,
+            "timestamp_frame": 50734,
+            "_unmapped_timestamp_sec": 1691.17893,
+            "narration_text": "#C C looks at the plant decoration on the wall",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1692.511910954663,
+            "timestamp_frame": 50775,
+            "_unmapped_timestamp_sec": 1692.53294,
+            "narration_text": "#O person X speaks to C",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1692.776680954663,
+            "timestamp_frame": 50783,
+            "_unmapped_timestamp_sec": 1692.79771,
+            "narration_text": "#C C touches the plant on the wall",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1694.292840954663,
+            "timestamp_frame": 50828,
+            "_unmapped_timestamp_sec": 1694.31387,
+            "narration_text": "#C C speaks to person X",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1698.0706109546632,
+            "timestamp_frame": 50941,
+            "_unmapped_timestamp_sec": 1698.09164,
+            "narration_text": "#C C looks at the plant decoration",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1701.080990954663,
+            "timestamp_frame": 51032,
+            "_unmapped_timestamp_sec": 1701.10202,
+            "narration_text": "#C C speaks to person X",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1702.4412909546631,
+            "timestamp_frame": 51073,
+            "_unmapped_timestamp_sec": 1702.46232,
+            "narration_text": "#C C sticks a plant on the wall",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1708.5546709546632,
+            "timestamp_frame": 51256,
+            "_unmapped_timestamp_sec": 1708.5757,
+            "narration_text": "#C C looks at the plant decoration on the wall",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1708.841860954663,
+            "timestamp_frame": 51265,
+            "_unmapped_timestamp_sec": 1708.8628899999999,
+            "narration_text": "#C C speaks to person X",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1710.2583909546631,
+            "timestamp_frame": 51307,
+            "_unmapped_timestamp_sec": 1710.27942,
+            "narration_text": "#C C speaks to person X",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1710.2583909546631,
+            "timestamp_frame": 51307,
+            "_unmapped_timestamp_sec": 1710.27942,
+            "narration_text": "#C C looks at the plant decoration on the wall",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1711.273980954663,
+            "timestamp_frame": 51338,
+            "_unmapped_timestamp_sec": 1711.29501,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1713.193110954663,
+            "timestamp_frame": 51395,
+            "_unmapped_timestamp_sec": 1713.21414,
+            "narration_text": "#C C sticks a plant on the wall",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1716.842650954663,
+            "timestamp_frame": 51505,
+            "_unmapped_timestamp_sec": 1716.86368,
+            "narration_text": "#C C looks at the plant decoration on the wall",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1717.463410954663,
+            "timestamp_frame": 51523,
+            "_unmapped_timestamp_sec": 1717.48444,
+            "narration_text": "#C C sticks a plant on the wall",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1721.9511109546631,
+            "timestamp_frame": 51658,
+            "_unmapped_timestamp_sec": 1721.97214,
+            "narration_text": "#C C speaks to person X",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1722.148080954663,
+            "timestamp_frame": 51664,
+            "_unmapped_timestamp_sec": 1722.16911,
+            "narration_text": "#C C sticks a plant on the wall",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1726.1969609546632,
+            "timestamp_frame": 51785,
+            "_unmapped_timestamp_sec": 1726.21799,
+            "narration_text": "#O person X speaks to C",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1726.2862209546631,
+            "timestamp_frame": 51788,
+            "_unmapped_timestamp_sec": 1726.30725,
+            "narration_text": "#C C looks at the plant decoration on the wall",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1729.3051109546632,
+            "timestamp_frame": 51879,
+            "_unmapped_timestamp_sec": 1729.32614,
+            "narration_text": "#C C looks at person X",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1729.629860954663,
+            "timestamp_frame": 51888,
+            "_unmapped_timestamp_sec": 1729.65089,
+            "narration_text": "#O person X walks",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1730.372570954663,
+            "timestamp_frame": 51911,
+            "_unmapped_timestamp_sec": 1730.3936,
+            "narration_text": "#C C speaks to person X",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1734.7076009546631,
+            "timestamp_frame": 52041,
+            "_unmapped_timestamp_sec": 1734.72863,
+            "narration_text": "#C C speaks to person X",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1734.7076009546631,
+            "timestamp_frame": 52041,
+            "_unmapped_timestamp_sec": 1734.72863,
+            "narration_text": "#C C walks",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1737.888590954663,
+            "timestamp_frame": 52136,
+            "_unmapped_timestamp_sec": 1737.90962,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1739.225890954663,
+            "timestamp_frame": 52176,
+            "_unmapped_timestamp_sec": 1739.24692,
+            "narration_text": "#C C looks at the plant decoration on the wall",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1740.8613109546632,
+            "timestamp_frame": 52225,
+            "_unmapped_timestamp_sec": 1740.88234,
+            "narration_text": "#C C speaks to person X",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1741.074090954663,
+            "timestamp_frame": 52232,
+            "_unmapped_timestamp_sec": 1741.09512,
+            "narration_text": "#O Person X walks",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1741.784300954663,
+            "timestamp_frame": 52253,
+            "_unmapped_timestamp_sec": 1741.80533,
+            "narration_text": "#C C speaks to person X",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1742.082350954663,
+            "timestamp_frame": 52262,
+            "_unmapped_timestamp_sec": 1742.10338,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1745.8321309546632,
+            "timestamp_frame": 52374,
+            "_unmapped_timestamp_sec": 1745.8531600000001,
+            "narration_text": "#C C looks at the plant decoration on the wall",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1747.984130954663,
+            "timestamp_frame": 52439,
+            "_unmapped_timestamp_sec": 1748.00516,
+            "narration_text": "#C C speaks to person X",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1755.183040954663,
+            "timestamp_frame": 52655,
+            "_unmapped_timestamp_sec": 1755.20407,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1758.7747709546632,
+            "timestamp_frame": 52763,
+            "_unmapped_timestamp_sec": 1758.7958,
+            "narration_text": "#C C looks at the plant decoration on the wall",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1767.685160954663,
+            "timestamp_frame": 53030,
+            "_unmapped_timestamp_sec": 1767.7061899999999,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1768.250670954663,
+            "timestamp_frame": 53047,
+            "_unmapped_timestamp_sec": 1768.2717,
+            "narration_text": "#C C walks",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1768.981030954663,
+            "timestamp_frame": 53069,
+            "_unmapped_timestamp_sec": 1769.00206,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "e5289c2c-b710-403f-a301-6934659e79aa"
+        },
+        {
+            "timestamp_sec": 1622.3909009546633,
+            "timestamp_frame": 48671,
+            "_unmapped_timestamp_sec": 1622.41193,
+            "narration_text": "#o o takes a piece of the leave from #c",
+            "annotation_uid": "b546d62a-d0e3-45d7-aa95-749892ab62b1"
+        },
+        {
+            "timestamp_sec": 1622.3909009546633,
+            "timestamp_frame": 48671,
+            "_unmapped_timestamp_sec": 1622.41193,
+            "narration_text": "tightens a piece of the leave on the wall",
+            "annotation_uid": "b546d62a-d0e3-45d7-aa95-749892ab62b1"
+        },
+        {
+            "timestamp_sec": 1622.3909009546633,
+            "timestamp_frame": 48671,
+            "_unmapped_timestamp_sec": 1622.41193,
+            "narration_text": "#o o moves in the room",
+            "annotation_uid": "b546d62a-d0e3-45d7-aa95-749892ab62b1"
+        },
+        {
+            "timestamp_sec": 1629.913120954663,
+            "timestamp_frame": 48897,
+            "_unmapped_timestamp_sec": 1629.93415,
+            "narration_text": "#o o moves in the room",
+            "annotation_uid": "b546d62a-d0e3-45d7-aa95-749892ab62b1"
+        },
+        {
+            "timestamp_sec": 1629.913120954663,
+            "timestamp_frame": 48897,
+            "_unmapped_timestamp_sec": 1629.93415,
+            "narration_text": "#o o puts a piece of the leave on the wall with a  of tape ",
+            "annotation_uid": "b546d62a-d0e3-45d7-aa95-749892ab62b1"
+        },
+        {
+            "timestamp_sec": 1653.880200954663,
+            "timestamp_frame": 49616,
+            "_unmapped_timestamp_sec": 1653.90123,
+            "narration_text": "#c c takes another leave and put on top of another leave",
+            "annotation_uid": "b7c24df4-c0b3-47f1-8841-6b7921289bff"
+        },
+        {
+            "timestamp_sec": 1662.954830954663,
+            "timestamp_frame": 49888,
+            "_unmapped_timestamp_sec": 1662.97586,
+            "narration_text": "#c c takes another leave and put on top of another leave",
+            "annotation_uid": "b7c24df4-c0b3-47f1-8841-6b7921289bff"
+        },
+        {
+            "timestamp_sec": 1663.7625309546631,
+            "timestamp_frame": 49912,
+            "_unmapped_timestamp_sec": 1663.78356,
+            "narration_text": "#c c takes another leave from #o puts on the top of the other leaves",
+            "annotation_uid": "b7c24df4-c0b3-47f1-8841-6b7921289bff"
+        },
+        {
+            "timestamp_sec": 1687.217820954663,
+            "timestamp_frame": 50616,
+            "_unmapped_timestamp_sec": 1687.23885,
+            "narration_text": "#c c takes another leave from #o puts on the top of the other leaves",
+            "annotation_uid": "b7c24df4-c0b3-47f1-8841-6b7921289bff"
+        },
+        {
+            "timestamp_sec": 1691.090410954663,
+            "timestamp_frame": 50732,
+            "_unmapped_timestamp_sec": 1691.11144,
+            "narration_text": "#o o shows the pattern of the leaves",
+            "annotation_uid": "b7c24df4-c0b3-47f1-8841-6b7921289bff"
+        },
+        {
+            "timestamp_sec": 1695.338420954663,
+            "timestamp_frame": 50860,
+            "_unmapped_timestamp_sec": 1695.35945,
+            "narration_text": "#c c takes another leave and put on top of another leave",
+            "annotation_uid": "b7c24df4-c0b3-47f1-8841-6b7921289bff"
+        },
+        {
+            "timestamp_sec": 1717.992970954663,
+            "timestamp_frame": 51539,
+            "_unmapped_timestamp_sec": 1718.014,
+            "narration_text": "#c c takes another leave and put on top of another leave",
+            "annotation_uid": "b7c24df4-c0b3-47f1-8841-6b7921289bff"
+        },
+        {
+            "timestamp_sec": 1731.585950954663,
+            "timestamp_frame": 51947,
+            "_unmapped_timestamp_sec": 1731.60698,
+            "narration_text": "#o o walks a way",
+            "annotation_uid": "b7c24df4-c0b3-47f1-8841-6b7921289bff"
+        },
+        {
+            "timestamp_sec": 1737.522280954663,
+            "timestamp_frame": 52125,
+            "_unmapped_timestamp_sec": 1737.54331,
+            "narration_text": "#o o enters into another room",
+            "annotation_uid": "b7c24df4-c0b3-47f1-8841-6b7921289bff"
+        },
+        {
+            "timestamp_sec": 1741.5043409546631,
+            "timestamp_frame": 52244,
+            "_unmapped_timestamp_sec": 1741.52537,
+            "narration_text": "#o o moves out of the room",
+            "annotation_uid": "b7c24df4-c0b3-47f1-8841-6b7921289bff"
+        },
+        {
+            "timestamp_sec": 1743.1578809546631,
+            "timestamp_frame": 52294,
+            "_unmapped_timestamp_sec": 1743.17891,
+            "narration_text": "#c c gives direction to # o",
+            "annotation_uid": "b7c24df4-c0b3-47f1-8841-6b7921289bff"
+        },
+        {
+            "timestamp_sec": 1757.857070954663,
+            "timestamp_frame": 52735,
+            "_unmapped_timestamp_sec": 1757.8781,
+            "narration_text": "#c c displays the room",
+            "annotation_uid": "b7c24df4-c0b3-47f1-8841-6b7921289bff"
+        }
+    ]
+}

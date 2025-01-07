@@ -1,0 +1,725 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 152.7464,
+            "timestamp_frame": 4582,
+            "_unmapped_timestamp_sec": 152.7464,
+            "narration_text": "#C C picks up a screwdriver in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 153.25021,
+            "timestamp_frame": 4598,
+            "_unmapped_timestamp_sec": 153.25021,
+            "narration_text": "#C C passes the screwdriver to his left hand",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 153.93469,
+            "timestamp_frame": 4618,
+            "_unmapped_timestamp_sec": 153.93469,
+            "narration_text": "#C C arranges the tools in his left hand",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 154.91781,
+            "timestamp_frame": 4648,
+            "_unmapped_timestamp_sec": 154.91781,
+            "narration_text": "#C C moves a tool in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 155.74454,
+            "timestamp_frame": 4672,
+            "_unmapped_timestamp_sec": 155.74454,
+            "narration_text": "#C C picks up a spanner in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 156.3361,
+            "timestamp_frame": 4690,
+            "_unmapped_timestamp_sec": 156.3361,
+            "narration_text": "#C C passes the spanner to his left hand",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 156.82192,
+            "timestamp_frame": 4705,
+            "_unmapped_timestamp_sec": 156.82192,
+            "narration_text": "#C C picks up a hook in the drawer. #unsure",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 157.10444,
+            "timestamp_frame": 4713,
+            "_unmapped_timestamp_sec": 157.10444,
+            "narration_text": "#C C picks up a screwdriver in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 157.6915,
+            "timestamp_frame": 4731,
+            "_unmapped_timestamp_sec": 157.6915,
+            "narration_text": "#C C passes the tools to his left hand",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 158.7103,
+            "timestamp_frame": 4761,
+            "_unmapped_timestamp_sec": 158.7103,
+            "narration_text": "#C C moves a metal in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 160.52469,
+            "timestamp_frame": 4816,
+            "_unmapped_timestamp_sec": 160.52469,
+            "narration_text": "#C C picks some metal washer in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 162.89146,
+            "timestamp_frame": 4887,
+            "_unmapped_timestamp_sec": 162.89146,
+            "narration_text": "#C C picks up dirt in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 163.25452,
+            "timestamp_frame": 4898,
+            "_unmapped_timestamp_sec": 163.25452,
+            "narration_text": "#C C throws the dirt away",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 164.48435,
+            "timestamp_frame": 4935,
+            "_unmapped_timestamp_sec": 164.48435,
+            "narration_text": "#C C picks up dirt in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 165.37837,
+            "timestamp_frame": 4961,
+            "_unmapped_timestamp_sec": 165.37837,
+            "narration_text": "#C C throws the dirt away",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 167.20472,
+            "timestamp_frame": 5016,
+            "_unmapped_timestamp_sec": 167.20472,
+            "narration_text": "#C C picks up a paper in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 168.0488,
+            "timestamp_frame": 5041,
+            "_unmapped_timestamp_sec": 168.0488,
+            "narration_text": "#C C throws the paper away",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 172.16123,
+            "timestamp_frame": 5165,
+            "_unmapped_timestamp_sec": 172.16123,
+            "narration_text": "#C C throws the washer in a can on the cabinet",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 173.36547,
+            "timestamp_frame": 5201,
+            "_unmapped_timestamp_sec": 173.36547,
+            "narration_text": "#C C turns on the flashlight",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 174.98182,
+            "timestamp_frame": 5249,
+            "_unmapped_timestamp_sec": 174.98182,
+            "narration_text": "#C C interacts with a co-worker X",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 179.90318,
+            "timestamp_frame": 5397,
+            "_unmapped_timestamp_sec": 179.90318,
+            "narration_text": "#C C throws the flashlight to the co-worker X",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 182.02553,
+            "timestamp_frame": 5461,
+            "_unmapped_timestamp_sec": 182.02553,
+            "narration_text": "#C C closes the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 184.13153,
+            "timestamp_frame": 5524,
+            "_unmapped_timestamp_sec": 184.13153,
+            "narration_text": "#C C opens another drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 186.91964,
+            "timestamp_frame": 5608,
+            "_unmapped_timestamp_sec": 186.91964,
+            "narration_text": "#C C opens another drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 190.28888,
+            "timestamp_frame": 5709,
+            "_unmapped_timestamp_sec": 190.28888,
+            "narration_text": "#C C drops the tools in his left hand in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 193.30003,
+            "timestamp_frame": 5799,
+            "_unmapped_timestamp_sec": 193.30003,
+            "narration_text": "#C C arranges the tools in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 196.93474,
+            "timestamp_frame": 5908,
+            "_unmapped_timestamp_sec": 196.93474,
+            "narration_text": "#C C packs the screwdrivers on the cabinet",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 198.93177,
+            "timestamp_frame": 5968,
+            "_unmapped_timestamp_sec": 198.93177,
+            "narration_text": "#C C drops the screwdrivers in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 202.96355,
+            "timestamp_frame": 6089,
+            "_unmapped_timestamp_sec": 202.96355,
+            "narration_text": "#C C opens the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 202.96355,
+            "timestamp_frame": 6089,
+            "_unmapped_timestamp_sec": 202.96355,
+            "narration_text": "#C C closes the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 205.26592,
+            "timestamp_frame": 6158,
+            "_unmapped_timestamp_sec": 205.26592,
+            "narration_text": "#C C arranges the tools in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 229.99888,
+            "timestamp_frame": 6900,
+            "_unmapped_timestamp_sec": 229.99888,
+            "narration_text": "#C C The co-worker X walks past C",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 208.38172,
+            "timestamp_frame": 6251,
+            "_unmapped_timestamp_sec": 208.38172,
+            "narration_text": "#C C picks an allen key with his right hand in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 209.28249,
+            "timestamp_frame": 6278,
+            "_unmapped_timestamp_sec": 209.28249,
+            "narration_text": "#C C picks an allen key with his left hand in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 210.44657,
+            "timestamp_frame": 6313,
+            "_unmapped_timestamp_sec": 210.44657,
+            "narration_text": "#C C passes the allen key to his left hand",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 211.00039,
+            "timestamp_frame": 6330,
+            "_unmapped_timestamp_sec": 211.00039,
+            "narration_text": "#C C arranges the tools in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 213.75917,
+            "timestamp_frame": 6413,
+            "_unmapped_timestamp_sec": 213.75917,
+            "narration_text": "#C C picks up a seal in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 214.72985,
+            "timestamp_frame": 6442,
+            "_unmapped_timestamp_sec": 214.72985,
+            "narration_text": "#C C puts the seal in a container. #unsure",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 215.74655,
+            "timestamp_frame": 6472,
+            "_unmapped_timestamp_sec": 215.74655,
+            "narration_text": "#C C picks up a bolt in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 216.95919,
+            "timestamp_frame": 6509,
+            "_unmapped_timestamp_sec": 216.95919,
+            "narration_text": "#C C drops the bolt on the cabinet",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 217.79365,
+            "timestamp_frame": 6534,
+            "_unmapped_timestamp_sec": 217.79365,
+            "narration_text": "#C C picks up a leather in the drawer. #unsure",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 218.50994,
+            "timestamp_frame": 6555,
+            "_unmapped_timestamp_sec": 218.50994,
+            "narration_text": "#C C drops the leather on the cabinet. #unsure",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 219.48857,
+            "timestamp_frame": 6585,
+            "_unmapped_timestamp_sec": 219.48857,
+            "narration_text": "#C C touches the tools in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 220.77675,
+            "timestamp_frame": 6623,
+            "_unmapped_timestamp_sec": 220.77675,
+            "narration_text": "#C C picks up an allen key in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 221.14625,
+            "timestamp_frame": 6634,
+            "_unmapped_timestamp_sec": 221.14625,
+            "narration_text": "#C C passes the allen key to his left hand ",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 221.65149,
+            "timestamp_frame": 6650,
+            "_unmapped_timestamp_sec": 221.65149,
+            "narration_text": "#C C picks up a nylon in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 223.52268,
+            "timestamp_frame": 6706,
+            "_unmapped_timestamp_sec": 223.52268,
+            "narration_text": "#C C drops the nylon on the tools in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 225.11088,
+            "timestamp_frame": 6753,
+            "_unmapped_timestamp_sec": 225.11088,
+            "narration_text": "#C C moves a spanner in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 226.26652,
+            "timestamp_frame": 6788,
+            "_unmapped_timestamp_sec": 226.26652,
+            "narration_text": "#C C throws away dirt from the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 228.2001,
+            "timestamp_frame": 6846,
+            "_unmapped_timestamp_sec": 228.2001,
+            "narration_text": "#C C picks up a paper in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 228.71717,
+            "timestamp_frame": 6862,
+            "_unmapped_timestamp_sec": 228.71717,
+            "narration_text": "#C C throws the paper away",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 229.40833,
+            "timestamp_frame": 6882,
+            "_unmapped_timestamp_sec": 229.40833,
+            "narration_text": "#C C picks up a bolt in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 229.92329,
+            "timestamp_frame": 6898,
+            "_unmapped_timestamp_sec": 229.92329,
+            "narration_text": "#C C throws away the bolt",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 231.17433,
+            "timestamp_frame": 6935,
+            "_unmapped_timestamp_sec": 231.17433,
+            "narration_text": "#C C picks a plastic in the drawer. #unsure",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 233.66473,
+            "timestamp_frame": 7010,
+            "_unmapped_timestamp_sec": 233.66473,
+            "narration_text": "#C C picks some screws in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 236.3046,
+            "timestamp_frame": 7089,
+            "_unmapped_timestamp_sec": 236.3046,
+            "narration_text": "#C C puts the screw in the can on the cabinet",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 238.50682,
+            "timestamp_frame": 7155,
+            "_unmapped_timestamp_sec": 238.50682,
+            "narration_text": "#C C opens the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 240.55308,
+            "timestamp_frame": 7217,
+            "_unmapped_timestamp_sec": 240.55308,
+            "narration_text": "#C C picks a metal washer from the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 241.80939,
+            "timestamp_frame": 7254,
+            "_unmapped_timestamp_sec": 241.80939,
+            "narration_text": "#C C throws the metal washer in the can on the cabinet",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 243.52414,
+            "timestamp_frame": 7306,
+            "_unmapped_timestamp_sec": 243.52414,
+            "narration_text": "#C C adjusts the tools in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 246.15702,
+            "timestamp_frame": 7385,
+            "_unmapped_timestamp_sec": 246.15702,
+            "narration_text": "#C C drops the tools in his left hand on the cabinet",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 247.0898,
+            "timestamp_frame": 7413,
+            "_unmapped_timestamp_sec": 247.0898,
+            "narration_text": "#C C picks the screw drivers on the cabinet",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 248.75615,
+            "timestamp_frame": 7463,
+            "_unmapped_timestamp_sec": 248.75615,
+            "narration_text": "#C C drops one of the screwdriver in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 255.72666,
+            "timestamp_frame": 7672,
+            "_unmapped_timestamp_sec": 255.72666,
+            "narration_text": "#C C throws away a dirt from the drawer. #unusre",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 256.60348,
+            "timestamp_frame": 7698,
+            "_unmapped_timestamp_sec": 256.60348,
+            "narration_text": "#C C adjusts the screw driver in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 257.424,
+            "timestamp_frame": 7723,
+            "_unmapped_timestamp_sec": 257.424,
+            "narration_text": "#C C arranges the screwdrivers in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 258.46154,
+            "timestamp_frame": 7754,
+            "_unmapped_timestamp_sec": 258.46154,
+            "narration_text": "#C C drops another screwdriver in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 265.83272,
+            "timestamp_frame": 7975,
+            "_unmapped_timestamp_sec": 265.83272,
+            "narration_text": "#C C drops another screwdriver in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 268.01463,
+            "timestamp_frame": 8040,
+            "_unmapped_timestamp_sec": 268.01463,
+            "narration_text": "#C C drops another screwdriver in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 275.41048,
+            "timestamp_frame": 8262,
+            "_unmapped_timestamp_sec": 275.41048,
+            "narration_text": "#C C drops another screwdriver in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 278.03884,
+            "timestamp_frame": 8341,
+            "_unmapped_timestamp_sec": 278.03884,
+            "narration_text": "#C C drops another screwdriver in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 279.88124,
+            "timestamp_frame": 8396,
+            "_unmapped_timestamp_sec": 279.88124,
+            "narration_text": "#C C rearranges the screwdrivers in the drawer",
+            "annotation_uid": "1cbe4a74-c235-48e6-a7a9-21a2e66ca5be"
+        },
+        {
+            "timestamp_sec": 157.56589,
+            "timestamp_frame": 4727,
+            "_unmapped_timestamp_sec": 157.56589,
+            "narration_text": "#C C takes more tools from the tool box drawer.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 163.76952,
+            "timestamp_frame": 4913,
+            "_unmapped_timestamp_sec": 163.76952,
+            "narration_text": "#C C throws down some tools from the tool box drawer.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 172.53816,
+            "timestamp_frame": 5176,
+            "_unmapped_timestamp_sec": 172.53816,
+            "narration_text": "#C C puts some tools in metal tin on the cupboard.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 173.54587,
+            "timestamp_frame": 5206,
+            "_unmapped_timestamp_sec": 173.54587,
+            "narration_text": "#C C holds a torch.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 173.68805,
+            "timestamp_frame": 5211,
+            "_unmapped_timestamp_sec": 173.68805,
+            "narration_text": "#C C switches on the torch.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 174.3997,
+            "timestamp_frame": 5232,
+            "_unmapped_timestamp_sec": 174.3997,
+            "narration_text": "#O person Y walks in the room.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 176.0845,
+            "timestamp_frame": 5283,
+            "_unmapped_timestamp_sec": 176.0845,
+            "narration_text": "#C C switches off the torch.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 180.72383,
+            "timestamp_frame": 5422,
+            "_unmapped_timestamp_sec": 180.72383,
+            "narration_text": "#C C throws the torch to person Y.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 183.35472,
+            "timestamp_frame": 5501,
+            "_unmapped_timestamp_sec": 183.35472,
+            "narration_text": "#C C closes the upper tool box drawer.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 184.79464,
+            "timestamp_frame": 5544,
+            "_unmapped_timestamp_sec": 184.79464,
+            "narration_text": "#C C opens the lower tool box drawer.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 188.48322,
+            "timestamp_frame": 5654,
+            "_unmapped_timestamp_sec": 188.48322,
+            "narration_text": "#C C opens the lower most tool box drawer.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 190.70761,
+            "timestamp_frame": 5721,
+            "_unmapped_timestamp_sec": 190.70761,
+            "narration_text": "#C C puts the tools from his hand in the lower most drawer.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 195.69213,
+            "timestamp_frame": 5871,
+            "_unmapped_timestamp_sec": 195.69213,
+            "narration_text": "#C C arranges the lower most tool box drawer.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 197.93079,
+            "timestamp_frame": 5938,
+            "_unmapped_timestamp_sec": 197.93079,
+            "narration_text": "#C C takes screw drivers on the cupboard.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 200.05042,
+            "timestamp_frame": 6002,
+            "_unmapped_timestamp_sec": 200.05042,
+            "narration_text": "#C C puts the screw drivers on the lower most tool box drawer.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 195.01827,
+            "timestamp_frame": 5851,
+            "_unmapped_timestamp_sec": 195.01827,
+            "narration_text": "#C C touches the hammer in the drawer.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 203.33054,
+            "timestamp_frame": 6100,
+            "_unmapped_timestamp_sec": 203.33054,
+            "narration_text": "#C C closes the lower most tool box drawer.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 203.56915,
+            "timestamp_frame": 6107,
+            "_unmapped_timestamp_sec": 203.56915,
+            "narration_text": "#C C opens the upper tool box drawer.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 208.04964,
+            "timestamp_frame": 6241,
+            "_unmapped_timestamp_sec": 208.04964,
+            "narration_text": "#C C arranges the drawer.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 209.78764,
+            "timestamp_frame": 6294,
+            "_unmapped_timestamp_sec": 209.78764,
+            "narration_text": "#C C takes some tools from the drawer.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 214.9479,
+            "timestamp_frame": 6448,
+            "_unmapped_timestamp_sec": 214.9479,
+            "narration_text": "#C C puts some tools on top of the cupboard.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 222.07597,
+            "timestamp_frame": 6662,
+            "_unmapped_timestamp_sec": 222.07597,
+            "narration_text": "#C C holds some tools from the drawer.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 224.69535,
+            "timestamp_frame": 6741,
+            "_unmapped_timestamp_sec": 224.69535,
+            "narration_text": "#C C arranges the drawer.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 228.03532,
+            "timestamp_frame": 6841,
+            "_unmapped_timestamp_sec": 228.03532,
+            "narration_text": "#C C throws some tools down the floor.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 230.40641,
+            "timestamp_frame": 6912,
+            "_unmapped_timestamp_sec": 230.40641,
+            "narration_text": "#O person Y passes near C.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 236.70765,
+            "timestamp_frame": 7101,
+            "_unmapped_timestamp_sec": 236.70765,
+            "narration_text": "#C C puts some tools in a the metal tin on the cupboard.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 239.80345,
+            "timestamp_frame": 7194,
+            "_unmapped_timestamp_sec": 239.80345,
+            "narration_text": "#O person Y comes near the drawer.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 243.20121,
+            "timestamp_frame": 7296,
+            "_unmapped_timestamp_sec": 243.20121,
+            "narration_text": "#C C throws some tools away.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 246.53928,
+            "timestamp_frame": 7396,
+            "_unmapped_timestamp_sec": 246.53928,
+            "narration_text": "#C C puts other tools on the cupboard from his hand.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 248.22647,
+            "timestamp_frame": 7447,
+            "_unmapped_timestamp_sec": 248.22647,
+            "narration_text": "#C C takes the soldering gun on the cupboard.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        },
+        {
+            "timestamp_sec": 253.97227,
+            "timestamp_frame": 7619,
+            "_unmapped_timestamp_sec": 253.97227,
+            "narration_text": "#C C arranges the soldering guns in the drawer.",
+            "annotation_uid": "5582e472-8488-48b6-8c17-cd3d7355c4d5"
+        }
+    ]
+}

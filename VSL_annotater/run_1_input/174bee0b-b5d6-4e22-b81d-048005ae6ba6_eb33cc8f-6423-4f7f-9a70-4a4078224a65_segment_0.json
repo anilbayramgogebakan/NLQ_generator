@@ -1,0 +1,858 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 271.0854686,
+            "timestamp_frame": 8132,
+            "_unmapped_timestamp_sec": 271.06444,
+            "narration_text": "#C C picks another container from the slab with his right hand",
+            "annotation_uid": "c061a318-ff04-4b1f-98b7-62e49e890d98"
+        },
+        {
+            "timestamp_sec": 273.0596486,
+            "timestamp_frame": 8191,
+            "_unmapped_timestamp_sec": 273.03862,
+            "narration_text": "#C C touches the container with both hands",
+            "annotation_uid": "c061a318-ff04-4b1f-98b7-62e49e890d98"
+        },
+        {
+            "timestamp_sec": 274.4679686,
+            "timestamp_frame": 8233,
+            "_unmapped_timestamp_sec": 274.44694,
+            "narration_text": "#C C returns the container to where he picked it with his right hand",
+            "annotation_uid": "c061a318-ff04-4b1f-98b7-62e49e890d98"
+        },
+        {
+            "timestamp_sec": 275.6764986,
+            "timestamp_frame": 8270,
+            "_unmapped_timestamp_sec": 275.65547,
+            "narration_text": "#C C picks another container from the slab with his right hand",
+            "annotation_uid": "c061a318-ff04-4b1f-98b7-62e49e890d98"
+        },
+        {
+            "timestamp_sec": 276.6731386,
+            "timestamp_frame": 8300,
+            "_unmapped_timestamp_sec": 276.65211,
+            "narration_text": "#C C opens the container with both hands",
+            "annotation_uid": "c061a318-ff04-4b1f-98b7-62e49e890d98"
+        },
+        {
+            "timestamp_sec": 277.8471986,
+            "timestamp_frame": 8335,
+            "_unmapped_timestamp_sec": 277.82617,
+            "narration_text": "#C C raises his left hand",
+            "annotation_uid": "c061a318-ff04-4b1f-98b7-62e49e890d98"
+        },
+        {
+            "timestamp_sec": 279.3210786,
+            "timestamp_frame": 8379,
+            "_unmapped_timestamp_sec": 279.30005,
+            "narration_text": "#C C pours the content of the container into the frying pan with his right hand",
+            "annotation_uid": "c061a318-ff04-4b1f-98b7-62e49e890d98"
+        },
+        {
+            "timestamp_sec": 283.4602486,
+            "timestamp_frame": 8503,
+            "_unmapped_timestamp_sec": 283.43922,
+            "narration_text": "#C C drops the container on the slab with his right hand",
+            "annotation_uid": "c061a318-ff04-4b1f-98b7-62e49e890d98"
+        },
+        {
+            "timestamp_sec": 285.3171486,
+            "timestamp_frame": 8559,
+            "_unmapped_timestamp_sec": 285.29612,
+            "narration_text": "#C C picks a nylon from the slab with his right hand",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 285.98672860000005,
+            "timestamp_frame": 8579,
+            "_unmapped_timestamp_sec": 285.9657,
+            "narration_text": "#C C opens the nylon with both hands",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 293.0860086,
+            "timestamp_frame": 8792,
+            "_unmapped_timestamp_sec": 293.06498,
+            "narration_text": "#C C picks up knife from the slab with his right hand",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 293.84283860000005,
+            "timestamp_frame": 8815,
+            "_unmapped_timestamp_sec": 293.82181,
+            "narration_text": "#C C cuts the nylon with the knife in his right hand",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 302.79026860000005,
+            "timestamp_frame": 9083,
+            "_unmapped_timestamp_sec": 302.76924,
+            "narration_text": "#C C drops the knife on the slab",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 303.36006860000003,
+            "timestamp_frame": 9100,
+            "_unmapped_timestamp_sec": 303.33904,
+            "narration_text": "#C C opens the nylon with both hands",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 308.15223860000003,
+            "timestamp_frame": 9244,
+            "_unmapped_timestamp_sec": 308.13121,
+            "narration_text": "#C C takes sausage from the nylon in his left hand to a chopping board on the slab with his right hand",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 311.8715886,
+            "timestamp_frame": 9356,
+            "_unmapped_timestamp_sec": 311.85056,
+            "narration_text": "#C C drops the nylon in his left hand",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 312.4549586,
+            "timestamp_frame": 9373,
+            "_unmapped_timestamp_sec": 312.43393,
+            "narration_text": "#C C holds the sausages on the chopping board with his left hand ",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 312.4549586,
+            "timestamp_frame": 9373,
+            "_unmapped_timestamp_sec": 312.43393,
+            "narration_text": "#C C picks a knife with his right hand from the slab",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 315.5775186,
+            "timestamp_frame": 9467,
+            "_unmapped_timestamp_sec": 315.55649,
+            "narration_text": "#C C cuts the sausages",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 335.85864860000004,
+            "timestamp_frame": 10075,
+            "_unmapped_timestamp_sec": 335.83762,
+            "narration_text": "#C C packs the cut sausages from the chopping board to the frying pan with both hands",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 342.2705086,
+            "timestamp_frame": 10267,
+            "_unmapped_timestamp_sec": 342.24948,
+            "narration_text": "#C C picks out sausage from the nylon to the chopping board with his right hand",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 346.76155860000006,
+            "timestamp_frame": 10402,
+            "_unmapped_timestamp_sec": 346.74053000000004,
+            "narration_text": "#C C returns the sausage to the nylon in his left hand",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 349.44201860000004,
+            "timestamp_frame": 10483,
+            "_unmapped_timestamp_sec": 349.42099,
+            "narration_text": "#C C picks out two sausages from the nylon in his left hand to the chopping board on the slab with his right hand",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 350.2721186,
+            "timestamp_frame": 10508,
+            "_unmapped_timestamp_sec": 350.25109,
+            "narration_text": "#C C drops the nylon in his left hand on the slab",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 350.9594386,
+            "timestamp_frame": 10528,
+            "_unmapped_timestamp_sec": 350.93841,
+            "narration_text": "#C C picks the knife from the slab",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 351.7583986,
+            "timestamp_frame": 10552,
+            "_unmapped_timestamp_sec": 351.73737,
+            "narration_text": "#C C cuts the sausages",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 356.8897286,
+            "timestamp_frame": 10706,
+            "_unmapped_timestamp_sec": 356.8687,
+            "narration_text": "#C C takes the cut sausages from the chopping board to the frying pan with his left hand",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 360.0480986,
+            "timestamp_frame": 10801,
+            "_unmapped_timestamp_sec": 360.02707,
+            "narration_text": "#C C drops the knife in his right hand on the slab ",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 361.4694686,
+            "timestamp_frame": 10843,
+            "_unmapped_timestamp_sec": 361.44844,
+            "narration_text": "#C C picks chopsticks from the slab with his right hand",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 362.37597860000005,
+            "timestamp_frame": 10871,
+            "_unmapped_timestamp_sec": 362.35495000000003,
+            "narration_text": "#C C adjusts the chopsticks with both hands",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 363.4033486,
+            "timestamp_frame": 10901,
+            "_unmapped_timestamp_sec": 363.38232,
+            "narration_text": "#C C stirs the food in the frying pan with the chopsticks",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 370.76739860000004,
+            "timestamp_frame": 11122,
+            "_unmapped_timestamp_sec": 370.74637,
+            "narration_text": "#C C picks out food from the frying pan with the chopsticks",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 371.7200686,
+            "timestamp_frame": 11151,
+            "_unmapped_timestamp_sec": 371.69903999999997,
+            "narration_text": "#C C separates the food with his left hand hand and the chopsticks",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 374.46135860000004,
+            "timestamp_frame": 11233,
+            "_unmapped_timestamp_sec": 374.44033,
+            "narration_text": "#C C stirs the food in the frying pan with the chopsticks",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 385.78090860000003,
+            "timestamp_frame": 11573,
+            "_unmapped_timestamp_sec": 385.75988,
+            "narration_text": "#C C drops the chopsticks on the slab with his right hand",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 387.11103860000003,
+            "timestamp_frame": 11613,
+            "_unmapped_timestamp_sec": 387.09001,
+            "narration_text": "#C C picks a container with his right hand from the slab",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 388.4519586,
+            "timestamp_frame": 11653,
+            "_unmapped_timestamp_sec": 388.43093,
+            "narration_text": "#C C opens the container with both hands ",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 392.31518860000006,
+            "timestamp_frame": 11769,
+            "_unmapped_timestamp_sec": 392.29416000000003,
+            "narration_text": "#C C picks the chopsticks with his right hand",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 392.9057686,
+            "timestamp_frame": 11787,
+            "_unmapped_timestamp_sec": 392.88473999999997,
+            "narration_text": "#C C drops the container in his left hand on the slab",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 393.3080186,
+            "timestamp_frame": 11799,
+            "_unmapped_timestamp_sec": 393.28699,
+            "narration_text": "#C C adjusts the chopsticks with both hands",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 394.1022286,
+            "timestamp_frame": 11822,
+            "_unmapped_timestamp_sec": 394.08119999999997,
+            "narration_text": "#C C stirs the food with the chopsticks in his right hand",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 397.0655286,
+            "timestamp_frame": 11911,
+            "_unmapped_timestamp_sec": 397.04449999999997,
+            "narration_text": "#C C picks out food from the frying pan with the chopsticks",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 398.6466686,
+            "timestamp_frame": 11959,
+            "_unmapped_timestamp_sec": 398.62564,
+            "narration_text": "#C C picks the food from the chopsticks with his left hand",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 399.81778860000003,
+            "timestamp_frame": 11994,
+            "_unmapped_timestamp_sec": 399.79676,
+            "narration_text": "#C C raises the food to his face",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 401.87431860000004,
+            "timestamp_frame": 12056,
+            "_unmapped_timestamp_sec": 401.85329,
+            "narration_text": "#C C drops the chopsticks in his right hand on the slab",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 404.1871386,
+            "timestamp_frame": 12125,
+            "_unmapped_timestamp_sec": 404.16611,
+            "narration_text": "#C C picks a container from the slab with his right hand",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 405.23801860000003,
+            "timestamp_frame": 12157,
+            "_unmapped_timestamp_sec": 405.21699,
+            "narration_text": "#C C pours the content of the container into the frying pan",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 407.7956286,
+            "timestamp_frame": 12233,
+            "_unmapped_timestamp_sec": 407.77459999999996,
+            "narration_text": "#C C drops the container in his right hand",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 408.5713386,
+            "timestamp_frame": 12257,
+            "_unmapped_timestamp_sec": 408.55030999999997,
+            "narration_text": "#C C picks the chopsticks on the slab with his right hand",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 408.9570686,
+            "timestamp_frame": 12268,
+            "_unmapped_timestamp_sec": 408.93604,
+            "narration_text": "#C C adjusts the chopsticks with both hands",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 409.5385686,
+            "timestamp_frame": 12286,
+            "_unmapped_timestamp_sec": 409.51754,
+            "narration_text": "#C C stirs the food with the chopsticks in his right hand",
+            "annotation_uid": "a14a086e-5e9d-48a2-a16d-18568ae23abb"
+        },
+        {
+            "timestamp_sec": 272.6395686,
+            "timestamp_frame": 8179,
+            "_unmapped_timestamp_sec": 272.61854,
+            "narration_text": "#C C picks a spice bottle",
+            "annotation_uid": "f472553e-d182-4c2d-a9bb-b177d43cf7e1"
+        },
+        {
+            "timestamp_sec": 274.0037686,
+            "timestamp_frame": 8219,
+            "_unmapped_timestamp_sec": 273.98274,
+            "narration_text": "#C C opens the spice bottle",
+            "annotation_uid": "f472553e-d182-4c2d-a9bb-b177d43cf7e1"
+        },
+        {
+            "timestamp_sec": 274.61830860000003,
+            "timestamp_frame": 8238,
+            "_unmapped_timestamp_sec": 274.59728,
+            "narration_text": "#C C puts the spice bottle back",
+            "annotation_uid": "f472553e-d182-4c2d-a9bb-b177d43cf7e1"
+        },
+        {
+            "timestamp_sec": 276.1426786,
+            "timestamp_frame": 8284,
+            "_unmapped_timestamp_sec": 276.12165,
+            "narration_text": "#C C picks a spice bottle",
+            "annotation_uid": "f472553e-d182-4c2d-a9bb-b177d43cf7e1"
+        },
+        {
+            "timestamp_sec": 277.3118686,
+            "timestamp_frame": 8319,
+            "_unmapped_timestamp_sec": 277.29084,
+            "narration_text": "#C C opens the spice bottle",
+            "annotation_uid": "f472553e-d182-4c2d-a9bb-b177d43cf7e1"
+        },
+        {
+            "timestamp_sec": 279.12219860000005,
+            "timestamp_frame": 8373,
+            "_unmapped_timestamp_sec": 279.10117,
+            "narration_text": "#C C adjusts the camera on the head",
+            "annotation_uid": "f472553e-d182-4c2d-a9bb-b177d43cf7e1"
+        },
+        {
+            "timestamp_sec": 280.1908086,
+            "timestamp_frame": 8405,
+            "_unmapped_timestamp_sec": 280.16978,
+            "narration_text": "#C C sprinkles the spice on the cabbage",
+            "annotation_uid": "f472553e-d182-4c2d-a9bb-b177d43cf7e1"
+        },
+        {
+            "timestamp_sec": 283.6522886,
+            "timestamp_frame": 8509,
+            "_unmapped_timestamp_sec": 283.63126,
+            "narration_text": "#C C closes the spice bottle",
+            "annotation_uid": "f472553e-d182-4c2d-a9bb-b177d43cf7e1"
+        },
+        {
+            "timestamp_sec": 283.94717860000003,
+            "timestamp_frame": 8518,
+            "_unmapped_timestamp_sec": 283.92615,
+            "narration_text": "#C C puts the spice bottle on the sink counter",
+            "annotation_uid": "f472553e-d182-4c2d-a9bb-b177d43cf7e1"
+        },
+        {
+            "timestamp_sec": 285.1959986,
+            "timestamp_frame": 8555,
+            "_unmapped_timestamp_sec": 285.17497,
+            "narration_text": "#C C picks a pack of Japanese wina sausage",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 286.3733386,
+            "timestamp_frame": 8591,
+            "_unmapped_timestamp_sec": 286.35231,
+            "narration_text": "#C C opens the seal of the Japanese wina sausage pack",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 285.8196886,
+            "timestamp_frame": 8574,
+            "_unmapped_timestamp_sec": 285.79866,
+            "narration_text": "#C C holds the pack of Japanese wina sausage with both hands",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 287.8172786,
+            "timestamp_frame": 8634,
+            "_unmapped_timestamp_sec": 287.79625,
+            "narration_text": "#C C drops the seal on the kitchen top",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 288.99836860000005,
+            "timestamp_frame": 8669,
+            "_unmapped_timestamp_sec": 288.97734,
+            "narration_text": "#C C tears the pack of the Japanese wina sausage",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 293.06802860000005,
+            "timestamp_frame": 8791,
+            "_unmapped_timestamp_sec": 293.047,
+            "narration_text": "#C C picks the knife on the chopping board",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 293.5194786,
+            "timestamp_frame": 8805,
+            "_unmapped_timestamp_sec": 293.49845,
+            "narration_text": "#C C places the Japanese wina sausage on the chopping board",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 294.1478386,
+            "timestamp_frame": 8824,
+            "_unmapped_timestamp_sec": 294.12681,
+            "narration_text": "#C C cuts the Japanese wina sausage package with the knife",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 302.9080586,
+            "timestamp_frame": 9087,
+            "_unmapped_timestamp_sec": 302.88703,
+            "narration_text": "#C C places the knife on the chopping board",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 303.78243860000003,
+            "timestamp_frame": 9113,
+            "_unmapped_timestamp_sec": 303.76141,
+            "narration_text": "#C C tears the Japanese wina sausage package with his hands",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 308.0031286,
+            "timestamp_frame": 9239,
+            "_unmapped_timestamp_sec": 307.9821,
+            "narration_text": "#C C picks the Japanese wina sausage from the package",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 310.42177860000004,
+            "timestamp_frame": 9312,
+            "_unmapped_timestamp_sec": 310.40075,
+            "narration_text": "#C C places the Japanese wina sausages on the chopping board",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 312.2160286,
+            "timestamp_frame": 9366,
+            "_unmapped_timestamp_sec": 312.195,
+            "narration_text": "#C C places the Japanese wina sausages on the kitchen top",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 312.6120786,
+            "timestamp_frame": 9378,
+            "_unmapped_timestamp_sec": 312.59105,
+            "narration_text": "#C C picks the knife from the chopping board",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 313.3327186,
+            "timestamp_frame": 9399,
+            "_unmapped_timestamp_sec": 313.31169,
+            "narration_text": "#C C assembles the sausages on the chopping board",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 314.97412860000003,
+            "timestamp_frame": 9449,
+            "_unmapped_timestamp_sec": 314.9531,
+            "narration_text": "#C C cuts the sausages into pieces",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 335.5971786,
+            "timestamp_frame": 10067,
+            "_unmapped_timestamp_sec": 335.57615,
+            "narration_text": "#C C places the knife on the kitchen top",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 336.26070860000004,
+            "timestamp_frame": 10087,
+            "_unmapped_timestamp_sec": 336.23968,
+            "narration_text": "#C C picks the sausages from the chopping board",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 338.0373286,
+            "timestamp_frame": 10140,
+            "_unmapped_timestamp_sec": 338.0163,
+            "narration_text": "#C C puts the sausages on the cooking pan with cabbage #Unsure",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 338.63496860000004,
+            "timestamp_frame": 10158,
+            "_unmapped_timestamp_sec": 338.61394,
+            "narration_text": "#C C picks the sausages from the chopping board",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 339.8235086,
+            "timestamp_frame": 10194,
+            "_unmapped_timestamp_sec": 339.80248,
+            "narration_text": "#C C puts the sausages on the cooking pan with cabbage #Unsure ",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 340.2180286,
+            "timestamp_frame": 10206,
+            "_unmapped_timestamp_sec": 340.197,
+            "narration_text": "#C C picks the sausages from the kitchen top  ",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 340.99548860000004,
+            "timestamp_frame": 10229,
+            "_unmapped_timestamp_sec": 340.97446,
+            "narration_text": "#C C puts the sausages on the cooking pan with cabbage with #Unsure",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 342.6476286,
+            "timestamp_frame": 10279,
+            "_unmapped_timestamp_sec": 342.6266,
+            "narration_text": "#C C picks the sausages from the Japanese wina sausage package on the kitchen top",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 344.8790286,
+            "timestamp_frame": 10346,
+            "_unmapped_timestamp_sec": 344.858,
+            "narration_text": "#C C places the Japanese wina sausages on the chopping board",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 345.9685486,
+            "timestamp_frame": 10378,
+            "_unmapped_timestamp_sec": 345.94752,
+            "narration_text": "#C C picks the sausages from the Japanese wina sausage package on the kitchen top",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 346.7527486,
+            "timestamp_frame": 10402,
+            "_unmapped_timestamp_sec": 346.73172,
+            "narration_text": "#C C picks the sausages on the chopping board",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 347.75665860000004,
+            "timestamp_frame": 10432,
+            "_unmapped_timestamp_sec": 347.73563,
+            "narration_text": "#C C puts the sausage on the Japanese wina sausage package\n",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 348.6436886,
+            "timestamp_frame": 10459,
+            "_unmapped_timestamp_sec": 348.62266,
+            "narration_text": "#C C picks the sausages from the Japanese wina sausage package on the kitchen top",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 350.4681686,
+            "timestamp_frame": 10513,
+            "_unmapped_timestamp_sec": 350.44714,
+            "narration_text": "#C C places the Japanese wina sausages on the chopping board",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 350.34133860000003,
+            "timestamp_frame": 10510,
+            "_unmapped_timestamp_sec": 350.32031,
+            "narration_text": "#C C places the empty Japanese wina sausage package on the kitchen top",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 351.0867786,
+            "timestamp_frame": 10532,
+            "_unmapped_timestamp_sec": 351.06575,
+            "narration_text": "#C C picks the knife from the kitchen top",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 352.0281186,
+            "timestamp_frame": 10560,
+            "_unmapped_timestamp_sec": 352.00709,
+            "narration_text": "#C C cuts the sausages into pieces",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 357.76802860000004,
+            "timestamp_frame": 10732,
+            "_unmapped_timestamp_sec": 357.747,
+            "narration_text": "#C C picks the sausages from the chopping board",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 358.8859186,
+            "timestamp_frame": 10766,
+            "_unmapped_timestamp_sec": 358.86489,
+            "narration_text": "#C C puts the sausages on the cooking pan with cabbage with #Unsure",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 360.5343386,
+            "timestamp_frame": 10815,
+            "_unmapped_timestamp_sec": 360.51331,
+            "narration_text": "#C C picks the sausages from the chopping board",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 360.8534986,
+            "timestamp_frame": 10825,
+            "_unmapped_timestamp_sec": 360.83247,
+            "narration_text": "#C C places the knife on the chopping board",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 361.3955586,
+            "timestamp_frame": 10841,
+            "_unmapped_timestamp_sec": 361.37453,
+            "narration_text": "#C C picks the cooking chopsticks from the kitchen top",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 362.0715186,
+            "timestamp_frame": 10862,
+            "_unmapped_timestamp_sec": 362.05048999999997,
+            "narration_text": "#C C puts the sausages on the cooking pan with cabbage with #Unsure",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 362.6100986,
+            "timestamp_frame": 10878,
+            "_unmapped_timestamp_sec": 362.58907,
+            "narration_text": "#C C holds the cooking chopsticks with both hands",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 363.25286860000006,
+            "timestamp_frame": 10897,
+            "_unmapped_timestamp_sec": 363.23184000000003,
+            "narration_text": "#C C holds the cooking chopsticks with his right hand",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 363.54294860000005,
+            "timestamp_frame": 10906,
+            "_unmapped_timestamp_sec": 363.52192,
+            "narration_text": "#C C stirs the sausage, cabbage and #Unsure",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 371.2089386,
+            "timestamp_frame": 11136,
+            "_unmapped_timestamp_sec": 371.18791,
+            "narration_text": "#C C picks a piece of sausage with the cooking chopsticks",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 371.95640860000003,
+            "timestamp_frame": 11158,
+            "_unmapped_timestamp_sec": 371.93538,
+            "narration_text": "#C C holds the sausage with his left hand",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 373.95095860000004,
+            "timestamp_frame": 11218,
+            "_unmapped_timestamp_sec": 373.92993,
+            "narration_text": "#C C cuts the sausage into pieces",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 374.6870286,
+            "timestamp_frame": 11240,
+            "_unmapped_timestamp_sec": 374.666,
+            "narration_text": "#C C  stirs the sausage, cabbage and #Unsure",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 385.8358286,
+            "timestamp_frame": 11574,
+            "_unmapped_timestamp_sec": 385.8148,
+            "narration_text": "#C C places the cooking chopsticks on the kitchen top",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 387.26302860000004,
+            "timestamp_frame": 11617,
+            "_unmapped_timestamp_sec": 387.242,
+            "narration_text": "#C C picks the spice bottle on the kitchen top",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 390.3990286,
+            "timestamp_frame": 11711,
+            "_unmapped_timestamp_sec": 390.378,
+            "narration_text": "#C C opens the spice bottle lid with his right hand",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 388.7218786,
+            "timestamp_frame": 11661,
+            "_unmapped_timestamp_sec": 388.70085,
+            "narration_text": "#C C holds the spice bottle with both hands",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 392.7296286,
+            "timestamp_frame": 11781,
+            "_unmapped_timestamp_sec": 392.7086,
+            "narration_text": "#C C places the spice bottle on the kitchen top",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 392.7880286,
+            "timestamp_frame": 11783,
+            "_unmapped_timestamp_sec": 392.767,
+            "narration_text": "#C C picks the cooking chopsticks from the kitchen top",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 394.3905486,
+            "timestamp_frame": 11831,
+            "_unmapped_timestamp_sec": 394.36951999999997,
+            "narration_text": "#C C stirs the sausage, cabbage and #Unsure with the cooking chopsticks",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 398.08607860000006,
+            "timestamp_frame": 11942,
+            "_unmapped_timestamp_sec": 398.06505000000004,
+            "narration_text": "#C C picks some cabbage with the chopsticks",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 398.8367286,
+            "timestamp_frame": 11964,
+            "_unmapped_timestamp_sec": 398.8157,
+            "narration_text": "#C C puts the cabbage on his left hand",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 400.25232860000006,
+            "timestamp_frame": 12007,
+            "_unmapped_timestamp_sec": 400.23130000000003,
+            "narration_text": "#C C tastes the cabbage",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 401.8735586,
+            "timestamp_frame": 12056,
+            "_unmapped_timestamp_sec": 401.85253,
+            "narration_text": "#C C places the cooking chopsticks on the kitchen top",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 404.2525486,
+            "timestamp_frame": 12127,
+            "_unmapped_timestamp_sec": 404.23152,
+            "narration_text": "#C C picks the spice bottle from the kitchen top",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 405.42801860000003,
+            "timestamp_frame": 12162,
+            "_unmapped_timestamp_sec": 405.40699,
+            "narration_text": "#C C puts spice on the cabbage, sausage  and #Unsure",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 407.87375860000003,
+            "timestamp_frame": 12236,
+            "_unmapped_timestamp_sec": 407.85273,
+            "narration_text": "#C C places the spice bottle on the kitchen top",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 408.5631586,
+            "timestamp_frame": 12256,
+            "_unmapped_timestamp_sec": 408.54213,
+            "narration_text": "#C C picks the cooking chopsticks from the kitchen top",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        },
+        {
+            "timestamp_sec": 409.59572860000003,
+            "timestamp_frame": 12287,
+            "_unmapped_timestamp_sec": 409.5747,
+            "narration_text": "#C C stirs the sausage, cabbage and #Unsure with the cooking chopsticks",
+            "annotation_uid": "de62f892-d7cd-49d0-8681-90204f901540"
+        }
+    ]
+}

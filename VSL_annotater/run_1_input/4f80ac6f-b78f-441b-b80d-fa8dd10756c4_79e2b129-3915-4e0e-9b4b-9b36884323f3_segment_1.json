@@ -1,0 +1,739 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 1234.4808885999998,
+            "timestamp_frame": 37034,
+            "_unmapped_timestamp_sec": 1234.45986,
+            "narration_text": "#C C looks at the mirror",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1237.8773386,
+            "timestamp_frame": 37136,
+            "_unmapped_timestamp_sec": 1237.8563100000001,
+            "narration_text": "#O a man Y sits on the chair",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1241.1921485999999,
+            "timestamp_frame": 37235,
+            "_unmapped_timestamp_sec": 1241.17112,
+            "narration_text": "#C C lifts her hand",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1242.1159086,
+            "timestamp_frame": 37263,
+            "_unmapped_timestamp_sec": 1242.09488,
+            "narration_text": "#O a man Y sits on the chair",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1246.5617886,
+            "timestamp_frame": 37396,
+            "_unmapped_timestamp_sec": 1246.54076,
+            "narration_text": "#O a lady X converses with Y",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1249.8030486,
+            "timestamp_frame": 37493,
+            "_unmapped_timestamp_sec": 1249.78202,
+            "narration_text": "#O a man Y converses with X",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1251.1867585999998,
+            "timestamp_frame": 37535,
+            "_unmapped_timestamp_sec": 1251.16573,
+            "narration_text": "#O a lady X converses with Y",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1252.1599686,
+            "timestamp_frame": 37564,
+            "_unmapped_timestamp_sec": 1252.13894,
+            "narration_text": "#O a man Y converses with X",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1254.0587785999999,
+            "timestamp_frame": 37621,
+            "_unmapped_timestamp_sec": 1254.03775,
+            "narration_text": "#O a lady X converses with Y",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1255.4088586,
+            "timestamp_frame": 37662,
+            "_unmapped_timestamp_sec": 1255.3878300000001,
+            "narration_text": "#O a man Y converses with X",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1256.4767886,
+            "timestamp_frame": 37694,
+            "_unmapped_timestamp_sec": 1256.45576,
+            "narration_text": "#C C walks around the boutique",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1259.0979186,
+            "timestamp_frame": 37772,
+            "_unmapped_timestamp_sec": 1259.07689,
+            "narration_text": "#O a lady X stands in the boutique",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1259.0979186,
+            "timestamp_frame": 37772,
+            "_unmapped_timestamp_sec": 1259.07689,
+            "narration_text": "#O a man Y sits on the chair",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1259.8864486,
+            "timestamp_frame": 37796,
+            "_unmapped_timestamp_sec": 1259.86542,
+            "narration_text": "#C C looks at the scarf",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1257.2995786,
+            "timestamp_frame": 37718,
+            "_unmapped_timestamp_sec": 1257.27855,
+            "narration_text": "#C C picks a scarf",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1269.9609386,
+            "timestamp_frame": 38098,
+            "_unmapped_timestamp_sec": 1269.93991,
+            "narration_text": "#O a lady X looks at the clothes",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1271.2965285999999,
+            "timestamp_frame": 38138,
+            "_unmapped_timestamp_sec": 1271.2755,
+            "narration_text": "#C C looks at the scarf",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1276.3748386,
+            "timestamp_frame": 38291,
+            "_unmapped_timestamp_sec": 1276.35381,
+            "narration_text": "#C C looks at the scarf",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1278.1691586,
+            "timestamp_frame": 38344,
+            "_unmapped_timestamp_sec": 1278.14813,
+            "narration_text": "#C C puts back the scarf",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1280.3192585999998,
+            "timestamp_frame": 38409,
+            "_unmapped_timestamp_sec": 1280.2982299999999,
+            "narration_text": "#O a man Y sits on the chair",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1281.1023785999998,
+            "timestamp_frame": 38432,
+            "_unmapped_timestamp_sec": 1281.08135,
+            "narration_text": "#C C walks around the boutique",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1283.2997985999998,
+            "timestamp_frame": 38498,
+            "_unmapped_timestamp_sec": 1283.27877,
+            "narration_text": "#O a lady X looks at the clothes",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1288.5602586,
+            "timestamp_frame": 38656,
+            "_unmapped_timestamp_sec": 1288.53923,
+            "narration_text": "#O a man Y operates his phone",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1290.4094186,
+            "timestamp_frame": 38712,
+            "_unmapped_timestamp_sec": 1290.38839,
+            "narration_text": "#C C walks around the boutique",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1298.6123286,
+            "timestamp_frame": 38958,
+            "_unmapped_timestamp_sec": 1298.5913,
+            "narration_text": "#O a man Y operates his phone",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1301.9371985999999,
+            "timestamp_frame": 39057,
+            "_unmapped_timestamp_sec": 1301.91617,
+            "narration_text": "#C C walks around the boutique",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1304.4390286,
+            "timestamp_frame": 39133,
+            "_unmapped_timestamp_sec": 1304.4180000000001,
+            "narration_text": "#O a lady X looks at the clothes",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1305.4840285999999,
+            "timestamp_frame": 39164,
+            "_unmapped_timestamp_sec": 1305.463,
+            "narration_text": "#C C walks around the boutique",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1309.5300286,
+            "timestamp_frame": 39285,
+            "_unmapped_timestamp_sec": 1309.509,
+            "narration_text": "#O a lady X touches her face",
+            "annotation_uid": "fd81b8df-86bf-46dc-b4de-df9e4de02fae"
+        },
+        {
+            "timestamp_sec": 1367.2624186458333,
+            "timestamp_frame": 41017,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks a cloth hanger from the rack with her hands.",
+            "annotation_uid": "1c829395-a528-4917-9099-9f9e913ff96e"
+        },
+        {
+            "timestamp_sec": 1369.7341486458333,
+            "timestamp_frame": 41091,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C holds a cloth hanger on the rack with her left hand.",
+            "annotation_uid": "1c829395-a528-4917-9099-9f9e913ff96e"
+        },
+        {
+            "timestamp_sec": 1370.9872086458333,
+            "timestamp_frame": 41129,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C holds a cloth hanger with her right hand.",
+            "annotation_uid": "1c829395-a528-4917-9099-9f9e913ff96e"
+        },
+        {
+            "timestamp_sec": 1373.3210286458334,
+            "timestamp_frame": 41199,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C moves a cloth on the rack with her left hand.",
+            "annotation_uid": "1c829395-a528-4917-9099-9f9e913ff96e"
+        },
+        {
+            "timestamp_sec": 1374.3955286458333,
+            "timestamp_frame": 41231,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C places the cloth hanger on the rack with her right hand.",
+            "annotation_uid": "1c829395-a528-4917-9099-9f9e913ff96e"
+        },
+        {
+            "timestamp_sec": 1377.5210286458334,
+            "timestamp_frame": 41325,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#O A man B operates a phone with his hands.",
+            "annotation_uid": "1c829395-a528-4917-9099-9f9e913ff96e"
+        },
+        {
+            "timestamp_sec": 1379.0520486458333,
+            "timestamp_frame": 41371,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C holds a phone with her right hand.",
+            "annotation_uid": "1c829395-a528-4917-9099-9f9e913ff96e"
+        },
+        {
+            "timestamp_sec": 1231.0604786,
+            "timestamp_frame": 36931,
+            "_unmapped_timestamp_sec": 1231.03945,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1234.5689186,
+            "timestamp_frame": 37036,
+            "_unmapped_timestamp_sec": 1234.54789,
+            "narration_text": "#O person D stares at the mirror",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1235.7840486,
+            "timestamp_frame": 37073,
+            "_unmapped_timestamp_sec": 1235.76302,
+            "narration_text": "#O person D walks around",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1237.1116685999998,
+            "timestamp_frame": 37113,
+            "_unmapped_timestamp_sec": 1237.09064,
+            "narration_text": "#C C moves around",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1238.0036585999999,
+            "timestamp_frame": 37139,
+            "_unmapped_timestamp_sec": 1237.98263,
+            "narration_text": "#O person G interacts with C",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1239.2251285999998,
+            "timestamp_frame": 37176,
+            "_unmapped_timestamp_sec": 1239.2041,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1241.5825086,
+            "timestamp_frame": 37247,
+            "_unmapped_timestamp_sec": 1241.56148,
+            "narration_text": "#C C moves hand",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1241.8573586,
+            "timestamp_frame": 37255,
+            "_unmapped_timestamp_sec": 1241.83633,
+            "narration_text": "#C C moves around",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1242.5096786,
+            "timestamp_frame": 37275,
+            "_unmapped_timestamp_sec": 1242.48865,
+            "narration_text": "#O person G interacts with C",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1244.4249086,
+            "timestamp_frame": 37332,
+            "_unmapped_timestamp_sec": 1244.40388,
+            "narration_text": "#C C moves around",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1246.4331886,
+            "timestamp_frame": 37392,
+            "_unmapped_timestamp_sec": 1246.41216,
+            "narration_text": "#O person B moves around",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1247.8826485999998,
+            "timestamp_frame": 37436,
+            "_unmapped_timestamp_sec": 1247.86162,
+            "narration_text": "#O person B interacts with G ",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1250.0835786,
+            "timestamp_frame": 37502,
+            "_unmapped_timestamp_sec": 1250.06255,
+            "narration_text": "#O person G interacts with B",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1253.0377786,
+            "timestamp_frame": 37591,
+            "_unmapped_timestamp_sec": 1253.01675,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1259.4311785999998,
+            "timestamp_frame": 37782,
+            "_unmapped_timestamp_sec": 1259.41015,
+            "narration_text": "#O person B walks around",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1259.9921886,
+            "timestamp_frame": 37799,
+            "_unmapped_timestamp_sec": 1259.97116,
+            "narration_text": "#C C lifts up a scarf",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1262.8878886,
+            "timestamp_frame": 37886,
+            "_unmapped_timestamp_sec": 1262.86686,
+            "narration_text": "#C C stares at scarf",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1264.4066885999998,
+            "timestamp_frame": 37932,
+            "_unmapped_timestamp_sec": 1264.38566,
+            "narration_text": "#C C holds a bottle with left",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1265.8902785999999,
+            "timestamp_frame": 37976,
+            "_unmapped_timestamp_sec": 1265.86925,
+            "narration_text": "#O person G interacts with C",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1267.8055385999999,
+            "timestamp_frame": 38034,
+            "_unmapped_timestamp_sec": 1267.78451,
+            "narration_text": "#C C holds up a scarf",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1269.0596486,
+            "timestamp_frame": 38071,
+            "_unmapped_timestamp_sec": 1269.03862,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1271.1429085999998,
+            "timestamp_frame": 38134,
+            "_unmapped_timestamp_sec": 1271.12188,
+            "narration_text": "#C C stares at scarf",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1274.8839286,
+            "timestamp_frame": 38246,
+            "_unmapped_timestamp_sec": 1274.8629,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1278.2188085999999,
+            "timestamp_frame": 38346,
+            "_unmapped_timestamp_sec": 1278.19778,
+            "narration_text": "C C places scarf down",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1279.4793886,
+            "timestamp_frame": 38384,
+            "_unmapped_timestamp_sec": 1279.45836,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1280.0692686,
+            "timestamp_frame": 38401,
+            "_unmapped_timestamp_sec": 1280.04824,
+            "narration_text": "#O person G interacts with C ",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1280.5775285999998,
+            "timestamp_frame": 38417,
+            "_unmapped_timestamp_sec": 1280.5565,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1283.2778686,
+            "timestamp_frame": 38498,
+            "_unmapped_timestamp_sec": 1283.25684,
+            "narration_text": "#O person B holds scarfs on table",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1287.9900585999999,
+            "timestamp_frame": 38639,
+            "_unmapped_timestamp_sec": 1287.96903,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1289.3943886,
+            "timestamp_frame": 38681,
+            "_unmapped_timestamp_sec": 1289.37336,
+            "narration_text": "#O person G stares at phone",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1289.8299485999999,
+            "timestamp_frame": 38694,
+            "_unmapped_timestamp_sec": 1289.80892,
+            "narration_text": "#C C moves around",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1293.8317585999998,
+            "timestamp_frame": 38814,
+            "_unmapped_timestamp_sec": 1293.81073,
+            "narration_text": "#O person H moves around",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1299.8456985999999,
+            "timestamp_frame": 38995,
+            "_unmapped_timestamp_sec": 1299.82467,
+            "narration_text": "#O person G interacts with B",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1301.4686086,
+            "timestamp_frame": 39043,
+            "_unmapped_timestamp_sec": 1301.44758,
+            "narration_text": "#C C moves around",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1308.6773185999998,
+            "timestamp_frame": 39260,
+            "_unmapped_timestamp_sec": 1308.65629,
+            "narration_text": "#O person B moves around",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1313.7275186,
+            "timestamp_frame": 39411,
+            "_unmapped_timestamp_sec": 1313.70649,
+            "narration_text": "#O person B picks a phone",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1314.5655285999999,
+            "timestamp_frame": 39436,
+            "_unmapped_timestamp_sec": 1314.5445,
+            "narration_text": "#O person B holds a bottle",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1315.6957585999999,
+            "timestamp_frame": 39470,
+            "_unmapped_timestamp_sec": 1315.67473,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1317.3127886,
+            "timestamp_frame": 39519,
+            "_unmapped_timestamp_sec": 1317.29176,
+            "narration_text": "#O person B holds cloth on rack",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1318.8059985999998,
+            "timestamp_frame": 39564,
+            "_unmapped_timestamp_sec": 1318.78497,
+            "narration_text": "#O person H moves around",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1321.1172986,
+            "timestamp_frame": 39633,
+            "_unmapped_timestamp_sec": 1321.09627,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1322.4329086,
+            "timestamp_frame": 39672,
+            "_unmapped_timestamp_sec": 1322.41188,
+            "narration_text": "#C C holds clothes on rack",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1322.4329086,
+            "timestamp_frame": 39672,
+            "_unmapped_timestamp_sec": 1322.41188,
+            "narration_text": "#O person G stares on phone",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1324.2360486,
+            "timestamp_frame": 39726,
+            "_unmapped_timestamp_sec": 1324.21502,
+            "narration_text": "#C C holds clothes on rack",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1325.9770185999998,
+            "timestamp_frame": 39779,
+            "_unmapped_timestamp_sec": 1325.95599,
+            "narration_text": "#O person G stares at the phone",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1328.2450786,
+            "timestamp_frame": 39847,
+            "_unmapped_timestamp_sec": 1328.22405,
+            "narration_text": "#C C holds clothes on rack",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1340.1501085999998,
+            "timestamp_frame": 40204,
+            "_unmapped_timestamp_sec": 1340.12908,
+            "narration_text": "#C C removes cloth from rack",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1342.4657986,
+            "timestamp_frame": 40273,
+            "_unmapped_timestamp_sec": 1342.44477,
+            "narration_text": "#C C stares at the sweater",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1343.9485986,
+            "timestamp_frame": 40318,
+            "_unmapped_timestamp_sec": 1343.92757,
+            "narration_text": "#C C  holds clothes on rack",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1346.6257386,
+            "timestamp_frame": 40398,
+            "_unmapped_timestamp_sec": 1346.60471,
+            "narration_text": "#C C  stares at the sweater",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1348.6842986,
+            "timestamp_frame": 40460,
+            "_unmapped_timestamp_sec": 1348.66327,
+            "narration_text": "#O person G holds phone with left hand",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1349.6193686,
+            "timestamp_frame": 40488,
+            "_unmapped_timestamp_sec": 1349.59834,
+            "narration_text": "#C C places cloth on rack",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1350.1584386,
+            "timestamp_frame": 40504,
+            "_unmapped_timestamp_sec": 1350.13741,
+            "narration_text": "#O person B holds a phone",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1350.5162785999999,
+            "timestamp_frame": 40515,
+            "_unmapped_timestamp_sec": 1350.49525,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1352.9596185999999,
+            "timestamp_frame": 40588,
+            "_unmapped_timestamp_sec": 1352.93859,
+            "narration_text": "#O person B moves around",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1354.8033085999998,
+            "timestamp_frame": 40643,
+            "_unmapped_timestamp_sec": 1354.78228,
+            "narration_text": "#C C holds a phone",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1356.8268386,
+            "timestamp_frame": 40704,
+            "_unmapped_timestamp_sec": 1356.80581,
+            "narration_text": "#O person B inserts hands in jacket",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1358.2129785999998,
+            "timestamp_frame": 40746,
+            "_unmapped_timestamp_sec": 1358.19195,
+            "narration_text": "#C C scrolls phone",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1361.1302486,
+            "timestamp_frame": 40833,
+            "_unmapped_timestamp_sec": 1361.10922,
+            "narration_text": "#O person B moves hands in jacket",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1363.0594886,
+            "timestamp_frame": 40891,
+            "_unmapped_timestamp_sec": 1363.03846,
+            "narration_text": "#C C scrolls phone",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1364.9588385999998,
+            "timestamp_frame": 40948,
+            "_unmapped_timestamp_sec": 1364.93781,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "469b189b-2de9-4657-91a7-044f350625bb"
+        },
+        {
+            "timestamp_sec": 1365.5071886458334,
+            "timestamp_frame": 40965,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "d9859da1-3444-493f-9dc8-26dbf1f31ef1"
+        },
+        {
+            "timestamp_sec": 1366.9369086458335,
+            "timestamp_frame": 41007,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C moves around the shop",
+            "annotation_uid": "d9859da1-3444-493f-9dc8-26dbf1f31ef1"
+        },
+        {
+            "timestamp_sec": 1367.9704186458334,
+            "timestamp_frame": 41038,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks clothe from the handrail ",
+            "annotation_uid": "d9859da1-3444-493f-9dc8-26dbf1f31ef1"
+        },
+        {
+            "timestamp_sec": 1369.5663886458335,
+            "timestamp_frame": 41086,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C touches clothe with the left hand ",
+            "annotation_uid": "d9859da1-3444-493f-9dc8-26dbf1f31ef1"
+        },
+        {
+            "timestamp_sec": 1371.3220586458335,
+            "timestamp_frame": 41139,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C holds clothe with the right hand ",
+            "annotation_uid": "d9859da1-3444-493f-9dc8-26dbf1f31ef1"
+        },
+        {
+            "timestamp_sec": 1374.8663586458335,
+            "timestamp_frame": 41245,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C hangs clothe on the handrail ",
+            "annotation_uid": "d9859da1-3444-493f-9dc8-26dbf1f31ef1"
+        },
+        {
+            "timestamp_sec": 1377.8404186458333,
+            "timestamp_frame": 41335,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "d9859da1-3444-493f-9dc8-26dbf1f31ef1"
+        },
+        {
+            "timestamp_sec": 1379.7855286458334,
+            "timestamp_frame": 41393,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C uses phone ",
+            "annotation_uid": "d9859da1-3444-493f-9dc8-26dbf1f31ef1"
+        }
+    ]
+}

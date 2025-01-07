@@ -1,0 +1,823 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 292.6840986,
+            "timestamp_frame": 8780,
+            "_unmapped_timestamp_sec": 292.66307,
+            "narration_text": "#C C picks the scraper on the table with his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 293.6458486,
+            "timestamp_frame": 8809,
+            "_unmapped_timestamp_sec": 293.62482,
+            "narration_text": "#C C cuts the dough on the napkin with the scraper in his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 294.4359686,
+            "timestamp_frame": 8832,
+            "_unmapped_timestamp_sec": 294.41494,
+            "narration_text": "#C C drops the scraper in his right hand on the table.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 296.1531186,
+            "timestamp_frame": 8884,
+            "_unmapped_timestamp_sec": 296.13209,
+            "narration_text": "#C C picks a napkin from under the table with his left hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 297.84270860000004,
+            "timestamp_frame": 8935,
+            "_unmapped_timestamp_sec": 297.82168,
+            "narration_text": "#C C holds the napkin in his left hand with his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 298.9845086,
+            "timestamp_frame": 8969,
+            "_unmapped_timestamp_sec": 298.96348,
+            "narration_text": "#C C covers the dough on the napkin with the napkin in both hands.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 300.19836860000004,
+            "timestamp_frame": 9005,
+            "_unmapped_timestamp_sec": 300.17734,
+            "narration_text": "#C C lifts the napkins on the table with both hands.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 303.01597860000004,
+            "timestamp_frame": 9090,
+            "_unmapped_timestamp_sec": 302.99495,
+            "narration_text": "#C C drops the napkins on a tray with his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 303.8293486,
+            "timestamp_frame": 9114,
+            "_unmapped_timestamp_sec": 303.80832,
+            "narration_text": "#C C adjusts the camera with his right hand. #Unsure",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 309.1701686,
+            "timestamp_frame": 9274,
+            "_unmapped_timestamp_sec": 309.14914,
+            "narration_text": "#C C pulls a bowl on the table with both hands.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 310.0384086,
+            "timestamp_frame": 9301,
+            "_unmapped_timestamp_sec": 310.01738,
+            "narration_text": "#C C cleans dough on the bowl with his left hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 314.45617860000004,
+            "timestamp_frame": 9433,
+            "_unmapped_timestamp_sec": 314.43515,
+            "narration_text": "#C C cleans dough on the bowl with his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 315.31647860000004,
+            "timestamp_frame": 9459,
+            "_unmapped_timestamp_sec": 315.29545,
+            "narration_text": "#C C rubs both hands.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 316.2346686,
+            "timestamp_frame": 9486,
+            "_unmapped_timestamp_sec": 316.21364,
+            "narration_text": "#C C lifts a bowl on a scale with his left hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 316.89822860000004,
+            "timestamp_frame": 9506,
+            "_unmapped_timestamp_sec": 316.8772,
+            "narration_text": "#C C drops the bowl in his left hand on the table.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 317.4341286,
+            "timestamp_frame": 9522,
+            "_unmapped_timestamp_sec": 317.4131,
+            "narration_text": "#C C lifts the bowl on the table with both hands.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 318.11409860000003,
+            "timestamp_frame": 9543,
+            "_unmapped_timestamp_sec": 318.09307,
+            "narration_text": "#C C drops the bowl on the scale with both hands.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 320.58054860000004,
+            "timestamp_frame": 9617,
+            "_unmapped_timestamp_sec": 320.55952,
+            "narration_text": "#C C lifts the bowl on the scale with both hands.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 322.25005860000005,
+            "timestamp_frame": 9667,
+            "_unmapped_timestamp_sec": 322.22903,
+            "narration_text": "#C C drops the bowl on the table with both hands.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 322.70559860000003,
+            "timestamp_frame": 9681,
+            "_unmapped_timestamp_sec": 322.68457,
+            "narration_text": "#C C picks the scraper on the table with his left hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 323.0734886,
+            "timestamp_frame": 9692,
+            "_unmapped_timestamp_sec": 323.05246,
+            "narration_text": "#C C passes the scraper from his left hand to his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 324.21268860000004,
+            "timestamp_frame": 9726,
+            "_unmapped_timestamp_sec": 324.19166,
+            "narration_text": "#C C scrapes the dough on the bowl with the scraper in his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 333.7959086,
+            "timestamp_frame": 10013,
+            "_unmapped_timestamp_sec": 333.77488,
+            "narration_text": "#C C drops the scraper in his right hand on the table.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 334.42733860000004,
+            "timestamp_frame": 10032,
+            "_unmapped_timestamp_sec": 334.40631,
+            "narration_text": "#C C sprinkles some flour from a bowl on the dough in the bowl in his left hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 335.19021860000004,
+            "timestamp_frame": 10055,
+            "_unmapped_timestamp_sec": 335.16919,
+            "narration_text": "#C C touches the dough with his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 335.68161860000004,
+            "timestamp_frame": 10070,
+            "_unmapped_timestamp_sec": 335.66059,
+            "narration_text": "#C C picks the scraper on the table with his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 336.3750486,
+            "timestamp_frame": 10091,
+            "_unmapped_timestamp_sec": 336.35402,
+            "narration_text": "#C C scrapes the dough on the bowl with the scraper in his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 338.5591686,
+            "timestamp_frame": 10156,
+            "_unmapped_timestamp_sec": 338.53814,
+            "narration_text": "#C C lifts the dough on the tale with both hands.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 339.00615860000005,
+            "timestamp_frame": 10170,
+            "_unmapped_timestamp_sec": 338.98513,
+            "narration_text": "#C C throws the dough in both hands into a mixer.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 340.34133860000003,
+            "timestamp_frame": 10210,
+            "_unmapped_timestamp_sec": 340.32031,
+            "narration_text": "#C C touches the bowl on the table with his left hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 342.23812860000004,
+            "timestamp_frame": 10267,
+            "_unmapped_timestamp_sec": 342.2171,
+            "narration_text": "#C C scrapes the dough on the bowl with the scraper in his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 348.6606186,
+            "timestamp_frame": 10459,
+            "_unmapped_timestamp_sec": 348.63959,
+            "narration_text": "#C C throws the dough in his left hand into the mixer.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 351.34002860000004,
+            "timestamp_frame": 10540,
+            "_unmapped_timestamp_sec": 351.319,
+            "narration_text": "#C C scrapes the dough on the bowl with the scraper in his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 357.20667860000003,
+            "timestamp_frame": 10716,
+            "_unmapped_timestamp_sec": 357.18565,
+            "narration_text": "#C C takes the dough on the scraper in his right hand with his left hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 358.89961860000005,
+            "timestamp_frame": 10766,
+            "_unmapped_timestamp_sec": 358.87859000000003,
+            "narration_text": "#C C drops the scraper in his right hand in the bowl on the table.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 359.20896860000005,
+            "timestamp_frame": 10776,
+            "_unmapped_timestamp_sec": 359.18794,
+            "narration_text": "#C C picks dough in the bowl on the table with both hands.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 363.36695860000003,
+            "timestamp_frame": 10900,
+            "_unmapped_timestamp_sec": 363.34593,
+            "narration_text": "#C C throws the dough in his right hand into the mixer.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 364.8960286,
+            "timestamp_frame": 10946,
+            "_unmapped_timestamp_sec": 364.875,
+            "narration_text": "#C C touches the bowl on the table with his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 365.41700860000003,
+            "timestamp_frame": 10962,
+            "_unmapped_timestamp_sec": 365.39598,
+            "narration_text": "#C C takes the dough on the bowl with his left hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 366.66533860000004,
+            "timestamp_frame": 10999,
+            "_unmapped_timestamp_sec": 366.64431,
+            "narration_text": "#C C throws the dough in his left hand into the mixer.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 367.6904286,
+            "timestamp_frame": 11030,
+            "_unmapped_timestamp_sec": 367.6694,
+            "narration_text": "#C C picks the scraper in the bowl with his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 368.7363686,
+            "timestamp_frame": 11061,
+            "_unmapped_timestamp_sec": 368.71533999999997,
+            "narration_text": "#C C picks the bowl on the table with his left hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 370.1878886,
+            "timestamp_frame": 11105,
+            "_unmapped_timestamp_sec": 370.16686,
+            "narration_text": "#C C drops the bowl on a stack with both hands.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 371.2070986,
+            "timestamp_frame": 11136,
+            "_unmapped_timestamp_sec": 371.18607,
+            "narration_text": "#C C rubs his hands.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 373.7255286,
+            "timestamp_frame": 11211,
+            "_unmapped_timestamp_sec": 373.7045,
+            "narration_text": "#C C takes some flour from a bowl with his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 374.2478886,
+            "timestamp_frame": 11227,
+            "_unmapped_timestamp_sec": 374.22686,
+            "narration_text": "#C C drops the flour in his right hand in the mixer.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 376.76104860000004,
+            "timestamp_frame": 11302,
+            "_unmapped_timestamp_sec": 376.74002,
+            "narration_text": "#C C moves a bowl on the table with his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 377.2427186,
+            "timestamp_frame": 11317,
+            "_unmapped_timestamp_sec": 377.22168999999997,
+            "narration_text": "#C C moves a bowl on the table with his left hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 378.8794886,
+            "timestamp_frame": 11366,
+            "_unmapped_timestamp_sec": 378.85846,
+            "narration_text": "#C C picks a bowl from the scale with his left hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 379.4083886,
+            "timestamp_frame": 11382,
+            "_unmapped_timestamp_sec": 379.38736,
+            "narration_text": "#C C drops the bowl in his left hand on the table.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 383.4447286,
+            "timestamp_frame": 11503,
+            "_unmapped_timestamp_sec": 383.4237,
+            "narration_text": "#C C picks a broom on the table with his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 383.40522860000004,
+            "timestamp_frame": 11502,
+            "_unmapped_timestamp_sec": 383.3842,
+            "narration_text": "#C C moves a bowl on the table with his left hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 384.2953886,
+            "timestamp_frame": 11528,
+            "_unmapped_timestamp_sec": 384.27436,
+            "narration_text": "#C C sweeps the table with the broom in his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 384.83941860000004,
+            "timestamp_frame": 11545,
+            "_unmapped_timestamp_sec": 384.81839,
+            "narration_text": "#C C moves a bowl on the table with his left hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 386.18688860000003,
+            "timestamp_frame": 11585,
+            "_unmapped_timestamp_sec": 386.16586,
+            "narration_text": "#C C drops the bowl in his left hand on the table.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 386.63158860000004,
+            "timestamp_frame": 11598,
+            "_unmapped_timestamp_sec": 386.61056,
+            "narration_text": "#C C moves a bowl on the table with his left hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 388.1813886,
+            "timestamp_frame": 11645,
+            "_unmapped_timestamp_sec": 388.16035999999997,
+            "narration_text": "#C C moves a bowl on the table with his left hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 389.5130686,
+            "timestamp_frame": 11685,
+            "_unmapped_timestamp_sec": 389.49204,
+            "narration_text": "#C C sweeps the flour on the table into the bowl in his left hand with the broom in his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 390.8267786,
+            "timestamp_frame": 11724,
+            "_unmapped_timestamp_sec": 390.80575,
+            "narration_text": "#C C moves a bowl on the table with his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 391.5007686,
+            "timestamp_frame": 11744,
+            "_unmapped_timestamp_sec": 391.47974,
+            "narration_text": "#C C picks the broom on the table with his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 392.1406986,
+            "timestamp_frame": 11764,
+            "_unmapped_timestamp_sec": 392.11967,
+            "narration_text": "#C C sweeps the flour on the table into the bowl in his left hand with the broom in his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 393.6320086,
+            "timestamp_frame": 11808,
+            "_unmapped_timestamp_sec": 393.61098,
+            "narration_text": "#C C places the bowl in his right hand on the scale on the table.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 392.8293686,
+            "timestamp_frame": 11784,
+            "_unmapped_timestamp_sec": 392.80834,
+            "narration_text": "#C C passes the bowl from his left hand to his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 393.83959860000004,
+            "timestamp_frame": 11815,
+            "_unmapped_timestamp_sec": 393.81857,
+            "narration_text": "#C C picks a bowl on the table with his left hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 394.20687860000004,
+            "timestamp_frame": 11826,
+            "_unmapped_timestamp_sec": 394.18585,
+            "narration_text": "#C C passes the bowl from his left hand to his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 394.73927860000003,
+            "timestamp_frame": 11842,
+            "_unmapped_timestamp_sec": 394.71825,
+            "narration_text": "#C C pours the flour in the bowl in his right hand into the bowl on the scale.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 396.1080086,
+            "timestamp_frame": 11883,
+            "_unmapped_timestamp_sec": 396.08698,
+            "narration_text": "#C C drops the bowl in his right hand on the table.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 398.7909386,
+            "timestamp_frame": 11963,
+            "_unmapped_timestamp_sec": 398.76991,
+            "narration_text": "#C C takes some flour from under the table with a measuring spoon in his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 400.69746860000004,
+            "timestamp_frame": 12020,
+            "_unmapped_timestamp_sec": 400.67644,
+            "narration_text": "#C C pours the flour in the measuring spoon in the bowl on the scale.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 403.5345386,
+            "timestamp_frame": 12105,
+            "_unmapped_timestamp_sec": 403.51351,
+            "narration_text": "#C C drops the measuring spoon in his right hand under the table.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 404.2547386,
+            "timestamp_frame": 12127,
+            "_unmapped_timestamp_sec": 404.23371,
+            "narration_text": "#C C rubs his hands.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 407.53240860000005,
+            "timestamp_frame": 12225,
+            "_unmapped_timestamp_sec": 407.51138000000003,
+            "narration_text": "#C C picks the bowl on the scale with his right hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 408.5905586,
+            "timestamp_frame": 12257,
+            "_unmapped_timestamp_sec": 408.56953,
+            "narration_text": "#C C pours the flour in the bowl into the mixer with both hands.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 412.7131286,
+            "timestamp_frame": 12381,
+            "_unmapped_timestamp_sec": 412.6921,
+            "narration_text": "#C C drops the bowl in his right hand on the scale on the table.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 414.2931586,
+            "timestamp_frame": 12428,
+            "_unmapped_timestamp_sec": 414.27213,
+            "narration_text": "#C C closes the mixer with his left hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 416.5308486,
+            "timestamp_frame": 12495,
+            "_unmapped_timestamp_sec": 416.50982,
+            "narration_text": "#C C turns on the mixer.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 424.8234186,
+            "timestamp_frame": 12744,
+            "_unmapped_timestamp_sec": 424.80239,
+            "narration_text": "#C C presses a switch on the wall with his left hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 427.61508860000004,
+            "timestamp_frame": 12828,
+            "_unmapped_timestamp_sec": 427.59406,
+            "narration_text": "#C C moves a ladder with his left hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 429.79639860000003,
+            "timestamp_frame": 12893,
+            "_unmapped_timestamp_sec": 429.77537,
+            "narration_text": "#C C opens an oven with his left hand.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 430.8067586,
+            "timestamp_frame": 12924,
+            "_unmapped_timestamp_sec": 430.78573,
+            "narration_text": "#C C places his left hand on a rod on the oven.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 432.5273786,
+            "timestamp_frame": 12975,
+            "_unmapped_timestamp_sec": 432.50635,
+            "narration_text": "#C C picks an industrial spoon against the wall with his right hand. #Unsure",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 433.5661486,
+            "timestamp_frame": 13006,
+            "_unmapped_timestamp_sec": 433.54512,
+            "narration_text": "#C C places his left hand on the industrial spoon in his right hand. #Unsure",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 436.8769886,
+            "timestamp_frame": 13106,
+            "_unmapped_timestamp_sec": 436.85596,
+            "narration_text": "#C C brings out a bowl from the oven with the industrial spoon in both hands. #Unsure",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 440.8444486,
+            "timestamp_frame": 13225,
+            "_unmapped_timestamp_sec": 440.82342,
+            "narration_text": "#C C opens the bowl with both hands.",
+            "annotation_uid": "2bec2343-f0c9-46db-8010-2cbb418d013e"
+        },
+        {
+            "timestamp_sec": 293.03882860000004,
+            "timestamp_frame": 8791,
+            "_unmapped_timestamp_sec": 293.0178,
+            "narration_text": "#C C takes a cutter",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 293.8733386,
+            "timestamp_frame": 8816,
+            "_unmapped_timestamp_sec": 293.85231,
+            "narration_text": "#C C cuts the dough",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 296.2118486,
+            "timestamp_frame": 8886,
+            "_unmapped_timestamp_sec": 296.19082,
+            "narration_text": "#C C picks a kitchen cloth",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 298.9101286,
+            "timestamp_frame": 8967,
+            "_unmapped_timestamp_sec": 298.8891,
+            "narration_text": "#C C covers the doughs",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 300.7386986,
+            "timestamp_frame": 9022,
+            "_unmapped_timestamp_sec": 300.71767,
+            "narration_text": "#C C walks towards the oven",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 302.1349586,
+            "timestamp_frame": 9063,
+            "_unmapped_timestamp_sec": 302.11393,
+            "narration_text": "#C C puts the dough in the oven",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 303.96754860000004,
+            "timestamp_frame": 9118,
+            "_unmapped_timestamp_sec": 303.94652,
+            "narration_text": "#C C touches his camera",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 308.44494860000003,
+            "timestamp_frame": 9253,
+            "_unmapped_timestamp_sec": 308.42392,
+            "narration_text": "#C C picks a container",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 316.53495860000004,
+            "timestamp_frame": 9495,
+            "_unmapped_timestamp_sec": 316.51393,
+            "narration_text": "#C C puts flour aside",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 318.3012686,
+            "timestamp_frame": 9548,
+            "_unmapped_timestamp_sec": 318.28024,
+            "narration_text": "#C C weighs the dough in the container",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 321.60560860000004,
+            "timestamp_frame": 9648,
+            "_unmapped_timestamp_sec": 321.58458,
+            "narration_text": "#C C puts the container on the table",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 324.06937860000005,
+            "timestamp_frame": 9721,
+            "_unmapped_timestamp_sec": 324.04835,
+            "narration_text": "#C C takes a cutter",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 324.9426886,
+            "timestamp_frame": 9748,
+            "_unmapped_timestamp_sec": 324.92166,
+            "narration_text": "#C C scraps the dough in the container",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 331.19843860000003,
+            "timestamp_frame": 9935,
+            "_unmapped_timestamp_sec": 331.17741,
+            "narration_text": "#C C puts the dough on the table",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 334.04828860000003,
+            "timestamp_frame": 10021,
+            "_unmapped_timestamp_sec": 334.02726,
+            "narration_text": "#C C puts the cutter on the table",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 334.9112586,
+            "timestamp_frame": 10047,
+            "_unmapped_timestamp_sec": 334.89023,
+            "narration_text": "#C C sprinkles flour on the dough",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 337.1430386,
+            "timestamp_frame": 10114,
+            "_unmapped_timestamp_sec": 337.12201,
+            "narration_text": "#C C scraps the dough in the container with a cutter",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 339.1406086,
+            "timestamp_frame": 10174,
+            "_unmapped_timestamp_sec": 339.11958,
+            "narration_text": "#C C puts the dough in the dough mixer",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 341.4083886,
+            "timestamp_frame": 10242,
+            "_unmapped_timestamp_sec": 341.38736,
+            "narration_text": "#C C scraps off dough in the  container",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 348.9354986,
+            "timestamp_frame": 10467,
+            "_unmapped_timestamp_sec": 348.91447,
+            "narration_text": "#C C throws dough in the dough mixer",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 350.15871860000004,
+            "timestamp_frame": 10504,
+            "_unmapped_timestamp_sec": 350.13769,
+            "narration_text": "#C C turns  around the container",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 351.5074586,
+            "timestamp_frame": 10545,
+            "_unmapped_timestamp_sec": 351.48643,
+            "narration_text": "#C C scraps off excess dough in the container",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 368.45093860000003,
+            "timestamp_frame": 11053,
+            "_unmapped_timestamp_sec": 368.42991,
+            "narration_text": "#C C puts the container aside",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 370.63196860000005,
+            "timestamp_frame": 11118,
+            "_unmapped_timestamp_sec": 370.61094,
+            "narration_text": "#C C rubs his hands",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 374.4958786,
+            "timestamp_frame": 11234,
+            "_unmapped_timestamp_sec": 374.47485,
+            "narration_text": "#C C puts salt in the dough",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 378.3907686,
+            "timestamp_frame": 11351,
+            "_unmapped_timestamp_sec": 378.36974,
+            "narration_text": "#C C takes a tray",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 379.7049986,
+            "timestamp_frame": 11391,
+            "_unmapped_timestamp_sec": 379.68397,
+            "narration_text": "#C C walks around the kitchen",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 384.0331886,
+            "timestamp_frame": 11520,
+            "_unmapped_timestamp_sec": 384.01216,
+            "narration_text": "#C C wipes off flour on the table with a brush",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 386.94028860000003,
+            "timestamp_frame": 11608,
+            "_unmapped_timestamp_sec": 386.91926,
+            "narration_text": "#C C puts flour aside",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 389.2330986,
+            "timestamp_frame": 11676,
+            "_unmapped_timestamp_sec": 389.21207,
+            "narration_text": "#C C puts the floor on the table in the tray",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 393.49940860000004,
+            "timestamp_frame": 11804,
+            "_unmapped_timestamp_sec": 393.47838,
+            "narration_text": "#C C puts the flour on the weighing scale",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 400.0033986,
+            "timestamp_frame": 11999,
+            "_unmapped_timestamp_sec": 399.98237,
+            "narration_text": "#C C puts  salt on the flour",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        },
+        {
+            "timestamp_sec": 406.1731586,
+            "timestamp_frame": 12185,
+            "_unmapped_timestamp_sec": 406.15213,
+            "narration_text": "#C C walks around",
+            "annotation_uid": "67238a15-b465-40b3-b009-6b43602e1da7"
+        }
+    ]
+}

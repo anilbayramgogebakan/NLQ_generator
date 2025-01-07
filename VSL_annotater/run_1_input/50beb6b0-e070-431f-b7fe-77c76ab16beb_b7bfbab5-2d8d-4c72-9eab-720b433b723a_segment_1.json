@@ -1,0 +1,760 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 1234.9625186458334,
+            "timestamp_frame": 37048,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C drops the top shirt on the shelf with her right hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1238.0010286458335,
+            "timestamp_frame": 37139,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C holds the blue scarf with both hands.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1237.7686386458336,
+            "timestamp_frame": 37132,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C holds a blue scarf with her left hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1238.8469686458334,
+            "timestamp_frame": 37165,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C raises the blue scarf with both hands.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1239.9532386458334,
+            "timestamp_frame": 37198,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C unfolds the blue scarf with both hands.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1245.4131986458335,
+            "timestamp_frame": 37362,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C adjusts the blue scarf on her head with both hands.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1247.3110286458334,
+            "timestamp_frame": 37419,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks the jean trouser from the cloth rack with her right hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1249.5466486458336,
+            "timestamp_frame": 37486,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C places the jean trouser on her body with her right hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1258.9466086458335,
+            "timestamp_frame": 37768,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C places the jean trouser on the cloth rack with both hands.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1262.8500486458333,
+            "timestamp_frame": 37885,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C removes the blue scarf from her head with both hands. #unsure",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1264.9130486458334,
+            "timestamp_frame": 37947,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C holds the blue scarf with both hands. #unsure",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1266.1110486458335,
+            "timestamp_frame": 37983,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C adjusts the blue scarf with both hands.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1267.7348186458335,
+            "timestamp_frame": 38031,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts the blue scarf on her neck with both hands. ",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1271.5529286458334,
+            "timestamp_frame": 38146,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C checks the blue scarf on her neck in the mirror",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1278.6568586458334,
+            "timestamp_frame": 38359,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C adjusts the blue scarf on her neck with her right hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1280.4102286458335,
+            "timestamp_frame": 38412,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C removes the blue scarf from her neck with her right hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1290.5551286458335,
+            "timestamp_frame": 38716,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks the top shirt from the shelf with her right hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1291.5703386458335,
+            "timestamp_frame": 38746,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks a jacket from the shelf with her right hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1293.5686686458334,
+            "timestamp_frame": 38806,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C places the top shirt in her left hand on the shelf.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1294.7857086458334,
+            "timestamp_frame": 38843,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C passes the jacket in her right hand to her left hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1295.3359086458333,
+            "timestamp_frame": 38859,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C holds the jacket with both hands.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1296.1228186458334,
+            "timestamp_frame": 38883,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C adjusts the jacket in her right hand in the mirror with her left hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1301.2769186458333,
+            "timestamp_frame": 39038,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C adjusts the jacket in her left hand with her right hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1304.9141786458335,
+            "timestamp_frame": 39147,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C adjusts the jacket in her right hand with her left hand. ",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1310.0708486458334,
+            "timestamp_frame": 39301,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C adjusts the jacket in her right hand through the mirror with her left hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1317.3124586458334,
+            "timestamp_frame": 39519,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks the top shirt from the shelf with her right hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1321.5961386458334,
+            "timestamp_frame": 39647,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C checks the top shirt in her right hand in the mirror.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1329.3520286458333,
+            "timestamp_frame": 39880,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks the jean trouser from the cloth rack with her right hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1332.0100686458334,
+            "timestamp_frame": 39960,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C places the jean trouser on her body with her right hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1334.4490286458336,
+            "timestamp_frame": 40033,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C adjusts the jacket on her body with her left hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1355.2474286458335,
+            "timestamp_frame": 40657,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C checks the jacket in her left hand. #unsure",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1360.1204386458335,
+            "timestamp_frame": 40803,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C places the jacket in her right hand on the shelf.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1361.4952486458335,
+            "timestamp_frame": 40844,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C passes the top shirt in her left hand to her right hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1362.6416686458333,
+            "timestamp_frame": 40879,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C adjusts the top shirt in her right hand with her left hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1364.5854886458335,
+            "timestamp_frame": 40937,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C checks the top shirt on her chin in the mirror.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1242.1230286458335,
+            "timestamp_frame": 37263,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts the blue scarf on her head with both hands. #unsure",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1257.0927286458334,
+            "timestamp_frame": 37712,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C holds the jean trouser with both hands.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1285.7564886458335,
+            "timestamp_frame": 38572,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C drops the blue scarf into the basket with her right hand. #unsure",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1291.3408886458335,
+            "timestamp_frame": 38740,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C passes the top shirt from her right hand to her left hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1236.2161586458335,
+            "timestamp_frame": 37086,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C adjusts a top shirt on the shelf with her right hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1307.3253986458335,
+            "timestamp_frame": 39219,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C checks the label on the jacket in her right hand with her left hand. #unsure",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1322.8402686458335,
+            "timestamp_frame": 39685,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C places the top shirt in her right hand on her body.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1326.7501686458334,
+            "timestamp_frame": 39802,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C drops the top shirt in the basket with her right hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1333.1734486458336,
+            "timestamp_frame": 39995,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C places the jacket in her left hand on the jean trouser in her right hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1338.1039286458335,
+            "timestamp_frame": 40142,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C checks the jacket and the jean trouser on her body in the mirror.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1340.8200286458334,
+            "timestamp_frame": 40224,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks the jacket from her chin with her left hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1343.9485586458334,
+            "timestamp_frame": 40318,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C checks the jacket in her left hand in the mirror.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1350.6416686458333,
+            "timestamp_frame": 40519,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C holds the jean trouser with her right hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1352.3364786458335,
+            "timestamp_frame": 40569,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C places the jean trouser on the cloth rack with her right hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1356.5759686458334,
+            "timestamp_frame": 40697,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C passes the jacket from her left hand to her right hand. #unsure",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1358.7602886458335,
+            "timestamp_frame": 40762,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks a top shirt from the shelf with her left hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1363.1705586458334,
+            "timestamp_frame": 40894,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C places the top shirt in her hands on her body.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1364.3770286458334,
+            "timestamp_frame": 40931,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts both hands into her trouser pocket.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1364.9818586458334,
+            "timestamp_frame": 40949,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C removes both hands from her trouser pocket.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1313.7210286458335,
+            "timestamp_frame": 39411,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C passes the jacket in her right hand to her left hand. #unsure",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1304.4200286458336,
+            "timestamp_frame": 39132,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C passes the jacket in her left hand to her right hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1298.4760286458334,
+            "timestamp_frame": 38954,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#CC passes the jacket in her right hand to her left hand.",
+            "annotation_uid": "6056e315-9ff5-4b02-81a4-ddccfc2f63b0"
+        },
+        {
+            "timestamp_sec": 1365.1115286,
+            "timestamp_frame": 40953,
+            "_unmapped_timestamp_sec": 1365.0905,
+            "narration_text": "#C C straightens a trouser",
+            "annotation_uid": "3a8e12a9-6be7-40aa-a9f2-8c4e754b7875"
+        },
+        {
+            "timestamp_sec": 1369.3255986,
+            "timestamp_frame": 41079,
+            "_unmapped_timestamp_sec": 1369.30457,
+            "narration_text": "#C C straightens a sweater",
+            "annotation_uid": "3a8e12a9-6be7-40aa-a9f2-8c4e754b7875"
+        },
+        {
+            "timestamp_sec": 1372.0487386,
+            "timestamp_frame": 41161,
+            "_unmapped_timestamp_sec": 1372.02771,
+            "narration_text": "#C C checks a sweater",
+            "annotation_uid": "3a8e12a9-6be7-40aa-a9f2-8c4e754b7875"
+        },
+        {
+            "timestamp_sec": 1375.4471886,
+            "timestamp_frame": 41263,
+            "_unmapped_timestamp_sec": 1375.42616,
+            "narration_text": "#C C straightens a trouser",
+            "annotation_uid": "3a8e12a9-6be7-40aa-a9f2-8c4e754b7875"
+        },
+        {
+            "timestamp_sec": 1377.8505885999998,
+            "timestamp_frame": 41335,
+            "_unmapped_timestamp_sec": 1377.82956,
+            "narration_text": "#C C looks in a mirror",
+            "annotation_uid": "3a8e12a9-6be7-40aa-a9f2-8c4e754b7875"
+        },
+        {
+            "timestamp_sec": 1379.4033086,
+            "timestamp_frame": 41381,
+            "_unmapped_timestamp_sec": 1379.38228,
+            "narration_text": "#C C walks in a cloth shop",
+            "annotation_uid": "3a8e12a9-6be7-40aa-a9f2-8c4e754b7875"
+        },
+        {
+            "timestamp_sec": 1230.2462586458334,
+            "timestamp_frame": 36907,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1230.5500986458335,
+            "timestamp_frame": 36916,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C hangs back the trouser",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1232.7585786458335,
+            "timestamp_frame": 36982,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C places the blouse down",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1232.7585786458335,
+            "timestamp_frame": 36982,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1238.5293986458335,
+            "timestamp_frame": 37155,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks up the Scaff",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1246.3232986458333,
+            "timestamp_frame": 37389,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C wraps the Scaff around the neck",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1246.9543186458334,
+            "timestamp_frame": 37408,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1247.3900786458335,
+            "timestamp_frame": 37421,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks up the trouser",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1248.7945186458335,
+            "timestamp_frame": 37463,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1251.5874486458333,
+            "timestamp_frame": 37547,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C stares at the mirror",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1257.6124886458335,
+            "timestamp_frame": 37728,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1260.0754486458334,
+            "timestamp_frame": 37802,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C hangs back the trouser",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1261.9594886458335,
+            "timestamp_frame": 37858,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1264.4615586458335,
+            "timestamp_frame": 37933,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C removes the Scaff",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1267.4328786458334,
+            "timestamp_frame": 38022,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C folds the Scaff",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1269.1625386458334,
+            "timestamp_frame": 38074,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C puts on the Scaff",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1269.5576086458334,
+            "timestamp_frame": 38086,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1273.3126386458334,
+            "timestamp_frame": 38199,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C stares at the mirror",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1284.4200086458334,
+            "timestamp_frame": 38532,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C removes the Scaff",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1288.8233386458335,
+            "timestamp_frame": 38664,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1292.3691686458335,
+            "timestamp_frame": 38770,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C checks the clothes",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1297.4476486458334,
+            "timestamp_frame": 38923,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks up the blouse",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1297.6165386458333,
+            "timestamp_frame": 38928,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C stares at the mirror",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1307.7679686458334,
+            "timestamp_frame": 39232,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C checks the blouse",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1309.7378386458336,
+            "timestamp_frame": 39292,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C stares at the mirror",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1315.3910986458334,
+            "timestamp_frame": 39461,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1317.9443586458335,
+            "timestamp_frame": 39538,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks up the blouse",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1321.2701286458334,
+            "timestamp_frame": 39637,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": " #C C checks the blouse",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1323.4645186458333,
+            "timestamp_frame": 39703,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C stares at the mirror",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1328.2746986458335,
+            "timestamp_frame": 39848,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C places the blouse in the basket",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1329.2256086458335,
+            "timestamp_frame": 39876,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1329.6258386458335,
+            "timestamp_frame": 39888,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks up the trouser",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1330.2361186458334,
+            "timestamp_frame": 39906,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1336.0874686458335,
+            "timestamp_frame": 40082,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C stares at the mirror",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1346.5715386458335,
+            "timestamp_frame": 40397,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1351.7498786458334,
+            "timestamp_frame": 40552,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1353.2114986458334,
+            "timestamp_frame": 40596,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C hangs back the trouser",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1355.9307786458335,
+            "timestamp_frame": 40677,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C checks the blouse",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1359.5628186458334,
+            "timestamp_frame": 40786,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C places the blouse down",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1359.5628186458334,
+            "timestamp_frame": 40786,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C picks up the blouse",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1362.8479186458335,
+            "timestamp_frame": 40885,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C checks the blouse",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1364.7911586458335,
+            "timestamp_frame": 40943,
+            "_unmapped_timestamp_sec": NaN,
+            "narration_text": "#C C stares at the mirror",
+            "annotation_uid": "82de6ac2-f92f-4b00-945d-a65556a554f5"
+        },
+        {
+            "timestamp_sec": 1372.6150086,
+            "timestamp_frame": 41178,
+            "_unmapped_timestamp_sec": 1372.59398,
+            "narration_text": "#O person D stares at the mirror",
+            "annotation_uid": "dd13244f-7f1d-4321-9307-1edd47b34e44"
+        },
+        {
+            "timestamp_sec": 1373.0142085999998,
+            "timestamp_frame": 41190,
+            "_unmapped_timestamp_sec": 1372.99318,
+            "narration_text": "#O person D holds up cloth",
+            "annotation_uid": "dd13244f-7f1d-4321-9307-1edd47b34e44"
+        },
+        {
+            "timestamp_sec": 1379.2760885999999,
+            "timestamp_frame": 41378,
+            "_unmapped_timestamp_sec": 1379.25506,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "dd13244f-7f1d-4321-9307-1edd47b34e44"
+        }
+    ]
+}

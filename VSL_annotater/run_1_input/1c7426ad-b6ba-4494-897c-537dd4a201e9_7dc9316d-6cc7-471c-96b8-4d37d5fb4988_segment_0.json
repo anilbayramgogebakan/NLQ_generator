@@ -1,0 +1,921 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 1263.08406762133,
+            "timestamp_frame": 37892,
+            "_unmapped_timestamp_sec": 1263.13843,
+            "narration_text": "#C C takes out the piece of wood from the saw blades.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1263.82457762133,
+            "timestamp_frame": 37914,
+            "_unmapped_timestamp_sec": 1263.87894,
+            "narration_text": "#C C drops the piece of wood on the table with his right hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1264.97008762133,
+            "timestamp_frame": 37948,
+            "_unmapped_timestamp_sec": 1265.02445,
+            "narration_text": "#C C touches the cut part of the woodwork with his right hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1270.80992762133,
+            "timestamp_frame": 38124,
+            "_unmapped_timestamp_sec": 1270.86429,
+            "narration_text": "#C C gets up.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1273.04563762133,
+            "timestamp_frame": 38191,
+            "_unmapped_timestamp_sec": 1273.1,
+            "narration_text": "#C C touches a table with the saw.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1273.94091762133,
+            "timestamp_frame": 38218,
+            "_unmapped_timestamp_sec": 1273.99528,
+            "narration_text": "#C C drops the saw on the table with his right hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1275.06689762133,
+            "timestamp_frame": 38251,
+            "_unmapped_timestamp_sec": 1275.12126,
+            "narration_text": "#C C puts his left hand under a table.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1275.85522762133,
+            "timestamp_frame": 38275,
+            "_unmapped_timestamp_sec": 1275.90959,
+            "narration_text": "#C C holds the woodwork with his right hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1276.44367762133,
+            "timestamp_frame": 38293,
+            "_unmapped_timestamp_sec": 1276.49804,
+            "narration_text": "#C C takes out a woodworking clip from under the table with his left hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1277.97696762133,
+            "timestamp_frame": 38339,
+            "_unmapped_timestamp_sec": 1278.03133,
+            "narration_text": "#C C drops the woodworking clip on the table with his left hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1279.33323762133,
+            "timestamp_frame": 38379,
+            "_unmapped_timestamp_sec": 1279.3876,
+            "narration_text": "#C C picks up a woodworking clip from under the table with his right hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1282.68709762133,
+            "timestamp_frame": 38480,
+            "_unmapped_timestamp_sec": 1282.74146,
+            "narration_text": "#C C moves the woodwork with his left hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1284.82331762133,
+            "timestamp_frame": 38544,
+            "_unmapped_timestamp_sec": 1284.87768,
+            "narration_text": "#C C drops the woodworking clip on the table with his right hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1285.83147762133,
+            "timestamp_frame": 38574,
+            "_unmapped_timestamp_sec": 1285.88584,
+            "narration_text": "#C C picks up the woodworking clips on the table with his right hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1286.82634762133,
+            "timestamp_frame": 38604,
+            "_unmapped_timestamp_sec": 1286.88071,
+            "narration_text": "#C C passes the woodworking clips from his right hand to his left hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1288.0414176213299,
+            "timestamp_frame": 38641,
+            "_unmapped_timestamp_sec": 1288.09578,
+            "narration_text": "#C C picks up the saw from the table with his right hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1288.6641676213299,
+            "timestamp_frame": 38659,
+            "_unmapped_timestamp_sec": 1288.71853,
+            "narration_text": "#C C passes the saw from his right hand to his left hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1289.43713762133,
+            "timestamp_frame": 38682,
+            "_unmapped_timestamp_sec": 1289.4915,
+            "narration_text": "#C C picks up three pieces of wood from the table with his right hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1292.34750762133,
+            "timestamp_frame": 38770,
+            "_unmapped_timestamp_sec": 1292.40187,
+            "narration_text": "#C C passes the drill from his right hand to his left hand. #unsure",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1292.09700762133,
+            "timestamp_frame": 38762,
+            "_unmapped_timestamp_sec": 1292.15137,
+            "narration_text": "#C C picks up a drill from the table with his right hand. #unsure",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1292.95484762133,
+            "timestamp_frame": 38788,
+            "_unmapped_timestamp_sec": 1293.00921,
+            "narration_text": "#C C reaches to a table with the drill in his left hand. #unsure",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1294.02805762133,
+            "timestamp_frame": 38820,
+            "_unmapped_timestamp_sec": 1294.08242,
+            "narration_text": "#C C picks up an iron rod from the table with his right hand. ",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1294.32372762133,
+            "timestamp_frame": 38829,
+            "_unmapped_timestamp_sec": 1294.37809,
+            "narration_text": "#C C drops the iron rod on the table with his right hand. ",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1295.23370762133,
+            "timestamp_frame": 38856,
+            "_unmapped_timestamp_sec": 1295.28807,
+            "narration_text": "#C C picks up a hammer from the table with his left hand. ",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1296.13357762133,
+            "timestamp_frame": 38883,
+            "_unmapped_timestamp_sec": 1296.18794,
+            "narration_text": "#C C drops the hammer on the table with his left hand. ",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1297.6369676213299,
+            "timestamp_frame": 38928,
+            "_unmapped_timestamp_sec": 1297.69133,
+            "narration_text": "#C C carries the woodwork with both hands.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1300.1380476213299,
+            "timestamp_frame": 39004,
+            "_unmapped_timestamp_sec": 1300.19241,
+            "narration_text": "#C C places the woodwork on the table.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1300.83618762133,
+            "timestamp_frame": 39024,
+            "_unmapped_timestamp_sec": 1300.89055,
+            "narration_text": "#C C picks up a bottle from the table with his left hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1302.30180762133,
+            "timestamp_frame": 39068,
+            "_unmapped_timestamp_sec": 1302.35617,
+            "narration_text": "#C C places the bottle on the table.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1303.11085762133,
+            "timestamp_frame": 39093,
+            "_unmapped_timestamp_sec": 1303.16522,
+            "narration_text": "#C C holds the woodwork with his left hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1303.90702762133,
+            "timestamp_frame": 39117,
+            "_unmapped_timestamp_sec": 1303.96139,
+            "narration_text": "#C C places his right hand on the table.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1304.49753762133,
+            "timestamp_frame": 39134,
+            "_unmapped_timestamp_sec": 1304.5519,
+            "narration_text": "#C C holds the woodwork with his right hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1309.82285762133,
+            "timestamp_frame": 39294,
+            "_unmapped_timestamp_sec": 1309.87722,
+            "narration_text": "#C C picks up a chisel from a rack with his right hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1305.84150762133,
+            "timestamp_frame": 39175,
+            "_unmapped_timestamp_sec": 1305.89587,
+            "narration_text": "#C C picks up a screwdriver from the table with his left hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1310.31712762133,
+            "timestamp_frame": 39309,
+            "_unmapped_timestamp_sec": 1310.37149,
+            "narration_text": "#C C drops the chisel on the table with his right hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1311.42445762133,
+            "timestamp_frame": 39342,
+            "_unmapped_timestamp_sec": 1311.47882,
+            "narration_text": "#C C picks up another chisel from the rack with his right hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1312.02505762133,
+            "timestamp_frame": 39360,
+            "_unmapped_timestamp_sec": 1312.07942,
+            "narration_text": "#C C drops the chisel on the table.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1313.60916762133,
+            "timestamp_frame": 39408,
+            "_unmapped_timestamp_sec": 1313.66353,
+            "narration_text": "#C C picks up another chisel from the rack with his right hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1314.3652576213299,
+            "timestamp_frame": 39430,
+            "_unmapped_timestamp_sec": 1314.4196200000001,
+            "narration_text": "#C C drops the chisel on the table.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1315.29868762133,
+            "timestamp_frame": 39458,
+            "_unmapped_timestamp_sec": 1315.35305,
+            "narration_text": "#C C picks up the first chisel on the table with his right hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1317.32145762133,
+            "timestamp_frame": 39519,
+            "_unmapped_timestamp_sec": 1317.37582,
+            "narration_text": "#C C drops the chisel on the table.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1318.24961762133,
+            "timestamp_frame": 39547,
+            "_unmapped_timestamp_sec": 1318.30398,
+            "narration_text": "#C C picks up the last chisel on the table with his right hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1319.61985762133,
+            "timestamp_frame": 39588,
+            "_unmapped_timestamp_sec": 1319.6742199999999,
+            "narration_text": "#C C holds the chisel with both hands.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1319.14656762133,
+            "timestamp_frame": 39574,
+            "_unmapped_timestamp_sec": 1319.20093,
+            "narration_text": "#C C passes the chisel from his right hand to his left hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1321.18867762133,
+            "timestamp_frame": 39635,
+            "_unmapped_timestamp_sec": 1321.24304,
+            "narration_text": "#C C kicks a piece of wood on the floor with his right leg.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1321.57173762133,
+            "timestamp_frame": 39647,
+            "_unmapped_timestamp_sec": 1321.6261,
+            "narration_text": "#C C touches the woodwork with his right hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1325.66715762133,
+            "timestamp_frame": 39769,
+            "_unmapped_timestamp_sec": 1325.72152,
+            "narration_text": "#C C smoothens the woodwork with the chisel.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1328.32323762133,
+            "timestamp_frame": 39849,
+            "_unmapped_timestamp_sec": 1328.3776,
+            "narration_text": "#C C holds the chisel with both hands.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1329.5383576213299,
+            "timestamp_frame": 39886,
+            "_unmapped_timestamp_sec": 1329.59272,
+            "narration_text": "#C C smoothens the woodwork with the chisel.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1334.08141762133,
+            "timestamp_frame": 40022,
+            "_unmapped_timestamp_sec": 1334.13578,
+            "narration_text": "#C C brushes the particles off the woodwork with his right hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1335.79820762133,
+            "timestamp_frame": 40073,
+            "_unmapped_timestamp_sec": 1335.85257,
+            "narration_text": "#C C places his right hand on the woodwork.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1341.17503762133,
+            "timestamp_frame": 40235,
+            "_unmapped_timestamp_sec": 1341.2294,
+            "narration_text": "#C C holds the woodwork with his right hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1342.46734762133,
+            "timestamp_frame": 40273,
+            "_unmapped_timestamp_sec": 1342.52171,
+            "narration_text": "#C C places his right hand on the woodwork.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1343.23870762133,
+            "timestamp_frame": 40297,
+            "_unmapped_timestamp_sec": 1343.29307,
+            "narration_text": "#C C smoothens the woodwork with his right hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1342.46734762133,
+            "timestamp_frame": 40273,
+            "_unmapped_timestamp_sec": 1342.52171,
+            "narration_text": "#C C places the chisel on the woodwork.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1348.21235762133,
+            "timestamp_frame": 40446,
+            "_unmapped_timestamp_sec": 1348.26672,
+            "narration_text": "#C C places his right hand on the woodwork.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1349.13236762133,
+            "timestamp_frame": 40473,
+            "_unmapped_timestamp_sec": 1349.18673,
+            "narration_text": "#C C smoothens the woodwork with the chisel.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1353.04174762133,
+            "timestamp_frame": 40591,
+            "_unmapped_timestamp_sec": 1353.09611,
+            "narration_text": "#C C smoothens the woodwork with his right hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1354.66816762133,
+            "timestamp_frame": 40639,
+            "_unmapped_timestamp_sec": 1354.72253,
+            "narration_text": "#C C peels off some wood off the woodwork with the chisel in his left hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1361.33987762133,
+            "timestamp_frame": 40840,
+            "_unmapped_timestamp_sec": 1361.39424,
+            "narration_text": "#C C brushes the woodwork with his right hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1361.96931762133,
+            "timestamp_frame": 40858,
+            "_unmapped_timestamp_sec": 1362.02368,
+            "narration_text": "#C C picks up particles of wood from the woodwork with his right hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1363.26053762133,
+            "timestamp_frame": 40897,
+            "_unmapped_timestamp_sec": 1363.3149,
+            "narration_text": "#C C places his right hand on the woodwork.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1363.74558762133,
+            "timestamp_frame": 40912,
+            "_unmapped_timestamp_sec": 1363.79995,
+            "narration_text": "#C C peels off some wood off the woodwork with the chisel in his left hand.",
+            "annotation_uid": "35d4e14a-28be-445b-b34b-d912ce7b230f"
+        },
+        {
+            "timestamp_sec": 1365.51839762133,
+            "timestamp_frame": 40965,
+            "_unmapped_timestamp_sec": 1365.57276,
+            "narration_text": "#C C places his right hand on the woodwork.",
+            "annotation_uid": "eec33bef-b91a-4eb7-be08-1c8f9e4c0be0"
+        },
+        {
+            "timestamp_sec": 1367.27936762133,
+            "timestamp_frame": 41018,
+            "_unmapped_timestamp_sec": 1367.33373,
+            "narration_text": "#C C places his right hand on the woodwork.",
+            "annotation_uid": "eec33bef-b91a-4eb7-be08-1c8f9e4c0be0"
+        },
+        {
+            "timestamp_sec": 1368.30564762133,
+            "timestamp_frame": 41049,
+            "_unmapped_timestamp_sec": 1368.36001,
+            "narration_text": "#C C smoothens the woodwork with the chisel in his left hand.",
+            "annotation_uid": "eec33bef-b91a-4eb7-be08-1c8f9e4c0be0"
+        },
+        {
+            "timestamp_sec": 1376.33533762133,
+            "timestamp_frame": 41289,
+            "_unmapped_timestamp_sec": 1376.3897,
+            "narration_text": "#C C brushes off wood particles from the woodwork with his right hand.",
+            "annotation_uid": "eec33bef-b91a-4eb7-be08-1c8f9e4c0be0"
+        },
+        {
+            "timestamp_sec": 1378.92540762133,
+            "timestamp_frame": 41367,
+            "_unmapped_timestamp_sec": 1378.97977,
+            "narration_text": "#C C smoothens the woodwork with the chisel in his left hand.",
+            "annotation_uid": "eec33bef-b91a-4eb7-be08-1c8f9e4c0be0"
+        },
+        {
+            "timestamp_sec": 1391.92747762133,
+            "timestamp_frame": 41757,
+            "_unmapped_timestamp_sec": 1391.98184,
+            "narration_text": "#C C drops the chisel on the table.",
+            "annotation_uid": "eec33bef-b91a-4eb7-be08-1c8f9e4c0be0"
+        },
+        {
+            "timestamp_sec": 1392.75529762133,
+            "timestamp_frame": 41782,
+            "_unmapped_timestamp_sec": 1392.80966,
+            "narration_text": "#C C picks up another chisel from the table with his two hands.",
+            "annotation_uid": "eec33bef-b91a-4eb7-be08-1c8f9e4c0be0"
+        },
+        {
+            "timestamp_sec": 1392.87389762133,
+            "timestamp_frame": 41786,
+            "_unmapped_timestamp_sec": 1392.92826,
+            "narration_text": "#C C removes a cover from the tip of the chisel. #unsure",
+            "annotation_uid": "eec33bef-b91a-4eb7-be08-1c8f9e4c0be0"
+        },
+        {
+            "timestamp_sec": 1393.18381762133,
+            "timestamp_frame": 41795,
+            "_unmapped_timestamp_sec": 1393.23818,
+            "narration_text": "#C C drops the cover on the table. #unsure",
+            "annotation_uid": "eec33bef-b91a-4eb7-be08-1c8f9e4c0be0"
+        },
+        {
+            "timestamp_sec": 1394.0373676213298,
+            "timestamp_frame": 41820,
+            "_unmapped_timestamp_sec": 1394.09173,
+            "narration_text": "#C C places the chisel on the woodwork.",
+            "annotation_uid": "eec33bef-b91a-4eb7-be08-1c8f9e4c0be0"
+        },
+        {
+            "timestamp_sec": 1394.0373676213298,
+            "timestamp_frame": 41820,
+            "_unmapped_timestamp_sec": 1394.09173,
+            "narration_text": "#C C places his right hand on the woodwork.",
+            "annotation_uid": "eec33bef-b91a-4eb7-be08-1c8f9e4c0be0"
+        },
+        {
+            "timestamp_sec": 1409.2952876213299,
+            "timestamp_frame": 42278,
+            "_unmapped_timestamp_sec": 1409.34965,
+            "narration_text": "#C C presses the tip of the chisel on the woodwork.",
+            "annotation_uid": "eec33bef-b91a-4eb7-be08-1c8f9e4c0be0"
+        },
+        {
+            "timestamp_sec": 1262.87490762133,
+            "timestamp_frame": 37886,
+            "_unmapped_timestamp_sec": 1262.92927,
+            "narration_text": "#C C removes the piece of timber from the handsaw.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1263.46114762133,
+            "timestamp_frame": 37903,
+            "_unmapped_timestamp_sec": 1263.51551,
+            "narration_text": "#C C throws the piece of timber on the worktable.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1264.66044762133,
+            "timestamp_frame": 37939,
+            "_unmapped_timestamp_sec": 1264.71481,
+            "narration_text": "#C C touches the timber.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1265.65747762133,
+            "timestamp_frame": 37969,
+            "_unmapped_timestamp_sec": 1265.71184,
+            "narration_text": "#C C rubs his fingers together.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1270.85825762133,
+            "timestamp_frame": 38125,
+            "_unmapped_timestamp_sec": 1270.91262,
+            "narration_text": "#C C raises from the ground.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1271.88089762133,
+            "timestamp_frame": 38156,
+            "_unmapped_timestamp_sec": 1271.93526,
+            "narration_text": "#C C places the handsaw on the worktable.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1274.32798762133,
+            "timestamp_frame": 38229,
+            "_unmapped_timestamp_sec": 1274.38235,
+            "narration_text": "#C C walks around the workshop.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1274.85934762133,
+            "timestamp_frame": 38245,
+            "_unmapped_timestamp_sec": 1274.91371,
+            "narration_text": "#C C removes clamp from the frame.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1277.60560762133,
+            "timestamp_frame": 38328,
+            "_unmapped_timestamp_sec": 1277.65997,
+            "narration_text": "#C C lays clamp on the worktable.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1278.67963762133,
+            "timestamp_frame": 38360,
+            "_unmapped_timestamp_sec": 1278.734,
+            "narration_text": "#C C unfastens clamp from the frame.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1282.39689762133,
+            "timestamp_frame": 38471,
+            "_unmapped_timestamp_sec": 1282.45126,
+            "narration_text": "#C C holds the frame.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1284.68678762133,
+            "timestamp_frame": 38540,
+            "_unmapped_timestamp_sec": 1284.74115,
+            "narration_text": "#C C puts clamp on the worktable.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1285.43871762133,
+            "timestamp_frame": 38563,
+            "_unmapped_timestamp_sec": 1285.49308,
+            "narration_text": "#C C grabs the clamps.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1287.98213762133,
+            "timestamp_frame": 38639,
+            "_unmapped_timestamp_sec": 1288.0365,
+            "narration_text": "#C C grips the handsaw.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1288.65364762133,
+            "timestamp_frame": 38659,
+            "_unmapped_timestamp_sec": 1288.70801,
+            "narration_text": "#C C clasps the handsaw with the other hand.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1289.23424762133,
+            "timestamp_frame": 38676,
+            "_unmapped_timestamp_sec": 1289.28861,
+            "narration_text": "#C C collects the pieces of wood from the worktable.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1291.49249762133,
+            "timestamp_frame": 38744,
+            "_unmapped_timestamp_sec": 1291.54686,
+            "narration_text": "#C C grasps a drill from the worktable.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1292.19565762133,
+            "timestamp_frame": 38765,
+            "_unmapped_timestamp_sec": 1292.25002,
+            "narration_text": "#C C clutches the drill with the other hand.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1292.97500762133,
+            "timestamp_frame": 38789,
+            "_unmapped_timestamp_sec": 1293.02937,
+            "narration_text": "#C C puts the drill aside.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1293.4345976213299,
+            "timestamp_frame": 38802,
+            "_unmapped_timestamp_sec": 1293.48896,
+            "narration_text": "#C C grips #unsure.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1294.13276762133,
+            "timestamp_frame": 38823,
+            "_unmapped_timestamp_sec": 1294.18713,
+            "narration_text": "#C C drops #unsure on the worktable.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1294.97341762133,
+            "timestamp_frame": 38849,
+            "_unmapped_timestamp_sec": 1295.02778,
+            "narration_text": "#C C grabs the hammer.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1295.92242762133,
+            "timestamp_frame": 38877,
+            "_unmapped_timestamp_sec": 1295.97679,
+            "narration_text": "#C C places the hammer aside.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1297.22017762133,
+            "timestamp_frame": 38916,
+            "_unmapped_timestamp_sec": 1297.27454,
+            "narration_text": "#C C places the frame on the worktable.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1300.6013076213299,
+            "timestamp_frame": 39017,
+            "_unmapped_timestamp_sec": 1300.65567,
+            "narration_text": "#C C lifts the bottle.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1301.83503762133,
+            "timestamp_frame": 39054,
+            "_unmapped_timestamp_sec": 1301.8894,
+            "narration_text": "#C C places the bottle on the worktable.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1303.25016762133,
+            "timestamp_frame": 39097,
+            "_unmapped_timestamp_sec": 1303.3045299999999,
+            "narration_text": "#C C moves the frame on the worktable.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1305.69803762133,
+            "timestamp_frame": 39170,
+            "_unmapped_timestamp_sec": 1305.7524,
+            "narration_text": "#C C grabs a screwdriver.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1306.71376762133,
+            "timestamp_frame": 39201,
+            "_unmapped_timestamp_sec": 1306.76813,
+            "narration_text": "#C C puts the screwdriver in the screwdriver holder.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1308.84966762133,
+            "timestamp_frame": 39265,
+            "_unmapped_timestamp_sec": 1308.90403,
+            "narration_text": "#C C takes a wood file.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1310.15166762133,
+            "timestamp_frame": 39304,
+            "_unmapped_timestamp_sec": 1310.20603,
+            "narration_text": "#C C places the wood file on the worktable.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1310.99928762133,
+            "timestamp_frame": 39329,
+            "_unmapped_timestamp_sec": 1311.05365,
+            "narration_text": "#C C picks a wood file.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1311.8228376213299,
+            "timestamp_frame": 39354,
+            "_unmapped_timestamp_sec": 1311.8772,
+            "narration_text": "#C C positions the wood file on the worktable.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1312.58961762133,
+            "timestamp_frame": 39377,
+            "_unmapped_timestamp_sec": 1312.64398,
+            "narration_text": "#C C grabs a woof file.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1314.04183762133,
+            "timestamp_frame": 39421,
+            "_unmapped_timestamp_sec": 1314.0962,
+            "narration_text": "#C C lays the wood file on the worktable.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1315.35935762133,
+            "timestamp_frame": 39460,
+            "_unmapped_timestamp_sec": 1315.41372,
+            "narration_text": "#C C grips the wood file.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1316.97601762133,
+            "timestamp_frame": 39509,
+            "_unmapped_timestamp_sec": 1317.03038,
+            "narration_text": "#C C drops the wood file.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1317.86343762133,
+            "timestamp_frame": 39535,
+            "_unmapped_timestamp_sec": 1317.9178,
+            "narration_text": "#C C clutches a wood file.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1319.10443762133,
+            "timestamp_frame": 39573,
+            "_unmapped_timestamp_sec": 1319.1588,
+            "narration_text": "#C C moves around the workshop.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1321.39734762133,
+            "timestamp_frame": 39641,
+            "_unmapped_timestamp_sec": 1321.45171,
+            "narration_text": "#C C holds the frame.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1321.94709762133,
+            "timestamp_frame": 39658,
+            "_unmapped_timestamp_sec": 1322.00146,
+            "narration_text": "#C C bends towards the frame.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1324.75286762133,
+            "timestamp_frame": 39742,
+            "_unmapped_timestamp_sec": 1324.80723,
+            "narration_text": "#C C files the frame.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1333.50907762133,
+            "timestamp_frame": 40005,
+            "_unmapped_timestamp_sec": 1333.56344,
+            "narration_text": "#C C wipes the wood shavings from the frame.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1334.91653762133,
+            "timestamp_frame": 40047,
+            "_unmapped_timestamp_sec": 1334.9709,
+            "narration_text": "#C C walks around the workshop.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1340.3298576213301,
+            "timestamp_frame": 40209,
+            "_unmapped_timestamp_sec": 1340.38422,
+            "narration_text": "#C C rubs his finger on the frame.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1348.06208762133,
+            "timestamp_frame": 40441,
+            "_unmapped_timestamp_sec": 1348.11645,
+            "narration_text": "#C C cuts through the frame with a wood file.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1361.10097762133,
+            "timestamp_frame": 40832,
+            "_unmapped_timestamp_sec": 1361.15534,
+            "narration_text": "#C C removes the wood shaving.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1362.27133762133,
+            "timestamp_frame": 40868,
+            "_unmapped_timestamp_sec": 1362.3256999999999,
+            "narration_text": "#C C dumps the wood shaving on the ground.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1362.95742762133,
+            "timestamp_frame": 40888,
+            "_unmapped_timestamp_sec": 1363.01179,
+            "narration_text": "#C C files the frame.",
+            "annotation_uid": "1df7257f-7d4f-4dbf-8863-bf4784585a2a"
+        },
+        {
+            "timestamp_sec": 1365.84718762133,
+            "timestamp_frame": 40975,
+            "_unmapped_timestamp_sec": 1365.90155,
+            "narration_text": "#C C wipes sawdust from the furniture frame",
+            "annotation_uid": "f9cdd74d-648a-4dac-926f-4a495e39fa8e"
+        },
+        {
+            "timestamp_sec": 1367.52238762133,
+            "timestamp_frame": 41025,
+            "_unmapped_timestamp_sec": 1367.57675,
+            "narration_text": "#C C carves the furniture frame with a chisel",
+            "annotation_uid": "f9cdd74d-648a-4dac-926f-4a495e39fa8e"
+        },
+        {
+            "timestamp_sec": 1377.07588762133,
+            "timestamp_frame": 41312,
+            "_unmapped_timestamp_sec": 1377.13025,
+            "narration_text": "#C C wipes sawdust from the furniture frame",
+            "annotation_uid": "f9cdd74d-648a-4dac-926f-4a495e39fa8e"
+        },
+        {
+            "timestamp_sec": 1379.68702762133,
+            "timestamp_frame": 41390,
+            "_unmapped_timestamp_sec": 1379.74139,
+            "narration_text": "#C C carves the furniture frame with a chisel",
+            "annotation_uid": "f9cdd74d-648a-4dac-926f-4a495e39fa8e"
+        },
+        {
+            "timestamp_sec": 1392.28793762133,
+            "timestamp_frame": 41768,
+            "_unmapped_timestamp_sec": 1392.3423,
+            "narration_text": "#C C puts the chisel on the bench",
+            "annotation_uid": "f9cdd74d-648a-4dac-926f-4a495e39fa8e"
+        },
+        {
+            "timestamp_sec": 1393.30924762133,
+            "timestamp_frame": 41799,
+            "_unmapped_timestamp_sec": 1393.36361,
+            "narration_text": "#C C picks a chisel",
+            "annotation_uid": "f9cdd74d-648a-4dac-926f-4a495e39fa8e"
+        },
+        {
+            "timestamp_sec": 1395.06781762133,
+            "timestamp_frame": 41851,
+            "_unmapped_timestamp_sec": 1395.12218,
+            "narration_text": "#C C carves the furniture frame with a chisel",
+            "annotation_uid": "f9cdd74d-648a-4dac-926f-4a495e39fa8e"
+        }
+    ]
+}

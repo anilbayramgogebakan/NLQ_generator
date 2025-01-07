@@ -1,0 +1,802 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 512.5712886,
+            "timestamp_frame": 15377,
+            "_unmapped_timestamp_sec": 512.55026,
+            "narration_text": "#C C puts cup down",
+            "annotation_uid": "3e5aacb9-ad1c-4adf-aa9c-9b4a3d3e2700"
+        },
+        {
+            "timestamp_sec": 513.7442886,
+            "timestamp_frame": 15412,
+            "_unmapped_timestamp_sec": 513.72326,
+            "narration_text": "#C C picks up phone",
+            "annotation_uid": "3e5aacb9-ad1c-4adf-aa9c-9b4a3d3e2700"
+        },
+        {
+            "timestamp_sec": 515.7850386,
+            "timestamp_frame": 15473,
+            "_unmapped_timestamp_sec": 515.76401,
+            "narration_text": "#C C scrolls phone",
+            "annotation_uid": "3e5aacb9-ad1c-4adf-aa9c-9b4a3d3e2700"
+        },
+        {
+            "timestamp_sec": 517.2867286000001,
+            "timestamp_frame": 15518,
+            "_unmapped_timestamp_sec": 517.2657,
+            "narration_text": "#C C scrolls phone",
+            "annotation_uid": "3e5aacb9-ad1c-4adf-aa9c-9b4a3d3e2700"
+        },
+        {
+            "timestamp_sec": 521.9545086,
+            "timestamp_frame": 15658,
+            "_unmapped_timestamp_sec": 521.93348,
+            "narration_text": "#C C scrolls phone",
+            "annotation_uid": "3e5aacb9-ad1c-4adf-aa9c-9b4a3d3e2700"
+        },
+        {
+            "timestamp_sec": 524.9819286000001,
+            "timestamp_frame": 15749,
+            "_unmapped_timestamp_sec": 524.9609,
+            "narration_text": "#C C puts phone down",
+            "annotation_uid": "3e5aacb9-ad1c-4adf-aa9c-9b4a3d3e2700"
+        },
+        {
+            "timestamp_sec": 526.1568586,
+            "timestamp_frame": 15784,
+            "_unmapped_timestamp_sec": 526.1358299999999,
+            "narration_text": "#C C picks up cup",
+            "annotation_uid": "3e5aacb9-ad1c-4adf-aa9c-9b4a3d3e2700"
+        },
+        {
+            "timestamp_sec": 528.8391686000001,
+            "timestamp_frame": 15865,
+            "_unmapped_timestamp_sec": 528.8181400000001,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "3e5aacb9-ad1c-4adf-aa9c-9b4a3d3e2700"
+        },
+        {
+            "timestamp_sec": 530.6130786,
+            "timestamp_frame": 15918,
+            "_unmapped_timestamp_sec": 530.59205,
+            "narration_text": "#C C drinks",
+            "annotation_uid": "3e5aacb9-ad1c-4adf-aa9c-9b4a3d3e2700"
+        },
+        {
+            "timestamp_sec": 532.1059352666667,
+            "timestamp_frame": 15963,
+            "_unmapped_timestamp_sec": 532.61824,
+            "narration_text": "#C C puts cup down",
+            "annotation_uid": "3e5aacb9-ad1c-4adf-aa9c-9b4a3d3e2700"
+        },
+        {
+            "timestamp_sec": 535.9808852666667,
+            "timestamp_frame": 16079,
+            "_unmapped_timestamp_sec": 536.49319,
+            "narration_text": "#C C picks up spoon",
+            "annotation_uid": "3e5aacb9-ad1c-4adf-aa9c-9b4a3d3e2700"
+        },
+        {
+            "timestamp_sec": 539.3933752666668,
+            "timestamp_frame": 16181,
+            "_unmapped_timestamp_sec": 539.9056800000001,
+            "narration_text": "#C C eats food",
+            "annotation_uid": "3e5aacb9-ad1c-4adf-aa9c-9b4a3d3e2700"
+        },
+        {
+            "timestamp_sec": 540.6018452666667,
+            "timestamp_frame": 16217,
+            "_unmapped_timestamp_sec": 541.11415,
+            "narration_text": "#C C puts spoon down",
+            "annotation_uid": "3e5aacb9-ad1c-4adf-aa9c-9b4a3d3e2700"
+        },
+        {
+            "timestamp_sec": 541.8301852666667,
+            "timestamp_frame": 16254,
+            "_unmapped_timestamp_sec": 542.34249,
+            "narration_text": "#C C picks up food",
+            "annotation_uid": "3e5aacb9-ad1c-4adf-aa9c-9b4a3d3e2700"
+        },
+        {
+            "timestamp_sec": 542.8811252666668,
+            "timestamp_frame": 16286,
+            "_unmapped_timestamp_sec": 543.3934300000001,
+            "narration_text": "#C C eats food",
+            "annotation_uid": "3e5aacb9-ad1c-4adf-aa9c-9b4a3d3e2700"
+        },
+        {
+            "timestamp_sec": 543.8385052666667,
+            "timestamp_frame": 16315,
+            "_unmapped_timestamp_sec": 544.35081,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "3e5aacb9-ad1c-4adf-aa9c-9b4a3d3e2700"
+        },
+        {
+            "timestamp_sec": 546.2758852666667,
+            "timestamp_frame": 16388,
+            "_unmapped_timestamp_sec": 546.78819,
+            "narration_text": "#C C moves water bottle",
+            "annotation_uid": "3e5aacb9-ad1c-4adf-aa9c-9b4a3d3e2700"
+        },
+        {
+            "timestamp_sec": 548.5603852666667,
+            "timestamp_frame": 16456,
+            "_unmapped_timestamp_sec": 549.07269,
+            "narration_text": "#C C moves bowl",
+            "annotation_uid": "3e5aacb9-ad1c-4adf-aa9c-9b4a3d3e2700"
+        },
+        {
+            "timestamp_sec": 550.4441452666667,
+            "timestamp_frame": 16513,
+            "_unmapped_timestamp_sec": 550.95645,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "3e5aacb9-ad1c-4adf-aa9c-9b4a3d3e2700"
+        },
+        {
+            "timestamp_sec": 553.0416752666667,
+            "timestamp_frame": 16591,
+            "_unmapped_timestamp_sec": 553.55398,
+            "narration_text": "#C C talks with lady X",
+            "annotation_uid": "3e5aacb9-ad1c-4adf-aa9c-9b4a3d3e2700"
+        },
+        {
+            "timestamp_sec": 554.2714452666668,
+            "timestamp_frame": 16628,
+            "_unmapped_timestamp_sec": 554.78375,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "3e5aacb9-ad1c-4adf-aa9c-9b4a3d3e2700"
+        },
+        {
+            "timestamp_sec": 554.6100652666668,
+            "timestamp_frame": 16638,
+            "_unmapped_timestamp_sec": 555.12237,
+            "narration_text": "#C C talks",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 555.4749952666667,
+            "timestamp_frame": 16664,
+            "_unmapped_timestamp_sec": 555.9873,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 557.5499752666667,
+            "timestamp_frame": 16726,
+            "_unmapped_timestamp_sec": 558.06228,
+            "narration_text": "#C C scrolls phone",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 558.1545852666667,
+            "timestamp_frame": 16744,
+            "_unmapped_timestamp_sec": 558.66689,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 559.4115352666668,
+            "timestamp_frame": 16782,
+            "_unmapped_timestamp_sec": 559.92384,
+            "narration_text": "#C C opens bag",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 563.7348352666668,
+            "timestamp_frame": 16911,
+            "_unmapped_timestamp_sec": 564.24714,
+            "narration_text": "#C C holds pen",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 569.9885352666668,
+            "timestamp_frame": 17099,
+            "_unmapped_timestamp_sec": 570.50084,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 570.9857452666668,
+            "timestamp_frame": 17129,
+            "_unmapped_timestamp_sec": 571.49805,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 573.6608852666667,
+            "timestamp_frame": 17209,
+            "_unmapped_timestamp_sec": 574.17319,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 574.6325552666667,
+            "timestamp_frame": 17238,
+            "_unmapped_timestamp_sec": 575.14486,
+            "narration_text": "#C C closes bag",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 575.3211652666668,
+            "timestamp_frame": 17259,
+            "_unmapped_timestamp_sec": 575.83347,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 579.3991452666667,
+            "timestamp_frame": 17381,
+            "_unmapped_timestamp_sec": 579.9114500000001,
+            "narration_text": "#C C puts hand in the bag",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 580.1107552666667,
+            "timestamp_frame": 17403,
+            "_unmapped_timestamp_sec": 580.62306,
+            "narration_text": "#C C picks up pen",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 582.2707452666667,
+            "timestamp_frame": 17467,
+            "_unmapped_timestamp_sec": 582.78305,
+            "narration_text": "#C C talks with lady X",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 586.2565052666667,
+            "timestamp_frame": 17587,
+            "_unmapped_timestamp_sec": 586.76881,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 588.6050352666667,
+            "timestamp_frame": 17658,
+            "_unmapped_timestamp_sec": 589.11734,
+            "narration_text": "#O lady X talks with C",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 590.3702552666667,
+            "timestamp_frame": 17710,
+            "_unmapped_timestamp_sec": 590.88256,
+            "narration_text": "#C C talks with lady X",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 591.6213852666667,
+            "timestamp_frame": 17748,
+            "_unmapped_timestamp_sec": 592.13369,
+            "narration_text": "#C C moves cup",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 592.4753052666667,
+            "timestamp_frame": 17774,
+            "_unmapped_timestamp_sec": 592.98761,
+            "narration_text": "#C C talks with lady X",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 593.7032252666668,
+            "timestamp_frame": 17810,
+            "_unmapped_timestamp_sec": 594.21553,
+            "narration_text": "#C C moves paper pad",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 594.5932152666667,
+            "timestamp_frame": 17837,
+            "_unmapped_timestamp_sec": 595.10552,
+            "narration_text": "#C C picks up phone",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 595.2798252666668,
+            "timestamp_frame": 17858,
+            "_unmapped_timestamp_sec": 595.79213,
+            "narration_text": "#C C puts phone down",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 596.2207752666667,
+            "timestamp_frame": 17886,
+            "_unmapped_timestamp_sec": 596.73308,
+            "narration_text": "#C C puts hand on the paper pad",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 597.2425952666667,
+            "timestamp_frame": 17917,
+            "_unmapped_timestamp_sec": 597.7549,
+            "narration_text": "#C C opens pen",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 602.7526052666667,
+            "timestamp_frame": 18082,
+            "_unmapped_timestamp_sec": 603.26491,
+            "narration_text": "#C C holds pen",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 603.2257352666667,
+            "timestamp_frame": 18096,
+            "_unmapped_timestamp_sec": 603.73804,
+            "narration_text": "#C C presses phone",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 605.7315352666667,
+            "timestamp_frame": 18171,
+            "_unmapped_timestamp_sec": 606.24384,
+            "narration_text": "#C C presses phone",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 609.9727152666667,
+            "timestamp_frame": 18299,
+            "_unmapped_timestamp_sec": 610.48502,
+            "narration_text": "#O lady X walks in the house",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 609.5519352666668,
+            "timestamp_frame": 18286,
+            "_unmapped_timestamp_sec": 610.06424,
+            "narration_text": "#C C puts pen down",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 611.2215952666668,
+            "timestamp_frame": 18336,
+            "_unmapped_timestamp_sec": 611.7339,
+            "narration_text": "#C C drags mouse",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 613.8351852666667,
+            "timestamp_frame": 18414,
+            "_unmapped_timestamp_sec": 614.34749,
+            "narration_text": "#C C picks up cup",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 615.8356152666668,
+            "timestamp_frame": 18474,
+            "_unmapped_timestamp_sec": 616.34792,
+            "narration_text": "#C C drinks",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 618.5504852666668,
+            "timestamp_frame": 18556,
+            "_unmapped_timestamp_sec": 619.06279,
+            "narration_text": "#C C puts cup down",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 619.8589552666667,
+            "timestamp_frame": 18595,
+            "_unmapped_timestamp_sec": 620.37126,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 621.5044052666667,
+            "timestamp_frame": 18645,
+            "_unmapped_timestamp_sec": 622.01671,
+            "narration_text": "#C C drags mouse",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 624.0010052666668,
+            "timestamp_frame": 18719,
+            "_unmapped_timestamp_sec": 624.51331,
+            "narration_text": "#C C picks up bowl",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 627.0226852666667,
+            "timestamp_frame": 18810,
+            "_unmapped_timestamp_sec": 627.53499,
+            "narration_text": "#C C moves spoon",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 632.9966152666667,
+            "timestamp_frame": 18989,
+            "_unmapped_timestamp_sec": 633.50892,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 635.6483452666668,
+            "timestamp_frame": 19069,
+            "_unmapped_timestamp_sec": 636.16065,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 636.0838252666667,
+            "timestamp_frame": 19082,
+            "_unmapped_timestamp_sec": 636.59613,
+            "narration_text": "#C C puts bowl on the table",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 636.4763252666667,
+            "timestamp_frame": 19094,
+            "_unmapped_timestamp_sec": 636.9886300000001,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 639.5176852666667,
+            "timestamp_frame": 19185,
+            "_unmapped_timestamp_sec": 640.02999,
+            "narration_text": "#C C watches television",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 640.5640552666667,
+            "timestamp_frame": 19216,
+            "_unmapped_timestamp_sec": 641.07636,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 640.6421052666667,
+            "timestamp_frame": 19219,
+            "_unmapped_timestamp_sec": 641.15441,
+            "narration_text": "#C C holds bowl",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 642.0138852666668,
+            "timestamp_frame": 19260,
+            "_unmapped_timestamp_sec": 642.52619,
+            "narration_text": "#C C eats",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 644.3608452666667,
+            "timestamp_frame": 19330,
+            "_unmapped_timestamp_sec": 644.87315,
+            "narration_text": "#C C puts bowl on the countertop",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 647.3620452666668,
+            "timestamp_frame": 19420,
+            "_unmapped_timestamp_sec": 647.87435,
+            "narration_text": "#C C drags mouse",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 653.3775052666667,
+            "timestamp_frame": 19601,
+            "_unmapped_timestamp_sec": 653.88981,
+            "narration_text": "#C C drags mouse",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 658.4915452666667,
+            "timestamp_frame": 19754,
+            "_unmapped_timestamp_sec": 659.00385,
+            "narration_text": "#C C drags mouse",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 659.9867852666667,
+            "timestamp_frame": 19799,
+            "_unmapped_timestamp_sec": 660.49909,
+            "narration_text": "#C C turns around",
+            "annotation_uid": "92360933-fdb6-4efb-bdbd-c8020a8fd903"
+        },
+        {
+            "timestamp_sec": 511.68802860000005,
+            "timestamp_frame": 15350,
+            "_unmapped_timestamp_sec": 511.66700000000003,
+            "narration_text": "#C C puts the coffee down",
+            "annotation_uid": "e304d3eb-d15d-4708-aa18-29454a245b0f"
+        },
+        {
+            "timestamp_sec": 513.4970286,
+            "timestamp_frame": 15404,
+            "_unmapped_timestamp_sec": 513.476,
+            "narration_text": "#C C picks up the phone",
+            "annotation_uid": "e304d3eb-d15d-4708-aa18-29454a245b0f"
+        },
+        {
+            "timestamp_sec": 514.8010286,
+            "timestamp_frame": 15443,
+            "_unmapped_timestamp_sec": 514.78,
+            "narration_text": "#C C operates the phone",
+            "annotation_uid": "e304d3eb-d15d-4708-aa18-29454a245b0f"
+        },
+        {
+            "timestamp_sec": 524.1670286,
+            "timestamp_frame": 15724,
+            "_unmapped_timestamp_sec": 524.146,
+            "narration_text": "#C C puts the phone down",
+            "annotation_uid": "e304d3eb-d15d-4708-aa18-29454a245b0f"
+        },
+        {
+            "timestamp_sec": 525.7790286000001,
+            "timestamp_frame": 15773,
+            "_unmapped_timestamp_sec": 525.758,
+            "narration_text": "#C C picks up the coffee",
+            "annotation_uid": "e304d3eb-d15d-4708-aa18-29454a245b0f"
+        },
+        {
+            "timestamp_sec": 527.6150286000001,
+            "timestamp_frame": 15828,
+            "_unmapped_timestamp_sec": 527.594,
+            "narration_text": "#C C takes a sip of the coffee",
+            "annotation_uid": "e304d3eb-d15d-4708-aa18-29454a245b0f"
+        },
+        {
+            "timestamp_sec": 531.5516952666668,
+            "timestamp_frame": 15946,
+            "_unmapped_timestamp_sec": 532.0640000000001,
+            "narration_text": "#C C puts the coffee down",
+            "annotation_uid": "e304d3eb-d15d-4708-aa18-29454a245b0f"
+        },
+        {
+            "timestamp_sec": 536.0956952666667,
+            "timestamp_frame": 16082,
+            "_unmapped_timestamp_sec": 536.608,
+            "narration_text": "#C C picks up the spoon",
+            "annotation_uid": "e304d3eb-d15d-4708-aa18-29454a245b0f"
+        },
+        {
+            "timestamp_sec": 536.8866952666667,
+            "timestamp_frame": 16106,
+            "_unmapped_timestamp_sec": 537.399,
+            "narration_text": "#C C scoops some food with the spoon",
+            "annotation_uid": "e304d3eb-d15d-4708-aa18-29454a245b0f"
+        },
+        {
+            "timestamp_sec": 539.0436952666668,
+            "timestamp_frame": 16171,
+            "_unmapped_timestamp_sec": 539.556,
+            "narration_text": "#C C puts the food in the mouth",
+            "annotation_uid": "e304d3eb-d15d-4708-aa18-29454a245b0f"
+        },
+        {
+            "timestamp_sec": 540.8006952666667,
+            "timestamp_frame": 16223,
+            "_unmapped_timestamp_sec": 541.313,
+            "narration_text": "#C C puts the spoon down",
+            "annotation_uid": "e304d3eb-d15d-4708-aa18-29454a245b0f"
+        },
+        {
+            "timestamp_sec": 545.8996952666668,
+            "timestamp_frame": 16376,
+            "_unmapped_timestamp_sec": 546.412,
+            "narration_text": "#C C moves the water bottle ahead",
+            "annotation_uid": "e304d3eb-d15d-4708-aa18-29454a245b0f"
+        },
+        {
+            "timestamp_sec": 548.1016952666668,
+            "timestamp_frame": 16442,
+            "_unmapped_timestamp_sec": 548.614,
+            "narration_text": "#C C pushes the plate",
+            "annotation_uid": "e304d3eb-d15d-4708-aa18-29454a245b0f"
+        },
+        {
+            "timestamp_sec": 553.1486952666668,
+            "timestamp_frame": 16594,
+            "_unmapped_timestamp_sec": 553.6610000000001,
+            "narration_text": "#C C moves the book",
+            "annotation_uid": "e304d3eb-d15d-4708-aa18-29454a245b0f"
+        },
+        {
+            "timestamp_sec": 557.5566952666667,
+            "timestamp_frame": 16726,
+            "_unmapped_timestamp_sec": 558.069,
+            "narration_text": "#C C taps the phone",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 558.8036952666668,
+            "timestamp_frame": 16763,
+            "_unmapped_timestamp_sec": 559.316,
+            "narration_text": "#C C unzips the bag",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 561.2666952666667,
+            "timestamp_frame": 16837,
+            "_unmapped_timestamp_sec": 561.779,
+            "narration_text": "#C C searches inside of the bag",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 568.1976952666668,
+            "timestamp_frame": 17045,
+            "_unmapped_timestamp_sec": 568.71,
+            "narration_text": "#C C zips the bag",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 570.9606952666667,
+            "timestamp_frame": 17128,
+            "_unmapped_timestamp_sec": 571.473,
+            "narration_text": "#C C looks at the phone",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 574.4906952666668,
+            "timestamp_frame": 17234,
+            "_unmapped_timestamp_sec": 575.003,
+            "narration_text": "#C C holds up the bag",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 578.9426952666668,
+            "timestamp_frame": 17368,
+            "_unmapped_timestamp_sec": 579.455,
+            "narration_text": "#C C picks up a pen from the bag",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 583.6836952666667,
+            "timestamp_frame": 17510,
+            "_unmapped_timestamp_sec": 584.196,
+            "narration_text": "#O woman X looks at C",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 591.0946952666667,
+            "timestamp_frame": 17732,
+            "_unmapped_timestamp_sec": 591.607,
+            "narration_text": "#C C moves the coffee aside",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 592.5236952666667,
+            "timestamp_frame": 17775,
+            "_unmapped_timestamp_sec": 593.0360000000001,
+            "narration_text": "#C C pushes the plate aside",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 593.4166952666667,
+            "timestamp_frame": 17802,
+            "_unmapped_timestamp_sec": 593.929,
+            "narration_text": "#C C pushes the paper aside",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 594.4196952666667,
+            "timestamp_frame": 17832,
+            "_unmapped_timestamp_sec": 594.932,
+            "narration_text": "#C C picks up the phone",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 595.1016952666668,
+            "timestamp_frame": 17852,
+            "_unmapped_timestamp_sec": 595.614,
+            "narration_text": "#C C puts the phone down",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 599.8126952666668,
+            "timestamp_frame": 17994,
+            "_unmapped_timestamp_sec": 600.325,
+            "narration_text": "#C C writes on the paper",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 603.3646952666668,
+            "timestamp_frame": 18100,
+            "_unmapped_timestamp_sec": 603.877,
+            "narration_text": "#C C operates the phone",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 608.8536952666667,
+            "timestamp_frame": 18265,
+            "_unmapped_timestamp_sec": 609.366,
+            "narration_text": "#C C puts the pen down",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 610.7306952666668,
+            "timestamp_frame": 18321,
+            "_unmapped_timestamp_sec": 611.2429999999999,
+            "narration_text": "#C C operates the laptop",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 613.3576952666667,
+            "timestamp_frame": 18400,
+            "_unmapped_timestamp_sec": 613.87,
+            "narration_text": "#C C picks up the cup of coffee",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 614.4966952666667,
+            "timestamp_frame": 18434,
+            "_unmapped_timestamp_sec": 615.009,
+            "narration_text": "#C C drinks the coffee",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 617.8506952666667,
+            "timestamp_frame": 18535,
+            "_unmapped_timestamp_sec": 618.363,
+            "narration_text": "#C C puts the coffee down",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 620.8106952666667,
+            "timestamp_frame": 18624,
+            "_unmapped_timestamp_sec": 621.323,
+            "narration_text": "#C C operates the laptop",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 623.6326952666667,
+            "timestamp_frame": 18708,
+            "_unmapped_timestamp_sec": 624.145,
+            "narration_text": "#C C picks up the plate",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 625.9286952666668,
+            "timestamp_frame": 18777,
+            "_unmapped_timestamp_sec": 626.441,
+            "narration_text": "#C C scoops food from the plate with the spoon",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 632.8316952666667,
+            "timestamp_frame": 18984,
+            "_unmapped_timestamp_sec": 633.344,
+            "narration_text": "#C C looks left",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 635.9526952666668,
+            "timestamp_frame": 19078,
+            "_unmapped_timestamp_sec": 636.465,
+            "narration_text": "#C C puts the plate down",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 636.2646952666668,
+            "timestamp_frame": 19087,
+            "_unmapped_timestamp_sec": 636.777,
+            "narration_text": "#C C looks to the left",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 643.9876952666667,
+            "timestamp_frame": 19319,
+            "_unmapped_timestamp_sec": 644.5,
+            "narration_text": "#C C puts the plate down",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 645.6656952666667,
+            "timestamp_frame": 19369,
+            "_unmapped_timestamp_sec": 646.178,
+            "narration_text": "#C C operates the laptop",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        },
+        {
+            "timestamp_sec": 659.9286952666668,
+            "timestamp_frame": 19797,
+            "_unmapped_timestamp_sec": 660.441,
+            "narration_text": "#C C looks at woman X",
+            "annotation_uid": "70d70027-4162-412a-ab0b-38196353ece3"
+        }
+    ]
+}

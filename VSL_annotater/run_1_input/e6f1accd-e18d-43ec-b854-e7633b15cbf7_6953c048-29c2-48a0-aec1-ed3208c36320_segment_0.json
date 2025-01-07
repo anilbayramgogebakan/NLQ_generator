@@ -1,0 +1,837 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 1792.3693819333332,
+            "timestamp_frame": 53770,
+            "_unmapped_timestamp_sec": 1800.36502,
+            "narration_text": "#C C removes his hand from the dough in the fry pan",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1792.8328019333333,
+            "timestamp_frame": 53784,
+            "_unmapped_timestamp_sec": 1800.82844,
+            "narration_text": "#C C picks the napkin from the floor with his right hand",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1794.973711933333,
+            "timestamp_frame": 53849,
+            "_unmapped_timestamp_sec": 1802.96935,
+            "narration_text": "#C C swirls the dough in the fry pan with the napkin",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1802.2887686,
+            "timestamp_frame": 54068,
+            "_unmapped_timestamp_sec": 1812.65205,
+            "narration_text": "#O Man X stairs the veggies in the pot with a spoon",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1807.1524286,
+            "timestamp_frame": 54214,
+            "_unmapped_timestamp_sec": 1817.5157100000001,
+            "narration_text": "#C C removes the napkin from the dough",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1807.1674985999998,
+            "timestamp_frame": 54214,
+            "_unmapped_timestamp_sec": 1817.53078,
+            "narration_text": "#C C drops the napkin on the floor ",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1809.9393786,
+            "timestamp_frame": 54298,
+            "_unmapped_timestamp_sec": 1820.30266,
+            "narration_text": "#C C drops the dough in a cooler",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1804.0639385999998,
+            "timestamp_frame": 54121,
+            "_unmapped_timestamp_sec": 1814.42722,
+            "narration_text": "#O Man X interacts with C",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1808.8414985999998,
+            "timestamp_frame": 54265,
+            "_unmapped_timestamp_sec": 1819.20478,
+            "narration_text": "#C C picks the dough from the fry pan",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1811.6354886,
+            "timestamp_frame": 54348,
+            "_unmapped_timestamp_sec": 1821.99877,
+            "narration_text": "#C C picks the dough from the pastry board",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1813.9175385999997,
+            "timestamp_frame": 54417,
+            "_unmapped_timestamp_sec": 1824.28082,
+            "narration_text": "#C C drops the dough in the fry pan",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1815.3897286,
+            "timestamp_frame": 54461,
+            "_unmapped_timestamp_sec": 1825.75301,
+            "narration_text": "#C C picks the dough in the flour",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1816.5783086,
+            "timestamp_frame": 54497,
+            "_unmapped_timestamp_sec": 1826.94159,
+            "narration_text": "#C C touches the flour in the bowl with the dough",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1817.7752686,
+            "timestamp_frame": 54533,
+            "_unmapped_timestamp_sec": 1828.1385500000001,
+            "narration_text": "#C C drops the dough on the pastry board",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1817.7952685999999,
+            "timestamp_frame": 54533,
+            "_unmapped_timestamp_sec": 1828.15855,
+            "narration_text": "#C C swirls the dough on the pastry board with his right hand",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1819.1363886,
+            "timestamp_frame": 54573,
+            "_unmapped_timestamp_sec": 1829.49967,
+            "narration_text": "#C C picks the rolling pin from the napkin with his left hand",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1819.7373486,
+            "timestamp_frame": 54591,
+            "_unmapped_timestamp_sec": 1830.10063,
+            "narration_text": "#C C rolls the dough on the pastry board with the rolling pin",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1829.7586686,
+            "timestamp_frame": 54892,
+            "_unmapped_timestamp_sec": 1840.12195,
+            "narration_text": "#C C picks the dough from the pastry board with his right hand",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1828.3390385999999,
+            "timestamp_frame": 54850,
+            "_unmapped_timestamp_sec": 1838.7023199999999,
+            "narration_text": "#C C removes the rolling pin from the dough on the pastry board",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1830.3626986,
+            "timestamp_frame": 54910,
+            "_unmapped_timestamp_sec": 1840.72598,
+            "narration_text": "#C C touches the flour in the bowl with the dough",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1828.7169386,
+            "timestamp_frame": 54861,
+            "_unmapped_timestamp_sec": 1839.08022,
+            "narration_text": "#C C drops the rolling pin on the napkin",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1830.9423486,
+            "timestamp_frame": 54928,
+            "_unmapped_timestamp_sec": 1841.30563,
+            "narration_text": "#C C removes the dough from the flour",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1830.9623486,
+            "timestamp_frame": 54928,
+            "_unmapped_timestamp_sec": 1841.32563,
+            "narration_text": "#C C drops the flour on the pastry board",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1832.0469785999999,
+            "timestamp_frame": 54961,
+            "_unmapped_timestamp_sec": 1842.41026,
+            "narration_text": "#C C swirls the dough on the pastry board with his right hand",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1833.3108985999997,
+            "timestamp_frame": 54999,
+            "_unmapped_timestamp_sec": 1843.67418,
+            "narration_text": "#C C removes his hand from the dough on the pastry board",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1833.8786385999997,
+            "timestamp_frame": 55016,
+            "_unmapped_timestamp_sec": 1844.24192,
+            "narration_text": "#C C turns the dough in the fry pan with his right hand",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1835.4006485999998,
+            "timestamp_frame": 55061,
+            "_unmapped_timestamp_sec": 1845.76393,
+            "narration_text": "#C C removes his hand from the dough in the fry pan",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1836.3689286,
+            "timestamp_frame": 55090,
+            "_unmapped_timestamp_sec": 1846.7322100000001,
+            "narration_text": "#C C adjusts the gas burner controller with his right hand",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1842.1709385999998,
+            "timestamp_frame": 55264,
+            "_unmapped_timestamp_sec": 1852.53422,
+            "narration_text": "#C C removes his hand from the gas burner controller",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1842.8505086,
+            "timestamp_frame": 55285,
+            "_unmapped_timestamp_sec": 1853.21379,
+            "narration_text": "#C C adjusts the dough in the fry pan with his right hand",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1844.6814385999999,
+            "timestamp_frame": 55340,
+            "_unmapped_timestamp_sec": 1855.04472,
+            "narration_text": "#C C removes his hand from the dough in the fry pan",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1832.2068685999998,
+            "timestamp_frame": 54966,
+            "_unmapped_timestamp_sec": 1842.57015,
+            "narration_text": "#C C picks the rolling pin from the napkin with his left hand",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1844.7014385999998,
+            "timestamp_frame": 55340,
+            "_unmapped_timestamp_sec": 1855.06472,
+            "narration_text": "#C C picks the dough from the pastry board with his right hand",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1846.5044085999998,
+            "timestamp_frame": 55395,
+            "_unmapped_timestamp_sec": 1856.86769,
+            "narration_text": "#C C touches the flour in the bowl with the dough",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1847.9683986,
+            "timestamp_frame": 55438,
+            "_unmapped_timestamp_sec": 1858.33168,
+            "narration_text": "#C C drops the flour on the pastry board",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1847.6583086,
+            "timestamp_frame": 55429,
+            "_unmapped_timestamp_sec": 1858.02159,
+            "narration_text": "#C C removes the dough from the flour",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1847.9883986,
+            "timestamp_frame": 55439,
+            "_unmapped_timestamp_sec": 1858.35168,
+            "narration_text": "#C C swirls the dough on the pastry board with his right hand",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1849.9693585999999,
+            "timestamp_frame": 55498,
+            "_unmapped_timestamp_sec": 1860.33264,
+            "narration_text": "#C C rolls the dough on the pastry board with the rolling pin",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1866.4660586,
+            "timestamp_frame": 55993,
+            "_unmapped_timestamp_sec": 1876.82934,
+            "narration_text": "#C C drops the rolling pin on the napkin",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1866.6992786,
+            "timestamp_frame": 56000,
+            "_unmapped_timestamp_sec": 1877.06256,
+            "narration_text": "#C C swirls the dough in the fry pan with his right hand",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1865.9486686,
+            "timestamp_frame": 55978,
+            "_unmapped_timestamp_sec": 1876.31195,
+            "narration_text": "#C C removes the rolling pin from the dough on the pastry board",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1868.8009186,
+            "timestamp_frame": 56063,
+            "_unmapped_timestamp_sec": 1879.1642,
+            "narration_text": "#C C turns the dough in the fry pan with his right hand",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1869.8909685999997,
+            "timestamp_frame": 56096,
+            "_unmapped_timestamp_sec": 1880.25425,
+            "narration_text": "#C C removes his right hand from the dough in the fry pan",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1870.4593286,
+            "timestamp_frame": 56113,
+            "_unmapped_timestamp_sec": 1880.82261,
+            "narration_text": "#C C picks the baked dough from the cooler",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1871.9850185999999,
+            "timestamp_frame": 56159,
+            "_unmapped_timestamp_sec": 1882.3483,
+            "narration_text": "#C C drops the baked dough on the dough in the fry pan",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1873.0525685999999,
+            "timestamp_frame": 56191,
+            "_unmapped_timestamp_sec": 1883.4158499999999,
+            "narration_text": "#C C swirls the doughs on the fry pan with his right hand",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1883.1674886,
+            "timestamp_frame": 56494,
+            "_unmapped_timestamp_sec": 1893.53077,
+            "narration_text": "#C C picks the doughs from the fry pan",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1883.9378585999998,
+            "timestamp_frame": 56518,
+            "_unmapped_timestamp_sec": 1894.30114,
+            "narration_text": "#C C drops the baked dough into the cooler",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1884.8940186,
+            "timestamp_frame": 56546,
+            "_unmapped_timestamp_sec": 1895.2573,
+            "narration_text": "#C C adjusts the doughs into the cooler",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1886.1753586,
+            "timestamp_frame": 56585,
+            "_unmapped_timestamp_sec": 1896.53864,
+            "narration_text": "#C C removes his hand from the cooler",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1886.9757485999999,
+            "timestamp_frame": 56609,
+            "_unmapped_timestamp_sec": 1897.33903,
+            "narration_text": "#C C picks the dough from the pastry board",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1888.7896086,
+            "timestamp_frame": 56663,
+            "_unmapped_timestamp_sec": 1899.15289,
+            "narration_text": "#C C drops the dough into the fry pan",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1890.4190186,
+            "timestamp_frame": 56712,
+            "_unmapped_timestamp_sec": 1900.7823,
+            "narration_text": "#C C picks another dough from the bowl",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1891.1020786,
+            "timestamp_frame": 56732,
+            "_unmapped_timestamp_sec": 1901.46536,
+            "narration_text": "#C C rolls the dough with his hands",
+            "annotation_uid": "f3a8ad26-56d1-45d1-8ba9-56e00f760613"
+        },
+        {
+            "timestamp_sec": 1895.8528885999997,
+            "timestamp_frame": 56875,
+            "_unmapped_timestamp_sec": 1906.18186,
+            "narration_text": "#O A man X picks up a spoon from a tray on the floor",
+            "annotation_uid": "dc0baf05-fee3-4544-9e1e-db6e7f13d25f"
+        },
+        {
+            "timestamp_sec": 1896.5933685999998,
+            "timestamp_frame": 56897,
+            "_unmapped_timestamp_sec": 1906.92234,
+            "narration_text": "#O The man X stirs the okra in a pot on the cooker ",
+            "annotation_uid": "dc0baf05-fee3-4544-9e1e-db6e7f13d25f"
+        },
+        {
+            "timestamp_sec": 1896.8146485999998,
+            "timestamp_frame": 56904,
+            "_unmapped_timestamp_sec": 1907.14362,
+            "narration_text": "#C C kneads the dough",
+            "annotation_uid": "dc0baf05-fee3-4544-9e1e-db6e7f13d25f"
+        },
+        {
+            "timestamp_sec": 1909.3542485999997,
+            "timestamp_frame": 57280,
+            "_unmapped_timestamp_sec": 1919.68322,
+            "narration_text": "#C C turns over the dough in the frying pan",
+            "annotation_uid": "dc0baf05-fee3-4544-9e1e-db6e7f13d25f"
+        },
+        {
+            "timestamp_sec": 1911.9983885999998,
+            "timestamp_frame": 57359,
+            "_unmapped_timestamp_sec": 1922.32736,
+            "narration_text": "#C C kneads the dough",
+            "annotation_uid": "dc0baf05-fee3-4544-9e1e-db6e7f13d25f"
+        },
+        {
+            "timestamp_sec": 1915.0844785999998,
+            "timestamp_frame": 57452,
+            "_unmapped_timestamp_sec": 1925.41345,
+            "narration_text": "#O The man X drops the spoon on the tray on the floor",
+            "annotation_uid": "dc0baf05-fee3-4544-9e1e-db6e7f13d25f"
+        },
+        {
+            "timestamp_sec": 1917.1101085999999,
+            "timestamp_frame": 57513,
+            "_unmapped_timestamp_sec": 1927.43908,
+            "narration_text": "#C C kneads the dough",
+            "annotation_uid": "dc0baf05-fee3-4544-9e1e-db6e7f13d25f"
+        },
+        {
+            "timestamp_sec": 1936.3040985999999,
+            "timestamp_frame": 58088,
+            "_unmapped_timestamp_sec": 1946.63307,
+            "narration_text": "#C C turns over the dough in the frying pan",
+            "annotation_uid": "dc0baf05-fee3-4544-9e1e-db6e7f13d25f"
+        },
+        {
+            "timestamp_sec": 1938.9710486,
+            "timestamp_frame": 58169,
+            "_unmapped_timestamp_sec": 1949.30002,
+            "narration_text": "#C C kneads the dough on the pastry board on the floor",
+            "annotation_uid": "dc0baf05-fee3-4544-9e1e-db6e7f13d25f"
+        },
+        {
+            "timestamp_sec": 1792.7049419333332,
+            "timestamp_frame": 53781,
+            "_unmapped_timestamp_sec": 1800.70058,
+            "narration_text": "#C C  picks a towel aside",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1794.2895919333332,
+            "timestamp_frame": 53828,
+            "_unmapped_timestamp_sec": 1802.28523,
+            "narration_text": "#C C folds a towel",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1794.9771119333332,
+            "timestamp_frame": 53849,
+            "_unmapped_timestamp_sec": 1802.97275,
+            "narration_text": "#C C rotates a chapati with a towel",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1803.5354785999998,
+            "timestamp_frame": 54105,
+            "_unmapped_timestamp_sec": 1813.89876,
+            "narration_text": "#O A man Y stirs food with a turner",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1807.1251985999997,
+            "timestamp_frame": 54213,
+            "_unmapped_timestamp_sec": 1817.48848,
+            "narration_text": "#C C pulls towel off the chapati",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1807.3832186,
+            "timestamp_frame": 54221,
+            "_unmapped_timestamp_sec": 1817.7465,
+            "narration_text": "#C C drops the towel on the floor",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1808.8076686,
+            "timestamp_frame": 54264,
+            "_unmapped_timestamp_sec": 1819.17095,
+            "narration_text": "#C C picks a chapati",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1809.9674885999998,
+            "timestamp_frame": 54298,
+            "_unmapped_timestamp_sec": 1820.33077,
+            "narration_text": "#C C puts a chapati in a dish",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1812.7821086,
+            "timestamp_frame": 54383,
+            "_unmapped_timestamp_sec": 1823.14539,
+            "narration_text": "#C C picks  shaped dough",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1814.0743486,
+            "timestamp_frame": 54422,
+            "_unmapped_timestamp_sec": 1824.43763,
+            "narration_text": "#C C puts shaped dough on a pan",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1816.3310285999999,
+            "timestamp_frame": 54489,
+            "_unmapped_timestamp_sec": 1826.69431,
+            "narration_text": "#C C applies flour on a  dough",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1817.2852685999999,
+            "timestamp_frame": 54518,
+            "_unmapped_timestamp_sec": 1827.64855,
+            "narration_text": "#C C picks   dough",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1818.0183385999999,
+            "timestamp_frame": 54540,
+            "_unmapped_timestamp_sec": 1828.38162,
+            "narration_text": "#C C puts dough on a rolling board",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1818.0310786,
+            "timestamp_frame": 54540,
+            "_unmapped_timestamp_sec": 1828.39436,
+            "narration_text": "#C C rotates dough on rolling board",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1818.8386185999998,
+            "timestamp_frame": 54565,
+            "_unmapped_timestamp_sec": 1829.2019,
+            "narration_text": "#C C picks a rolling pin",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1819.9248486,
+            "timestamp_frame": 54597,
+            "_unmapped_timestamp_sec": 1830.28813,
+            "narration_text": "#C C shapes dough with a rolling pin",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1830.4177386,
+            "timestamp_frame": 54912,
+            "_unmapped_timestamp_sec": 1840.78102,
+            "narration_text": "#C C applies flour on the dough",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1831.4736685999999,
+            "timestamp_frame": 54944,
+            "_unmapped_timestamp_sec": 1841.83695,
+            "narration_text": "#C C puts dough on a rolling board",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1833.0645586,
+            "timestamp_frame": 54991,
+            "_unmapped_timestamp_sec": 1843.42784,
+            "narration_text": "#C C rotates dough on rolling board",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1834.7315085999999,
+            "timestamp_frame": 55041,
+            "_unmapped_timestamp_sec": 1845.09479,
+            "narration_text": "#C C flips a chapati",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1835.1288185999997,
+            "timestamp_frame": 55053,
+            "_unmapped_timestamp_sec": 1845.4921,
+            "narration_text": "#C C puts the chapati on the pan",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1836.3772986,
+            "timestamp_frame": 55091,
+            "_unmapped_timestamp_sec": 1846.74058,
+            "narration_text": "#C C adjusts heat with the power button",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1843.4496586,
+            "timestamp_frame": 55303,
+            "_unmapped_timestamp_sec": 1853.81294,
+            "narration_text": "#C C flips a chapati",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1846.7013485999998,
+            "timestamp_frame": 55400,
+            "_unmapped_timestamp_sec": 1857.06463,
+            "narration_text": "#C C applies flour on the dough",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1847.9956585999998,
+            "timestamp_frame": 55439,
+            "_unmapped_timestamp_sec": 1858.35894,
+            "narration_text": "#C C puts dough on a rolling board",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1848.3136286,
+            "timestamp_frame": 55449,
+            "_unmapped_timestamp_sec": 1858.67691,
+            "narration_text": "#C C rotates dough on rolling board",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1849.8982486,
+            "timestamp_frame": 55496,
+            "_unmapped_timestamp_sec": 1860.26153,
+            "narration_text": "#C C shapes dough with a rolling pin",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1866.0840485999997,
+            "timestamp_frame": 55982,
+            "_unmapped_timestamp_sec": 1876.44733,
+            "narration_text": "#C C pulls the rolling pin off the dough",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1867.2783586,
+            "timestamp_frame": 56018,
+            "_unmapped_timestamp_sec": 1877.64164,
+            "narration_text": "#C C rotates the chapati",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1869.0086686,
+            "timestamp_frame": 56070,
+            "_unmapped_timestamp_sec": 1879.37195,
+            "narration_text": "#C C flips a chapati",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1870.8285086,
+            "timestamp_frame": 56124,
+            "_unmapped_timestamp_sec": 1881.19179,
+            "narration_text": "#C C picks a chapati",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1872.1393386,
+            "timestamp_frame": 56164,
+            "_unmapped_timestamp_sec": 1882.50262,
+            "narration_text": "#C C puts the chapati on top of another chapati",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1873.3399786,
+            "timestamp_frame": 56200,
+            "_unmapped_timestamp_sec": 1883.70326,
+            "narration_text": "#C C rotates the chapatis",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1883.2475286,
+            "timestamp_frame": 56497,
+            "_unmapped_timestamp_sec": 1893.6108100000001,
+            "narration_text": "#C C picks the chapatis",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1884.0725386,
+            "timestamp_frame": 56522,
+            "_unmapped_timestamp_sec": 1894.43582,
+            "narration_text": "#C C puts the chapatis in a dish",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1888.0304185999998,
+            "timestamp_frame": 56640,
+            "_unmapped_timestamp_sec": 1898.3937,
+            "narration_text": "#C C picks shaped dough",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1888.8008485999999,
+            "timestamp_frame": 56663,
+            "_unmapped_timestamp_sec": 1899.1641300000001,
+            "narration_text": "#C C puts the shaped dough on a pan",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1890.3054186,
+            "timestamp_frame": 56709,
+            "_unmapped_timestamp_sec": 1900.6687,
+            "narration_text": "#C C picks dough",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1891.2179486,
+            "timestamp_frame": 56736,
+            "_unmapped_timestamp_sec": 1901.58123,
+            "narration_text": "#C C rolls the dough with his hands",
+            "annotation_uid": "e98c29c9-e508-4ea7-b21d-689ee61d0d8e"
+        },
+        {
+            "timestamp_sec": 1896.1146785999997,
+            "timestamp_frame": 56883,
+            "_unmapped_timestamp_sec": 1906.44365,
+            "narration_text": "#O A man B picks food turner",
+            "annotation_uid": "22a8e431-c879-4c75-ae32-aadef3ed5bea"
+        },
+        {
+            "timestamp_sec": 1897.3155185999997,
+            "timestamp_frame": 56919,
+            "_unmapped_timestamp_sec": 1907.64449,
+            "narration_text": "#O Aman B mixes the food",
+            "annotation_uid": "22a8e431-c879-4c75-ae32-aadef3ed5bea"
+        },
+        {
+            "timestamp_sec": 1905.1942885999997,
+            "timestamp_frame": 57155,
+            "_unmapped_timestamp_sec": 1915.52326,
+            "narration_text": "#C C puts dough ball on wheat flour",
+            "annotation_uid": "22a8e431-c879-4c75-ae32-aadef3ed5bea"
+        },
+        {
+            "timestamp_sec": 1905.8634385999999,
+            "timestamp_frame": 57175,
+            "_unmapped_timestamp_sec": 1916.19241,
+            "narration_text": "#C C rotates dough ball on the wheat flour",
+            "annotation_uid": "22a8e431-c879-4c75-ae32-aadef3ed5bea"
+        },
+        {
+            "timestamp_sec": 1910.2200485999997,
+            "timestamp_frame": 57306,
+            "_unmapped_timestamp_sec": 1920.54902,
+            "narration_text": "#C C holds chapati",
+            "annotation_uid": "22a8e431-c879-4c75-ae32-aadef3ed5bea"
+        },
+        {
+            "timestamp_sec": 1910.4648885999998,
+            "timestamp_frame": 57313,
+            "_unmapped_timestamp_sec": 1920.79386,
+            "narration_text": "#C C turns chapati",
+            "annotation_uid": "22a8e431-c879-4c75-ae32-aadef3ed5bea"
+        },
+        {
+            "timestamp_sec": 1912.5309785999998,
+            "timestamp_frame": 57375,
+            "_unmapped_timestamp_sec": 1922.85995,
+            "narration_text": "#C C rolls dough ball",
+            "annotation_uid": "22a8e431-c879-4c75-ae32-aadef3ed5bea"
+        },
+        {
+            "timestamp_sec": 1915.2499285999997,
+            "timestamp_frame": 57457,
+            "_unmapped_timestamp_sec": 1925.5789,
+            "narration_text": "#O A man B places food turner on the tray",
+            "annotation_uid": "22a8e431-c879-4c75-ae32-aadef3ed5bea"
+        },
+        {
+            "timestamp_sec": 1918.0784285999998,
+            "timestamp_frame": 57542,
+            "_unmapped_timestamp_sec": 1928.4074,
+            "narration_text": "#C C rolls ball dough",
+            "annotation_uid": "22a8e431-c879-4c75-ae32-aadef3ed5bea"
+        },
+        {
+            "timestamp_sec": 1920.8349185999998,
+            "timestamp_frame": 57624,
+            "_unmapped_timestamp_sec": 1931.16389,
+            "narration_text": "#C C tosses flat dough on the wheat flour",
+            "annotation_uid": "22a8e431-c879-4c75-ae32-aadef3ed5bea"
+        },
+        {
+            "timestamp_sec": 1921.8376085999998,
+            "timestamp_frame": 57654,
+            "_unmapped_timestamp_sec": 1932.16658,
+            "narration_text": "#C C places flat dough on the rolling board",
+            "annotation_uid": "22a8e431-c879-4c75-ae32-aadef3ed5bea"
+        },
+        {
+            "timestamp_sec": 1923.0142585999997,
+            "timestamp_frame": 57690,
+            "_unmapped_timestamp_sec": 1933.34323,
+            "narration_text": "#C C picks rolling pin",
+            "annotation_uid": "22a8e431-c879-4c75-ae32-aadef3ed5bea"
+        },
+        {
+            "timestamp_sec": 1923.4372685999997,
+            "timestamp_frame": 57702,
+            "_unmapped_timestamp_sec": 1933.76624,
+            "narration_text": "#C C rolls  flat dough",
+            "annotation_uid": "22a8e431-c879-4c75-ae32-aadef3ed5bea"
+        },
+        {
+            "timestamp_sec": 1935.9139785999998,
+            "timestamp_frame": 58077,
+            "_unmapped_timestamp_sec": 1946.24295,
+            "narration_text": "#C C holds chapati",
+            "annotation_uid": "22a8e431-c879-4c75-ae32-aadef3ed5bea"
+        },
+        {
+            "timestamp_sec": 1937.2703685999998,
+            "timestamp_frame": 58117,
+            "_unmapped_timestamp_sec": 1947.59934,
+            "narration_text": "#C C turns chapati",
+            "annotation_uid": "22a8e431-c879-4c75-ae32-aadef3ed5bea"
+        },
+        {
+            "timestamp_sec": 1939.2321085999997,
+            "timestamp_frame": 58176,
+            "_unmapped_timestamp_sec": 1949.56108,
+            "narration_text": "#C C holds flat dough",
+            "annotation_uid": "22a8e431-c879-4c75-ae32-aadef3ed5bea"
+        },
+        {
+            "timestamp_sec": 1941.2642885999999,
+            "timestamp_frame": 58237,
+            "_unmapped_timestamp_sec": 1951.59326,
+            "narration_text": "#C C tosses flat dough on the wheat flour",
+            "annotation_uid": "22a8e431-c879-4c75-ae32-aadef3ed5bea"
+        }
+    ]
+}

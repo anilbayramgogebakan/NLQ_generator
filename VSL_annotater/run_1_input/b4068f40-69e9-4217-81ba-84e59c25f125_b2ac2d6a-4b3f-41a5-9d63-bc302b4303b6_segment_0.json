@@ -1,0 +1,851 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 0.631,
+            "timestamp_frame": 19,
+            "_unmapped_timestamp_sec": 0.631,
+            "narration_text": "#C C, a woman X and a woman Y sorts some clothes, and bags in an apartment.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 6.43052,
+            "timestamp_frame": 193,
+            "_unmapped_timestamp_sec": 6.43052,
+            "narration_text": "#O  A dog Z stands close to a heap of clothes on the floor.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 9.65049,
+            "timestamp_frame": 290,
+            "_unmapped_timestamp_sec": 9.65049,
+            "narration_text": "#O The dog Z licks a stainless bowl on the floor.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 11.62282,
+            "timestamp_frame": 349,
+            "_unmapped_timestamp_sec": 11.62282,
+            "narration_text": "#C C looks around.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 21.86195,
+            "timestamp_frame": 656,
+            "_unmapped_timestamp_sec": 21.86195,
+            "narration_text": "#C C sorts out some clothes from a box. ",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 26.44567,
+            "timestamp_frame": 793,
+            "_unmapped_timestamp_sec": 26.44567,
+            "narration_text": "#C C turns side-ways.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 30.04591,
+            "timestamp_frame": 901,
+            "_unmapped_timestamp_sec": 30.04591,
+            "narration_text": "#O The woman X and the woman Y sorts clothes and  from the box.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 42.00088,
+            "timestamp_frame": 1260,
+            "_unmapped_timestamp_sec": 42.00088,
+            "narration_text": "#C C throws a green bag on the floor.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 45.57244,
+            "timestamp_frame": 1367,
+            "_unmapped_timestamp_sec": 45.57244,
+            "narration_text": "#C C picks a light brown bag from the box.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 50.00794,
+            "timestamp_frame": 1500,
+            "_unmapped_timestamp_sec": 50.00794,
+            "narration_text": "#C C throws a light brown bag on the floor.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 53.55174,
+            "timestamp_frame": 1607,
+            "_unmapped_timestamp_sec": 53.55174,
+            "narration_text": "#O The woman X picks a green bag from the box.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 55.01577,
+            "timestamp_frame": 1650,
+            "_unmapped_timestamp_sec": 55.01577,
+            "narration_text": "#C C looks at some hung aprons in the apartment.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 58.93129,
+            "timestamp_frame": 1768,
+            "_unmapped_timestamp_sec": 58.93129,
+            "narration_text": "#C C picks a brown bag from the box.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 62.02396,
+            "timestamp_frame": 1861,
+            "_unmapped_timestamp_sec": 62.02396,
+            "narration_text": "#C C throws the brown bag on the floor.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 63.47311,
+            "timestamp_frame": 1904,
+            "_unmapped_timestamp_sec": 63.47311,
+            "narration_text": "#O The woman Y picks a green bag from the box.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 64.20544,
+            "timestamp_frame": 1926,
+            "_unmapped_timestamp_sec": 64.20544,
+            "narration_text": "#C C looks at the sorted bags and clothes on the floor.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 67.0577,
+            "timestamp_frame": 2012,
+            "_unmapped_timestamp_sec": 67.0577,
+            "narration_text": "#C C picks a small purse from the box.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 73.06195,
+            "timestamp_frame": 2192,
+            "_unmapped_timestamp_sec": 73.06195,
+            "narration_text": "#C C throws the purses in her hands on the floor.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 77.70553,
+            "timestamp_frame": 2331,
+            "_unmapped_timestamp_sec": 77.70553,
+            "narration_text": "#C C looks sideways.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 81.10503,
+            "timestamp_frame": 2433,
+            "_unmapped_timestamp_sec": 81.10503,
+            "narration_text": "#C C picks a bag from the box.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 84.78498,
+            "timestamp_frame": 2544,
+            "_unmapped_timestamp_sec": 84.78498,
+            "narration_text": "#C C throws the bag on the floor.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 88.41142,
+            "timestamp_frame": 2652,
+            "_unmapped_timestamp_sec": 88.41142,
+            "narration_text": "#O The woman Y drops a black bag on the heap of bags on the floor.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 91.10683,
+            "timestamp_frame": 2733,
+            "_unmapped_timestamp_sec": 91.10683,
+            "narration_text": "#C C looks at a white cloth on the floor.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 91.77851,
+            "timestamp_frame": 2753,
+            "_unmapped_timestamp_sec": 91.77851,
+            "narration_text": "#C C picks the white cloth from the floor.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 93.29031,
+            "timestamp_frame": 2799,
+            "_unmapped_timestamp_sec": 93.29031,
+            "narration_text": "#C C looks around the apartment.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 99.28609,
+            "timestamp_frame": 2979,
+            "_unmapped_timestamp_sec": 99.28609,
+            "narration_text": "#C C packs some clothes from the floor.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 101.25014,
+            "timestamp_frame": 3038,
+            "_unmapped_timestamp_sec": 101.25014,
+            "narration_text": "#C C picks a blue cloth from the floor.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 103.24984,
+            "timestamp_frame": 3097,
+            "_unmapped_timestamp_sec": 103.24984,
+            "narration_text": "#C C walks away from the heap of clothes on the floor.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 109.23932,
+            "timestamp_frame": 3277,
+            "_unmapped_timestamp_sec": 109.23932,
+            "narration_text": "#C C opens a washing machine with her right hand.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 110.73864,
+            "timestamp_frame": 3322,
+            "_unmapped_timestamp_sec": 110.73864,
+            "narration_text": "#C C looks sideways.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 111.96641,
+            "timestamp_frame": 3359,
+            "_unmapped_timestamp_sec": 111.96641,
+            "narration_text": "#C C puts the clothes inside the washing machine.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 122.87655,
+            "timestamp_frame": 3686,
+            "_unmapped_timestamp_sec": 122.87655,
+            "narration_text": "#C C turns-on the washing machine with her left hand.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 124.12133,
+            "timestamp_frame": 3724,
+            "_unmapped_timestamp_sec": 124.12133,
+            "narration_text": "#C C regulates the washing machine with her right hand.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 127.34906,
+            "timestamp_frame": 3820,
+            "_unmapped_timestamp_sec": 127.34906,
+            "narration_text": "#O The woman X walks towards a sink.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 129.93216,
+            "timestamp_frame": 3898,
+            "_unmapped_timestamp_sec": 129.93216,
+            "narration_text": "#C C walks away from the washing machine.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 131.99559,
+            "timestamp_frame": 3960,
+            "_unmapped_timestamp_sec": 131.99559,
+            "narration_text": "#O The woman X opens a kitchen cabinet.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 140.28975,
+            "timestamp_frame": 4209,
+            "_unmapped_timestamp_sec": 140.28975,
+            "narration_text": "#C C walks towards the boxes.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 145.64946,
+            "timestamp_frame": 4369,
+            "_unmapped_timestamp_sec": 145.64946,
+            "narration_text": "#C C picks-up a bag from the floor.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 147.93815,
+            "timestamp_frame": 4438,
+            "_unmapped_timestamp_sec": 147.93815,
+            "narration_text": "#C C looks sideways.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 149.73569,
+            "timestamp_frame": 4492,
+            "_unmapped_timestamp_sec": 149.73569,
+            "narration_text": "#C C picks-up some bags from the floor.",
+            "annotation_uid": "cf01b501-c61f-4212-a6fc-14c969df0160"
+        },
+        {
+            "timestamp_sec": 0.8064,
+            "timestamp_frame": 24,
+            "_unmapped_timestamp_sec": 0.8064,
+            "narration_text": "#O person A moves the bag",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 1.2231,
+            "timestamp_frame": 37,
+            "_unmapped_timestamp_sec": 1.2231,
+            "narration_text": "#C C picks a bag",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 1.14769,
+            "timestamp_frame": 34,
+            "_unmapped_timestamp_sec": 1.14769,
+            "narration_text": "#O person B picks a bottle",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 1.65117,
+            "timestamp_frame": 50,
+            "_unmapped_timestamp_sec": 1.65117,
+            "narration_text": "#C C holds the bag",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 2.08831,
+            "timestamp_frame": 63,
+            "_unmapped_timestamp_sec": 2.08831,
+            "narration_text": "#O person A moves the bag",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 4.32373,
+            "timestamp_frame": 130,
+            "_unmapped_timestamp_sec": 4.32373,
+            "narration_text": "#O person B holds the red bag",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 5.80656,
+            "timestamp_frame": 174,
+            "_unmapped_timestamp_sec": 5.80656,
+            "narration_text": "#O person B picks the cloth",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 3.64833,
+            "timestamp_frame": 109,
+            "_unmapped_timestamp_sec": 3.64833,
+            "narration_text": "#C C  picks the bag",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 4.82256,
+            "timestamp_frame": 145,
+            "_unmapped_timestamp_sec": 4.82256,
+            "narration_text": "#O person A moves the bag",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 7.23793,
+            "timestamp_frame": 217,
+            "_unmapped_timestamp_sec": 7.23793,
+            "narration_text": "#O person A pulls the bag",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 8.02125,
+            "timestamp_frame": 241,
+            "_unmapped_timestamp_sec": 8.02125,
+            "narration_text": "#O person A throws  the bag",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 7.01934,
+            "timestamp_frame": 211,
+            "_unmapped_timestamp_sec": 7.01934,
+            "narration_text": "#C C   holds the bag",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 11.71895,
+            "timestamp_frame": 352,
+            "_unmapped_timestamp_sec": 11.71895,
+            "narration_text": "#O person B bends close to the bag",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 8.55804,
+            "timestamp_frame": 257,
+            "_unmapped_timestamp_sec": 8.55804,
+            "narration_text": "#C C  throws the cloth to the dog",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 10.92082,
+            "timestamp_frame": 328,
+            "_unmapped_timestamp_sec": 10.92082,
+            "narration_text": "#O person A picks cloths in the backet",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 14.71777,
+            "timestamp_frame": 442,
+            "_unmapped_timestamp_sec": 14.71777,
+            "narration_text": "#O person A picks cloths in the backet",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 15.95103,
+            "timestamp_frame": 479,
+            "_unmapped_timestamp_sec": 15.95103,
+            "narration_text": "#O person B moves close to the bucket of cloths",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 18.31773,
+            "timestamp_frame": 550,
+            "_unmapped_timestamp_sec": 18.31773,
+            "narration_text": "#O person B puts aside the cloth",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 18.21384,
+            "timestamp_frame": 546,
+            "_unmapped_timestamp_sec": 18.21384,
+            "narration_text": "#O person A puts the cloths down",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 19.54716,
+            "timestamp_frame": 586,
+            "_unmapped_timestamp_sec": 19.54716,
+            "narration_text": "#O person A puts # unsure on the floor",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 22.12479,
+            "timestamp_frame": 664,
+            "_unmapped_timestamp_sec": 22.12479,
+            "narration_text": "#O person B  moves to the bucket",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 22.2146,
+            "timestamp_frame": 666,
+            "_unmapped_timestamp_sec": 22.2146,
+            "narration_text": "#O person A moves to the bucket",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 22.81873,
+            "timestamp_frame": 685,
+            "_unmapped_timestamp_sec": 22.81873,
+            "narration_text": "#O person S walks away in the room",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 26.38306,
+            "timestamp_frame": 791,
+            "_unmapped_timestamp_sec": 26.38306,
+            "narration_text": "#O person B moves the bag",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 25.27906,
+            "timestamp_frame": 758,
+            "_unmapped_timestamp_sec": 25.27906,
+            "narration_text": "#O person A moves the leg",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 28.72234,
+            "timestamp_frame": 862,
+            "_unmapped_timestamp_sec": 28.72234,
+            "narration_text": "#O person A picks a bag",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 31.15536,
+            "timestamp_frame": 935,
+            "_unmapped_timestamp_sec": 31.15536,
+            "narration_text": "#O person A drops the bag down",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 25.40204,
+            "timestamp_frame": 762,
+            "_unmapped_timestamp_sec": 25.40204,
+            "narration_text": "#C C puts the bottle down",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 30.28477,
+            "timestamp_frame": 909,
+            "_unmapped_timestamp_sec": 30.28477,
+            "narration_text": "#O person B moves close to the bucket",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 31.28463,
+            "timestamp_frame": 939,
+            "_unmapped_timestamp_sec": 31.28463,
+            "narration_text": "#C C  holds the cloth in hand",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 33.98133,
+            "timestamp_frame": 1019,
+            "_unmapped_timestamp_sec": 33.98133,
+            "narration_text": "#O person B puts the bag down",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 35.44801,
+            "timestamp_frame": 1063,
+            "_unmapped_timestamp_sec": 35.44801,
+            "narration_text": "#O person A shakes the bag",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 36.5477,
+            "timestamp_frame": 1096,
+            "_unmapped_timestamp_sec": 36.5477,
+            "narration_text": "#C C throws #unsure down",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 37.8817,
+            "timestamp_frame": 1136,
+            "_unmapped_timestamp_sec": 37.8817,
+            "narration_text": "#O person A puts the bag aside",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 39.6318,
+            "timestamp_frame": 1189,
+            "_unmapped_timestamp_sec": 39.6318,
+            "narration_text": "#O person B moves to the bucket of clothes",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 40.49847,
+            "timestamp_frame": 1215,
+            "_unmapped_timestamp_sec": 40.49847,
+            "narration_text": "#O person S walks back to clothes",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 41.1894,
+            "timestamp_frame": 1236,
+            "_unmapped_timestamp_sec": 41.1894,
+            "narration_text": "#C C throws the bag down",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 42.22537,
+            "timestamp_frame": 1267,
+            "_unmapped_timestamp_sec": 42.22537,
+            "narration_text": "#O person B throws the bag down",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 47.15349,
+            "timestamp_frame": 1415,
+            "_unmapped_timestamp_sec": 47.15349,
+            "narration_text": "#O person A holds clothes",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 43.92598,
+            "timestamp_frame": 1318,
+            "_unmapped_timestamp_sec": 43.92598,
+            "narration_text": "#O person B holds the fabric",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 43.91968,
+            "timestamp_frame": 1318,
+            "_unmapped_timestamp_sec": 43.91968,
+            "narration_text": "#O person A moves the hand in bucket of clothes",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 48.74076,
+            "timestamp_frame": 1462,
+            "_unmapped_timestamp_sec": 48.74076,
+            "narration_text": "#O person B walks to the bucket",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 50.21992,
+            "timestamp_frame": 1507,
+            "_unmapped_timestamp_sec": 50.21992,
+            "narration_text": "#C C drops the bag aside",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 53.28667,
+            "timestamp_frame": 1599,
+            "_unmapped_timestamp_sec": 53.28667,
+            "narration_text": "#C C drops the bag aside",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 53.74302,
+            "timestamp_frame": 1612,
+            "_unmapped_timestamp_sec": 53.74302,
+            "narration_text": "#O person B holds the fabric",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 57.29075,
+            "timestamp_frame": 1719,
+            "_unmapped_timestamp_sec": 57.29075,
+            "narration_text": "#O person A picks the clothe",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 58.14192,
+            "timestamp_frame": 1744,
+            "_unmapped_timestamp_sec": 58.14192,
+            "narration_text": "#O person B holds both hands on the bucket",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 58.9591,
+            "timestamp_frame": 1769,
+            "_unmapped_timestamp_sec": 58.9591,
+            "narration_text": "#C C moves the hand in the bucket",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 60.25965,
+            "timestamp_frame": 1808,
+            "_unmapped_timestamp_sec": 60.25965,
+            "narration_text": "#O person B picks the green bag",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 61.94309,
+            "timestamp_frame": 1858,
+            "_unmapped_timestamp_sec": 61.94309,
+            "narration_text": "#O person A lifts the bag",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 63.72606,
+            "timestamp_frame": 1912,
+            "_unmapped_timestamp_sec": 63.72606,
+            "narration_text": "#C C drops the bags",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 65.9201,
+            "timestamp_frame": 1978,
+            "_unmapped_timestamp_sec": 65.9201,
+            "narration_text": "#O person B puts the bag aside",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 67.35439,
+            "timestamp_frame": 2021,
+            "_unmapped_timestamp_sec": 67.35439,
+            "narration_text": "#C C picks #unsure",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 70.44554,
+            "timestamp_frame": 2113,
+            "_unmapped_timestamp_sec": 70.44554,
+            "narration_text": "#O person B moves to the bucket",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 71.57887,
+            "timestamp_frame": 2147,
+            "_unmapped_timestamp_sec": 71.57887,
+            "narration_text": "#O person A drops the bug down",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 73.71033,
+            "timestamp_frame": 2211,
+            "_unmapped_timestamp_sec": 73.71033,
+            "narration_text": "#C C throws #unsure",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 75.62707,
+            "timestamp_frame": 2269,
+            "_unmapped_timestamp_sec": 75.62707,
+            "narration_text": "#O person A stands close to bucket",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 77.01036,
+            "timestamp_frame": 2310,
+            "_unmapped_timestamp_sec": 77.01036,
+            "narration_text": "#O person B touches # unsure in the bucket",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 78.64708,
+            "timestamp_frame": 2359,
+            "_unmapped_timestamp_sec": 78.64708,
+            "narration_text": "#O person A drops the envelope on the ground",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 80.08117,
+            "timestamp_frame": 2402,
+            "_unmapped_timestamp_sec": 80.08117,
+            "narration_text": "#O person B moves from the bucket",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 81.51384,
+            "timestamp_frame": 2445,
+            "_unmapped_timestamp_sec": 81.51384,
+            "narration_text": "#C C picks the fabric from the bucket",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 84.74343,
+            "timestamp_frame": 2542,
+            "_unmapped_timestamp_sec": 84.74343,
+            "narration_text": "#O person B moves close to the bucket",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 87.67661,
+            "timestamp_frame": 2630,
+            "_unmapped_timestamp_sec": 87.67661,
+            "narration_text": "#C C drops the fabric on the floor",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 88.50979,
+            "timestamp_frame": 2655,
+            "_unmapped_timestamp_sec": 88.50979,
+            "narration_text": "#O person A drops the floor",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 90.38637,
+            "timestamp_frame": 2712,
+            "_unmapped_timestamp_sec": 90.38637,
+            "narration_text": "#O person S walks in the room",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 92.8199,
+            "timestamp_frame": 2785,
+            "_unmapped_timestamp_sec": 92.8199,
+            "narration_text": "#C C picks the clothes from the floor",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 94.28959,
+            "timestamp_frame": 2829,
+            "_unmapped_timestamp_sec": 94.28959,
+            "narration_text": "#O person S walks in the room",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 98.64463,
+            "timestamp_frame": 2959,
+            "_unmapped_timestamp_sec": 98.64463,
+            "narration_text": "#C C moves the clothes",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 97.9329,
+            "timestamp_frame": 2938,
+            "_unmapped_timestamp_sec": 97.9329,
+            "narration_text": "#C C moves the clothes",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 104.25991,
+            "timestamp_frame": 3128,
+            "_unmapped_timestamp_sec": 104.25991,
+            "narration_text": "#C C walks carrying blue cloth",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 109.80945,
+            "timestamp_frame": 3294,
+            "_unmapped_timestamp_sec": 109.80945,
+            "narration_text": "#C C opens the laundry mashine",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 111.04307,
+            "timestamp_frame": 3331,
+            "_unmapped_timestamp_sec": 111.04307,
+            "narration_text": "#C C puts cloths in the laundry mashine",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 123.10425,
+            "timestamp_frame": 3693,
+            "_unmapped_timestamp_sec": 123.10425,
+            "narration_text": "#C C adjusts the button",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 124.38634,
+            "timestamp_frame": 3732,
+            "_unmapped_timestamp_sec": 124.38634,
+            "narration_text": "#C C preses the button on the laudry mashine",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 127.22016,
+            "timestamp_frame": 3817,
+            "_unmapped_timestamp_sec": 127.22016,
+            "narration_text": "#O person B walks to the cupboard",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 131.70936,
+            "timestamp_frame": 3951,
+            "_unmapped_timestamp_sec": 131.70936,
+            "narration_text": "#O person B puts the utensils down",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 133.34274,
+            "timestamp_frame": 4000,
+            "_unmapped_timestamp_sec": 133.34274,
+            "narration_text": "#O person B opens the cupboard",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 135.5857,
+            "timestamp_frame": 4068,
+            "_unmapped_timestamp_sec": 135.5857,
+            "narration_text": "#O person B moves the wooden board down",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 138.58491,
+            "timestamp_frame": 4158,
+            "_unmapped_timestamp_sec": 138.58491,
+            "narration_text": "#C C walks near bucket",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 146.11328,
+            "timestamp_frame": 4383,
+            "_unmapped_timestamp_sec": 146.11328,
+            "narration_text": "#C C picks the bags",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        },
+        {
+            "timestamp_sec": 148.8263,
+            "timestamp_frame": 4465,
+            "_unmapped_timestamp_sec": 148.8263,
+            "narration_text": "#C C moves the bags on the floor",
+            "annotation_uid": "0a268168-131b-40db-9d84-28d9ce678931"
+        }
+    ]
+}

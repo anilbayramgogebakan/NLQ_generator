@@ -1,0 +1,676 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 180.05522,
+            "timestamp_frame": 5402,
+            "_unmapped_timestamp_sec": 180.05522,
+            "narration_text": "#C C closes the drawer with his gloved left hand.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 181.23586,
+            "timestamp_frame": 5437,
+            "_unmapped_timestamp_sec": 181.23586,
+            "narration_text": "#C C transfers the screwdriver from his gloved right hand to his gloved left hand.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 182.95229,
+            "timestamp_frame": 5489,
+            "_unmapped_timestamp_sec": 182.95229,
+            "narration_text": "#C C places the screwdriver in a bolt in the motorcycle engine with both gloved hands.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 185.54615,
+            "timestamp_frame": 5566,
+            "_unmapped_timestamp_sec": 185.54615,
+            "narration_text": "#C C removes the screwdriver from the engine with his gloved right hand.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 185.82201,
+            "timestamp_frame": 5575,
+            "_unmapped_timestamp_sec": 185.82201,
+            "narration_text": "#C C shakes the rear sprocket in the motorcycle engine with his gloved left hand.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 187.83723,
+            "timestamp_frame": 5635,
+            "_unmapped_timestamp_sec": 187.83723,
+            "narration_text": "#C C drops the screwdriver in his gloved right hand in the work table.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 191.91286,
+            "timestamp_frame": 5757,
+            "_unmapped_timestamp_sec": 191.91286,
+            "narration_text": "#C C rubs his face with his gloved right hand.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 196.21648,
+            "timestamp_frame": 5886,
+            "_unmapped_timestamp_sec": 196.21648,
+            "narration_text": "#C C places his gloved right hand on his gloved left hand.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 197.79427,
+            "timestamp_frame": 5934,
+            "_unmapped_timestamp_sec": 197.79427,
+            "narration_text": "#C C squats toward a tool box.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 198.64631,
+            "timestamp_frame": 5959,
+            "_unmapped_timestamp_sec": 198.64631,
+            "narration_text": "#C C opens a tool box with his gloved left hand.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 199.4728,
+            "timestamp_frame": 5984,
+            "_unmapped_timestamp_sec": 199.4728,
+            "narration_text": "#C C pulls a tool in the tool box with his gloved right hand.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 205.08373,
+            "timestamp_frame": 6153,
+            "_unmapped_timestamp_sec": 205.08373,
+            "narration_text": "#C C transfers a lamp from the tool box with his gloved right hand to his gloved left hand.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 207.5886,
+            "timestamp_frame": 6228,
+            "_unmapped_timestamp_sec": 207.5886,
+            "narration_text": "#C C picks a lamp battery from the tool box with his gloved right hand.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 213.1976,
+            "timestamp_frame": 6396,
+            "_unmapped_timestamp_sec": 213.1976,
+            "narration_text": "#C fixes the lamp with both gloved hands.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 214.81107,
+            "timestamp_frame": 6444,
+            "_unmapped_timestamp_sec": 214.81107,
+            "narration_text": "#C C switches on the lamp with his right finger in both gloved hands.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 216.0942,
+            "timestamp_frame": 6483,
+            "_unmapped_timestamp_sec": 216.0942,
+            "narration_text": "#C C drops the lamp on the motorcycle with his gloved right hand.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 219.86191,
+            "timestamp_frame": 6596,
+            "_unmapped_timestamp_sec": 219.86191,
+            "narration_text": "#C C places his gloved left hand on the motorcycle.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 220.42425,
+            "timestamp_frame": 6613,
+            "_unmapped_timestamp_sec": 220.42425,
+            "narration_text": "#C C places his gloved left hand on an  iron in the motorcycle.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 225.90048,
+            "timestamp_frame": 6777,
+            "_unmapped_timestamp_sec": 225.90048,
+            "narration_text": "#C C touches a screw driver with his gloved left hand.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 228.75922,
+            "timestamp_frame": 6863,
+            "_unmapped_timestamp_sec": 228.75922,
+            "narration_text": "#C C places his gloved left hand on a motorcycle.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 229.89907,
+            "timestamp_frame": 6897,
+            "_unmapped_timestamp_sec": 229.89907,
+            "narration_text": "#C C picks a screw driver with his gloved left hand",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 231.20255,
+            "timestamp_frame": 6936,
+            "_unmapped_timestamp_sec": 231.20255,
+            "narration_text": "#C C holds the screw driver in both gloved hands.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 231.73643,
+            "timestamp_frame": 6952,
+            "_unmapped_timestamp_sec": 231.73643,
+            "narration_text": "#C C holds the screw driver in his right gloved hand.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 235.80645,
+            "timestamp_frame": 7074,
+            "_unmapped_timestamp_sec": 235.80645,
+            "narration_text": "#C C places his gloved left hand on a motorcycle.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 237.91064,
+            "timestamp_frame": 7137,
+            "_unmapped_timestamp_sec": 237.91064,
+            "narration_text": "#C C places  a screw driver on a bolt in the motorcycle engine with his gloved right hand. ",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 236.8252,
+            "timestamp_frame": 7105,
+            "_unmapped_timestamp_sec": 236.8252,
+            "narration_text": "#C C holds the screw driver in both gloved hands.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 238.33425,
+            "timestamp_frame": 7150,
+            "_unmapped_timestamp_sec": 238.33425,
+            "narration_text": "#C C loosens  the motorcycle engine with a screw driver in both gloved hands.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 240.63174,
+            "timestamp_frame": 7219,
+            "_unmapped_timestamp_sec": 240.63174,
+            "narration_text": "#C C turns  the screwdriver anti clockwise with his gloved right hand.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 242.979,
+            "timestamp_frame": 7289,
+            "_unmapped_timestamp_sec": 242.979,
+            "narration_text": "#C C holds the screw driver in his gloved right hand.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 243.43464,
+            "timestamp_frame": 7303,
+            "_unmapped_timestamp_sec": 243.43464,
+            "narration_text": "#C C pulls out a screw with his gloved left hand from the motorcycle.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 244.56881,
+            "timestamp_frame": 7337,
+            "_unmapped_timestamp_sec": 244.56881,
+            "narration_text": "#C C loosens  the motorcycle engine with a screw driver in his gloved right hand.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 245.44251,
+            "timestamp_frame": 7363,
+            "_unmapped_timestamp_sec": 245.44251,
+            "narration_text": "#C C loosens  the motorcycle engine with a screw driver in both gloved hands.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 247.15458,
+            "timestamp_frame": 7415,
+            "_unmapped_timestamp_sec": 247.15458,
+            "narration_text": "#C C turns  the screwdriver anti clockwise with his gloved right hand.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 255.61491,
+            "timestamp_frame": 7668,
+            "_unmapped_timestamp_sec": 255.61491,
+            "narration_text": "#C C pulls out a screw with his gloved left hand from the motorcycle.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 256.59466,
+            "timestamp_frame": 7698,
+            "_unmapped_timestamp_sec": 256.59466,
+            "narration_text": "#C C transfers the screw driver from his gloved right hand to his gloved left hand with a screw in it.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 257.37615,
+            "timestamp_frame": 7721,
+            "_unmapped_timestamp_sec": 257.37615,
+            "narration_text": "#C C holds a rod in the motorcycle with his gloved left hand. #Unsure ",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 257.37615,
+            "timestamp_frame": 7721,
+            "_unmapped_timestamp_sec": 257.37615,
+            "narration_text": "#C C drops the screw driver and and bolt in his left hand on the work table.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 259.62789,
+            "timestamp_frame": 7789,
+            "_unmapped_timestamp_sec": 259.62789,
+            "narration_text": "#C C pulls out a metal case with both gloved hands.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 265.07849,
+            "timestamp_frame": 7952,
+            "_unmapped_timestamp_sec": 265.07849,
+            "narration_text": "#C C pulls out a drawer with his gloved left hand.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 265.63214,
+            "timestamp_frame": 7969,
+            "_unmapped_timestamp_sec": 265.63214,
+            "narration_text": "#C C searches for a cutting plier in the drawer with his gloved right hand.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 268.84806,
+            "timestamp_frame": 8065,
+            "_unmapped_timestamp_sec": 268.84806,
+            "narration_text": "#C C holds the metal case with a plier in his gloved right hand.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 268.84806,
+            "timestamp_frame": 8065,
+            "_unmapped_timestamp_sec": 268.84806,
+            "narration_text": "#C C holds the metal case with his gloved left hand.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 270.24887,
+            "timestamp_frame": 8107,
+            "_unmapped_timestamp_sec": 270.24887,
+            "narration_text": "#C C cuts a clip with the cutting plier in  the metal case with his  gloved right hand. #Unsure",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 271.45791,
+            "timestamp_frame": 8144,
+            "_unmapped_timestamp_sec": 271.45791,
+            "narration_text": "#C C unclips a hose in the metal case with his gloved left hand.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 273.92959,
+            "timestamp_frame": 8218,
+            "_unmapped_timestamp_sec": 273.92959,
+            "narration_text": "#C C pulls out the metal case in the motorcycle with his gloved right hand and a cutting plier in it. ",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 275.2092,
+            "timestamp_frame": 8256,
+            "_unmapped_timestamp_sec": 275.2092,
+            "narration_text": "#C C holds a rod in the motorcycle with his gloved left hand.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 278.16163,
+            "timestamp_frame": 8345,
+            "_unmapped_timestamp_sec": 278.16163,
+            "narration_text": "#C C drops the metal case from the motorcycle on the work table with his gloved left hands.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 279.2774,
+            "timestamp_frame": 8378,
+            "_unmapped_timestamp_sec": 279.2774,
+            "narration_text": "#C C drops the cutting plier on the work table with his gloved right hand.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 279.2774,
+            "timestamp_frame": 8378,
+            "_unmapped_timestamp_sec": 279.2774,
+            "narration_text": "#C C places his gloved left hand on the motorcycle. ",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 280.26118,
+            "timestamp_frame": 8408,
+            "_unmapped_timestamp_sec": 280.26118,
+            "narration_text": "#C C shifts a hose in the motorcycle with his gloved right hand. ",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 277.22291,
+            "timestamp_frame": 8317,
+            "_unmapped_timestamp_sec": 277.22291,
+            "narration_text": "#C C transfers the metal case from the motorcycle with his gloved right hand tohis gloved left hands.",
+            "annotation_uid": "74f1ba2f-b041-4dc8-8369-bdbbbf374da2"
+        },
+        {
+            "timestamp_sec": 287.33167,
+            "timestamp_frame": 8620,
+            "_unmapped_timestamp_sec": 287.33167,
+            "narration_text": "#C C pulls a hose with his gloved right hand.",
+            "annotation_uid": "7a54285f-8517-4fb5-963e-9c114acfb043"
+        },
+        {
+            "timestamp_sec": 298.69135,
+            "timestamp_frame": 8961,
+            "_unmapped_timestamp_sec": 298.69135,
+            "narration_text": "#C C picks up a T spanner on the floor with his gloved right hand.",
+            "annotation_uid": "7a54285f-8517-4fb5-963e-9c114acfb043"
+        },
+        {
+            "timestamp_sec": 302.63925,
+            "timestamp_frame": 9079,
+            "_unmapped_timestamp_sec": 302.63925,
+            "narration_text": "#C C holds a T spanner in both gloved hands.",
+            "annotation_uid": "7a54285f-8517-4fb5-963e-9c114acfb043"
+        },
+        {
+            "timestamp_sec": 307.16173,
+            "timestamp_frame": 9215,
+            "_unmapped_timestamp_sec": 307.16173,
+            "narration_text": "#C C tightens a bolt with a T spanner in both gloved hands.",
+            "annotation_uid": "7a54285f-8517-4fb5-963e-9c114acfb043"
+        },
+        {
+            "timestamp_sec": 308.11175000000003,
+            "timestamp_frame": 9243,
+            "_unmapped_timestamp_sec": 308.11175000000003,
+            "narration_text": "#C C holds a metal with his glove left hand. #Unsure",
+            "annotation_uid": "7a54285f-8517-4fb5-963e-9c114acfb043"
+        },
+        {
+            "timestamp_sec": 312.98974,
+            "timestamp_frame": 9390,
+            "_unmapped_timestamp_sec": 312.98974,
+            "narration_text": "#C C holds a T spanner in both gloved hands.",
+            "annotation_uid": "7a54285f-8517-4fb5-963e-9c114acfb043"
+        },
+        {
+            "timestamp_sec": 317.11109,
+            "timestamp_frame": 9513,
+            "_unmapped_timestamp_sec": 317.11109,
+            "narration_text": "#C C holds a metal with his glove left hand. #Unsure",
+            "annotation_uid": "7a54285f-8517-4fb5-963e-9c114acfb043"
+        },
+        {
+            "timestamp_sec": 319.41707,
+            "timestamp_frame": 9583,
+            "_unmapped_timestamp_sec": 319.41707,
+            "narration_text": "#C C holds a T spanner in both gloved hands.",
+            "annotation_uid": "7a54285f-8517-4fb5-963e-9c114acfb043"
+        },
+        {
+            "timestamp_sec": 321.33232,
+            "timestamp_frame": 9640,
+            "_unmapped_timestamp_sec": 321.33232,
+            "narration_text": "#C C turns the spanner in his gloved left hand anti clock wise with his gloved right hand.",
+            "annotation_uid": "7a54285f-8517-4fb5-963e-9c114acfb043"
+        },
+        {
+            "timestamp_sec": 328.48571,
+            "timestamp_frame": 9855,
+            "_unmapped_timestamp_sec": 328.48571,
+            "narration_text": "#C C picks the bolt with his gloved right hand. #Unsure",
+            "annotation_uid": "7a54285f-8517-4fb5-963e-9c114acfb043"
+        },
+        {
+            "timestamp_sec": 327.98571,
+            "timestamp_frame": 9840,
+            "_unmapped_timestamp_sec": 327.98571,
+            "narration_text": "#C C holds the spanner in his gloved left hand.",
+            "annotation_uid": "7a54285f-8517-4fb5-963e-9c114acfb043"
+        },
+        {
+            "timestamp_sec": 327.98571,
+            "timestamp_frame": 9840,
+            "_unmapped_timestamp_sec": 327.98571,
+            "narration_text": "#O A man X walks by the workshop. ",
+            "annotation_uid": "7a54285f-8517-4fb5-963e-9c114acfb043"
+        },
+        {
+            "timestamp_sec": 180.528,
+            "timestamp_frame": 5416,
+            "_unmapped_timestamp_sec": 180.528,
+            "narration_text": "#C C picks the wrench from the drawer",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 182.05,
+            "timestamp_frame": 5462,
+            "_unmapped_timestamp_sec": 182.05,
+            "narration_text": "#C C walks around the room",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 184.642,
+            "timestamp_frame": 5539,
+            "_unmapped_timestamp_sec": 184.642,
+            "narration_text": "#C C loosens the engine with a wrench",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 187.611,
+            "timestamp_frame": 5628,
+            "_unmapped_timestamp_sec": 187.611,
+            "narration_text": "#C C drops the wrench on the table",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 190.684,
+            "timestamp_frame": 5721,
+            "_unmapped_timestamp_sec": 190.684,
+            "narration_text": "#C C stares at the table",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 192.047,
+            "timestamp_frame": 5761,
+            "_unmapped_timestamp_sec": 192.047,
+            "narration_text": "#C C wipes the face",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 194.128,
+            "timestamp_frame": 5824,
+            "_unmapped_timestamp_sec": 194.128,
+            "narration_text": "#C C stares at the motorcycle",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 196.464,
+            "timestamp_frame": 5894,
+            "_unmapped_timestamp_sec": 196.464,
+            "narration_text": "#C C walks around the room",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 200.496,
+            "timestamp_frame": 6015,
+            "_unmapped_timestamp_sec": 200.496,
+            "narration_text": "#C C opens the drawer",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 204.639,
+            "timestamp_frame": 6139,
+            "_unmapped_timestamp_sec": 204.639,
+            "narration_text": "#C C hovers over the drawer",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 211.392,
+            "timestamp_frame": 6342,
+            "_unmapped_timestamp_sec": 211.392,
+            "narration_text": "#C C picks the sport light",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 213.41,
+            "timestamp_frame": 6402,
+            "_unmapped_timestamp_sec": 213.41,
+            "narration_text": "#C C walks around the room",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 215.29,
+            "timestamp_frame": 6459,
+            "_unmapped_timestamp_sec": 215.29,
+            "narration_text": "#C C turns on the sport light",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 216.416,
+            "timestamp_frame": 6492,
+            "_unmapped_timestamp_sec": 216.416,
+            "narration_text": "#C C drops the sport light on the motorcycle",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 221.832,
+            "timestamp_frame": 6655,
+            "_unmapped_timestamp_sec": 221.832,
+            "narration_text": "#C C touches the motorcycle",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 224.577,
+            "timestamp_frame": 6737,
+            "_unmapped_timestamp_sec": 224.577,
+            "narration_text": "#C C walks around the room",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 230.419,
+            "timestamp_frame": 6913,
+            "_unmapped_timestamp_sec": 230.419,
+            "narration_text": "#C C picks the screw driver from the table",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 232.012,
+            "timestamp_frame": 6960,
+            "_unmapped_timestamp_sec": 232.012,
+            "narration_text": "#C C walks around the room",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 238.506,
+            "timestamp_frame": 7155,
+            "_unmapped_timestamp_sec": 238.506,
+            "narration_text": "#C C loosens the nuts on the motorcycle",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 257.913,
+            "timestamp_frame": 7737,
+            "_unmapped_timestamp_sec": 257.913,
+            "narration_text": "#C C drops the nuts on the table",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 260.954,
+            "timestamp_frame": 7829,
+            "_unmapped_timestamp_sec": 260.954,
+            "narration_text": "#C C pulls #unsure",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 263.955,
+            "timestamp_frame": 7919,
+            "_unmapped_timestamp_sec": 263.955,
+            "narration_text": "#C C walks around the room",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 265.258,
+            "timestamp_frame": 7958,
+            "_unmapped_timestamp_sec": 265.258,
+            "narration_text": "#C C opens the drawer",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 267.226,
+            "timestamp_frame": 8017,
+            "_unmapped_timestamp_sec": 267.226,
+            "narration_text": "#C C picks the pliers from the drawer",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 268.371,
+            "timestamp_frame": 8051,
+            "_unmapped_timestamp_sec": 268.371,
+            "narration_text": "#C C walks around the room",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 274.906,
+            "timestamp_frame": 8247,
+            "_unmapped_timestamp_sec": 274.906,
+            "narration_text": "#C C  drops #unsure on the table",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 279.527,
+            "timestamp_frame": 8386,
+            "_unmapped_timestamp_sec": 279.527,
+            "narration_text": "#C C drops the pliers on the table",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 282.863,
+            "timestamp_frame": 8486,
+            "_unmapped_timestamp_sec": 282.863,
+            "narration_text": "#C C stares at the motorcycle",
+            "annotation_uid": "52077dda-349e-4ce8-8c10-1e6cf724a254"
+        },
+        {
+            "timestamp_sec": 287.469,
+            "timestamp_frame": 8624,
+            "_unmapped_timestamp_sec": 287.469,
+            "narration_text": "#C C pulls the cables",
+            "annotation_uid": "bbe6c0ff-49f9-409a-8e8a-aa4337c3893e"
+        },
+        {
+            "timestamp_sec": 293.669,
+            "timestamp_frame": 8810,
+            "_unmapped_timestamp_sec": 293.669,
+            "narration_text": "#C C walks  around the room",
+            "annotation_uid": "bbe6c0ff-49f9-409a-8e8a-aa4337c3893e"
+        },
+        {
+            "timestamp_sec": 298.67,
+            "timestamp_frame": 8960,
+            "_unmapped_timestamp_sec": 298.67,
+            "narration_text": "#C C picks the T handle from the floor",
+            "annotation_uid": "bbe6c0ff-49f9-409a-8e8a-aa4337c3893e"
+        },
+        {
+            "timestamp_sec": 300.823,
+            "timestamp_frame": 9025,
+            "_unmapped_timestamp_sec": 300.823,
+            "narration_text": "#C C walks around the room",
+            "annotation_uid": "bbe6c0ff-49f9-409a-8e8a-aa4337c3893e"
+        },
+        {
+            "timestamp_sec": 305.438,
+            "timestamp_frame": 9163,
+            "_unmapped_timestamp_sec": 305.438,
+            "narration_text": "#C C loosens the nuts with a T handle",
+            "annotation_uid": "bbe6c0ff-49f9-409a-8e8a-aa4337c3893e"
+        }
+    ]
+}

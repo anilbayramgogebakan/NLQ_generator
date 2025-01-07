@@ -1,0 +1,886 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 5132.016049333333,
+            "timestamp_frame": 153960,
+            "_unmapped_timestamp_sec": 5131.9967,
+            "narration_text": "#C C lowers the right hand",
+            "annotation_uid": "b06b18ba-3bb7-4235-b891-03f089247e71"
+        },
+        {
+            "timestamp_sec": 5132.840599333334,
+            "timestamp_frame": 153985,
+            "_unmapped_timestamp_sec": 5132.82125,
+            "narration_text": "#O Man B lowers his right hand",
+            "annotation_uid": "b06b18ba-3bb7-4235-b891-03f089247e71"
+        },
+        {
+            "timestamp_sec": 5133.971769333333,
+            "timestamp_frame": 154019,
+            "_unmapped_timestamp_sec": 5133.95242,
+            "narration_text": "#O Man D talks to C",
+            "annotation_uid": "b06b18ba-3bb7-4235-b891-03f089247e71"
+        },
+        {
+            "timestamp_sec": 5141.299029333333,
+            "timestamp_frame": 154239,
+            "_unmapped_timestamp_sec": 5141.27968,
+            "narration_text": "#O Man D swipes on the phone's screen",
+            "annotation_uid": "b06b18ba-3bb7-4235-b891-03f089247e71"
+        },
+        {
+            "timestamp_sec": 5143.763289333334,
+            "timestamp_frame": 154313,
+            "_unmapped_timestamp_sec": 5143.74394,
+            "narration_text": "#O Man F sits back on the chair",
+            "annotation_uid": "b06b18ba-3bb7-4235-b891-03f089247e71"
+        },
+        {
+            "timestamp_sec": 5151.2884933333335,
+            "timestamp_frame": 154539,
+            "_unmapped_timestamp_sec": 5151.26516,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5151.868863333333,
+            "timestamp_frame": 154556,
+            "_unmapped_timestamp_sec": 5151.84553,
+            "narration_text": "#O Man F swipes on his phone's screen",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5162.145173333333,
+            "timestamp_frame": 154864,
+            "_unmapped_timestamp_sec": 5162.12184,
+            "narration_text": "#O Man F raises his left hand",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5162.786013333333,
+            "timestamp_frame": 154884,
+            "_unmapped_timestamp_sec": 5162.76268,
+            "narration_text": "#O Man B gestures with the right hand",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5163.609563333333,
+            "timestamp_frame": 154908,
+            "_unmapped_timestamp_sec": 5163.58623,
+            "narration_text": "#O Man F puts his phone on the table",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5175.3303633333335,
+            "timestamp_frame": 155260,
+            "_unmapped_timestamp_sec": 5175.30703,
+            "narration_text": "#O Man D talks",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5175.975183333334,
+            "timestamp_frame": 155279,
+            "_unmapped_timestamp_sec": 5175.95185,
+            "narration_text": "#O Man F gestures",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5181.156743333334,
+            "timestamp_frame": 155435,
+            "_unmapped_timestamp_sec": 5181.13341,
+            "narration_text": "#O Man B takes his phone from the table",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5182.285963333334,
+            "timestamp_frame": 155469,
+            "_unmapped_timestamp_sec": 5182.26263,
+            "narration_text": "#O Man D taps on the table with the left index finger",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5182.715273333333,
+            "timestamp_frame": 155481,
+            "_unmapped_timestamp_sec": 5182.69194,
+            "narration_text": "#O Man B swipes on his phone's screen",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5184.795413333333,
+            "timestamp_frame": 155544,
+            "_unmapped_timestamp_sec": 5184.77208,
+            "narration_text": "#O Man D takes his phone from the table",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5186.404623333334,
+            "timestamp_frame": 155592,
+            "_unmapped_timestamp_sec": 5186.38129,
+            "narration_text": "#O Man D swipes on his phone's screen",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5193.904723333333,
+            "timestamp_frame": 155817,
+            "_unmapped_timestamp_sec": 5193.88139,
+            "narration_text": "#O Man F gestures",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5198.774543333334,
+            "timestamp_frame": 155963,
+            "_unmapped_timestamp_sec": 5198.75121,
+            "narration_text": "#O Man F folds his hand",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5199.157873333334,
+            "timestamp_frame": 155975,
+            "_unmapped_timestamp_sec": 5199.13454,
+            "narration_text": "#O Man F laughs",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5205.537723333334,
+            "timestamp_frame": 156166,
+            "_unmapped_timestamp_sec": 5205.51439,
+            "narration_text": "#O Man B puts phone on the tray",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5208.419913333333,
+            "timestamp_frame": 156253,
+            "_unmapped_timestamp_sec": 5208.39658,
+            "narration_text": "#C C points",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5214.179533333334,
+            "timestamp_frame": 156425,
+            "_unmapped_timestamp_sec": 5214.1562,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5221.838273333334,
+            "timestamp_frame": 156655,
+            "_unmapped_timestamp_sec": 5221.81494,
+            "narration_text": "#C C gestures with the right hand",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5228.718013333333,
+            "timestamp_frame": 156862,
+            "_unmapped_timestamp_sec": 5228.69468,
+            "narration_text": "#O Man D holds phone with both hands",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5229.192713333334,
+            "timestamp_frame": 156876,
+            "_unmapped_timestamp_sec": 5229.16938,
+            "narration_text": "#O Man D points at the phone's screen",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5231.386143333333,
+            "timestamp_frame": 156942,
+            "_unmapped_timestamp_sec": 5231.36281,
+            "narration_text": "#O Man D talks",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5234.385963333333,
+            "timestamp_frame": 157032,
+            "_unmapped_timestamp_sec": 5234.36263,
+            "narration_text": "#O Man D taps the top of the table with fingers",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5237.473483333333,
+            "timestamp_frame": 157124,
+            "_unmapped_timestamp_sec": 5237.45015,
+            "narration_text": "#O Man D points at the phone's screen",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5238.3291033333335,
+            "timestamp_frame": 157150,
+            "_unmapped_timestamp_sec": 5238.30577,
+            "narration_text": "#O Man D taps the top of the table with the index finger",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5240.427613333333,
+            "timestamp_frame": 157213,
+            "_unmapped_timestamp_sec": 5240.40428,
+            "narration_text": "#O Man D points at the phone's screen",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5243.995113333333,
+            "timestamp_frame": 157320,
+            "_unmapped_timestamp_sec": 5243.97178,
+            "narration_text": "#O Man D holds the table",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5246.668733333334,
+            "timestamp_frame": 157400,
+            "_unmapped_timestamp_sec": 5246.6454,
+            "narration_text": "#O Man D points at the phone's screen",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5248.735493333334,
+            "timestamp_frame": 157462,
+            "_unmapped_timestamp_sec": 5248.71216,
+            "narration_text": "#C C points",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5249.627713333333,
+            "timestamp_frame": 157489,
+            "_unmapped_timestamp_sec": 5249.60438,
+            "narration_text": "#C C gestures with the right hand",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5249.955993333334,
+            "timestamp_frame": 157499,
+            "_unmapped_timestamp_sec": 5249.93266,
+            "narration_text": "#O Man D adjusts his watch",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5252.075673333334,
+            "timestamp_frame": 157562,
+            "_unmapped_timestamp_sec": 5252.05234,
+            "narration_text": "#O Man D interlocks his fingers",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5252.341723333334,
+            "timestamp_frame": 157570,
+            "_unmapped_timestamp_sec": 5252.31839,
+            "narration_text": "#O Man B puts the paper on the table",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5253.390083333334,
+            "timestamp_frame": 157602,
+            "_unmapped_timestamp_sec": 5253.36675,
+            "narration_text": "#O Man B gestures",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5259.818293333334,
+            "timestamp_frame": 157795,
+            "_unmapped_timestamp_sec": 5259.79496,
+            "narration_text": "#O Man F illustrates with hands",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5268.201823333334,
+            "timestamp_frame": 158046,
+            "_unmapped_timestamp_sec": 5268.17849,
+            "narration_text": "#O Man B points",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5271.2260633333335,
+            "timestamp_frame": 158137,
+            "_unmapped_timestamp_sec": 5271.20273,
+            "narration_text": "#O Man B touches his hair",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5273.576093333333,
+            "timestamp_frame": 158207,
+            "_unmapped_timestamp_sec": 5273.55276,
+            "narration_text": "#O Man B points",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5274.007983333334,
+            "timestamp_frame": 158220,
+            "_unmapped_timestamp_sec": 5273.98465,
+            "narration_text": "#O Man D puts the phone on the table",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5275.944083333334,
+            "timestamp_frame": 158278,
+            "_unmapped_timestamp_sec": 5275.92075,
+            "narration_text": "#O Man B touches his hair",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5155.358103333334,
+            "timestamp_frame": 154661,
+            "_unmapped_timestamp_sec": 5155.33477,
+            "narration_text": "#C C touches  the index finger with the right hand",
+            "annotation_uid": "d693ed4f-e130-4c04-a818-4fd53c0098a3"
+        },
+        {
+            "timestamp_sec": 5130.473769333334,
+            "timestamp_frame": 153914,
+            "_unmapped_timestamp_sec": 5130.45442,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "cc4cbc6b-614e-486c-8e3b-f6b971911693"
+        },
+        {
+            "timestamp_sec": 5132.472809333333,
+            "timestamp_frame": 153974,
+            "_unmapped_timestamp_sec": 5132.45346,
+            "narration_text": "#O Person E speaks to C ",
+            "annotation_uid": "cc4cbc6b-614e-486c-8e3b-f6b971911693"
+        },
+        {
+            "timestamp_sec": 5142.122699333334,
+            "timestamp_frame": 154264,
+            "_unmapped_timestamp_sec": 5142.10335,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "cc4cbc6b-614e-486c-8e3b-f6b971911693"
+        },
+        {
+            "timestamp_sec": 5155.087703333334,
+            "timestamp_frame": 154653,
+            "_unmapped_timestamp_sec": 5155.06437,
+            "narration_text": "#C C looks at a finger",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5160.176323333333,
+            "timestamp_frame": 154805,
+            "_unmapped_timestamp_sec": 5160.15299,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5207.0433533333335,
+            "timestamp_frame": 156211,
+            "_unmapped_timestamp_sec": 5207.02002,
+            "narration_text": "#C C moves hand",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5207.7161633333335,
+            "timestamp_frame": 156231,
+            "_unmapped_timestamp_sec": 5207.69283,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5208.478453333333,
+            "timestamp_frame": 156254,
+            "_unmapped_timestamp_sec": 5208.45512,
+            "narration_text": "#C C uses gestures",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5210.283433333334,
+            "timestamp_frame": 156309,
+            "_unmapped_timestamp_sec": 5210.2601,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5212.632433333333,
+            "timestamp_frame": 156379,
+            "_unmapped_timestamp_sec": 5212.6091,
+            "narration_text": "#C C uses gestures",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5213.574393333333,
+            "timestamp_frame": 156407,
+            "_unmapped_timestamp_sec": 5213.55106,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5221.832583333334,
+            "timestamp_frame": 156655,
+            "_unmapped_timestamp_sec": 5221.80925,
+            "narration_text": "#C C uses gestures",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5227.105473333333,
+            "timestamp_frame": 156813,
+            "_unmapped_timestamp_sec": 5227.08214,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5248.943023333333,
+            "timestamp_frame": 157468,
+            "_unmapped_timestamp_sec": 5248.91969,
+            "narration_text": "#C C uses gestures",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5253.000913333333,
+            "timestamp_frame": 157590,
+            "_unmapped_timestamp_sec": 5252.97758,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5151.7745933333335,
+            "timestamp_frame": 154553,
+            "_unmapped_timestamp_sec": 5151.75126,
+            "narration_text": "#O A man R sits close to C",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5182.186993333334,
+            "timestamp_frame": 155466,
+            "_unmapped_timestamp_sec": 5182.16366,
+            "narration_text": "#O A man R uses gestures",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5184.9488833333335,
+            "timestamp_frame": 155548,
+            "_unmapped_timestamp_sec": 5184.92555,
+            "narration_text": "#O A man R picks mobile phone on the table",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5186.038273333334,
+            "timestamp_frame": 155581,
+            "_unmapped_timestamp_sec": 5186.01494,
+            "narration_text": "#O A man R operates a mobile phone",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5195.875083333333,
+            "timestamp_frame": 155876,
+            "_unmapped_timestamp_sec": 5195.85175,
+            "narration_text": "#O A man R operates a mobile phone",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5204.908713333333,
+            "timestamp_frame": 156147,
+            "_unmapped_timestamp_sec": 5204.88538,
+            "narration_text": "#O A man R operates a mobile phone",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5206.958913333334,
+            "timestamp_frame": 156209,
+            "_unmapped_timestamp_sec": 5206.93558,
+            "narration_text": "#O A man R places hand on his lap",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5208.870623333333,
+            "timestamp_frame": 156266,
+            "_unmapped_timestamp_sec": 5208.84729,
+            "narration_text": "#O A man R operates a mobile phone",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5219.015843333334,
+            "timestamp_frame": 156570,
+            "_unmapped_timestamp_sec": 5218.99251,
+            "narration_text": "#O A man R holds a mobile phone",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5228.939503333333,
+            "timestamp_frame": 156868,
+            "_unmapped_timestamp_sec": 5228.91617,
+            "narration_text": "#O A man R uses gestures",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5237.833683333333,
+            "timestamp_frame": 157135,
+            "_unmapped_timestamp_sec": 5237.81035,
+            "narration_text": "#O A man R uses gestures",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5240.410543333333,
+            "timestamp_frame": 157212,
+            "_unmapped_timestamp_sec": 5240.38721,
+            "narration_text": "#O A man R uses gestures",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5246.777793333334,
+            "timestamp_frame": 157403,
+            "_unmapped_timestamp_sec": 5246.75446,
+            "narration_text": "#O A man R operates a mobile phone",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5260.028863333334,
+            "timestamp_frame": 157801,
+            "_unmapped_timestamp_sec": 5260.00553,
+            "narration_text": "#O A man R holds a mobile phone",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5266.985983333334,
+            "timestamp_frame": 158010,
+            "_unmapped_timestamp_sec": 5266.96265,
+            "narration_text": "#O A man R operates a mobile phone",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5272.523163333333,
+            "timestamp_frame": 158176,
+            "_unmapped_timestamp_sec": 5272.49983,
+            "narration_text": "#O A man R presses a mobile phone button",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5274.047073333333,
+            "timestamp_frame": 158221,
+            "_unmapped_timestamp_sec": 5274.02374,
+            "narration_text": "#O A man R holds a mobile phone on the table",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5146.911923333333,
+            "timestamp_frame": 154407,
+            "_unmapped_timestamp_sec": 5146.88859,
+            "narration_text": "#O A man S joins hands",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5149.814003333334,
+            "timestamp_frame": 154494,
+            "_unmapped_timestamp_sec": 5149.79067,
+            "narration_text": "#O A man S moves hand",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5151.867723333334,
+            "timestamp_frame": 154556,
+            "_unmapped_timestamp_sec": 5151.84439,
+            "narration_text": "#O A man S operates a mobile phone",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5162.220083333334,
+            "timestamp_frame": 154867,
+            "_unmapped_timestamp_sec": 5162.19675,
+            "narration_text": "#O A man S uses gestures",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5164.022943333333,
+            "timestamp_frame": 154921,
+            "_unmapped_timestamp_sec": 5163.99961,
+            "narration_text": "#O A man S puts a mobile phone on the table",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5164.675643333334,
+            "timestamp_frame": 154940,
+            "_unmapped_timestamp_sec": 5164.65231,
+            "narration_text": "#O A man S moves hand backwards",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5168.077693333334,
+            "timestamp_frame": 155042,
+            "_unmapped_timestamp_sec": 5168.05436,
+            "narration_text": "#O A man S moves legs",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5170.970403333334,
+            "timestamp_frame": 155129,
+            "_unmapped_timestamp_sec": 5170.94707,
+            "narration_text": "#O A man S moves hands",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5172.074703333334,
+            "timestamp_frame": 155162,
+            "_unmapped_timestamp_sec": 5172.05137,
+            "narration_text": "#O A man S touches his shorts",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5173.9121233333335,
+            "timestamp_frame": 155217,
+            "_unmapped_timestamp_sec": 5173.88879,
+            "narration_text": "#O A man S touches the chair",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5176.355453333334,
+            "timestamp_frame": 155291,
+            "_unmapped_timestamp_sec": 5176.33212,
+            "narration_text": "#O A man S uses gestures",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5188.291783333333,
+            "timestamp_frame": 155649,
+            "_unmapped_timestamp_sec": 5188.26845,
+            "narration_text": "#O A man S joins hands",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5194.077983333334,
+            "timestamp_frame": 155822,
+            "_unmapped_timestamp_sec": 5194.05465,
+            "narration_text": "#O A man S uses gestures",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5195.905803333333,
+            "timestamp_frame": 155877,
+            "_unmapped_timestamp_sec": 5195.88247,
+            "narration_text": "#O A man S sits close to man R",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5198.792503333333,
+            "timestamp_frame": 155964,
+            "_unmapped_timestamp_sec": 5198.76917,
+            "narration_text": "#O A man S crosses hands",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5199.946483333333,
+            "timestamp_frame": 155998,
+            "_unmapped_timestamp_sec": 5199.92315,
+            "narration_text": "#O A man S moves legs",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5219.166903333334,
+            "timestamp_frame": 156575,
+            "_unmapped_timestamp_sec": 5219.14357,
+            "narration_text": "#O A man S sits close to man R",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5249.9509333333335,
+            "timestamp_frame": 157499,
+            "_unmapped_timestamp_sec": 5249.9276,
+            "narration_text": "#O A man S touches his watch",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5252.162393333334,
+            "timestamp_frame": 157565,
+            "_unmapped_timestamp_sec": 5252.13906,
+            "narration_text": "#O A man S joins hands",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5260.230303333334,
+            "timestamp_frame": 157807,
+            "_unmapped_timestamp_sec": 5260.20697,
+            "narration_text": "#O A man S uses gestures",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5160.258353333334,
+            "timestamp_frame": 154808,
+            "_unmapped_timestamp_sec": 5160.23502,
+            "narration_text": "#O A man T operates a mobile phone",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5264.881903333334,
+            "timestamp_frame": 157946,
+            "_unmapped_timestamp_sec": 5264.85857,
+            "narration_text": "#O A man T scratches face",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5267.146763333333,
+            "timestamp_frame": 158014,
+            "_unmapped_timestamp_sec": 5267.12343,
+            "narration_text": "#O A man T operates a mobile phone",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5160.140493333333,
+            "timestamp_frame": 154804,
+            "_unmapped_timestamp_sec": 5160.11716,
+            "narration_text": "#O A man  U sits close to man V",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5162.969063333334,
+            "timestamp_frame": 154889,
+            "_unmapped_timestamp_sec": 5162.94573,
+            "narration_text": "#O A man  U uses gestures",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5163.810173333333,
+            "timestamp_frame": 154914,
+            "_unmapped_timestamp_sec": 5163.78684,
+            "narration_text": "#O A man  U moves hand",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5164.903903333334,
+            "timestamp_frame": 154947,
+            "_unmapped_timestamp_sec": 5164.88057,
+            "narration_text": "#O A man  U moves leg",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5181.0001133333335,
+            "timestamp_frame": 155430,
+            "_unmapped_timestamp_sec": 5180.97678,
+            "narration_text": "#O A man  U touches a mobile phone on the tray",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5181.659193333334,
+            "timestamp_frame": 155450,
+            "_unmapped_timestamp_sec": 5181.63586,
+            "narration_text": "#O A man  U picks a mobile phone on the tray",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5182.834523333334,
+            "timestamp_frame": 155485,
+            "_unmapped_timestamp_sec": 5182.81119,
+            "narration_text": "#O A man  U operates a mobile phone ",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5212.206253333334,
+            "timestamp_frame": 156366,
+            "_unmapped_timestamp_sec": 5212.18292,
+            "narration_text": "#O A man  U sits close to man V",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5234.533733333334,
+            "timestamp_frame": 157036,
+            "_unmapped_timestamp_sec": 5234.5104,
+            "narration_text": "#O A man  U sits close to man V",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5248.017883333334,
+            "timestamp_frame": 157441,
+            "_unmapped_timestamp_sec": 5247.99455,
+            "narration_text": "#O A man  U sits close to man V",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5252.420123333333,
+            "timestamp_frame": 157573,
+            "_unmapped_timestamp_sec": 5252.39679,
+            "narration_text": "#O A man  U puts #unsure on the table",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5253.055613333334,
+            "timestamp_frame": 157592,
+            "_unmapped_timestamp_sec": 5253.03228,
+            "narration_text": "#O A man  U uses gestures",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5259.032293333334,
+            "timestamp_frame": 157771,
+            "_unmapped_timestamp_sec": 5259.00896,
+            "narration_text": "#O A man  U touches head",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5264.701243333334,
+            "timestamp_frame": 157941,
+            "_unmapped_timestamp_sec": 5264.67791,
+            "narration_text": "#O A man  U moves hand",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5268.571863333334,
+            "timestamp_frame": 158057,
+            "_unmapped_timestamp_sec": 5268.54853,
+            "narration_text": "#O A man  U uses gestures",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5270.575163333334,
+            "timestamp_frame": 158117,
+            "_unmapped_timestamp_sec": 5270.55183,
+            "narration_text": "#O A man  U lifts hand",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5271.246813333333,
+            "timestamp_frame": 158137,
+            "_unmapped_timestamp_sec": 5271.22348,
+            "narration_text": "#O A man  U touches head",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5273.8829633333335,
+            "timestamp_frame": 158216,
+            "_unmapped_timestamp_sec": 5273.85963,
+            "narration_text": "#O A man  U uses gestures",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5275.9885933333335,
+            "timestamp_frame": 158280,
+            "_unmapped_timestamp_sec": 5275.96526,
+            "narration_text": "#O A man  U touches head",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5278.815733333334,
+            "timestamp_frame": 158364,
+            "_unmapped_timestamp_sec": 5278.7924,
+            "narration_text": "#O A man  U scratches head",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5150.275523333334,
+            "timestamp_frame": 154508,
+            "_unmapped_timestamp_sec": 5150.25219,
+            "narration_text": "#O A man  V sits close to man U",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5195.033773333334,
+            "timestamp_frame": 155851,
+            "_unmapped_timestamp_sec": 5195.01044,
+            "narration_text": "#O A man  V sits close to man U",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5215.534883333334,
+            "timestamp_frame": 156466,
+            "_unmapped_timestamp_sec": 5215.51155,
+            "narration_text": "#O A man  V sits close to man U",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5254.206453333333,
+            "timestamp_frame": 157626,
+            "_unmapped_timestamp_sec": 5254.18312,
+            "narration_text": "#O A man  V sits close to man U",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        },
+        {
+            "timestamp_sec": 5274.515063333333,
+            "timestamp_frame": 158235,
+            "_unmapped_timestamp_sec": 5274.49173,
+            "narration_text": "#O A man  V sits close to man U",
+            "annotation_uid": "58fedcda-d6da-4ef2-ab51-136fd355cb39"
+        }
+    ]
+}

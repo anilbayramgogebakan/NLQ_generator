@@ -1,0 +1,739 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 1229.16391762133,
+            "timestamp_frame": 36874,
+            "_unmapped_timestamp_sec": 1230.23828,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1229.56063762133,
+            "timestamp_frame": 36886,
+            "_unmapped_timestamp_sec": 1230.635,
+            "narration_text": "#O person Y speaks to C",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1230.15423762133,
+            "timestamp_frame": 36904,
+            "_unmapped_timestamp_sec": 1231.2286,
+            "narration_text": "#C C walks",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1233.16923762133,
+            "timestamp_frame": 36994,
+            "_unmapped_timestamp_sec": 1234.2436,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1233.83744762133,
+            "timestamp_frame": 37014,
+            "_unmapped_timestamp_sec": 1234.91181,
+            "narration_text": "#O person Y speaks to C",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1235.1712676213301,
+            "timestamp_frame": 37055,
+            "_unmapped_timestamp_sec": 1236.24563,
+            "narration_text": "#C C speaks to person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1235.1712676213301,
+            "timestamp_frame": 37055,
+            "_unmapped_timestamp_sec": 1236.24563,
+            "narration_text": "#C C walks",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1236.50285762133,
+            "timestamp_frame": 37094,
+            "_unmapped_timestamp_sec": 1237.5772200000001,
+            "narration_text": "#O person Y speaks to C",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1236.50285762133,
+            "timestamp_frame": 37094,
+            "_unmapped_timestamp_sec": 1237.5772200000001,
+            "narration_text": "#C C looks at person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1238.66402762133,
+            "timestamp_frame": 37159,
+            "_unmapped_timestamp_sec": 1239.73839,
+            "narration_text": "#C C speaks to person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1238.66402762133,
+            "timestamp_frame": 37159,
+            "_unmapped_timestamp_sec": 1239.73839,
+            "narration_text": "#C C walks",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1240.9613476213299,
+            "timestamp_frame": 37228,
+            "_unmapped_timestamp_sec": 1242.03571,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1242.0530276213299,
+            "timestamp_frame": 37261,
+            "_unmapped_timestamp_sec": 1243.12739,
+            "narration_text": "#C C walks",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1242.23441762133,
+            "timestamp_frame": 37266,
+            "_unmapped_timestamp_sec": 1243.30878,
+            "narration_text": "#C C speaks to person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1246.98450762133,
+            "timestamp_frame": 37409,
+            "_unmapped_timestamp_sec": 1248.05887,
+            "narration_text": "#C C  looks around",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1247.78153762133,
+            "timestamp_frame": 37433,
+            "_unmapped_timestamp_sec": 1248.8559,
+            "narration_text": "#C C walks",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1248.66028762133,
+            "timestamp_frame": 37459,
+            "_unmapped_timestamp_sec": 1249.7346499999999,
+            "narration_text": "#O person Y speaks to C",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1251.35810762133,
+            "timestamp_frame": 37540,
+            "_unmapped_timestamp_sec": 1252.43247,
+            "narration_text": "#C C speaks to person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1253.79020762133,
+            "timestamp_frame": 37613,
+            "_unmapped_timestamp_sec": 1254.86457,
+            "narration_text": "#C C looks around",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1255.74906762133,
+            "timestamp_frame": 37672,
+            "_unmapped_timestamp_sec": 1256.82343,
+            "narration_text": "#C C looks at person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1255.99524762133,
+            "timestamp_frame": 37679,
+            "_unmapped_timestamp_sec": 1257.06961,
+            "narration_text": "#C C speaks to person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1256.44098762133,
+            "timestamp_frame": 37693,
+            "_unmapped_timestamp_sec": 1257.5153500000001,
+            "narration_text": "#C C walks",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1257.32907762133,
+            "timestamp_frame": 37719,
+            "_unmapped_timestamp_sec": 1258.40344,
+            "narration_text": "#O person Y looks at person X",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1257.92084762133,
+            "timestamp_frame": 37737,
+            "_unmapped_timestamp_sec": 1258.99521,
+            "narration_text": "#O person Y speaks to person X",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1260.72482762133,
+            "timestamp_frame": 37821,
+            "_unmapped_timestamp_sec": 1261.79919,
+            "narration_text": "#C C looks at person X",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1260.98531762133,
+            "timestamp_frame": 37829,
+            "_unmapped_timestamp_sec": 1262.05968,
+            "narration_text": "#O person Y speaks to person X",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1262.12803762133,
+            "timestamp_frame": 37863,
+            "_unmapped_timestamp_sec": 1263.2024000000001,
+            "narration_text": "#O person X speaks to person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1263.79375762133,
+            "timestamp_frame": 37913,
+            "_unmapped_timestamp_sec": 1264.86812,
+            "narration_text": "#O person Y speaks to person X",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1264.72762762133,
+            "timestamp_frame": 37941,
+            "_unmapped_timestamp_sec": 1265.80199,
+            "narration_text": "#C C speaks",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1266.37877762133,
+            "timestamp_frame": 37991,
+            "_unmapped_timestamp_sec": 1267.45314,
+            "narration_text": "#O person Y speaks to person X",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1267.70619762133,
+            "timestamp_frame": 38031,
+            "_unmapped_timestamp_sec": 1268.78056,
+            "narration_text": "#O person X speaks to person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1270.38008762133,
+            "timestamp_frame": 38111,
+            "_unmapped_timestamp_sec": 1271.45445,
+            "narration_text": "#O person Y speaks to person X",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1272.25420762133,
+            "timestamp_frame": 38167,
+            "_unmapped_timestamp_sec": 1273.3285700000001,
+            "narration_text": "#O person Y speaks to person X",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1276.34789762133,
+            "timestamp_frame": 38290,
+            "_unmapped_timestamp_sec": 1277.42226,
+            "narration_text": "#C C looks at person X",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1277.93607762133,
+            "timestamp_frame": 38337,
+            "_unmapped_timestamp_sec": 1279.01044,
+            "narration_text": "#O person Y speaks to C",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1279.24762762133,
+            "timestamp_frame": 38377,
+            "_unmapped_timestamp_sec": 1280.32199,
+            "narration_text": "#O person Y speaks to person X",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1287.32190762133,
+            "timestamp_frame": 38619,
+            "_unmapped_timestamp_sec": 1288.39627,
+            "narration_text": "#O person X speaks to person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1289.38706762133,
+            "timestamp_frame": 38681,
+            "_unmapped_timestamp_sec": 1290.46143,
+            "narration_text": "#O person Y speaks to person X",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1290.37063762133,
+            "timestamp_frame": 38710,
+            "_unmapped_timestamp_sec": 1291.445,
+            "narration_text": "#C C speaks to person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1295.76011762133,
+            "timestamp_frame": 38872,
+            "_unmapped_timestamp_sec": 1296.83448,
+            "narration_text": "#O person Y speaks to C",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1296.25854762133,
+            "timestamp_frame": 38887,
+            "_unmapped_timestamp_sec": 1297.33291,
+            "narration_text": "#C C speaks to person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1297.95688762133,
+            "timestamp_frame": 38938,
+            "_unmapped_timestamp_sec": 1299.03125,
+            "narration_text": "#O person Y speaks to C",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1298.19197762133,
+            "timestamp_frame": 38945,
+            "_unmapped_timestamp_sec": 1299.2663400000001,
+            "narration_text": "#C C speaks to person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1300.23725762133,
+            "timestamp_frame": 39006,
+            "_unmapped_timestamp_sec": 1301.31162,
+            "narration_text": "#O person Y speaks to C",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1304.2640276213301,
+            "timestamp_frame": 39127,
+            "_unmapped_timestamp_sec": 1305.33839,
+            "narration_text": "#O person X speaks to person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1308.90452762133,
+            "timestamp_frame": 39267,
+            "_unmapped_timestamp_sec": 1309.97889,
+            "narration_text": "#C C speaks to person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1310.1818976213299,
+            "timestamp_frame": 39305,
+            "_unmapped_timestamp_sec": 1311.25626,
+            "narration_text": "#O person Y speaks to C",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1313.99568762133,
+            "timestamp_frame": 39419,
+            "_unmapped_timestamp_sec": 1315.07005,
+            "narration_text": "#O person X speaks to person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1317.84910762133,
+            "timestamp_frame": 39535,
+            "_unmapped_timestamp_sec": 1318.92347,
+            "narration_text": "#O person X speaks to person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1319.79223762133,
+            "timestamp_frame": 39593,
+            "_unmapped_timestamp_sec": 1320.8666,
+            "narration_text": "#O person X walks",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1322.68871762133,
+            "timestamp_frame": 39680,
+            "_unmapped_timestamp_sec": 1323.76308,
+            "narration_text": "#O person Y speaks to person X",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1317.37954762133,
+            "timestamp_frame": 39521,
+            "_unmapped_timestamp_sec": 1318.45391,
+            "narration_text": "#O person Y speaks to person X",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1330.00075762133,
+            "timestamp_frame": 39899,
+            "_unmapped_timestamp_sec": 1331.07512,
+            "narration_text": "#C C speaks to person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1331.25777762133,
+            "timestamp_frame": 39937,
+            "_unmapped_timestamp_sec": 1332.33214,
+            "narration_text": "#C C looks at person X",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1331.96968762133,
+            "timestamp_frame": 39958,
+            "_unmapped_timestamp_sec": 1333.04405,
+            "narration_text": "#O person Y speaks to C",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1336.8005976213299,
+            "timestamp_frame": 40103,
+            "_unmapped_timestamp_sec": 1337.87496,
+            "narration_text": "#O person X walks",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1337.66045762133,
+            "timestamp_frame": 40129,
+            "_unmapped_timestamp_sec": 1338.7348200000001,
+            "narration_text": "#O person Y speaks to C",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1342.72574762133,
+            "timestamp_frame": 40281,
+            "_unmapped_timestamp_sec": 1343.8001100000001,
+            "narration_text": "#C C speaks to person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1343.57614762133,
+            "timestamp_frame": 40307,
+            "_unmapped_timestamp_sec": 1344.65051,
+            "narration_text": "#C C walks",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1345.24059762133,
+            "timestamp_frame": 40357,
+            "_unmapped_timestamp_sec": 1346.31496,
+            "narration_text": "#O person Y speaks to C",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1345.46822762133,
+            "timestamp_frame": 40363,
+            "_unmapped_timestamp_sec": 1346.54259,
+            "narration_text": "#C C walks\n",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1346.78541762133,
+            "timestamp_frame": 40403,
+            "_unmapped_timestamp_sec": 1347.85978,
+            "narration_text": "#C C speaks to person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1347.3945176213301,
+            "timestamp_frame": 40421,
+            "_unmapped_timestamp_sec": 1348.46888,
+            "narration_text": "#C C walks",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1348.97354762133,
+            "timestamp_frame": 40469,
+            "_unmapped_timestamp_sec": 1350.04791,
+            "narration_text": "#O person Y speaks to C",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1350.14871762133,
+            "timestamp_frame": 40504,
+            "_unmapped_timestamp_sec": 1351.22308,
+            "narration_text": "#C C walks",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1350.4245076213301,
+            "timestamp_frame": 40512,
+            "_unmapped_timestamp_sec": 1351.49887,
+            "narration_text": "#C C speaks to person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1350.85980762133,
+            "timestamp_frame": 40525,
+            "_unmapped_timestamp_sec": 1351.93417,
+            "narration_text": "#C C looks at person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1353.13683762133,
+            "timestamp_frame": 40593,
+            "_unmapped_timestamp_sec": 1354.2112,
+            "narration_text": "#C C looks around the kitchen",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1355.30897762133,
+            "timestamp_frame": 40659,
+            "_unmapped_timestamp_sec": 1356.3833399999999,
+            "narration_text": "#C C speaks to person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1355.66045762133,
+            "timestamp_frame": 40669,
+            "_unmapped_timestamp_sec": 1356.7348200000001,
+            "narration_text": "#C C looks around the kitchen",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1356.19979762133,
+            "timestamp_frame": 40685,
+            "_unmapped_timestamp_sec": 1357.27416,
+            "narration_text": "#C C looks at person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1358.74198762133,
+            "timestamp_frame": 40762,
+            "_unmapped_timestamp_sec": 1359.81635,
+            "narration_text": "#C C speaks to person Y\n",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1359.11196762133,
+            "timestamp_frame": 40773,
+            "_unmapped_timestamp_sec": 1360.18633,
+            "narration_text": "#C C looks at person Y",
+            "annotation_uid": "36193dce-8401-495f-a24b-2efd710688fe"
+        },
+        {
+            "timestamp_sec": 1365.64176762133,
+            "timestamp_frame": 40969,
+            "_unmapped_timestamp_sec": 1366.71613,
+            "narration_text": "#O child Y talks to C",
+            "annotation_uid": "b27b3d44-40ca-4e5f-83b5-86701a6c68bf"
+        },
+        {
+            "timestamp_sec": 1368.63020762133,
+            "timestamp_frame": 41058,
+            "_unmapped_timestamp_sec": 1369.70457,
+            "narration_text": "#C C talks to child Y ",
+            "annotation_uid": "b27b3d44-40ca-4e5f-83b5-86701a6c68bf"
+        },
+        {
+            "timestamp_sec": 1366.07034762133,
+            "timestamp_frame": 40981,
+            "_unmapped_timestamp_sec": 1367.14471,
+            "narration_text": "#C C walks around the house ",
+            "annotation_uid": "b27b3d44-40ca-4e5f-83b5-86701a6c68bf"
+        },
+        {
+            "timestamp_sec": 1376.95317762133,
+            "timestamp_frame": 41308,
+            "_unmapped_timestamp_sec": 1378.02754,
+            "narration_text": "#O child Y talks to C",
+            "annotation_uid": "b27b3d44-40ca-4e5f-83b5-86701a6c68bf"
+        },
+        {
+            "timestamp_sec": 1230.31980762133,
+            "timestamp_frame": 36909,
+            "_unmapped_timestamp_sec": 1231.39417,
+            "narration_text": "#O A child K converses with C",
+            "annotation_uid": "a1abdb3e-f2b7-491c-a7bb-de9e1ce8eb2a"
+        },
+        {
+            "timestamp_sec": 1233.29268762133,
+            "timestamp_frame": 36998,
+            "_unmapped_timestamp_sec": 1234.36705,
+            "narration_text": "\n#C C sits at the dinning room\n",
+            "annotation_uid": "a1abdb3e-f2b7-491c-a7bb-de9e1ce8eb2a"
+        },
+        {
+            "timestamp_sec": 1235.88111762133,
+            "timestamp_frame": 37076,
+            "_unmapped_timestamp_sec": 1236.95548,
+            "narration_text": "#C C walks around the room",
+            "annotation_uid": "a1abdb3e-f2b7-491c-a7bb-de9e1ce8eb2a"
+        },
+        {
+            "timestamp_sec": 1250.1147176213299,
+            "timestamp_frame": 37503,
+            "_unmapped_timestamp_sec": 1251.18908,
+            "narration_text": "#C C sits at the dinning room",
+            "annotation_uid": "a1abdb3e-f2b7-491c-a7bb-de9e1ce8eb2a"
+        },
+        {
+            "timestamp_sec": 1251.56873762133,
+            "timestamp_frame": 37546,
+            "_unmapped_timestamp_sec": 1252.6431,
+            "narration_text": "#C C looks around the room",
+            "annotation_uid": "a1abdb3e-f2b7-491c-a7bb-de9e1ce8eb2a"
+        },
+        {
+            "timestamp_sec": 1258.42275762133,
+            "timestamp_frame": 37752,
+            "_unmapped_timestamp_sec": 1259.49712,
+            "narration_text": "#O A Child K converses with man Y ",
+            "annotation_uid": "a1abdb3e-f2b7-491c-a7bb-de9e1ce8eb2a"
+        },
+        {
+            "timestamp_sec": 1263.06071762133,
+            "timestamp_frame": 37891,
+            "_unmapped_timestamp_sec": 1264.13508,
+            "narration_text": "#C C looks around the room",
+            "annotation_uid": "a1abdb3e-f2b7-491c-a7bb-de9e1ce8eb2a"
+        },
+        {
+            "timestamp_sec": 1273.55856762133,
+            "timestamp_frame": 38206,
+            "_unmapped_timestamp_sec": 1274.63293,
+            "narration_text": "#O  A  man Y  moves his hands",
+            "annotation_uid": "a1abdb3e-f2b7-491c-a7bb-de9e1ce8eb2a"
+        },
+        {
+            "timestamp_sec": 1279.30406762133,
+            "timestamp_frame": 38378,
+            "_unmapped_timestamp_sec": 1280.37843,
+            "narration_text": "#O A Child K converses with man Y ",
+            "annotation_uid": "a1abdb3e-f2b7-491c-a7bb-de9e1ce8eb2a"
+        },
+        {
+            "timestamp_sec": 1280.20261762133,
+            "timestamp_frame": 38405,
+            "_unmapped_timestamp_sec": 1281.27698,
+            "narration_text": "#O A Child K turns around",
+            "annotation_uid": "a1abdb3e-f2b7-491c-a7bb-de9e1ce8eb2a"
+        },
+        {
+            "timestamp_sec": 1287.83298762133,
+            "timestamp_frame": 38634,
+            "_unmapped_timestamp_sec": 1288.90735,
+            "narration_text": "#O  A  man Y  moves his hands",
+            "annotation_uid": "a1abdb3e-f2b7-491c-a7bb-de9e1ce8eb2a"
+        },
+        {
+            "timestamp_sec": 1291.87538762133,
+            "timestamp_frame": 38756,
+            "_unmapped_timestamp_sec": 1292.94975,
+            "narration_text": "#C C converses with child K",
+            "annotation_uid": "a1abdb3e-f2b7-491c-a7bb-de9e1ce8eb2a"
+        },
+        {
+            "timestamp_sec": 1306.81045762133,
+            "timestamp_frame": 39204,
+            "_unmapped_timestamp_sec": 1307.88482,
+            "narration_text": "#O A Man Y converses with child K",
+            "annotation_uid": "a1abdb3e-f2b7-491c-a7bb-de9e1ce8eb2a"
+        },
+        {
+            "timestamp_sec": 1321.84475762133,
+            "timestamp_frame": 39655,
+            "_unmapped_timestamp_sec": 1322.91912,
+            "narration_text": "#O  A  man Y  Walks away",
+            "annotation_uid": "a1abdb3e-f2b7-491c-a7bb-de9e1ce8eb2a"
+        },
+        {
+            "timestamp_sec": 1327.6453276213301,
+            "timestamp_frame": 39829,
+            "_unmapped_timestamp_sec": 1328.71969,
+            "narration_text": "#C C converses with child K",
+            "annotation_uid": "a1abdb3e-f2b7-491c-a7bb-de9e1ce8eb2a"
+        },
+        {
+            "timestamp_sec": 1331.3711076213299,
+            "timestamp_frame": 39941,
+            "_unmapped_timestamp_sec": 1332.4454700000001,
+            "narration_text": "#C C  looks around",
+            "annotation_uid": "a1abdb3e-f2b7-491c-a7bb-de9e1ce8eb2a"
+        },
+        {
+            "timestamp_sec": 1332.29821762133,
+            "timestamp_frame": 39968,
+            "_unmapped_timestamp_sec": 1333.37258,
+            "narration_text": "#O A man Y pulls the curtains",
+            "annotation_uid": "a1abdb3e-f2b7-491c-a7bb-de9e1ce8eb2a"
+        },
+        {
+            "timestamp_sec": 1336.18425762133,
+            "timestamp_frame": 40085,
+            "_unmapped_timestamp_sec": 1337.25862,
+            "narration_text": "#O A man Y walks around the room ",
+            "annotation_uid": "a1abdb3e-f2b7-491c-a7bb-de9e1ce8eb2a"
+        },
+        {
+            "timestamp_sec": 1340.82300762133,
+            "timestamp_frame": 40224,
+            "_unmapped_timestamp_sec": 1341.8973700000001,
+            "narration_text": "#O A child K converses with C",
+            "annotation_uid": "a1abdb3e-f2b7-491c-a7bb-de9e1ce8eb2a"
+        },
+        {
+            "timestamp_sec": 1343.01098762133,
+            "timestamp_frame": 40290,
+            "_unmapped_timestamp_sec": 1344.08535,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "a1abdb3e-f2b7-491c-a7bb-de9e1ce8eb2a"
+        },
+        {
+            "timestamp_sec": 1347.29750762133,
+            "timestamp_frame": 40418,
+            "_unmapped_timestamp_sec": 1348.37187,
+            "narration_text": "#C C walks around the kitchen",
+            "annotation_uid": "a1abdb3e-f2b7-491c-a7bb-de9e1ce8eb2a"
+        },
+        {
+            "timestamp_sec": 1350.1150776213299,
+            "timestamp_frame": 40503,
+            "_unmapped_timestamp_sec": 1351.18944,
+            "narration_text": "#C C converses with child K",
+            "annotation_uid": "a1abdb3e-f2b7-491c-a7bb-de9e1ce8eb2a"
+        },
+        {
+            "timestamp_sec": 1352.65215762133,
+            "timestamp_frame": 40579,
+            "_unmapped_timestamp_sec": 1353.72652,
+            "narration_text": "#C C looks around ",
+            "annotation_uid": "a1abdb3e-f2b7-491c-a7bb-de9e1ce8eb2a"
+        },
+        {
+            "timestamp_sec": 1356.33053762133,
+            "timestamp_frame": 40689,
+            "_unmapped_timestamp_sec": 1357.4049,
+            "narration_text": "#C C converses with child K",
+            "annotation_uid": "a1abdb3e-f2b7-491c-a7bb-de9e1ce8eb2a"
+        },
+        {
+            "timestamp_sec": 1365.36712762133,
+            "timestamp_frame": 40960,
+            "_unmapped_timestamp_sec": 1366.44149,
+            "narration_text": "#C C looks around the kitchen",
+            "annotation_uid": "75399770-82de-4b1e-b683-decb88bc99d5"
+        },
+        {
+            "timestamp_sec": 1367.05012762133,
+            "timestamp_frame": 41011,
+            "_unmapped_timestamp_sec": 1368.12449,
+            "narration_text": "#C C walks to the dining room",
+            "annotation_uid": "75399770-82de-4b1e-b683-decb88bc99d5"
+        },
+        {
+            "timestamp_sec": 1372.88906762133,
+            "timestamp_frame": 41186,
+            "_unmapped_timestamp_sec": 1373.96343,
+            "narration_text": "#C C walks around the room",
+            "annotation_uid": "75399770-82de-4b1e-b683-decb88bc99d5"
+        },
+        {
+            "timestamp_sec": 1376.23528762133,
+            "timestamp_frame": 41286,
+            "_unmapped_timestamp_sec": 1377.30965,
+            "narration_text": "#C C does #unsure",
+            "annotation_uid": "75399770-82de-4b1e-b683-decb88bc99d5"
+        }
+    ]
+}

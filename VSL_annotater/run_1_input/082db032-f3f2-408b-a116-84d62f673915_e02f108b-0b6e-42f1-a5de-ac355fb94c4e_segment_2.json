@@ -1,0 +1,823 @@
+{
+    "narrations": [
+        {
+            "timestamp_sec": 2944.1471919333335,
+            "timestamp_frame": 88324,
+            "_unmapped_timestamp_sec": 2944.13283,
+            "narration_text": "#C C picks the jug on the floor",
+            "annotation_uid": "7f029bdb-21c4-43a9-a908-245f6d04809a"
+        },
+        {
+            "timestamp_sec": 2944.5901819333335,
+            "timestamp_frame": 88337,
+            "_unmapped_timestamp_sec": 2944.57582,
+            "narration_text": "#C C pours water on the trouser from the jug",
+            "annotation_uid": "7f029bdb-21c4-43a9-a908-245f6d04809a"
+        },
+        {
+            "timestamp_sec": 2945.3054319333332,
+            "timestamp_frame": 88359,
+            "_unmapped_timestamp_sec": 2945.29107,
+            "narration_text": "#C C drops the jug on the floor",
+            "annotation_uid": "7f029bdb-21c4-43a9-a908-245f6d04809a"
+        },
+        {
+            "timestamp_sec": 2945.9682619333335,
+            "timestamp_frame": 88378,
+            "_unmapped_timestamp_sec": 2945.9539,
+            "narration_text": "#C C rinses the T-shirt with her hands",
+            "annotation_uid": "7f029bdb-21c4-43a9-a908-245f6d04809a"
+        },
+        {
+            "timestamp_sec": 2949.7735019333336,
+            "timestamp_frame": 88493,
+            "_unmapped_timestamp_sec": 2949.75914,
+            "narration_text": "#C C drains the water on the T-shirt",
+            "annotation_uid": "7f029bdb-21c4-43a9-a908-245f6d04809a"
+        },
+        {
+            "timestamp_sec": 2952.2635819333336,
+            "timestamp_frame": 88567,
+            "_unmapped_timestamp_sec": 2952.24922,
+            "narration_text": "#C C drops the T-shirt on the clothes on the floor",
+            "annotation_uid": "7f029bdb-21c4-43a9-a908-245f6d04809a"
+        },
+        {
+            "timestamp_sec": 2954.9987219333334,
+            "timestamp_frame": 88649,
+            "_unmapped_timestamp_sec": 2954.98436,
+            "narration_text": "#C C adjusts a cup on the floor",
+            "annotation_uid": "7f029bdb-21c4-43a9-a908-245f6d04809a"
+        },
+        {
+            "timestamp_sec": 2955.9474119333336,
+            "timestamp_frame": 88678,
+            "_unmapped_timestamp_sec": 2955.93305,
+            "narration_text": "#C C bends the plastic bath towards her",
+            "annotation_uid": "7f029bdb-21c4-43a9-a908-245f6d04809a"
+        },
+        {
+            "timestamp_sec": 2958.8255919333333,
+            "timestamp_frame": 88764,
+            "_unmapped_timestamp_sec": 2958.8112300000003,
+            "narration_text": "#C C turns the trouser inside the plastic bath",
+            "annotation_uid": "7f029bdb-21c4-43a9-a908-245f6d04809a"
+        },
+        {
+            "timestamp_sec": 2961.1036119333335,
+            "timestamp_frame": 88832,
+            "_unmapped_timestamp_sec": 2961.08925,
+            "narration_text": "#C C picks the trouser inside the plastic bath",
+            "annotation_uid": "7f029bdb-21c4-43a9-a908-245f6d04809a"
+        },
+        {
+            "timestamp_sec": 2967.9495719333336,
+            "timestamp_frame": 89038,
+            "_unmapped_timestamp_sec": 2967.93521,
+            "narration_text": "#C C drops the plastic bath on the floor",
+            "annotation_uid": "7f029bdb-21c4-43a9-a908-245f6d04809a"
+        },
+        {
+            "timestamp_sec": 2968.8637919333332,
+            "timestamp_frame": 89065,
+            "_unmapped_timestamp_sec": 2968.84943,
+            "narration_text": "#C C adjusts the trouser",
+            "annotation_uid": "7f029bdb-21c4-43a9-a908-245f6d04809a"
+        },
+        {
+            "timestamp_sec": 2966.3633319333335,
+            "timestamp_frame": 88990,
+            "_unmapped_timestamp_sec": 2966.34897,
+            "narration_text": "#O A man X walks to the front of C",
+            "annotation_uid": "7f029bdb-21c4-43a9-a908-245f6d04809a"
+        },
+        {
+            "timestamp_sec": 2979.6228619333333,
+            "timestamp_frame": 89388,
+            "_unmapped_timestamp_sec": 2979.6085,
+            "narration_text": "#C C adjusts a trouser on the floor",
+            "annotation_uid": "c97e3f8a-0b61-4c40-9866-3ed7ac5ce939"
+        },
+        {
+            "timestamp_sec": 2986.0907419333334,
+            "timestamp_frame": 89582,
+            "_unmapped_timestamp_sec": 2986.07638,
+            "narration_text": "#O A man X turns a trouser inside out",
+            "annotation_uid": "c97e3f8a-0b61-4c40-9866-3ed7ac5ce939"
+        },
+        {
+            "timestamp_sec": 2995.8833019333333,
+            "timestamp_frame": 89876,
+            "_unmapped_timestamp_sec": 2995.86894,
+            "narration_text": "#C C presses a button on a wireless speaker",
+            "annotation_uid": "c97e3f8a-0b61-4c40-9866-3ed7ac5ce939"
+        },
+        {
+            "timestamp_sec": 2999.9059419333335,
+            "timestamp_frame": 89997,
+            "_unmapped_timestamp_sec": 2999.89158,
+            "narration_text": "#C C adjusts the trouser on the floor",
+            "annotation_uid": "c97e3f8a-0b61-4c40-9866-3ed7ac5ce939"
+        },
+        {
+            "timestamp_sec": 3004.5676119333334,
+            "timestamp_frame": 90136,
+            "_unmapped_timestamp_sec": 3004.55325,
+            "narration_text": "#C C picks a brush on the floor",
+            "annotation_uid": "c97e3f8a-0b61-4c40-9866-3ed7ac5ce939"
+        },
+        {
+            "timestamp_sec": 3004.7438219333335,
+            "timestamp_frame": 90142,
+            "_unmapped_timestamp_sec": 3004.72946,
+            "narration_text": "#C C washes the trouser with the brush",
+            "annotation_uid": "c97e3f8a-0b61-4c40-9866-3ed7ac5ce939"
+        },
+        {
+            "timestamp_sec": 3006.5894319333333,
+            "timestamp_frame": 90197,
+            "_unmapped_timestamp_sec": 3006.57507,
+            "narration_text": "#C C takes the detergent on the floor with the brush",
+            "annotation_uid": "c97e3f8a-0b61-4c40-9866-3ed7ac5ce939"
+        },
+        {
+            "timestamp_sec": 3008.0459019333334,
+            "timestamp_frame": 90241,
+            "_unmapped_timestamp_sec": 3008.03154,
+            "narration_text": "#C C washes the trouser with the brush",
+            "annotation_uid": "c97e3f8a-0b61-4c40-9866-3ed7ac5ce939"
+        },
+        {
+            "timestamp_sec": 3017.0361519333337,
+            "timestamp_frame": 90510,
+            "_unmapped_timestamp_sec": 3017.02179,
+            "narration_text": "#C C picks a handkerchief on the floor. #unsure",
+            "annotation_uid": "c97e3f8a-0b61-4c40-9866-3ed7ac5ce939"
+        },
+        {
+            "timestamp_sec": 3018.0247819333335,
+            "timestamp_frame": 90540,
+            "_unmapped_timestamp_sec": 3018.01042,
+            "narration_text": "#C C throws the handkerchief in a plastic bath. #unsure",
+            "annotation_uid": "c97e3f8a-0b61-4c40-9866-3ed7ac5ce939"
+        },
+        {
+            "timestamp_sec": 3019.7170319333336,
+            "timestamp_frame": 90591,
+            "_unmapped_timestamp_sec": 3019.70267,
+            "narration_text": "#C C washes the trouser with the brush",
+            "annotation_uid": "c97e3f8a-0b61-4c40-9866-3ed7ac5ce939"
+        },
+        {
+            "timestamp_sec": 3023.4065319333336,
+            "timestamp_frame": 90702,
+            "_unmapped_timestamp_sec": 3023.39217,
+            "narration_text": "#C C drops the brush on the trouser",
+            "annotation_uid": "c97e3f8a-0b61-4c40-9866-3ed7ac5ce939"
+        },
+        {
+            "timestamp_sec": 3023.6613019333336,
+            "timestamp_frame": 90709,
+            "_unmapped_timestamp_sec": 3023.64694,
+            "narration_text": "#C C adjusts the trouser",
+            "annotation_uid": "c97e3f8a-0b61-4c40-9866-3ed7ac5ce939"
+        },
+        {
+            "timestamp_sec": 3029.0393619333336,
+            "timestamp_frame": 90871,
+            "_unmapped_timestamp_sec": 3029.025,
+            "narration_text": "#C C touches her nose. #unsure",
+            "annotation_uid": "c97e3f8a-0b61-4c40-9866-3ed7ac5ce939"
+        },
+        {
+            "timestamp_sec": 3031.2245819333334,
+            "timestamp_frame": 90936,
+            "_unmapped_timestamp_sec": 3031.21022,
+            "narration_text": "#O The man X walks in front of C",
+            "annotation_uid": "c97e3f8a-0b61-4c40-9866-3ed7ac5ce939"
+        },
+        {
+            "timestamp_sec": 3039.8251219333333,
+            "timestamp_frame": 91194,
+            "_unmapped_timestamp_sec": 3039.81076,
+            "narration_text": "#C C washes the trouser with the brush",
+            "annotation_uid": "c97e3f8a-0b61-4c40-9866-3ed7ac5ce939"
+        },
+        {
+            "timestamp_sec": 3052.2305419333334,
+            "timestamp_frame": 91566,
+            "_unmapped_timestamp_sec": 3052.21618,
+            "narration_text": "#C C washes the trouser with the brush",
+            "annotation_uid": "c97e3f8a-0b61-4c40-9866-3ed7ac5ce939"
+        },
+        {
+            "timestamp_sec": 3058.9623619333333,
+            "timestamp_frame": 91768,
+            "_unmapped_timestamp_sec": 3058.948,
+            "narration_text": "#C C washes the trouser with the brush",
+            "annotation_uid": "c97e3f8a-0b61-4c40-9866-3ed7ac5ce939"
+        },
+        {
+            "timestamp_sec": 3068.5383219333335,
+            "timestamp_frame": 92056,
+            "_unmapped_timestamp_sec": 3068.52396,
+            "narration_text": "#C C adjusts the trouser",
+            "annotation_uid": "c97e3f8a-0b61-4c40-9866-3ed7ac5ce939"
+        },
+        {
+            "timestamp_sec": 3070.9446319333333,
+            "timestamp_frame": 92128,
+            "_unmapped_timestamp_sec": 3070.93027,
+            "narration_text": "#C C raises her hand",
+            "annotation_uid": "c97e3f8a-0b61-4c40-9866-3ed7ac5ce939"
+        },
+        {
+            "timestamp_sec": 3072.2453019333334,
+            "timestamp_frame": 92167,
+            "_unmapped_timestamp_sec": 3072.23094,
+            "narration_text": "#C C adjusts the trouser",
+            "annotation_uid": "c97e3f8a-0b61-4c40-9866-3ed7ac5ce939"
+        },
+        {
+            "timestamp_sec": 3082.2795419333333,
+            "timestamp_frame": 92468,
+            "_unmapped_timestamp_sec": 3082.26518,
+            "narration_text": "#C C picks the brush on the trouser",
+            "annotation_uid": "c97e3f8a-0b61-4c40-9866-3ed7ac5ce939"
+        },
+        {
+            "timestamp_sec": 3083.2670319333333,
+            "timestamp_frame": 92497,
+            "_unmapped_timestamp_sec": 3083.25267,
+            "narration_text": "#C C washes the trouser with the brush",
+            "annotation_uid": "c97e3f8a-0b61-4c40-9866-3ed7ac5ce939"
+        },
+        {
+            "timestamp_sec": 3089.5431519333333,
+            "timestamp_frame": 92686,
+            "_unmapped_timestamp_sec": 3089.52879,
+            "narration_text": "#C C takes the detergent on the floor with the brush",
+            "annotation_uid": "c97e3f8a-0b61-4c40-9866-3ed7ac5ce939"
+        },
+        {
+            "timestamp_sec": 2941.668371933333,
+            "timestamp_frame": 88249,
+            "_unmapped_timestamp_sec": 2941.65401,
+            "narration_text": "#C C squeezes the t-shirt on the watery floor.",
+            "annotation_uid": "10bb2341-b306-42ff-b401-acb187c2ea79"
+        },
+        {
+            "timestamp_sec": 2943.9598019333334,
+            "timestamp_frame": 88318,
+            "_unmapped_timestamp_sec": 2943.94544,
+            "narration_text": "#C C adjusts the t-shirt.",
+            "annotation_uid": "10bb2341-b306-42ff-b401-acb187c2ea79"
+        },
+        {
+            "timestamp_sec": 2944.3651019333333,
+            "timestamp_frame": 88330,
+            "_unmapped_timestamp_sec": 2944.35074,
+            "narration_text": "#C C picks the water jug.",
+            "annotation_uid": "10bb2341-b306-42ff-b401-acb187c2ea79"
+        },
+        {
+            "timestamp_sec": 2944.8050319333333,
+            "timestamp_frame": 88344,
+            "_unmapped_timestamp_sec": 2944.79067,
+            "narration_text": "#C C pours water on the t-shirt using the water jug.",
+            "annotation_uid": "10bb2341-b306-42ff-b401-acb187c2ea79"
+        },
+        {
+            "timestamp_sec": 2945.3440819333337,
+            "timestamp_frame": 88360,
+            "_unmapped_timestamp_sec": 2945.32972,
+            "narration_text": "#C C adjusts the t-shirt.",
+            "annotation_uid": "10bb2341-b306-42ff-b401-acb187c2ea79"
+        },
+        {
+            "timestamp_sec": 2945.3440819333337,
+            "timestamp_frame": 88360,
+            "_unmapped_timestamp_sec": 2945.32972,
+            "narration_text": "#C C puts the water jug on the floor.",
+            "annotation_uid": "10bb2341-b306-42ff-b401-acb187c2ea79"
+        },
+        {
+            "timestamp_sec": 2946.3010019333333,
+            "timestamp_frame": 88388,
+            "_unmapped_timestamp_sec": 2946.28664,
+            "narration_text": "#C C washes the t-shirt using hands.",
+            "annotation_uid": "10bb2341-b306-42ff-b401-acb187c2ea79"
+        },
+        {
+            "timestamp_sec": 2950.2567419333336,
+            "timestamp_frame": 88507,
+            "_unmapped_timestamp_sec": 2950.24238,
+            "narration_text": "#C C squeezes the t-shirt on the watery floor.",
+            "annotation_uid": "10bb2341-b306-42ff-b401-acb187c2ea79"
+        },
+        {
+            "timestamp_sec": 2952.8947419333335,
+            "timestamp_frame": 88586,
+            "_unmapped_timestamp_sec": 2952.88038,
+            "narration_text": "#C C drops the t-shirt.",
+            "annotation_uid": "10bb2341-b306-42ff-b401-acb187c2ea79"
+        },
+        {
+            "timestamp_sec": 2953.789591933333,
+            "timestamp_frame": 88613,
+            "_unmapped_timestamp_sec": 2953.77523,
+            "narration_text": "#C C wipes the left hand on a trouser.",
+            "annotation_uid": "10bb2341-b306-42ff-b401-acb187c2ea79"
+        },
+        {
+            "timestamp_sec": 2955.0953619333336,
+            "timestamp_frame": 88652,
+            "_unmapped_timestamp_sec": 2955.081,
+            "narration_text": "#C C picks a jug on the floor.",
+            "annotation_uid": "10bb2341-b306-42ff-b401-acb187c2ea79"
+        },
+        {
+            "timestamp_sec": 2956.0322619333338,
+            "timestamp_frame": 88680,
+            "_unmapped_timestamp_sec": 2956.0179,
+            "narration_text": "#C C C pulls a basin.",
+            "annotation_uid": "10bb2341-b306-42ff-b401-acb187c2ea79"
+        },
+        {
+            "timestamp_sec": 2956.0322619333338,
+            "timestamp_frame": 88680,
+            "_unmapped_timestamp_sec": 2956.0179,
+            "narration_text": "#C C puts the jug on the floor.",
+            "annotation_uid": "10bb2341-b306-42ff-b401-acb187c2ea79"
+        },
+        {
+            "timestamp_sec": 2958.9046719333337,
+            "timestamp_frame": 88767,
+            "_unmapped_timestamp_sec": 2958.8903099999998,
+            "narration_text": "#C C adjusts clothes in the basin.",
+            "annotation_uid": "10bb2341-b306-42ff-b401-acb187c2ea79"
+        },
+        {
+            "timestamp_sec": 2961.4892219333333,
+            "timestamp_frame": 88844,
+            "_unmapped_timestamp_sec": 2961.47486,
+            "narration_text": "#C C lifts clothes from the basin.",
+            "annotation_uid": "10bb2341-b306-42ff-b401-acb187c2ea79"
+        },
+        {
+            "timestamp_sec": 2965.9626719333337,
+            "timestamp_frame": 88978,
+            "_unmapped_timestamp_sec": 2965.9483099999998,
+            "narration_text": "#O Person Z walks around the compound.",
+            "annotation_uid": "10bb2341-b306-42ff-b401-acb187c2ea79"
+        },
+        {
+            "timestamp_sec": 2967.7563219333333,
+            "timestamp_frame": 89032,
+            "_unmapped_timestamp_sec": 2967.74196,
+            "narration_text": "#C C turns around.",
+            "annotation_uid": "10bb2341-b306-42ff-b401-acb187c2ea79"
+        },
+        {
+            "timestamp_sec": 2968.4127819333335,
+            "timestamp_frame": 89052,
+            "_unmapped_timestamp_sec": 2968.39842,
+            "narration_text": "#C C drops the clothes on the watery floor.",
+            "annotation_uid": "10bb2341-b306-42ff-b401-acb187c2ea79"
+        },
+        {
+            "timestamp_sec": 2968.6367519333335,
+            "timestamp_frame": 89058,
+            "_unmapped_timestamp_sec": 2968.62239,
+            "narration_text": "#C C converses with person Z.",
+            "annotation_uid": "10bb2341-b306-42ff-b401-acb187c2ea79"
+        },
+        {
+            "timestamp_sec": 2969.4537119333336,
+            "timestamp_frame": 89083,
+            "_unmapped_timestamp_sec": 2969.43935,
+            "narration_text": "#C C adjusts a trouser leg from a basin.",
+            "annotation_uid": "10bb2341-b306-42ff-b401-acb187c2ea79"
+        },
+        {
+            "timestamp_sec": 2970.7856119333337,
+            "timestamp_frame": 89123,
+            "_unmapped_timestamp_sec": 2970.77125,
+            "narration_text": "#O Person Z stands.",
+            "annotation_uid": "10bb2341-b306-42ff-b401-acb187c2ea79"
+        },
+        {
+            "timestamp_sec": 2973.4307519333333,
+            "timestamp_frame": 89202,
+            "_unmapped_timestamp_sec": 2973.41639,
+            "narration_text": "#C C lifts the left hand.",
+            "annotation_uid": "10bb2341-b306-42ff-b401-acb187c2ea79"
+        },
+        {
+            "timestamp_sec": 2979.6698819333333,
+            "timestamp_frame": 89389,
+            "_unmapped_timestamp_sec": 2979.6555200000003,
+            "narration_text": "#C C adjusts the trouser.",
+            "annotation_uid": "10bb2341-b306-42ff-b401-acb187c2ea79"
+        },
+        {
+            "timestamp_sec": 2981.6365619333337,
+            "timestamp_frame": 89448,
+            "_unmapped_timestamp_sec": 2981.6222,
+            "narration_text": "#O Person Z walks around.",
+            "annotation_uid": "10bb2341-b306-42ff-b401-acb187c2ea79"
+        },
+        {
+            "timestamp_sec": 2985.8590819333335,
+            "timestamp_frame": 89575,
+            "_unmapped_timestamp_sec": 2985.84472,
+            "narration_text": "#C C stares at the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 2986.5753919333333,
+            "timestamp_frame": 89597,
+            "_unmapped_timestamp_sec": 2986.56103,
+            "narration_text": "#C C stares at a man X",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 2994.0284919333335,
+            "timestamp_frame": 89820,
+            "_unmapped_timestamp_sec": 2994.01413,
+            "narration_text": "#C C stares at the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 2996.0961719333336,
+            "timestamp_frame": 89882,
+            "_unmapped_timestamp_sec": 2996.08181,
+            "narration_text": "#C C turns Bluetooth speaker on ",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 2998.4850019333335,
+            "timestamp_frame": 89954,
+            "_unmapped_timestamp_sec": 2998.47064,
+            "narration_text": "#C C stares at a man X",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3000.1880919333335,
+            "timestamp_frame": 90005,
+            "_unmapped_timestamp_sec": 3000.17373,
+            "narration_text": "#C C stares at the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3001.5497119333336,
+            "timestamp_frame": 90046,
+            "_unmapped_timestamp_sec": 3001.53535,
+            "narration_text": "#C C inspects the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3002.4789419333333,
+            "timestamp_frame": 90074,
+            "_unmapped_timestamp_sec": 3002.46458,
+            "narration_text": "#C C throws trouser on the floor",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3003.4742519333336,
+            "timestamp_frame": 90104,
+            "_unmapped_timestamp_sec": 3003.45989,
+            "narration_text": "#C C inspects the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3004.7199919333334,
+            "timestamp_frame": 90141,
+            "_unmapped_timestamp_sec": 3004.70563,
+            "narration_text": "#C C picks brush",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3005.2131519333334,
+            "timestamp_frame": 90156,
+            "_unmapped_timestamp_sec": 3005.19879,
+            "narration_text": "#C C scrubs the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3007.2700319333335,
+            "timestamp_frame": 90217,
+            "_unmapped_timestamp_sec": 3007.25567,
+            "narration_text": "#C C scrubs the floor",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3006.4201219333336,
+            "timestamp_frame": 90192,
+            "_unmapped_timestamp_sec": 3006.40576,
+            "narration_text": "#C C stares at the floor",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3008.5410819333333,
+            "timestamp_frame": 90256,
+            "_unmapped_timestamp_sec": 3008.52672,
+            "narration_text": "#C C scrubs the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3011.1130519333337,
+            "timestamp_frame": 90333,
+            "_unmapped_timestamp_sec": 3011.09869,
+            "narration_text": "#C C inspects the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3012.0881519333334,
+            "timestamp_frame": 90362,
+            "_unmapped_timestamp_sec": 3012.07379,
+            "narration_text": "#C C scrubs the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3013.0708719333334,
+            "timestamp_frame": 90391,
+            "_unmapped_timestamp_sec": 3013.05651,
+            "narration_text": "#C C stares at the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3013.909191933333,
+            "timestamp_frame": 90417,
+            "_unmapped_timestamp_sec": 3013.89483,
+            "narration_text": "#C C  looks around",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3015.1349419333337,
+            "timestamp_frame": 90453,
+            "_unmapped_timestamp_sec": 3015.12058,
+            "narration_text": "#C C scrubs the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3016.4223819333333,
+            "timestamp_frame": 90492,
+            "_unmapped_timestamp_sec": 3016.40802,
+            "narration_text": "#C C inspects the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3017.6952119333337,
+            "timestamp_frame": 90530,
+            "_unmapped_timestamp_sec": 3017.68085,
+            "narration_text": "#C C picks trash",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3018.1956719333334,
+            "timestamp_frame": 90545,
+            "_unmapped_timestamp_sec": 3018.18131,
+            "narration_text": "#C C throws the trash",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3019.0396919333334,
+            "timestamp_frame": 90571,
+            "_unmapped_timestamp_sec": 3019.02533,
+            "narration_text": "#C C inspects the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3020.190801933333,
+            "timestamp_frame": 90605,
+            "_unmapped_timestamp_sec": 3020.17644,
+            "narration_text": "#C C scrubs the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3023.7742719333337,
+            "timestamp_frame": 90713,
+            "_unmapped_timestamp_sec": 3023.75991,
+            "narration_text": "#C C inspects the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3027.8855219333336,
+            "timestamp_frame": 90836,
+            "_unmapped_timestamp_sec": 3027.87116,
+            "narration_text": "#C C throws trouser on the floor",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3029.6749119333335,
+            "timestamp_frame": 90890,
+            "_unmapped_timestamp_sec": 3029.66055,
+            "narration_text": "#C C stares at the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3031.7468619333335,
+            "timestamp_frame": 90952,
+            "_unmapped_timestamp_sec": 3031.7325,
+            "narration_text": "#C C stares at a man X",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3037.1756619333337,
+            "timestamp_frame": 91115,
+            "_unmapped_timestamp_sec": 3037.1613,
+            "narration_text": "#C C stares at a wash basin",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3040.0621519333336,
+            "timestamp_frame": 91201,
+            "_unmapped_timestamp_sec": 3040.04779,
+            "narration_text": "#C C scrubs the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3039.6296619333334,
+            "timestamp_frame": 91188,
+            "_unmapped_timestamp_sec": 3039.6153,
+            "narration_text": "#C C stares at the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3042.9066619333335,
+            "timestamp_frame": 91287,
+            "_unmapped_timestamp_sec": 3042.8923,
+            "narration_text": "#C C inspects the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3044.3651319333335,
+            "timestamp_frame": 91330,
+            "_unmapped_timestamp_sec": 3044.35077,
+            "narration_text": "#C C scrubs the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3046.1393319333333,
+            "timestamp_frame": 91384,
+            "_unmapped_timestamp_sec": 3046.12497,
+            "narration_text": "#C C  looks around",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3047.8027719333336,
+            "timestamp_frame": 91433,
+            "_unmapped_timestamp_sec": 3047.78841,
+            "narration_text": "#C C inspects the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3051.5648619333333,
+            "timestamp_frame": 91546,
+            "_unmapped_timestamp_sec": 3051.5505,
+            "narration_text": "#C C stares at the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3052.6043019333333,
+            "timestamp_frame": 91577,
+            "_unmapped_timestamp_sec": 3052.58994,
+            "narration_text": "#C C scrubs the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3054.2036319333333,
+            "timestamp_frame": 91625,
+            "_unmapped_timestamp_sec": 3054.18927,
+            "narration_text": "#C C pulls trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3054.5429519333334,
+            "timestamp_frame": 91636,
+            "_unmapped_timestamp_sec": 3054.52859,
+            "narration_text": "#C C scrubs the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3055.3191419333334,
+            "timestamp_frame": 91659,
+            "_unmapped_timestamp_sec": 3055.30478,
+            "narration_text": "#C C stares at a wash basin",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3059.6450619333336,
+            "timestamp_frame": 91789,
+            "_unmapped_timestamp_sec": 3059.6307,
+            "narration_text": "#C C scrubs the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3061.7210919333334,
+            "timestamp_frame": 91851,
+            "_unmapped_timestamp_sec": 3061.70673,
+            "narration_text": "#C C inspects trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3062.5460919333336,
+            "timestamp_frame": 91876,
+            "_unmapped_timestamp_sec": 3062.53173,
+            "narration_text": "#C C scrubs the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3064.0609919333338,
+            "timestamp_frame": 91921,
+            "_unmapped_timestamp_sec": 3064.04663,
+            "narration_text": "#C C inspects trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3064.8473319333334,
+            "timestamp_frame": 91945,
+            "_unmapped_timestamp_sec": 3064.83297,
+            "narration_text": "#C C scrubs the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3067.7248719333334,
+            "timestamp_frame": 92031,
+            "_unmapped_timestamp_sec": 3067.71051,
+            "narration_text": "#C C inspects trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3070.9846719333336,
+            "timestamp_frame": 92129,
+            "_unmapped_timestamp_sec": 3070.97031,
+            "narration_text": "#C C points a man X",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3072.3291119333335,
+            "timestamp_frame": 92169,
+            "_unmapped_timestamp_sec": 3072.31475,
+            "narration_text": "#C C inspects trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3076.1272019333337,
+            "timestamp_frame": 92283,
+            "_unmapped_timestamp_sec": 3076.11284,
+            "narration_text": "#C C stares at a man X",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3081.3061419333335,
+            "timestamp_frame": 92439,
+            "_unmapped_timestamp_sec": 3081.29178,
+            "narration_text": "#C C inspects trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3082.1826319333336,
+            "timestamp_frame": 92465,
+            "_unmapped_timestamp_sec": 3082.16827,
+            "narration_text": "#C C throws the trouser down",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3082.826421933333,
+            "timestamp_frame": 92484,
+            "_unmapped_timestamp_sec": 3082.81206,
+            "narration_text": "#C C picks a brush",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3083.6360319333335,
+            "timestamp_frame": 92508,
+            "_unmapped_timestamp_sec": 3083.62167,
+            "narration_text": "#C C scrubs the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3086.8081419333334,
+            "timestamp_frame": 92604,
+            "_unmapped_timestamp_sec": 3086.79378,
+            "narration_text": "#C C inspects trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3087.7320719333334,
+            "timestamp_frame": 92631,
+            "_unmapped_timestamp_sec": 3087.71771,
+            "narration_text": "#C C scrubs the trouser",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        },
+        {
+            "timestamp_sec": 3089.4966919333338,
+            "timestamp_frame": 92684,
+            "_unmapped_timestamp_sec": 3089.48233,
+            "narration_text": "#C C scrubs the floor",
+            "annotation_uid": "f24d75b8-eff1-4249-8a92-11efa921170f"
+        }
+    ]
+}
