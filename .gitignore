@@ -10,5 +10,7 @@ __pycache__
 *.npz
 *.hdf5
 *.tar.gz
+*.json
+*.tar
 weights
 data

@@ -13,12 +13,25 @@ def clean_narrative(narrative_json):
         del chunk['annotation_uid']
     return narrative_json
 
+def clean_ex_narrative(narrative_json):
+    for video_id in list(narrative_json.keys()): # 38737402-19bd-4689-9e74-3af391b15feb
+        narrations_passes = narrative_json[video_id]
+        keys = list(narrations_passes.keys())
+        if 'status' in keys:
+            keys.remove('status')
+        chunk_list = narrations_passes[keys[0]]
+        for chunk in chunk_list['narrations']:
+            del chunk["timestamp_frame"]
+            del chunk["_unmapped_timestamp_sec"]
+            del chunk['annotation_uid']
+    return narrative_json
+
 def generate_dialog_template():
     # Read ex_narrative json
     # Open and read the JSON file
     with open('ex_nar.json', 'r') as file:
         ex_nar = json.load(file)
-        ex_nar = clean_narrative(ex_nar)
+        ex_nar = clean_ex_narrative(ex_nar)
         ex_nar = json.dumps(ex_nar, indent=None).strip()
 
 
@@ -134,7 +147,7 @@ def llama_converter(
     output_dir: str,
     temperature: float = 0.8,
     top_p: float = 0.9,
-    max_seq_len: int = 6000,
+    max_seq_len: int = 6100,
     max_batch_size: int = 4,
     max_gen_len: Optional[int] = 4096,
     model_parallel_size: Optional[int] = None,
@@ -188,9 +201,15 @@ def llama_converter(
         # print(f"dump_strt token number: {user_token_count}")
         # dump_str = "{" + assistant_message.content.split("{",1)[-1]
 
-        dump_str = repr("{" + assistant_message.content.split("{",1)[-1])
+        dump_str = repr('{"language_queries' + assistant_message.content.split("language_queries",1)[-1])
         dump_str = dump_str.replace("\\n","")
-        dump_str = dump_str[1:-1]
+
+        last_brace_index = dump_str.rfind('}')
+        first_brace_index = dump_str.find('{')
+        dump_str = dump_str[first_brace_index:last_brace_index+1]
+        if dump_str[-2:]!=']}':
+            dump_str += ']}'
+
         dump_str = dump_str.replace("\\","")
 
         try:            
